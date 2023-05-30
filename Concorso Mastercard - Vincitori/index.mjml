@@ -9,19 +9,25 @@
     <mj-section padding="0">
       <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Header%20Banner.png" padding="0" alt="Concorso Mastercard: siamo pronti per accompagnare i nostri clienti nella notte più magica d’Europa"></mj-image>
     </mj-section>
-    </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
-      <mj-column background-color="#fff" border-radius="24px" padding-top="20px" padding-bottom="20px">
-        <mj-text>Ci siamo: i nostri <b>5 clienti vincitori</b> del concorso Mastercard “Vinci il grande calcio” stanno per vivere un <b>privilegio esclusivo</b>, partendo per la finale di UEFA Champions League a Istanbul.<br></br>
-        </mj-text>
-        <mj-image alt="Qui la foto dei vincitori del concorso per Cinisello Balsamo e Cirò Marina" src="https://raw.githubusercontent.com/frappaaa/archive/main/foto%20vincitori.png"></mj-image>
-        <mj-text>
-          <b>Noi saremo accanto a loro</b>, per accompagnarli nella conclusione di un percorso iniziato alcuni mesi fa sottoscrivendo la carta di credito BPER Card.<br></br> In questi giorni i clienti sono invitati <b>in filiale per ricevere un simbolico ticket di partenza</b>: sotto le foto delle consegne già avvenute nelle filiali di Cirò Marina e Cinisello Balsamo. <br></br> In aeroporto inoltre ognuno riceverà un “<b>kit del tifoso</b>”, con alcuni oggetti da indossare brandizzati BPER Banca e Mastercard.<br></br>
-          <b>Saremo presenti anche sui social network</b>, ricondividendo sui nostri canali i contenuti che pubblicheranno i nostri clienti.
-        </mj-text>
-        <mj-image alt="é un’occasione importante che vogliamo cogliere per rafforzare la nostra relazione con la clientela e raccontare che in BPER Banca tutto può iniziare, anche un sogno europeo." src="https://raw.githubusercontent.com/frappaaa/archive/main/Banner%20frase%20finale.png">
-        </mj-image>
-      </mj-column>
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column padding-top="20px" padding-bottom="20px" width="100%">
+          <mj-text>Ci siamo: i nostri <b>5 clienti vincitori</b> del concorso Mastercard “Vinci il grande calcio” stanno per vivere un <b>privilegio esclusivo</b>, partendo per la finale di UEFA Champions League a Istanbul. </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text><b>Noi saremo accanto a loro</b>, per accompagnarli nella conclusione di un percorso iniziato alcuni mesi fa sottoscrivendo la carta di credito BPER Card.<br></br>In questi giorni i clienti sono invitati <b>in filiale per ricevere un simbolico ticket di partenza</b>: sotto le foto delle consegne già avvenute nelle filiali di Cirò Marina e Cinisello Balsamo.</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image alt="Qui la foto dei vincitori del concorso per Cinisello Balsamo e Cirò Marina" src="https://raw.githubusercontent.com/frappaaa/archive/main/Concorso%20Mastercard%20-%20Vincitori/Mappa%20vincitori.png"></mj-image>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text> <br></br> In aeroporto inoltre ognuno riceverà un “<b>kit del tifoso</b>”, con alcuni oggetti da indossare brandizzati BPER Banca e Mastercard.<br></br>
+            <b>Saremo presenti anche sui social network</b>, ricondividendo sui nostri canali i contenuti che pubblicheranno i nostri clienti.
+          </mj-text>
+          <mj-image alt="é un’occasione importante che vogliamo cogliere per rafforzare la nostra relazione con la clientela e raccontare che in BPER Banca tutto può iniziare, anche un sogno europeo." src="https://raw.githubusercontent.com/frappaaa/archive/main/Banner%20frase%20finale.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
