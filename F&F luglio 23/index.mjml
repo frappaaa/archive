@@ -1,0 +1,37 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="0">
+      <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Header%20Banner.png" padding="0" alt="Concorso Mastercard: siamo pronti per accompagnare i nostri clienti nella notte più magica d’Europa"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>Gentile collega, <br></br> dal <b>13 al 19 luglio</b> sarà rilasciata in maniera progressiva su tutta la clientela la <b>nuova versione della nostra app Smart Banking</b>.<br></br> Non sarà solo più ricca e facile da navigare, farà molto di più: abiliterà <b>la filiale a nuove modalità di contatto con il cliente e a nuove opportunità di gestione della relazione.</b><br></br> <b>Ora puoi scaricare e utilizzare in anteprima la nuova app direttamente sul tuo smartphone</b>, prima del rilascio ufficiale a tutta la clientela. <br></br>
+            <ol style="padding-left:24px; padding-top:0;">
+              <li style="padding-bottom:16px"><b>Compila questo form con i dati richiesti</b>: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play)</li>
+              <li style="padding-bottom:16px"><b>Attendi la ricezione della mail all’indirizzo indicato</b> (di solito entro 24 ore) e <b>dopodiché segui le istruzioni che trovi in questo documento</b> per scaricare la nuova app sul tuo smartphone. </li>
+              <li style="padding-bottom:16px"><b>Segnala eventuali anomalie o malfunzionamenti</b> tramite questo form, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</li>
+            </ol>
+          </mj-text>
+          <mj-text><i>In questo percorso verso il futuro,  siamo tutti coinvolti come promotori del digitale: <b>saremo più vicini ai nostri clienti, a distanza e in filiale</b>, attraverso nuovi strumenti che rendono l'app un canale sempre più strategico per potenziare la nostra offerta e creare valore condiviso.</i></mj-text>
+          <mj-image alt="é un’occasione importante che vogliamo cogliere per rafforzare la nostra relazione con la clientela e raccontare che in BPER Banca tutto può iniziare, anche un sogno europeo." src="https://raw.githubusercontent.com/frappaaa/archive/main/Banner%20frase%20finale.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
