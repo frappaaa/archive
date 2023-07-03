@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#F5F5F5" border-radius="24px">
+    <mj-section padding="0" background-color="#f5f9f9">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20luglio%2023/Header%20Banner.png?raw=true" padding="0" alt="Scarica in anteprima la nuova app Smart Banking!"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#fff" padding="20px" >
+      <mj-section background-color="#0B0B0B" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text color="#fff">Gentile collega, <br></br> dal <b>4 al 6 settembre</b> avremo l'opportunità di vivere un'esperienza davvero priceless, solcando il red carpet del <b>Festival Internazionale del Cinema di Venezia.</b><br></br>Grazie alla partnership esclusiva con <b>Mastercard</b>, Main sponsor  dell'80°edizione, vivremo <b>tre giorni memorabili per fare business e networking in un contesto unico.</b> </br>I dettagli organizzativi e l'agenda ti saranno comunicati nelle <b></b> </br>L’invito è esteso anche a un/a accompagnatore/trice. </br></br>Arrivederci al Lido di Venezia! <br></br>
+          </mj-text>
+          <mj-image alt="Perché in BPER tutto può iniziare, 
+anche una nuova esperienza digitale." src="https://github.com/frappaaa/archive/blob/main/F&F%20luglio%2023/Banner%20frase%20finale.png?raw=true">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text color="#FF5F00" font-size="24px" align="center" padding-top="32px"><b>L’esperienza per due persone comprende</b></mj-text>
+          <mj-section background-color="#0B0B0B" border-radius="24px">
+        <mj-column width="33%">
+          <mj-image src=""></mj-image>
+          <mj-text color="#fff" align="center">
+            Opportunità 
+di Networking
+          </mj-text>
+        </mj-column>
+            <mj-column width="33%">
+          <mj-image src=""></mj-image>
+          <mj-text color="#fff" align="center">
+            Location unica
+e memorabile
+          </mj-text>
+        </mj-column>
+            <mj-column width="33%">
+          <mj-image src=""></mj-image>
+          <mj-text color="#fff" align="center">
+            Proiezione del film
+e Red Carpet
+          </mj-text>
+        </mj-column>
+      </mj-section>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
