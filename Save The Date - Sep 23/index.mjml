@@ -6,7 +6,7 @@
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#F5F5F5" border-radius="24px">
-    <mj-section padding="0" background-color="#f5f9f9">
+    <mj-section padding="0" background-color="#f5f9f9" padding-top="30px">
       <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Save%20The%20Date%20-%20Sep%2023/Header%20Banner.png" padding="0" alt="Save the date. Dal 4 al 6 settembre 2023. Festival del Cinema di Venezia."></mj-image>
     </mj-section>
     <mj-wrapper background-color="#fff" padding="20px">
