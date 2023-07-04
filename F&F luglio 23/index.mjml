@@ -20,9 +20,9 @@
         <mj-column>
           <mj-text color="#fff">
             <ol style="padding-left:24px; padding-top:0;">
-              <li style="padding-bottom:16px"><b>Compila <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOEevYTeFYnU-Tgn8QyK4G6ipNNDNtPYIJ8q5Q4bUfl_itbA/viewform?pli=1" style="color:#003323">questo form</a> con i dati richiesti</b>: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play)</li>
-              <li style="padding-bottom:16px"><b>Attendi la ricezione della mail all’indirizzo indicato</b> (di solito entro 24 ore) e <b>dopodiché segui le istruzioni che trovi in <a href="https://docs.google.com/presentation/d/1mYWL60jP25Y2q8YettnuqDWFWdfAkZTK/edit?usp=sharing&ouid=100806466603377204406&rtpof=true&sd=true" style="color:#003323">questo documento</a></b> per scaricare la nuova app sul tuo smartphone. </li>
-              <li style="padding-bottom:16px"><b>Segnala eventuali anomalie o malfunzionamenti</b> tramite <a href="https://docs.google.com/forms/d/e/1FAIpQLSdeWhaMZEA_BBxzI2XEwkYZdfkNrrSzhh099w0yhXcqmVyVBg/viewform?usp=sf_link" style="color:#003323"><b>questo form</b></a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</li>
+              <li style="padding-bottom:16px"><b>Invia a <a href="mailto:marina.milic@bper.it" style="color:#003323">marina.milic@bper.it</a> l'email personale o aziendale </b> con cui accedi allo store (Appstore e/o Google Play)</li>
+              <li style="padding-bottom:16px"><b>Attendi la ricezione della mail all’indirizzo indicato</b> e <b>dopodiché segui le istruzioni che trovi in <a href="https://docs.google.com/presentation/d/1mYWL60jP25Y2q8YettnuqDWFWdfAkZTK/edit?usp=sharing&ouid=100806466603377204406&rtpof=true&sd=true" style="color:#003323">questo documento</a></b> per scaricare la nuova app sul tuo smartphone. </li>
+              <li style="padding-bottom:16px"><b>Segnala eventuali anomalie o malfunzionamenti</b> tramite <a href="https://docs.google.com/forms/d/e/1FAIpQLSdeWhaMZEA_BBxzI2XEwkYZdfkNrrSzhh099w0yhXcqmVyVBg/viewform?usp=sf_link" style="color:#003323"><b>questo form</b></a> o inviando una mail a <b><a href="mailto:marina.milic@bper.it" style="color:#003323">marina.milic@bper.it</a></b>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</li>
             </ol>
           </mj-text>
         </mj-column>
