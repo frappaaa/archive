@@ -5,23 +5,23 @@
       <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
-  <mj-body background-color="#F5F5F5" border-radius="24px">
+  <mj-body background-color="#ffffff" border-radius="24px">
     <mj-section padding="0" background-color="#f5f9f9" padding-top="30px">
       <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Save%20The%20Date%20-%20Sep%2023/Header%20Banner.png" padding="0" alt="Save the date. Dal 4 al 6 settembre 2023. Festival del Cinema di Venezia."></mj-image>
     </mj-section>
-    <mj-wrapper background-color="#fff" padding="20px">
-      <mj-section background-color="#0B0B0B" border-radius="24px">
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#ffffff" border-radius="24px">
         <mj-column width="100%">
-          <mj-text color="#fff">Gentile collega, <br></br> dal <b>4 al 6 settembre</b> avremo l'opportunità di vivere un'esperienza davvero priceless, solcando il red carpet del <b>Festival Internazionale del Cinema di Venezia.</b><br></br>Grazie alla partnership esclusiva con <b>Mastercard</b>, Main sponsor  dell'80°edizione, vivremo <b>tre giorni memorabili per fare business e networking in un contesto unico.</b> </br>I dettagli organizzativi e l'agenda ti saranno comunicati nelle <b></b> </br>L’invito è esteso anche a un/a accompagnatore/trice. </br></br>Arrivederci al Lido di Venezia! <br></br>
+          <mj-text color="#005157">Gentile collega, <br></br> dal <b>4 al 6 settembre</b> avremo l'opportunità di vivere un'esperienza davvero priceless, solcando il red carpet del <b>Festival Internazionale del Cinema di Venezia.</b><br></br>Grazie alla partnership esclusiva con <b>Mastercard</b>, Main sponsor  dell'80°edizione, vivremo <b>tre giorni memorabili per fare business e networking in un contesto unico.</b> </br>I dettagli organizzativi e l'agenda ti saranno comunicati nelle <b></b> </br>L’invito è esteso anche a un/a accompagnatore/trice. </br></br>Arrivederci al Lido di Venezia! <br></br>
           </mj-text>
           <mj-image alt="Perché in BPER Banca tutto può iniziare, anche un'esperienza indimenticabile." src="https://raw.githubusercontent.com/frappaaa/archive/main/Save%20The%20Date%20-%20Sep%2023/Banner%20frase%20finale-venezia.png">
           </mj-image>
         </mj-column>
       </mj-section>
-      <mj-section>
+      <mj-section background-color="f5f9f9">
         <mj-column>
-          <mj-text color="#FF5F00" font-size="24px" align="center" padding-top="32px"><b>L’esperienza per due persone comprende</b></mj-text>
-          <mj-section background-color="#0B0B0B" border-radius="24px">
+          <mj-text color="#005157" font-size="24px" align="center" padding-top="32px"><b>L’esperienza per due persone comprende</b></mj-text>
+          <mj-section background-color="#005157" border-radius="24px">
             <mj-column width="33%">
               <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Save%20The%20Date%20-%20Sep%2023/networking.png" alt="icona networking" width="55px"></mj-image>
               <mj-text color="#fff" align="center"> Opportunità di Networking </mj-text>
@@ -38,6 +38,13 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-
+<mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
