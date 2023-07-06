@@ -9,47 +9,46 @@
     <mj-section padding="0" background-color="#f5f5f5" padding-top="30px">
       <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/DT-AM%20SummerMove/Header%20Banner%20SummerMove.png" padding="0" alt="UnipolMove: la promozione per un’estate senza code"></mj-image>
     </mj-section>
-    <mj-section padding-right="10px">
-      <mj-column width="50%">
+    <mj-section>
+      <mj-column width="100%" padding-bottom="20px">
         <mj-text font-size="32px">Caro Collega,</mj-text>
         <mj-text font-size="20px" line-height="26px">fino al <b>19 settembre</b> è attiva in filiale <b>SummerMove</b>, la nuova promo dedicata a <b>UnipolMove</b>.</mj-text>
       </mj-column>
-      <mj-column width="50%" background-color="#E1EDED" border-radius="40px">
-        <mj-table>
-          <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/DT-AM%20SummerMove/Disp2-BPER.png" width="100px"></mj-image>
-          <tr>
-            <td>
-              <img src="https://raw.githubusercontent.com/frappaaa/archive/main/DT-AM%20SummerMove/Disp2-BPER.png" style="width:100px"></img>
-            </td>
-            <td style="color: #005157;
+      <mj-wrapper>
+        <mj-column background-color="#E1EDED" border-radius="40px" max-width="350px" width="350px">
+          <mj-table>
+            <tr>
+              <td>
+                <img src="https://raw.githubusercontent.com/frappaaa/archive/main/DT-AM%20SummerMove/Disp2-BPER.png" style="width:100px"></img>
+              </td>
+              <td style="color: #005157;
 font-size: 22px;
 font-weight: 700;
 line-height: 24px;">Promo<br>SummerMove</br>
-            </td>
-          </tr>
-        </mj-table>
-        <mj-table padding-bottom="30px">
-          <tr>
-            <td style="width:36px; "><img src="https://raw.githubusercontent.com/frappaaa/archive/main/DT-AM%20SummerMove/icona-lista.png" style="width:24px;"></img></td>
-            <td style="
+              </td>
+            </tr>
+          </mj-table>
+          <mj-table padding-bottom="30px">
+            <tr>
+              <td style="width:36px; "><img src="https://raw.githubusercontent.com/frappaaa/archive/main/DT-AM%20SummerMove/icona-lista.png" style="width:24px;"></img></td>
+              <td style="
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 22px; color:#005157;">Canone azzerato per <b>9 mesi</b></td>
-          </tr>
-          <tr>
-            <td style="width:36px"><img src="https://raw.githubusercontent.com/frappaaa/archive/main/DT-AM%20SummerMove/diamond-01.png" style="width:24px;"></img></td>
-            <td style="
+            </tr>
+            <tr>
+              <td style="width:36px"><img src="https://raw.githubusercontent.com/frappaaa/archive/main/DT-AM%20SummerMove/diamond-01.png" style="width:24px;"></img></td>
+              <td style="
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 22px; color:#005157;">fino a <b>2 dispositivi</b></td>
-          </tr>
-        </mj-table>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-wrapper>
+      <mj-column width="100%" padding-top="20px">
         <mj-text>Questo è il momento ideale per proporlo: i clienti si mettono in viaggio e grazie a <b>SummerMove</b> possono usufruire dei servizi di telepedaggio e mobililtà <b>senza pagare il canone per 9 mesi.</b> <br></br> Conto sul tuo supporto per consentire alla rete di sfruttare al meglio queste opportunità.</mj-text>
       </mj-column>
     </mj-section>
