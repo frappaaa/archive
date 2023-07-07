@@ -20,7 +20,11 @@
         </mj-column>
       </mj-wrapper>
       <mj-column width="100%" padding-top="20px">
-        <mj-text>Questo è il momento ideale per proporlo: i clienti si mettono in viaggio e grazie a <b>SummerMove</b> possono usufruire dei servizi di telepedaggio e mobililtà <b>senza pagare il canone per 9 mesi.</b> <br></br>Conto sul tuo supporto per consentire alla rete di valorizzare al meglio questa promozione.</mj-text>
+        <mj-text>Questo è il momento ideale per proporlo: i clienti si mettono in viaggio e grazie a <b>SummerMove</b> possono usufruire dei servizi di telepedaggio e mobililtà <b>senza pagare il canone per 9 mesi.</b>
+          <br></br>Ti ricordo inoltre che <b>fino al 30 agosto</b> è attiva nella nostra app una promo dedicata a 293.000 clienti digitali, scelti in base alla loro propensione all’utilizzo di servizi di pedaggio autostradale. 
+          <br></br> <b>Per loro ulteriori 6 mesi di canone azzerato</b> richiedendo in autonomia il dispositivo sul portale UnipolMove. 
+          <br></br>Conto sul tuo supporto per consentire alla rete di valorizzare al meglio questa promozione.
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px">
