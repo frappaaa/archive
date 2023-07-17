@@ -1,0 +1,29 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff" border-radius="24px">
+    <mj-section padding="0" background-color="#f5f9f9" padding-top="30px">
+      <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Save%20The%20Date%20-%20Sep%2023/Header%20Elicottero.png" padding="0" alt="Save the date. 3 settembre 2023. Gran Premio F1 – Circuito di Monza"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#ffffff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text color="#005157">Gentile collega,</br> il nostro Amministratore Delegato, Dott. Piero Lugi Montani, ha il piacere di invitarti <b>domenica 3 settembre</b> al Gran Premio d’Italia di Formula Uno presso l'Autodromo Nazionale di Monza.<br></br> Sarà l’occasione per trascorrere una giornata insieme, condividendo momenti emozionanti ed esclusivi.<br></br> Il ritrovo sarà presso l'aeroporto di Linate (MI) dove abbiamo predisposto un servizio di elicotteri per raggiungere Monza. Il programma e i dettagli organizzativi ti saranno comunicati nelle prossime settimane.<br></br> Ti chiediamo di confermare la tua presenza rispondendo a questa mail <b>entro il 25 luglio</b>, inviandoci anche copia della tua carta di identità.<br></br> Abbiamo posti molto limitati per eventuali accompagnatori/trici, qualora avessi piacere di estendere l'invito ti chiediamo di farne richiesta appena possibile. Daremo conferma in base alle disponibilità.<br></br> In attesa di incontrarti, ti auguriamo serene vacanze!<br></br>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
