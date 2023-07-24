@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Header_OFM_colleghi.png?raw=true" padding="0" alt="Il nuovo conto online in anteprima esclusiva per i tuoi cari"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>Gentile collega, <br></br> il nostro percorso di evoluzione digitale prosegue con una tappa strategica per l’acquisizione di nuovi clienti: <b>a partire dal 15 settembre, il conto BPER On Demand potrà essere aperto direttamente online.</b><br></br>Per affinare e migliorare al massimo l'esperienza di vendita, dall’11 al 15 settembre è previsto un periodo di test della nuova funzionalità in modalità Family&Friends, che coinvolgerà un numero ristretto di prospect.<br></br>
+            <b>Chiediamo la tua collaborazione per individuare coloro a cui proporre l'apertura in anteprima di BPER On Demand.</b>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f9f9" padding="24px 12px">
+        <mj-column>
+          <mj-text>
+            <h2>Come funziona?</h2>
+            <p>È molto semplice: ti abbiamo inviato a parte una mail con tutte le istruzioni e indicazioni operative per l’adesione di amici o parenti. Inoltrala a una o più persone a te vicine che ritieni potenzialmente interessate all'iniziativa. I primi 50 a candidarsi potranno sottoscrivere in anteprima il conto online tra l’11 e il 15 settembre.</p>
+          </mj-text>
+          <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
+          <mj-text>
+            <h2>Che caratteristiche devono avere per potersi candidare?</h2>
+            <p>Devono essere maggiorenni e non avere rapporti attivi in BPER.</p>
+          </mj-text>
+          <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
+          <mj-text>
+            <h2>Entro quando dovranno candidarsi?</h2>
+            <p>La raccolta delle candidature dovrà avvenire <b>entro il 31 luglio</b>.</p>
+          </mj-text>
+          <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
+          <mj-text>
+            <h2>Cosa dovranno fare?</h2>
+            <p>Apriranno il conto esattamente come faranno i nuovi clienti e gli verrà chiesto di dare suggerimenti o fare segnalazioni sull’esperienza di sottoscrizione.</p>
+          </mj-text>
+          <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" background-color="#f5f9f9">
+        <mj-column>
+          <mj-text>
+            I feedback che raccoglieremo saranno preziosi per migliorare il processo di vendita prima che venga reso disponibile a tutti, permettendoci così di proseguire con sempre maggiore consapevolezza il nostro percorso di evoluzione digitale per essere ancora più vicini ai nostri clienti.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f9f9">
+        <mj-column>
+          <mj-image alt="Perché in BPER tutto può iniziare, anche un nuovo conto tutto digitale." src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Banner%20frase%20finale.png?raw=true" padding="0">
+        </mj-column>
+        </mj-image>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
