@@ -7,52 +7,47 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Header_OFM_colleghi.png?raw=true" padding="0" alt="Il nuovo conto online in anteprima esclusiva per i tuoi cari"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Header_OFM_Cari.png?raw=true" padding="0" alt="Il nuovo conto online BPER in anteprima esclusiva per te"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column width="100%">
-          <mj-text>Gentile collega, <br></br> il nostro percorso di evoluzione digitale prosegue con una tappa strategica per l’acquisizione di nuovi clienti: <b>a partire dal 15 settembre, il conto BPER On Demand potrà essere aperto direttamente online.</b><br></br>Per affinare e migliorare al massimo l'esperienza di vendita, dall’11 al 15 settembre è previsto un periodo di test della nuova funzionalità in modalità Family&Friends, che coinvolgerà un numero ristretto di prospect.<br></br>
-            <b>Chiediamo la tua collaborazione per individuare coloro a cui proporre l'apertura in anteprima di BPER On Demand.</b>
+          <mj-text>Ciao <b>[Nome e Cognome]</b>,<br></br> vuoi dare uno sguardo al futuro? Grazie a questo invito riservato, potrai aprire il nuovo conto digitale di BPER Banca in anteprima rispetto al lancio sul mercato. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f9f9" padding-bottom="0px">
+        <mj-column>
+          <mj-text align="center">
+            <h2>Ecco come:</h2>
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#f5f9f9" padding="24px 12px">
+      <mj-section background-color="#005157" border-radius="24px" padding="24px 12px 12px 12px">
         <mj-column>
-          <mj-text>
-            <h2>Come funziona?</h2>
-            <p>È molto semplice: ti abbiamo inviato a parte una mail con tutte le istruzioni e indicazioni operative per l’adesione di amici o parenti. Inoltrala a una o più persone a te vicine che ritieni potenzialmente interessate all'iniziativa. I primi 50 a candidarsi potranno sottoscrivere in anteprima il conto online tra l’11 e il 15 settembre.</p>
-          </mj-text>
-          <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
-          <mj-text>
-            <h2>Che caratteristiche devono avere per potersi candidare?</h2>
-            <p>Devono essere maggiorenni e non avere rapporti attivi in BPER.</p>
-          </mj-text>
-          <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
-          <mj-text>
-            <h2>Entro quando dovranno candidarsi?</h2>
-            <p>La raccolta delle candidature dovrà avvenire <b>entro il 31 luglio</b>.</p>
-          </mj-text>
-          <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
-          <mj-text>
-            <h2>Cosa dovranno fare?</h2>
-            <p>Apriranno il conto esattamente come faranno i nuovi clienti e gli verrà chiesto di dare suggerimenti o fare segnalazioni sull’esperienza di sottoscrizione.</p>
-          </mj-text>
-          <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
-        </mj-column>
-      </mj-section>
-      <mj-section padding="0" background-color="#f5f9f9">
-        <mj-column>
-          <mj-text>
-            I feedback che raccoglieremo saranno preziosi per migliorare il processo di vendita prima che venga reso disponibile a tutti, permettendoci così di proseguire con sempre maggiore consapevolezza il nostro percorso di evoluzione digitale per essere ancora più vicini ai nostri clienti.
+          <mj-text color="#fff">
+            <ol style="padding-left:24px; padding-top:0;">
+              <li style="padding-bottom:16px"><b>Candidati entro il 31/07/2023</b>: ti basterà comunicarci qui <b>nome, cognome ed email con cui accedi allo store</b> (Appstore e/o Google Play).</li>
+              <li style="padding-bottom:16px"><b>Se sarai tra i primi 50 riceverai una mail all’indirizzo indicato</b> con tutte le indicazioni operative. </li>
+              <li style="padding-bottom:16px"><b>Tra l’11 e il 15 settembre potrai aprire il tuo Conto On Demand direttamente</b> online e lasciarci i tuoi suggerimenti tramite questo veloce questionario.</li>
+            </ol>
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#f5f9f9">
         <mj-column>
-          <mj-image alt="Perché in BPER tutto può iniziare, anche un nuovo conto tutto digitale." src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Banner%20frase%20finale.png?raw=true" padding="0">
+          <mj-text>Grazie alle tue indicazioni ci aiuterai a migliorare l’esperienza per tutti i clienti.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f9f9">
+        <mj-column>
+          <mj-image alt="BPER Banca, dove tutto può iniziare." src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Banner%20frase%20finale1.png?raw=true" padding="0">
         </mj-column>
         </mj-image>
+      </mj-section>
+      <mj-section background-color="#f5f9f9" padding="0">
+        <mj-column padding="0">
+          <mj-text font-size="14px" line-height="16px" color="#58979A">Conto con Carta di debito Mastercard a canone 0 € Bonifici online SEPA senza costi per sempre. Messaggio pubblicitario con finalità promozionale. Per tutte le condizioni contrattuali ed economiche si rinvia ai fogli informativi a disposizione della clientela su bper.it. Per persone over 35 il canone conto a 0€ è valido per 6 mesi, per gli under 35 canone a 0€ fino al compimento di 35 anni. La carta di debito co-badge o multifunzione ti permette di usare per il pagamento e/o il prelievo di contanti in vari circuiti di pagamento. Per il circuito internazionale carta emessa da Bibanca, e distribuita da BPER Banca, per  il circuito BANCOMAT/PagoBANCOMAT, carta multifunzione emessa da BPER Banca. Offerta valida fino al 31/12/2023, dopo questa data il prodotto sarà offerto a condizioni standard salvo proroga o chiusura anticipata della promozione. La Banca si riserva di poter effettuare modifiche unilaterali delle condizioni ai sensi dell'articolo 118 TUB. . </mj-text>
+        </mj-column>
       </mj-section>
     </mj-wrapper>
     <mj-section background-color="#f5f9f9" padding="0">
