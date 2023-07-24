@@ -6,18 +6,18 @@
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
-    <mj-section padding="0" background-color="#f5f9f9">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20luglio%2023/Header%20Banner.png?raw=true" padding="0" alt="Scarica in anteprima la nuova app Smart Banking!"></mj-image>
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Header_OFM_colleghi.png?raw=true" padding="0" alt="Il nuovo conto online in anteprima esclusiva per i tuoi cari"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column width="100%">
-          <mj-text>Gentile collega, <br></br> il nostro percorso di evoluzione digitale prosegue con una tappa strategica per l’acquisizione di nuovi clienti: <b>a partire dal 15 settembre, il conto BPER On Demand potrà essere aperto direttamente online.</b><br></br>   Per affinare e migliorare al massimo l'esperienza di vendita, dall’11 al 15 settembre è previsto un periodo di test della nuova funzionalità in modalità Family&Friends, che coinvolgerà un numero ristretto di prospect.<br></br>
+          <mj-text>Gentile collega, <br></br> il nostro percorso di evoluzione digitale prosegue con una tappa strategica per l’acquisizione di nuovi clienti: <b>a partire dal 15 settembre, il conto BPER On Demand potrà essere aperto direttamente online.</b><br></br>Per affinare e migliorare al massimo l'esperienza di vendita, dall’11 al 15 settembre è previsto un periodo di test della nuova funzionalità in modalità Family&Friends, che coinvolgerà un numero ristretto di prospect.<br></br>
             <b>Chiediamo la tua collaborazione per individuare coloro a cui proporre l'apertura in anteprima di BPER On Demand.</b>
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#f5f9f9" padding="0 12px">
+      <mj-section background-color="#f5f9f9" padding="24px 12px">
         <mj-column>
           <mj-text>
             <h2>Come funziona?</h2>
@@ -50,7 +50,7 @@
       </mj-section>
       <mj-section background-color="#f5f9f9">
         <mj-column>
-          <mj-image alt="Perché in BPER tutto può iniziare,anche una nuova esperienza digitale." src="https://github.com/frappaaa/archive/blob/main/F&F%20luglio%2023/Banner%20frase%20finale.png?raw=true" padding="0">
+          <mj-image alt="Perché in BPER tutto può iniziare, anche un nuovo conto tutto digitale." src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Banner%20frase%20finale.png?raw=true" padding="0">
         </mj-column>
         </mj-image>
       </mj-section>
