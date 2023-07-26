@@ -26,12 +26,12 @@
           <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
           <mj-text>
             <h2>Che caratteristiche devono avere per potersi candidare?</h2>
-            <p>Devono essere maggiorenni e non avere rapporti attivi in BPER.</p>
+            <p>Devono essere maggiorenni e non avere rapporti attivi in BPER Banca.</p>
           </mj-text>
           <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
           <mj-text>
             <h2>Entro quando dovranno candidarsi?</h2>
-            <p>La raccolta delle candidature dovrà avvenire <b>entro il 31 luglio</b>.</p>
+            <p>La raccolta delle candidature dovrà avvenire <b>entro l'11 agosto</b>.</p>
           </mj-text>
           <mj-divider border-width="1px" border-color="#B0CFD1"></mj-divider>
           <mj-text>
@@ -47,12 +47,6 @@
             I feedback che raccoglieremo saranno preziosi per migliorare il processo di vendita prima che venga reso disponibile a tutti, permettendoci così di proseguire con sempre maggiore consapevolezza il nostro percorso di evoluzione digitale per essere ancora più vicini ai nostri clienti.
           </mj-text>
         </mj-column>
-      </mj-section>
-      <mj-section background-color="#f5f9f9">
-        <mj-column>
-          <mj-image alt="Perché in BPER tutto può iniziare, anche un nuovo conto tutto digitale." src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Banner%20frase%20finale.png?raw=true" padding="0">
-        </mj-column>
-        </mj-image>
       </mj-section>
     </mj-wrapper>
     <mj-section background-color="#f5f9f9" padding="0">
