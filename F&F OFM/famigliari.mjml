@@ -25,12 +25,13 @@
       <mj-section background-color="#005157" border-radius="24px" padding="24px 12px 12px 12px">
         <mj-column>
           <mj-text color="#fff">
-            <ol style="padding-left:24px; padding-top:0;">
-              <li style="padding-bottom:16px"><b>Candidati entro il 31/07/2023</b>: ti basterà comunicarci qui <b>nome, cognome ed email con cui accedi allo store</b> (Appstore e/o Google Play).</li>
+            <ol style="padding-left:24px; padding-top:0; padding-bottom:0px;">
+              <li style="padding-bottom:16px"><b>Candidati entro il 11/08/2023</b>: ti basterà comunicarci qui <b>nome e cognome</b></li>
               <li style="padding-bottom:16px"><b>Se sarai tra i primi 50 riceverai una mail all’indirizzo indicato</b> con tutte le indicazioni operative. </li>
-              <li style="padding-bottom:16px"><b>Tra l’11 e il 15 settembre potrai aprire il tuo Conto On Demand direttamente</b> online e lasciarci i tuoi suggerimenti tramite questo veloce questionario.</li>
+              <li style="padding-bottom:16px"><b>Tra l’11 e il 15 settembre potrai aprire il tuo Conto BPER On Demand direttamente</b> online e lasciarci i tuoi suggerimenti tramite questo veloce questionario.</li>
             </ol>
           </mj-text>
+          <mj-button border-radius="24px" background-color="#E37222" font-size="16px"><a href="https://docs.google.com/forms/d/e/1FAIpQLScFWeSRyaAqr3H1RLhY8fAS-ellfojFxUcbJj_MGckd5EYvTA/viewform?vc=0&c=0&w=1&flr=0" style="color:#fff; text-decoration: none;">Compila il questionario</a></mj-button>
         </mj-column>
       </mj-section>
       <mj-section background-color="#f5f9f9">
@@ -38,11 +39,6 @@
           <mj-text>Grazie alle tue indicazioni ci aiuterai a migliorare l’esperienza per tutti i clienti.</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#f5f9f9">
-        <mj-column>
-          <mj-image alt="BPER Banca, dove tutto può iniziare." src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Banner%20frase%20finale1.png?raw=true" padding="0">
-        </mj-column>
-        </mj-image>
       </mj-section>
       <mj-section background-color="#f5f9f9" padding="0">
         <mj-column padding="0">
