@@ -26,9 +26,9 @@
         <mj-column>
           <mj-text color="#fff">
             <ol style="padding-left:24px; padding-top:0; padding-bottom:0px;">
-              <li style="padding-bottom:16px"><b>Candidati entro l'11/08/2023</b>: ti basterà comunicarci qui <b>nome e cognome</b></li>
+              <li style="padding-bottom:16px"><b>Candidati entro l'11/08/2023</b>: ti basterà comunicarci <a href="https://docs.google.com/forms/d/e/1FAIpQLScFWeSRyaAqr3H1RLhY8fAS-ellfojFxUcbJj_MGckd5EYvTA/viewform?vc=0&c=0&w=1&flr=0" style="color:#E37222;"><b>qui</b></a> <b>nome e cognome</b></li>
               <li style="padding-bottom:16px"><b>Se sarai tra i primi 50 riceverai una mail all’indirizzo indicato</b> con tutte le indicazioni operative. </li>
-              <li style="padding-bottom:16px"><b>Tra l’11 e il 15 settembre potrai aprire il tuo Conto BPER On Demand direttamente</b> online e lasciarci i tuoi suggerimenti tramite questo veloce questionario.</li>
+              <li style="padding-bottom:16px"><b>Tra l’11 e il 15 settembre potrai aprire il tuo Conto BPER On Demand direttamente</b> online e lasciarci i tuoi suggerimenti tramite <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtqzd83W-5ZGdVivNGxL_-o1oY_AMzS8KyOUmge5J7Rj2uPQ/viewform?vc=0&c=0&w=1&flr=0" style="color:#E37222"><b>questo veloce questionario</b></a>.</li>
             </ol>
           </mj-text>
           <mj-button border-radius="24px" background-color="#E37222" font-size="16px"><a href="https://docs.google.com/forms/d/e/1FAIpQLScFWeSRyaAqr3H1RLhY8fAS-ellfojFxUcbJj_MGckd5EYvTA/viewform?vc=0&c=0&w=1&flr=0" style="color:#fff; text-decoration: none;">Compila il questionario</a></mj-button>
