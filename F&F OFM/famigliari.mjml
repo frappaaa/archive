@@ -12,7 +12,7 @@
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column width="100%">
-          <mj-text>Ciao <b>[Nome e Cognome]</b>,<br></br> vuoi dare uno sguardo al futuro? Grazie a questo invito riservato, potrai aprire il nuovo conto digitale di BPER Banca in anteprima rispetto al lancio sul mercato. </mj-text>
+          <mj-text>Ciao,<br></br> vuoi dare uno sguardo al futuro? Grazie a questo invito riservato, potrai aprire il nuovo conto digitale di BPER Banca in anteprima rispetto al lancio sul mercato. </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#f5f9f9" padding-bottom="0px">
