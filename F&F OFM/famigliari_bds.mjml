@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Header_OFM_Cari-BDS.png?raw=true" padding="0" alt="Il nuovo conto online BPER in anteprima esclusiva per te"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>Ciao,<br></br> vuoi dare uno sguardo al futuro? Grazie a questo invito riservato, potrai aprire il nuovo conto digitale di Banco di Sardegna in anteprima rispetto al lancio sul mercato. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f9f9" padding-bottom="0px">
+        <mj-column>
+          <mj-text align="center">
+            <h2>Ecco come:</h2>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#005157" border-radius="24px" padding="24px 12px 12px 12px">
+        <mj-column>
+          <mj-text color="#fff">
+            <ol style="padding-left:24px; padding-top:0; padding-bottom:0px;">
+              <li style="padding-bottom:16px"><b>Candidati entro l'11/08/2023</b>: ti basterà comunicarci <a href="https://docs.google.com/forms/d/e/1FAIpQLScFWeSRyaAqr3H1RLhY8fAS-ellfojFxUcbJj_MGckd5EYvTA/viewform?vc=0&c=0&w=1&flr=0" style="color:#E37222;"><b>qui</b></a> <b>nome, cognome, cellulare ed email.</b></li>
+              <li style="padding-bottom:16px"><b>Se sarai tra i primi 50 riceverai una mail all’indirizzo indicato</b> con tutte le indicazioni operative. </li>
+              <li style="padding-bottom:16px"><b>Tra l’11 e il 15 settembre potrai aprire il tuo Conto BPER On Demand direttamente</b> online e lasciarci i tuoi suggerimenti tramite un veloce questionario.</li>
+            </ol>
+          </mj-text>
+          <mj-button border-radius="24px" background-color="#E37222" font-size="16px"><a href="https://docs.google.com/forms/d/e/1FAIpQLScFWeSRyaAqr3H1RLhY8fAS-ellfojFxUcbJj_MGckd5EYvTA/viewform?vc=0&c=0&w=1&flr=0" style="color:#fff; text-decoration: none;">Inserisci i tuoi dati</a></mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f9f9">
+        <mj-column>
+          <mj-text>Grazie alle tue indicazioni ci aiuterai a migliorare l’esperienza per tutti i clienti.</mj-text>
+        </mj-column>
+      </mj-section>
+      </mj-section>
+      <mj-section background-color="#f5f9f9" padding="0">
+        <mj-column padding="0">
+          <mj-text font-size="14px" line-height="16px" color="#58979A">Messaggio pubblicitario con finalità promozionale. Per tutte le condizioni contrattuali ed economiche si rinvia ai fogli informativi a disposizione della clientela su bper.it. Per persone over 35 il canone conto a 0€ è valido per 6 mesi, per gli under 35 canone a 0€ fino al compimento di 35 anni.  La carta di debito co-badge o multifunzione ti permette di usare per il pagamento e/o il prelievo di contanti in vari circuiti di pagamento. Per il circuito internazionale carta emessa da Bibanca e distribuita da BPER Banca, per il circuito BANCOMAT/PagoBANCOMAT, invece, la carta è multifunzione ed è emessa direttamente da BPER Banca. Offerta valida fino al 31/12/2023, dopo questa data il prodotto sarà offerto a condizioni standard salvo proroga o chiusura anticipata della promozione. La Banca si riserva di poter effettuare modifiche unilaterali delle condizioni ai sensi dell'articolo 118 TUB.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
