@@ -12,8 +12,8 @@
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column width="100%">
-          <mj-text>Gentile collega, <br></br> il nostro percorso di evoluzione digitale prosegue con una tappa strategica per l’acquisizione di nuovi clienti: <b>a partire dal 15 settembre, il conto BPER On Demand potrà essere aperto direttamente online.</b><br></br>Per affinare e migliorare al massimo l'esperienza di vendita, dall’11 al 15 settembre è previsto un periodo di test della nuova funzionalità in modalità Family&Friends, che coinvolgerà un numero ristretto di prospect.<br></br>
-            <b>Chiediamo la tua collaborazione per individuare coloro a cui proporre l'apertura in anteprima di BPER On Demand.</b>
+          <mj-text>Gentile collega, <br></br> il nostro percorso di evoluzione digitale prosegue con una tappa strategica per l’acquisizione di nuovi clienti: <b>a partire dal 15 settembre, il conto BDS On Demand potrà essere aperto direttamente online.</b><br></br>Per affinare e migliorare al massimo l'esperienza di vendita, dall’11 al 15 settembre è previsto un periodo di test della nuova funzionalità in modalità Family&Friends, che coinvolgerà un numero ristretto di prospect.<br></br>
+            <b>Chiediamo la tua collaborazione per individuare coloro a cui proporre l'apertura in anteprima di BDS On Demand.</b>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -43,12 +43,9 @@
       </mj-section>
       <mj-section padding="0" background-color="#f5f9f9">
         <mj-column>
-          <mj-text>
-            I feedback che raccoglieremo saranno preziosi per migliorare il processo di vendita prima che venga reso disponibile a tutti, permettendoci così di proseguire con sempre maggiore consapevolezza il nostro percorso di evoluzione digitale per essere ancora più vicini ai nostri clienti.
-          </mj-text>
+          <mj-text> I feedback che raccoglieremo saranno preziosi per migliorare il processo di vendita prima che venga reso disponibile a tutti, permettendoci così di proseguire con sempre maggiore consapevolezza il nostro percorso di evoluzione digitale per essere ancora più vicini ai nostri clienti. </mj-text>
         </mj-column>
       </mj-section>
-      
     </mj-wrapper>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
