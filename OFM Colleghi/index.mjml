@@ -9,38 +9,27 @@
     <mj-section padding="24px 0 0 0" background-color="#fff">
       <mj-image src="https://github.com/frappaaa/archive/blob/main/OFM%20Colleghi/Header_OFM_colleghi.png?raw=true" padding="0" alt="Arriva il nuovo conto BPER On Demand digitale"></mj-image>
     </mj-section>
-    
-      <mj-section background-color="#f5f9f9">
-        <mj-column width="100%">
-          <mj-text>Gentile collega,<br></br>
-
-siamo alla vigilia di un altro passo avanti nel nostro percorso di evoluzione digitale: <b>da metà settembre, i nuovi clienti potranno entrare in BPER aprendo il conto On Demand direttamente online.</b> <br></br>
-
-<b>Il cliente acquisito in modalità digitale sarà portafogliato nella filiale BPER Banca sul territorio da lui scelta</b> in fase di apertura del conto, consentendo quindi un successivo <b>sviluppo commerciale omnicanale</b> del nuovo rapporto.
-<br></br>
-È un tassello importante per rafforzare la nostra <b>strategia di acquisizione</b> e il nostro posizionamento sul mercato, ed è una grande opportunità per essere ancora più vicini ai clienti.</mj-text>
-        </mj-column>
-      </mj-section>
+    <mj-section background-color="#f5f9f9">
+      <mj-column width="100%">
+        <mj-text>Gentile collega,<br></br> siamo alla vigilia di un altro passo avanti nel nostro percorso di evoluzione digitale: <b>da metà settembre, i nuovi clienti potranno entrare in BPER aprendo il conto On Demand direttamente online.</b> <br></br>
+          <b>Il cliente acquisito in modalità digitale sarà portafogliato nella filiale BPER Banca sul territorio da lui scelta</b> in fase di apertura del conto, consentendo quindi un successivo <b>sviluppo commerciale omnicanale</b> del nuovo rapporto. <br></br> È un tassello importante per rafforzare la nostra <b>strategia di acquisizione</b> e il nostro posizionamento sul mercato, ed è una grande opportunità per essere ancora più vicini ai clienti.
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="0px 20px 20px 20px">
       <mj-section background-color="#005157" border-radius="24px" padding="18px 12px">
         <mj-column>
-          <mj-text color="#fff" line-height="26px">
-            La crescita dei nostri canali digitali punta non solo ad ampliare progressivamente i prodotti e servizi disponibili in self, ma anche e soprattutto a <b>rafforzare la relazione con il cliente con un’esperienza omnicanale gratificante e distintiva</b>, permettendogli di interagire con la banca come preferisce grazie a una sempre maggiore <b>sinergia tra filiale fisica, canali digitali e filiale online.</b>
+          <mj-text color="#fff" line-height="26px"> La crescita dei nostri canali digitali punta non solo ad ampliare progressivamente i prodotti e servizi disponibili in self, ma anche e soprattutto a <b>rafforzare la relazione con il cliente con un’esperienza omnicanale gratificante e distintiva</b>, permettendogli di interagire con la banca come preferisce grazie a una sempre maggiore <b>sinergia tra filiale fisica, canali digitali e filiale online.</b>
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#f5f9f9">
         <mj-column>
-          <mj-text>Segui su Blink il lancio e i dettagli
-operativi sull’apertura online di BPER On
-Demand dedicato ai nuovi clienti.<br></br>
-
-Insieme potremo far scoccare la scintilla per accendere questa nuova esperienza digitale.</mj-text>
+          <mj-text>Segui su Blink il lancio e i dettagli operativi sull’apertura online di BPER On Demand dedicato ai nuovi clienti.<br></br> Insieme potremo far scoccare la scintilla per accendere questa nuova esperienza digitale.</mj-text>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/OFM%20Colleghi/Header_End_PayOff.png?raw=true" padding="0" alt="BPER Banca. Dove tutto può iniziare."></mj-image>
         </mj-column>
       </mj-section>
       </mj-section>
-      
     </mj-wrapper>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
