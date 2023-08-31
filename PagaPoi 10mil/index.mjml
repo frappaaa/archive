@@ -7,32 +7,22 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Header_OFM_colleghi.png?raw=true" padding="0" alt="10mil€ di PagaPoi. Celebriamo un grande successo."></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2010mil/Header_PagPoi_10mil.png?raw=true" padding="0" alt="10mil€ di PagaPoi. Celebriamo un grande successo."></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column width="100%">
-          <mj-text font-size="20px" line-height="26px">️Care colleghe e cari colleghi,<br></br>
-
-a soli <b>42 giorni dal lancio di PagaPoi</b> sul mercato, siamo orgogliosi di poter già condividere un importante traguardo: abbiamo infatti <b>raggiunto i primi 10 milioni di euro di importo erogato.</b>
+          <mj-text font-size="20px" line-height="26px">️Care colleghe e cari colleghi,<br></br> a soli <b>42 giorni dal lancio di PagaPoi</b> sul mercato, siamo orgogliosi di poter già condividere un importante traguardo: abbiamo infatti <b>raggiunto i primi 10 milioni di euro di importo erogato.</b>
           </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#f5f9f9" padding="24px 12px">
-        <mj-column>
-          <mj-text align="center" font-size="26px" font-weight="medium">
-            Ecco qualche dato
-          </mj-text>
-          <mj-image src="" alt="10 milioni € di importo erogato. 17,7 mln/euro di plafond deliberato. Suddivisione per DT e Canale distributivo."></mj-image>
+          <mj-text align="center" font-size="26px" font-weight="medium"> Ecco qualche dato </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2010mil/Dati_PagaPoi.png?raw=true" alt="10 milioni € di importo erogato. 17,7 mln/euro di plafond deliberato. Suddivisione per DT e Canale distributivo."></mj-image>
+          <mj-text> Questi risultati ci confermano che la strada che stiamo percorrendo è quella giusta e ci danno una nuova spinta per raggiungere i nostri prossimi obiettivi. <br></br> Grazie a tutti voi per la vostra preziosa collaborazione. </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0" background-color="#f5f9f9">
         <mj-column>
-          <mj-text>
-            Questi risultati ci confermano che la strada che stiamo percorrendo è quella giusta e ci danno una nuova spinta per raggiungere i nostri prossimi obiettivi.
-<br></br>
-Grazie a tutti voi per la vostra preziosa collaborazione. 
-          </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2010mil/Banner%20Futuro.png?raw=true" alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. 
+Il futuro è appena cominciato."></mj-image>
         </mj-column>
       </mj-section>
     </mj-wrapper>
