@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Header_OFM_Cari.png?raw=true" padding="0" alt="Il nuovo conto online BPER in anteprima esclusiva per te"></mj-image>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="24px" font-weight="bold">Ciao,</mj-text>
+        <mj-text>il nuovo conto online BPER On Demand ti aspetta! Grazie per aver aderito alla possibilità di sottoscriverlo in anteprima rispetto all’apertura sul mercato. <br></br> Potrai così accedere alla promozione di lancio, che prevede: </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="42px 24px">
+      <mj-column background-color="#005157" background-url="" background-size="cover" background-repeat="no-repeat" border-radius="24px" padding="24px 12px 12px 12px">
+        <mj-table></mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Aprilo subito in totale autonomia, ecco come: <br>
+          <ul>
+            <li>Vai su <b><a>questa pagina</a> entro il 15/09</b>, componi l’offerta che fa per te e inserisci tutti i dati per aprire il tuo conto</li>
+            <li>Lasciaci le tue impressioni e i tuoi suggerimenti attraverso <b><a>questo veloce questionario.</a></b> Grazie alle tue indicazioni ci aiuterai a migliorare l’esperienza per tutti i clienti.</li>
+          </ul>
+        </mj-text>
+        <mj-text>Dai uno sguardo al futuro! Il nuovo conto online di BPER Banca ti aspetta.</mj-text>
+        <mj-button border-radius="10px" background-color="#E37222" font-size="16px"><a href="" style="color:#fff; text-decoration: none;">Apri il conto</a></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-text font-size="12px" line-height="16px" color="#58979A">Messaggio pubblicitario con finalità promozionale. Per tutte le condizioni contrattuali ed economiche si rinvia ai fogli informativi a disposizione della clientela su bper.it. Per persone over 35 il canone conto a 0€ per i primi tre mesi poi, se non accrediti lo stipendio/pensione, canone 4,90€. Per gli under 35 canone a 0€ fino al compimento di 35 anni. La carta di debito co-badge o multifunzione ti permette di usare per il pagamento e/o il prelievo di contanti in vari circuiti di pagamento. Per il circuito internazionale carta emessa da Bibanca e distribuita da BPER Banca, per il circuito BANCOMAT/PagoBANCOMAT, invece, la carta è multifunzione ed è emessa direttamente da BPER Banca. Offerta valida fino al 31/12/2023, dopo questa data il prodotto sarà offerto a condizioni standard salvo proroga o chiusura anticipata dellapromozione. La Banca si riserva di poter effettuare modifiche unilaterali delle condizioni ai sensi dell'articolo 118 TUB.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
