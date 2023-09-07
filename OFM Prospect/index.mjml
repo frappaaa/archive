@@ -7,7 +7,7 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F%20OFM/Header_OFM_Cari.png?raw=true" padding="0" alt="Il nuovo conto online BPER in anteprima esclusiva per te"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/OFM%20Prospect/Header_OFM_prospect.png?raw=true" padding="0" alt="Il nuovo conto Online BPER Banca in anteprima esclusiva per te"></mj-image>
     </mj-section>
     <mj-section>
       <mj-column>
@@ -15,54 +15,54 @@
         <mj-text>il nuovo conto online BPER On Demand ti aspetta! Grazie per aver aderito alla possibilità di sottoscriverlo in anteprima rispetto all’apertura sul mercato. <br></br> Potrai così accedere alla promozione di lancio, che prevede: </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0px 12px">
-      <mj-column background-color="#005157" background-url="" background-size="cover" background-repeat="no-repeat" border-radius="24px" padding="24px 12px 12px 12px">
-        <mj-table>
-          <tr style="color:#fff;">
-            <td style="padding: 0 8px 0 0"><img src="38px" width="38px"></td>
-            <td>
-              <p style="font-size:18px; margin:0;">Canone Conto</p>
-              <p style="font-size:12px; margin:0; line-height:16px">Se accrediti stipendio o pensione o fino a 35 anni</p>
-            </td>
-            <td>
-              <p style="font-size: 38px;
+    <mj-wrapper background-color="#f5f9f9" padding="0px 12px">
+      <mj-section  background-color="#005157" background-url="https://github.com/frappaaa/archive/blob/main/OFM%20Prospect/lista_promo_sfondo_BPER.png?raw=true" background-size="cover" background-repeat="no-repeat" border-radius="48px" padding="8px">
+        <mj-column>
+          <mj-table>
+            <tr style="color:#fff; border-bottom: 1px solid rgba(225, 237, 237, 0.60); height:80px">
+              <td style="padding: 0 8px 0 0;"><img src="38px" width="38px"></td>
+              <td>
+                <p style="font-size:18px; margin:0;">Canone Conto</p>
+                <p style="font-size:12px; margin:0; line-height:16px">Se accrediti stipendio o pensione o fino a 35 anni</p>
+              </td>
+              <td>
+                <p style="font-size: 38px;
 font-weight: bold; text-align:right;"><del style="font-size: 18px;"> 4,90€ </del> 0€</p>
-            </td>
-          </tr>
-          <tr style="color:#fff;">
-            <td style="padding: 0 8px 0 0"><img src="38px" width="38px"></td>
-            <td>
-              <p style="font-size:18px; margin:0;">Carta di debito Plus</p>
-            </td>
-            <td>
-              <p style="font-size: 38px;
-font-weight: bold; text-align:right;"><del style="font-size: 18px; text-align:right;"> 2€ </del> 0€</p>
-              <p style="text-align:right;">CANONE</p>
-            </td>
-          </tr>
-          <tr style="color:#fff;">
-            <td style="padding: 0 8px 0 0"><img src="38px" width="38px"></td>
-            <td>
-              <p style="font-size:18px; margin:0;">Bonifici online SEPA</p>
-            </td>
-            <td>
-              <p style="font-size: 18px;
+              </td>
+            </tr>
+            <tr style="color:#fff; border-bottom: 1px solid rgba(225, 237, 237, 0.60);height:80px">
+              <td style="padding: 0 8px 0 0"><img src="38px" width="38px"></td>
+              <td>
+                <p style="font-size:18px; margin:0;">Carta di debito Plus</p>
+              </td>
+              <td>
+                <p style="font-size: 38px; font-weight: bold; text-align:right;"><del style="font-size: 18px; text-align:right;"> 2€ </del> 0€ <br><span style="font-size:10px; line-height:12px;">CANONE</span></p>
+              </td>
+            </tr>
+            <tr style="color:#fff; border-bottom: 1px solid rgba(225, 237, 237, 0.60);height:80px">
+              <td style="padding: 0 8px 0 0"><img src="38px" width="38px"></td>
+              <td>
+                <p style="font-size:18px; margin:0;">Bonifici online SEPA</p>
+              </td>
+              <td>
+                <p style="font-size: 18px;
 font-weight: bold; text-transform: uppercase; text-align:right;">Illimitati inclusi</p>
-            </td>
-          </tr>
-          <tr style="color:#fff;">
-            <td style="padding: 0 8px 0 0"><img src="38px" width="38px"></td>
-            <td>
-              <p style="font-size:18px; margin:0;">Consulenza dedicata</p>
-            </td>
-            <td>
-              <p style="font-size: 18px;
+              </td>
+            </tr>
+            <tr style="color:#fff; height:80px">
+              <td style="padding: 0 8px 0 0"><img src="38px" width="38px"></td>
+              <td>
+                <p style="font-size:18px; margin:0;">Consulenza dedicata</p>
+              </td>
+              <td>
+                <p style="font-size: 18px;
 font-weight: bold; text-transform: uppercase; text-align:right;">Online e in filiale</p>
-            </td>
-          </tr>
-        </mj-table>
-      </mj-column>
-    </mj-section>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
     <mj-section>
       <mj-column>
         <mj-text>Aprilo subito in totale autonomia, ecco come: <br>
