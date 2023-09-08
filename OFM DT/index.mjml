@@ -11,8 +11,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="24px" font-weight="bold">Ciao,</mj-text>
-        <mj-text>il nuovo conto online BPER On Demand ti aspetta! Grazie per aver aderito alla possibilità di sottoscriverlo in anteprima rispetto all’apertura sul mercato. <br><br> Potrai così accedere alla promozione di lancio, che prevede: </mj-text>
+        <mj-text>Gentile collega, <br><br> è iniziato il conto alla rovescia per la partenza del nuovo conto BPER OnDemand digitale: <b>a partire dall’11 settembre</b> un gruppo selezionato di prospect potrà sottoscrivere il <b>conto in self</b> dai canali digitali in modalità <i>Family&Friends</i>. <br><br> Questi clienti accederanno così in anteprima alla promozione di lancio che dal 18 settembre fino a fine anno sarà disponibile sul mercato per tutti i nuovi clienti: </mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="0 12px">
@@ -27,7 +26,7 @@
               </td>
               <td>
                 <p style="font-size: 38px;
-font-weight: bold; text-align:right;"><del style="font-size: 18px;"> 4,90€ </del> 0€</p>
+font-weight: bold; text-align:right;"><del style="font-size: 18px; font-weight:normal;"> 4,90€ </del> 0€</p>
               </td>
             </tr>
             <tr style="color:#fff; border-bottom: 1px solid rgba(225, 237, 237, 0.60);height:80px">
@@ -36,7 +35,7 @@ font-weight: bold; text-align:right;"><del style="font-size: 18px;"> 4,90€ </d
                 <p style="font-size:18px; margin:0;">Carta di debito Plus</p>
               </td>
               <td>
-                <p style="font-size: 38px; font-weight: bold; text-align:right;"><del style="font-size: 18px; text-align:right;"> 2€ </del> 0€ <br><span style="font-size:10px; line-height:12px;">CANONE</span></p>
+                <p style="font-size: 38px; font-weight: bold; text-align:right;"><del style="font-size: 18px; text-align:right; font-weight: normal;"> 2€ </del> 0€ <br><span style="font-size:10px; line-height:12px;">CANONE</span></p>
               </td>
             </tr>
             <tr style="color:#fff; border-bottom: 1px solid rgba(225, 237, 237, 0.60);height:80px">
@@ -62,19 +61,27 @@ font-weight: bold; text-transform: uppercase; text-align:right;">Online e in fil
           </mj-table>
         </mj-column>
       </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text>Il cliente in fase di sottoscrizione dovrà <b>indicare una filiale di radicamento presso la quale sarà poi portafogliato</b>. Nel processo al cliente viene richiesto di compilare il QAV. La filiale selezionata riceverà <b>una notifica mail sulla casella di Direzione della Filiale per la visione e gestione del Questionario con le seguenti modalità:</b>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="10px">
+        <mj-column background-color="#00AE65" border-radius="20px" padding="16px 0">
+          <mj-text color="#ffffff">ricevimento della pratica dalle ore <b>8:00 alle ore 17:00: da lavorare</b> entro le ore <b>13:00 del giorno lavorativo successivo</b>;</mj-text>
+          <mj-text color="#ffffff">ricevimento della pratica dalle ore <b>17:00 alle ore 8:00 del giorno successivo</b>: da lavorare entro le ore <b>13:00 del giorno lavorativo successivo +1</b>.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text><b>Nota bene:</b> trascorse le tempistiche sopra indicate, se non respinto, il QAV si intende automaticamente validato (silenzio assenso)</mj-text>
+        <mj-table style="background-color:#fff;"><tr><th><img src="" style="width: 65px; padding:0 8px 0 0;"></th><th><p style="text-align:left; color:#005157; font-weight:normal; line-height: 24px; font-size:16px;">Il controllo di ragionevolezza e l’attivazione del rapporto verranno eseguiti dalla Filiale On Line.</p></th></tr></mj-table>
+          <mj-text>Nei prossimi giorni saranno pubblicati tutti i dettagli operativi sull’apertura online di BPER On Demand dedicato ai nuovi clienti, nel frattempo scarica l’infografica per avere una panoramica sul prodotto.</mj-text>
+          <mj-button border-radius="10px" background-color="#E37222" font-size="16px"><a href="" style="color:#fff; text-decoration: none;">Scarica l'infografica</a></mj-button>
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
-    <mj-section>
-      <mj-column>
-        <mj-text>Aprilo subito in totale autonomia, ecco come: <br>
-          <ul>
-            <li>Vai su <b><a>questa pagina</a> entro il 15/09</b>, componi l’offerta che fa per te e inserisci tutti i dati per aprire il tuo conto</li>
-            <li>Lasciaci le tue impressioni e i tuoi suggerimenti attraverso <b><a>questo veloce questionario.</a></b> Grazie alle tue indicazioni ci aiuterai a migliorare l’esperienza per tutti i clienti.</li>
-          </ul>
-        </mj-text>
-        <mj-text>Dai uno sguardo al futuro! Il nuovo conto online di BPER Banca ti aspetta.</mj-text>
-        <mj-button border-radius="10px" background-color="#E37222" font-size="16px"><a href="" style="color:#fff; text-decoration: none;">Apri il conto</a></mj-button>
-      </mj-column>
-    </mj-section>
     <mj-section padding="0">
       <mj-column padding="0">
         <mj-text font-size="12px" line-height="16px" color="#58979A">Messaggio pubblicitario con finalità promozionale. Per tutte le condizioni contrattuali ed economiche si rinvia ai fogli informativi a disposizione della clientela su bper.it. Per persone over 35 il canone conto a 0€ per i primi tre mesi poi, se non accrediti lo stipendio/pensione, canone 4,90€. Per gli under 35 canone a 0€ fino al compimento di 35 anni. La carta di debito co-badge o multifunzione ti permette di usare per il pagamento e/o il prelievo di contanti in vari circuiti di pagamento. Per il circuito internazionale carta emessa da Bibanca e distribuita da BPER Banca, per il circuito BANCOMAT/PagoBANCOMAT, invece, la carta è multifunzione ed è emessa direttamente da BPER Banca. Offerta valida fino al 31/12/2023, dopo questa data il prodotto sarà offerto a condizioni standard salvo proroga o chiusura anticipata dellapromozione. La Banca si riserva di poter effettuare modifiche unilaterali delle condizioni ai sensi dell'articolo 118 TUB.</mj-text>

@@ -27,7 +27,7 @@
               </td>
               <td>
                 <p style="font-size: 38px;
-font-weight: bold; text-align:right;"><del style="font-size: 18px;"> 4,90€ </del> 0€</p>
+font-weight: bold; text-align:right;"><del style="font-size: 18px; font-weight:normal;"> 4,90€ </del> 0€</p>
               </td>
             </tr>
             <tr style="color:#fff; border-bottom: 1px solid rgba(225, 237, 237, 0.60);height:80px">
@@ -36,7 +36,7 @@ font-weight: bold; text-align:right;"><del style="font-size: 18px;"> 4,90€ </d
                 <p style="font-size:18px; margin:0;">Carta di debito Plus</p>
               </td>
               <td>
-                <p style="font-size: 38px; font-weight: bold; text-align:right;"><del style="font-size: 18px; text-align:right;"> 2€ </del> 0€ <br><span style="font-size:10px; line-height:12px;">CANONE</span></p>
+                <p style="font-size: 38px; font-weight: bold; text-align:right;"><del style="font-size: 18px; text-align:right; font-weight:normal;"> 2€ </del> 0€ <br><span style="font-size:10px; line-height:12px;">CANONE</span></p>
               </td>
             </tr>
             <tr style="color:#fff; border-bottom: 1px solid rgba(225, 237, 237, 0.60);height:80px">
@@ -67,12 +67,13 @@ font-weight: bold; text-transform: uppercase; text-align:right;">Online e in fil
       <mj-column>
         <mj-text>Aprilo subito in totale autonomia, ecco come: <br>
           <ul>
-            <li>Vai su <b><a>questa pagina</a> entro il 15/09</b>, componi l’offerta che fa per te e inserisci tutti i dati per aprire il tuo conto</li>
-            <li>Lasciaci le tue impressioni e i tuoi suggerimenti attraverso <b><a>questo veloce questionario.</a></b> Grazie alle tue indicazioni ci aiuterai a migliorare l’esperienza per tutti i clienti.</li>
+            <li><b>Clicca sui pulsanti qui sotto entro il 15/09</b>, componi l’offerta che fa per te e inserisci tutti i dati per aprire il tuo conto</li>
+            <li>Lasciaci le tue impressioni e i tuoi suggerimenti attraverso <b><a href="https://forms.gle/eeN11Ksjy9p1paFt7" style="color:#005157; text-decoration:underline;">questo veloce questionario.</a></b> Grazie alle tue indicazioni ci aiuterai a migliorare l’esperienza per tutti i clienti.</li>
           </ul>
         </mj-text>
         <mj-text>Dai uno sguardo al futuro! Il nuovo conto online di BPER Banca ti aspetta.</mj-text>
-        <mj-button border-radius="10px" background-color="#E37222" font-size="16px"><a href="" style="color:#fff; text-decoration: none;">Apri il conto</a></mj-button>
+        <mj-button border-radius="10px" background-color="#E37222" font-size="16px"><a href="http://bperondemand.bper.it/ofm" style="color:#fff; text-decoration: none;">Apri il conto in BPER</a></mj-button>
+        <mj-button border-radius="10px" background-color="#E37222" font-size="16px"><a href="http://bdsondemand.bancosardegna.it/ofm" style="color:#fff; text-decoration: none;">Apri il conto in BDS</a></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
