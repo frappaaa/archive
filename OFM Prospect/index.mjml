@@ -7,7 +7,7 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/OFM%20Prospect/Header_OFM_prospect.png?raw=true" padding="0" alt="Il nuovo conto Online BPER Banca in anteprima esclusiva per te"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/OFM%20Prospect/Header_OFM_prospect.png?raw=true" padding="0" alt="Il nuovo conto Online del Gruppo BPER Banca in anteprima esclusiva per te"></mj-image>
     </mj-section>
     <mj-section>
       <mj-column>
@@ -23,7 +23,7 @@
               <td style="padding: 0 8px 0 0;"><img src="https://github.com/frappaaa/archive/blob/main/OFM%20Prospect/icon/sale-04.png?raw=true" width="38px"></td>
               <td>
                 <p style="font-size:18px; margin:0;">Canone Conto</p>
-                <p style="font-size:12px; margin:0; line-height:16px">Se accrediti stipendio o pensione o fino a 35 anni</p>
+                <p style="font-size:12px; margin:0; line-height:16px">Gratuito i primi 3 mesi e poi se accrediti stipendio o<br> pensione o fino a 35 anni</p>
               </td>
               <td>
                 <p style="font-size: 38px;
@@ -71,7 +71,7 @@ font-weight: bold; text-transform: uppercase; text-align:right;">Online e in fil
             <li>Lasciaci le tue impressioni e i tuoi suggerimenti attraverso <b><a href="https://forms.gle/eeN11Ksjy9p1paFt7" style="color:#005157; text-decoration:underline;">questo veloce questionario.</a></b> Grazie alle tue indicazioni ci aiuterai a migliorare l’esperienza per tutti i clienti.</li>
           </ul>
         </mj-text>
-        <mj-text>Dai uno sguardo al futuro! Il nuovo conto online di BPER Banca ti aspetta.</mj-text>
+        <mj-text>Dai uno sguardo al futuro! Il nuovo conto online ti aspetta.</mj-text>
         <mj-button border-radius="10px" background-color="#E37222" font-size="16px"><a href="http://bperondemand.bper.it/ofm" style="color:#fff; text-decoration: none;">Apri il conto in BPER</a></mj-button>
         <mj-button border-radius="10px" background-color="#E37222" font-size="16px"><a href="http://bdsondemand.bancosardegna.it/ofm" style="color:#fff; text-decoration: none;">Apri il conto in BDS</a></mj-button>
       </mj-column>
