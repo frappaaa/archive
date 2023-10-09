@@ -1,0 +1,45 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Carta%20Plus%20DT/carte_plus_DT_BDS.png" padding="0" alt="La carta di debito in filiale è Plus: perché proporla sempre"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>Gentile collega,<br></br> l’offerta delle nostre carte è in costante evoluzione per rendere la nostra proposta distintiva, con <b>servizi esclusivi e carte evolute</b> per rispondere sempre più efficacemente alle <b>esigenze di ogni tipo di clientela.</b> <br></br> <b>La carta di debito VPay verrà presto sostituita nel nostro catalogo di offerta con una nuova carta di debito</b>, la cui uscita è prevista per gennaio. Nel frattempo abbiamo <b>già a disposizione <a style="color:#005157" href="https://sites.google.com/bper.it/bsmart/prodotti/carte#h.8ysuq6sq0qlw">la nuova debito Plus</a></b>, una carta internazionale, utilizzabile in tutto il mondo e per gli acquisti online con inclusi <b>i servizi <a href="https://sites.google.com/bper.it/bsmart/prodotti/carte#h.x7abtkvpla91" style="color:#005157">SiSalute</a></b> e <b><a href="https://sites.google.com/bper.it/bsmart/prodotti/carte#h.x7abtkvpla91" style="color:#005157">la copertura assicurativa sui biglietti di eventi</a></b> acquistati con la carta e a cui non si è potuto partecipare.</b>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#00AE65" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text color="#fff">É importante <b>proporre da subito la nuova debito Plus</b> ai nostri clienti, <b>sia in fase di apertura di nuovi conti</b>, sia per chi vuole <b>sostituire una vecchia carta ma anche come carta aggiuntiva.</b> </b>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>La carta VPay resta pertanto una soluzione da proporre in maniera residuale, <b>solo se il cliente ha necessità urgente di uscire dalla filiale con la carta in tasca.</b> Se il cliente può attendere qualche giorno, <b>riceverà a casa la nuova debito Plus</b>. <br></br> Vendere una VPay oggi significa proporre una carta che presto uscirà dal nostro catalogo: a parità di prezzo possiamo e dobbiamo proporre la carta Plus, che rappresenta un valore aggiunto per la banca e per il cliente.<br></br> Ti ringrazio in anticipo per il contributo che darai nell’indirizzare al meglio la spinta commerciale.</b>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F%20OFM/Footer-BDS.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
