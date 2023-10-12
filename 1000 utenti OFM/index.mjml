@@ -7,7 +7,7 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="http://docs.bper.it/gruppobper/immagini/dem/DJ_Ten_v1.jpg?raw=true" padding="0" alt="Fai scattare la tua scintilla"></mj-image>
+      <mj-image src="http://docs.bper.it/gruppobper/immagini/dem/DJ_Ten_v1.jpg?raw=true" padding="0" alt="Musica per le nostre orecchie. 1000 copie vendute."></mj-image>
     </mj-section>
     <mj-section padding="22px 0 0 0">
       <mj-column>
