@@ -7,17 +7,17 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2020mil/Header_PagPoi_20mil.png?raw=true" padding="0" alt="10mil€ di PagaPoi. Celebriamo un grande successo."></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2020mil/Header_PagPoi_20mil.png?raw=true" padding="0" alt="20mil€ di PagaPoi. Celebriamo un grande successo."></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column width="100%">
-          <mj-text font-size="20px" line-height="26px">️️Care colleghe e cari colleghi,<br></br>
-            <b>PagaPoi ha superato i 20 milioni di euro di erogato.</b>  <br></br> Questo risultato è ancora più rilevante se commisurato al tempo trascorso dal lancio: in <b>soli 3 mesi</b> abbiamo deliberato 34,1 milioni di plafond e erogato 20,7 milioni.</b>
+          <mj-text font-size="20px" line-height="26px">️️Care colleghe e cari colleghi,<br></br><br></br>
+            <b>PagaPoi ha superato i 20 milioni di euro di erogato.</b>  <br></br><br></br> Questo risultato è ancora più rilevante se commisurato al tempo trascorso dal lancio: in <b>soli 3 mesi</b> abbiamo deliberato 34,1 milioni di plafond e erogato 20,7 milioni.</b>
           </mj-text>
           <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2020mil/Dati_PagaPoi.png?raw=true" alt="10 milioni € di importo erogato. 17,7 mln/euro di plafond deliberato. Suddivisione per DT e Canale distributivo."></mj-image>
-          <mj-text> Continuiamo quindi con determinazione il nostro percorso di evoluzione digitale, sempre orientati verso nuovi importanti traguardi e sempre in ottica omnicanale: i volumi e la marginalità delle vendite di PagaPoi sono infatti <b>interamente riconosciuti alla filiale di radicamento del rapporto.</b>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2020mil/Dati_PagaPoi.png?raw=true" alt="20,7 milioni € di importo erogato. 34,1 mln/euro di plafond deliberato. Suddivisione per DT e Canale distributivo."></mj-image>
+          <mj-text> Continuiamo quindi con determinazione il nostro percorso di evoluzione digitale, sempre orientati verso nuovi importanti traguardi e sempre in ottica omnicanale: i volumi e la marginalità delle vendite di PagaPoi sono infatti <b>interamente riconosciuti alla filiale di radicamento del rapporto.</b><br></br>
             <br></br> Grazie a tutti voi per la vostra collaborazione.
           </mj-text>
         </mj-column>
