@@ -9,7 +9,7 @@
     <mj-section padding="24px 0 0 0" background-color="#fff">
       <mj-image src="https://github.com/frappaaa/archive/blob/main/2000%20utenti%20OFM/2000_OFM_header.png?raw=true" padding="0" alt="Alziamo il volume. 2000 copie vendute."></mj-image>
     </mj-section>
-    <mj-section padding="22px 0 0 0">
+    <mj-section padding="0">
       <mj-column>
         <mj-text font-size="22px" line-height="26px"><b>2.000 conti BPER On Demand online.</b></mj-text>
         <mj-text> Un numero raddoppiato nell’ultima settimana, che ci dimostra ancora una volta la forza di un conto semplice, flessibile, digitale, ma anche umano. <br></br> <br></br>2.000 nuovi conti significano infatti 2.000 nuovi clienti portafogliati presso una filiale da loro scelta in fase di apertura del conto, filiale che potrà sviluppare la relazione col cliente in ottica omnicanale.</mj-text>
