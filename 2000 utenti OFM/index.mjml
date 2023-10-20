@@ -9,14 +9,32 @@
     <mj-section padding="24px 0 0 0" background-color="#fff">
       <mj-image src="https://github.com/frappaaa/archive/blob/main/2000%20utenti%20OFM/2000_OFM_header.png?raw=true" padding="0" alt="Alziamo il volume. 2000 copie vendute."></mj-image>
     </mj-section>
-    <mj-section padding="0">
-      <mj-column>
-        <mj-text font-size="22px" line-height="26px"><b>2.000 conti BPER On Demand online.</b></mj-text>
-        <mj-text> Un numero raddoppiato nell’ultima settimana, che ci dimostra ancora una volta la forza di un conto semplice, flessibile, digitale, ma anche umano. <br></br> <br></br>2.000 nuovi conti significano infatti 2.000 nuovi clienti portafogliati presso una filiale da loro scelta in fase di apertura del conto, filiale che potrà sviluppare la relazione col cliente in ottica omnicanale.</mj-text>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column>
+          <mj-text font-size="22px" line-height="26px"><b>2.000 conti BPER On Demand online.</b></mj-text>
+          <mj-text> Un numero raddoppiato nell’ultima settimana, che ci avvicina all’obiettivo di 15.000 conti aperti entro fine anno. Un risultato che ci dimostra ancora una volta la forza di un conto semplice, flessibile, digitale, ma anche umano.<br></br><br></br>2.000 nuovi conti significano infatti 2.000 nuovi clienti che, in fase di apertura del conto online, hanno scelto <b>una filiale presso cui essere portafogliati. </b> La novità è che il cliente ora può scegliere anche la filiale <b>più vicina all’indirizzo che preferisce</b>, anche se diverso da quello di residenza o domicilio. </mj-text>
+          <mj-section background-color="#005157" border-radius="24px" padding="20px">
+            <mj-column width="100%">
+              <mj-text color="#fff" padding="0 8px">É così che vogliamo andare incontro sempre di più alle esigenze della nostra clientela, <b>sviluppando la relazione in ottica omnicanale e valorizzando la centralità della filiale.</b>
+              </mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-text>Stiamo alzando il volume e stiamo anche affinando il nostro processo di vendita: aumentano giorno dopo giorno le percentuali dei clienti che <b>concludono con successo l’apertura</b>, portando a termine agevolmente la sottoscrizione del conto.</mj-text>
           <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/2000%20utenti%20OFM/Dati_contiOFM.png?raw=true" alt="2000 nuovi conti suddivisi per DT"></mj-image><mj-text> <br></br><br></br> Continuiamo su questa strada per raggiungere risultati sempre più importanti e contribuire concretamente agli obiettivi di acquisizione.<br></br> <br></br>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://sites.google.com/bper.it/bsmart/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;">BSmart.</a><br></br><br></br>
-        </mj-text>
-        <mj-image padding="0 10px" src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/2000%20utenti%20OFM/Dati_contiOFM.png?raw=true" alt="2004 nuovi conti suddivisi per DT"></mj-image>
+          <mj-text> La nostra ambizione è quella di continuare su questa strada per raggiungere risultati sempre più importanti e contribuire concretamente agli obiettivi di acquisizione. 
+<br></br> <br></br>
+Raggiungeremo questi traguardi anche grazie a <b>partnership esclusive</b>: da ieri BPER On Demand viene promosso dalla rete di <b>agenzie Unipolsai</b>, e dal 25 ottobre la <b>collaborazione con Inter</b> promuoverà il conto ai tifosi attraverso un concorso a premi. <br></br> <br></br>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://sites.google.com/bper.it/bsmart/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;">BSmart.</a><br></br><br></br>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
       </mj-column>
     </mj-section>
