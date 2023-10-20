@@ -7,14 +7,23 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/1000%20utenti%20OFM/1000OFM_1.png?raw=true" padding="0" alt="Musica per le nostre orecchie. 1000 copie vendute."></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/Prova%20DEM%20Roma%20Nord/Header_Roma_Nord.png?raw=true" padding="0" alt="Insieme per la crescita digitale: da oggi sei protagonista!
+Progetto pilota Area Roma Nord"></mj-image>
     </mj-section>
-    <mj-section padding="22px 0 0 0">
-      <mj-column>
-        <mj-text font-size="22px" line-height="26px"><b>1.000 conti BPER On Demand online, 1.000 nuovi clienti.</b></mj-text>
-        <mj-text> É il primo importante traguardo che raggiungiamo a soli 10 giorni dal lancio del nostro nuovo conto online.  <br></br> <br></br><b>Ben 120 persone in media al giorno</b> hanno scelto di diventare nostri clienti, per avere sempre la Banca a portata di mano, senza però dimenticare l’importanza della relazione umana:  tutti i clienti acquisiti in modalità digitale sono infatti portafogliati presso una filiale scelta in fase di apertura del conto.  <br></br> Perchè crediamo sia questo il nostro punto di forza distintivo: un approccio omnicanale allo sviluppo della relazione per essere tanto digitali quanto umani.<br></br> <br></br>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://sites.google.com/bper.it/bsmart/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;">BSmart.</a><br></br><br></br>
-        </mj-text>
-        <mj-image padding="0 10px" src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px" padding="22px 0 0 0">
+        <mj-column>
+          <mj-text font-size="22px" line-height="26px"><b>Testo in bold di prova</b></mj-text>
+          <mj-text>Cambiare testo qui Lorem ipsum dolor sit amet consectetur. Scelerisque egestas laoreet maecenas lectus tempor. Bibendum sollicitudin aliquet ultrices consequat. Metus quis facilisi blandit nulla nec.<br></br><br></br>Lorem ipsum dolor sit amet consectetur. Scelerisque egestas laoreet maecenas lectus tempor. Bibendum sollicitudin aliquet ultrices consequat. Metus quis facilisi blandit nulla nec. Nunc lorem eget vitae arcu pulvinar nulla mauris eget tincidunt. Nec fermentum ut accumsan consequat feugiat morbi consequat magnis suspendisse. Tristique neque nibh accumsan nulla vitae eget quis auctor. Cursus faucibus nec odio adipiscing. Non lorem eget fringilla aenean tortor bibendum arcu eget. Etiam sit nisl et tortor condimentum in. Dolor vivamus lacus in diam semper. Sit mi vulputate risus odio a vitae nulla sollicitudin. <br></br><br></br>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
       </mj-column>
     </mj-section>
