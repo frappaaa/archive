@@ -7,12 +7,15 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/Prova%20DEM%20Roma%20Nord/Header_Roma_Nord.png?raw=true" padding="0" alt="Insieme per la crescita digitale: da oggi sei protagonista! Progetto pilota Area Roma Nord"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/Prova%20DEM%20Roma%20Nord/Header_Roma_Nord.png?raw=true" padding="0" alt="Insieme per la crescita digitale: da oggi sei protagonista!
+Progetto pilota Area Roma Nord"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px" padding="22px 0 0 0">
         <mj-column>
-          <mj-text>Gentili Colleghi e Colleghe,<br></br><br></br>da oggi prende avvio progetto pilota sull'area Roma Nord del <b>nuovo Digital Business Model.</b><br></br><br></br>Lorem ipsum dolor sit amet consectetur. Scelerisque egestas laoreet maecenas lectus tempor. Bibendum sollicitudin aliquet ultrices consequat. Metus quis facilisi blandit nulla nec. Nunc lorem eget vitae arcu pulvinar nulla mauris eget tincidunt. Nec fermentum ut accumsan consequat feugiat morbi consequat magnis suspendisse. Tristique neque nibh accumsan nulla vitae eget quis auctor. Cursus faucibus nec odio adipiscing. Non lorem eget fringilla aenean tortor bibendum arcu eget. Etiam sit nisl et tortor condimentum in. Dolor vivamus lacus in diam semper. Sit mi vulputate risus odio a vitae nulla sollicitudin. <br></br><br></br>
+          <mj-text>Gentili Colleghi e Colleghe,<br></br>
+da oggi prende avvio il progetto pilota sull’area Roma Nord del nuovo Digital Business Model.<br></br><br></br>
+            
           </mj-text>
         </mj-column>
       </mj-section>
