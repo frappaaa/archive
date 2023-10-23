@@ -7,8 +7,7 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/Prova%20DEM%20Roma%20Nord/Header_Roma_Nord.png?raw=true" padding="0" alt="Insieme per la crescita digitale: da oggi sei protagonista!
-Progetto pilota Area Roma Nord"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/Prova%20DEM%20Roma%20Nord/Header_Roma_Nord.png?raw=true" padding="0" alt="Insieme per la crescita digitale: da oggi sei protagonista! Progetto pilota Area Roma Nord"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px" padding="22px 0 0 0">
