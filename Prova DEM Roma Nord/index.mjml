@@ -16,7 +16,7 @@ Progetto pilota Area Roma Nord"></mj-image>
           <mj-text>Gentili Colleghi e Colleghe,<br></br> da oggi prende avvio il progetto pilota sull’area Roma Nord del <b>nuovo Digital Business Model</b>. </mj-text>
           <mj-section background-color="#00ae65" border-radius="24px" padding="20px">
             <mj-column width="100%">
-              <mj-text color="#fff" padding="0 8px">L'iniziativa nasce dall'esigenza di sviluppare un nuovo modello operativo commerciale sempre più orientato al Cliente, sfruttando il digitale per valorizzare la relazione in ottica omnicanale e mantenendo la centralità della filiale.</b>
+              <mj-text color="#fff" padding="0 8px">L'iniziativa nasce dall'esigenza di <b>sviluppare un nuovo modello operativo commerciale sempre più orientato al Cliente</b>, sfruttando il digitale per valorizzare la relazione in ottica omnicanale e mantenendo la centralità della filiale.</b>
               </mj-text>
             </mj-column>
           </mj-section>
