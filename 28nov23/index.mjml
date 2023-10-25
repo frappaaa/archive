@@ -18,9 +18,68 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
+    <mj-wrapper background-color="#1B8482" padding-top="0">
     <mj-section padding="0" background-color="1B8482">
       <mj-column padding="0">
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/agenda.png?raw=true" alt="Meet the F7youture " padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/agenda.png?raw=true" alt="10:00
+ACCREDITO & WELCOME COFFEE
+
+10:30 
+WELCOME SPEECH 
+Stefano Vittorio Kuhn - Chief Retail & Commercial Banking Officer - CRCBO 
+Elvio Sonnino - Chief Operating Officer - COO 
+
+11:00 
+EVOLUZIONE DEI SISTEMI DI PAGAMENTO 
+NEXI - BPER: NUOVE SFIDE NEL MONDO DEI PAGAMENTI DIGITALI E STRAORDINARIE OPPORTUNITÀ DI CRESCITA  Filippo Maria Signoretti - Head of Merchant Solutions Italy NEXI 
+
+11:30 
+LE SFIDE DELLA RETE NEL MONDO DEI PAGAMENTI  
+Round table:  
+Pier Giorgio Costantini - Head of Financial Institutions Commercial Italy NEXI 
+Litta, La Boria, Pulignano, Bavera, Maci, Obino - Direttori Territoriali BPER/BDS 
+
+12:00 
+KEYNOTE & FIRE CHAT  
+Marco Montemagno 
+Maurice Lisi - Responsabile Direzione Digital Business 
+
+13:00 
+LIGHT LUNCH 
+
+14:30 
+SPECIAL GUEST 
+
+15:00 
+L' EVOLUZIONE DEL SISTEMA INFORMATIVO A SUPPORTO DELLA  DIGITALIZZAZIONE 
+Massimiliano Baga - Chief Information Officer - CIO  
+
+15:30 
+DATA: LA NUOVA FRONTIERA NEI FINANCIAL SERVICES Giuseppe Maifredi - Servizio Data e Analytics - CDO 
+
+16:00 
+IL PERCORSO DI DIGITALIZZAZIONE NEL GRUPPO BPER Maurice Lisi - Responsabile Direzione Digital Business 
+
+16:30 
+BREAK 
+
+17:00 
+COME ACCOGLIERE IL NUOVO CONSUMATORE DIGITALE  Round table: 
+Laura Grassi - Politecnico di Milano 
+Gotti, Zanti, Berselli, Aimi, Veggio, Bali - Direttori Territoriali BPER /BDS 
+
+17:30 
+COSTRUIRE UNA BANCA OMNICANALE CHE VALORIZZI L'ESPERIENZA  DIGITALE E IL CAPITALE UMANO 
+Stefano Vittorio Kuhn - Chief Retail & Commercial Banking Officer - CRCBO 
+Michela Sossella - Responsabile Direzione Pianificazione Distributiva e Marketing Giuseppe Sibilla - Responsabile Rete Commerciale 
+
+17:45 
+SALUTI  
+Stefano Vittorio Kuhn - Chief Retail & Commercial Banking Officer 
+Elvio Sonnino - Chief Operating Officer - COO 
+
+18:00 
+APERITIVO & DJ SET " padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="1B8482">
@@ -32,6 +91,7 @@ Non mancare.</b> <br></br>
         </mj-text>
       </mj-column>
     </mj-section>
+    </mj-wrapper>
     <mj-section background-color="#1B8482" padding="0">
       <mj-column width="100%">
         <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/fondo.png?raw=true"></mj-image>
