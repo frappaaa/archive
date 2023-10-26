@@ -13,84 +13,36 @@
       <mj-section background-color="#fff" border-radius="24px" padding="20px 0 20px 0">
         <mj-column>
           <mj-text font-size="20px" line-height="26px">Gentile collega,  <br></br><br></br>
-            <b>il 28 novembre</b> ti aspetto a Milano, agli <b>IBM Studios di Piazza Gae Aulenti 10</b>, per una giornata ricca di stimoli, spunti e riflessioni che riunirà tutta <b>la Direzione Digital Business</b>e chi è al nostro fianco nel percorso di evoluzione digitale. <br></br>
+            <b>il 28 novembre</b> ti aspetto a Milano, agli <b>IBM Studios di Piazza Gae Aulenti 10</b>, per una giornata ricca di stimoli, spunti e riflessioni con uno sguardo al futuro.<br></br><br></br>Parleremo di evoluzione digitale grazie a suggestioni che ci arriveranno anche da relatori esterni con contributi dal mondo accademico e della comunicazione, oltre che dai nostri partner strategici.
           </mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
     <mj-wrapper background-color="#1B8482" padding-top="0">
-    <mj-section padding="0" background-color="1B8482">
-      <mj-column padding="0">
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/agenda.png?raw=true" alt="10:00
+      <mj-section padding="0" background-color="1B8482">
+        <mj-column padding="0">
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/agenda.png?raw=true" alt="10:00
 ACCREDITO & WELCOME COFFEE
 
 10:30 
-WELCOME SPEECH 
-Stefano Vittorio Kuhn - Chief Retail & Commercial Banking Officer - CRCBO 
-Elvio Sonnino - Chief Operating Officer - COO 
-
-11:00 
-EVOLUZIONE DEI SISTEMI DI PAGAMENTO 
-NEXI - BPER: NUOVE SFIDE NEL MONDO DEI PAGAMENTI DIGITALI E STRAORDINARIE OPPORTUNITÀ DI CRESCITA  Filippo Maria Signoretti - Head of Merchant Solutions Italy NEXI 
-
-11:30 
-LE SFIDE DELLA RETE NEL MONDO DEI PAGAMENTI  
-Round table:  
-Pier Giorgio Costantini - Head of Financial Institutions Commercial Italy NEXI 
-Litta, La Boria, Pulignano, Bavera, Maci, Obino - Direttori Territoriali BPER/BDS 
-
-12:00 
-KEYNOTE & FIRE CHAT  
-Marco Montemagno 
-Maurice Lisi - Responsabile Direzione Digital Business 
+Inizio lavori
 
 13:00 
-LIGHT LUNCH 
+LUNCH 
 
 14:30 
-SPECIAL GUEST 
-
-15:00 
-L' EVOLUZIONE DEL SISTEMA INFORMATIVO A SUPPORTO DELLA  DIGITALIZZAZIONE 
-Massimiliano Baga - Chief Information Officer - CIO  
-
-15:30 
-DATA: LA NUOVA FRONTIERA NEI FINANCIAL SERVICES Giuseppe Maifredi - Servizio Data e Analytics - CDO 
-
-16:00 
-IL PERCORSO DI DIGITALIZZAZIONE NEL GRUPPO BPER Maurice Lisi - Responsabile Direzione Digital Business 
-
-16:30 
-BREAK 
-
-17:00 
-COME ACCOGLIERE IL NUOVO CONSUMATORE DIGITALE  Round table: 
-Laura Grassi - Politecnico di Milano 
-Gotti, Zanti, Berselli, Aimi, Veggio, Bali - Direttori Territoriali BPER /BDS 
-
-17:30 
-COSTRUIRE UNA BANCA OMNICANALE CHE VALORIZZI L'ESPERIENZA  DIGITALE E IL CAPITALE UMANO 
-Stefano Vittorio Kuhn - Chief Retail & Commercial Banking Officer - CRCBO 
-Michela Sossella - Responsabile Direzione Pianificazione Distributiva e Marketing Giuseppe Sibilla - Responsabile Rete Commerciale 
-
-17:45 
-SALUTI  
-Stefano Vittorio Kuhn - Chief Retail & Commercial Banking Officer 
-Elvio Sonnino - Chief Operating Officer - COO 
+Ripresa lavori
 
 18:00 
 APERITIVO & DJ SET " padding="0"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="1B8482">
-      <mj-column>
-        <mj-text font-size="20px" line-height="26px" color="#fff">Conferma la tua partecipazione <a href="https://www.bper.it" style="color:#fff; font-weight:bold;">registrandoti a questo link</a>.
-<br></br><br></br>
-Sarà un’occasione di confronto e di ispirazione per proseguire con sempre maggiore determinazione nel nostro viaggio insieme.<br></br>
-Non mancare.</b> <br></br>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="1B8482">
+        <mj-column>
+          <mj-text font-size="20px" line-height="26px" color="#fff">Conferma la tua partecipazione <a href="https://www.bper.it" style="color:#fff; font-weight:bold;">registrandoti a questo link</a>. <br></br><br></br> Sarà un’occasione di confronto e di ispirazione per proseguire con sempre maggiore determinazione nel nostro viaggio insieme.<br></br> Non mancare.</b> <br></br>
+          </mj-text>
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
     <mj-section background-color="#1B8482" padding="0">
       <mj-column width="100%">
