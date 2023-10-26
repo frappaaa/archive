@@ -18,23 +18,10 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-wrapper background-color="#1B8482" padding-top="0">
+    <mj-wrapper background-color="#1B8482" padding-top="0" padding-bottom="0">
       <mj-section padding="0" background-color="1B8482">
         <mj-column padding="0">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/agenda.png?raw=true" alt="10:00
-ACCREDITO & WELCOME COFFEE
-
-10:30 
-Inizio lavori
-
-13:00 
-LUNCH 
-
-14:30 
-Ripresa lavori
-
-18:00 
-APERITIVO & DJ SET " padding="0"></mj-image>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/agenda.png?raw=true" alt="10:00 ACCREDITO & WELCOME COFFEE - 10:30 Inizio lavori - 13:00 LUNCH - 14:30 Ripresa lavori - 18:00 APERITIVO & DJ SET" padding="0"></mj-image>
         </mj-column>
       </mj-section>
       <mj-section background-color="1B8482">
