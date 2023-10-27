@@ -13,24 +13,21 @@
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column>
           <mj-text font-size="22px" line-height="26px"><b>BPER On Demand online raggiunge quota 3.000</b></mj-text>
-          <mj-text> 3.000 conti aperti, 3.000 nuovi clienti. <br></br>
-BPER On Demand <b>continua a crescere</b> anche grazie anche a due <b>esclusive partnership</b>, che contribuiscono al raggiungimento degli obiettivi di acquisizione, dando ulteriore spinta ai risultati che stiamo traguardando. </mj-text>
+          <mj-text> 3.000 conti aperti, 3.000 nuovi clienti. <br></br> BPER On Demand <b>continua a crescere</b> anche grazie anche a due <b>esclusive partnership</b>, che contribuiscono al raggiungimento degli obiettivi di acquisizione, dando ulteriore spinta ai risultati che stiamo traguardando. </mj-text>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/3000%20utenti%20OFM/UnipolSai.png?raw=true" width="88px" align="left"></mj-image>
           <mj-text font-size="22px" line-height="26px"><b>La rete di agenzie UnipolSai per BPER On Demand</b></mj-text>
           <mj-text> Dal 18 ottobre sono stati aperti <b>41</b> conti grazie alle agenzie UnipolSai operative in regime di Assurbanca che possono proporre ai loro clienti l’apertura online di BPER On Demand: semplicemente inquadrando un QR Code, il cliente può avviare agevolmente l’apertura del conto dal proprio device atterrando su una pagina dedicata.</mj-text>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/3000%20utenti%20OFM/Logo%20Inter.png?raw=true" width="70" align="left"></mj-image>
           <mj-text font-size="22px" line-height="26px"><b>Inter, concorso a premi per i tifosi </b></mj-text>
-          <mj-text> Dal 25 ottobre in BPER On Demand batte un un cuore neroazzurro. I tifosi dell'Inter potranno aprire il conto accedendo da banner presenti sul sito inter.it, social e da dem dedicate, partecipando così a un esclusivo concorso. 
-In palio 6 estrazioni di due biglietti per una partita a San Siro e tour a fine gara per foto e autografi con i giocatori. </mj-text>
+          <mj-text> Dal 25 ottobre in BPER On Demand batte un un cuore neroazzurro. I tifosi dell'Inter potranno aprire il conto accedendo da banner presenti sul sito inter.it, social e da dem dedicate, partecipando così a un esclusivo concorso.  In palio 6 estrazioni di due biglietti per una partita a San Siro e tour a fine gara per foto e autografi con i giocatori. </mj-text>
           <mj-section background-color="#005157" border-radius="24px" padding="20px">
             <mj-column width="100%">
               <mj-text color="#fff" padding="0 8px">Ma a dare spinta alle nuove aperture del conto non sono solo le partnership, ma anche i <b>continui miglioramenti al nostro processo di vendita, che mercoledì aprirà anche a clienti intestatari solo di cassetta di sicurezza, deposito a risparmio o carta prepagata</b>, estendendo così la platea di clienti a cui ci rivolgiamo.</b>
               </mj-text>
             </mj-column>
           </mj-section>
-          
           <mj-image src="https://github.com/frappaaa/archive/blob/main/2000%20utenti%20OFM/Dati_contiOFM.png?raw=true" alt="2004 nuovi conti suddivisi per DT"></mj-image>
-        <mj-text font-size="22px" line-height="26px"><b>Continuiamo quindi con sempre maggiore determinazione la nostra “road to the F/youture”.</b></mj-text>
+          <mj-text font-size="22px" line-height="26px"><b>Continuiamo quindi con sempre maggiore determinazione la nostra “road to the F/youture”.</b></mj-text>
           <mj-text>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://sites.google.com/bper.it/bsmart/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;">BSmart.</a><br></br><br></br>
           </mj-text>
         </mj-column>
