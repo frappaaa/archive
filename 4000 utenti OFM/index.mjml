@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/4000%20utenti%20OFM/4000_OFM_header.png?raw=true" padding="0" alt="Musica maestro.4.000 copie vendute e un audience più ampia"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column>
+          <mj-text font-size="22px" line-height="26px"><b>4.000 conti BPER On Demand online.</b></mj-text>
+          <mj-text>Un nuovo importante traguardo, che si traduce in 4.000 nuovi clienti acquisiti tramite i nostri canali digitali.</mj-text>
+          <mj-text>Un numero che puntiamo a far crescere ancora di più grazie a un’importante novità in arrivo: a partire dal 9 novembre <b>BPER On Demand online potrà essere aperto anche dai già clienti intestatari di cassetta di sicurezza, deposito a risparmio o carta prepagata.</b></mj-text>
+          <mj-text>Estenderemo così la platea a cui ci rivolgiamo, dando ulteriore spinta ai risultati che stiamo traguardando.</mj-text>
+          <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/4000%20utenti%20OFM/Dati_target.png?raw=true" alt="% di under e over 35, % di donne e uomini"></mj-image>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/4000%20utenti%20OFM/Dati_contiOFM.png?raw=true" alt="4132 nuovi conti suddivisi per DT"></mj-image>
+          <mj-text>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://sites.google.com/bper.it/bsmart/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;">BSmart.</a><br></br><br></br>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
