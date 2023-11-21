@@ -7,7 +7,7 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/UnipolMove%20Bank%20Friday/Header.png" padding="0" alt=""></mj-image>
+      <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/UnipolMove%20Bank%20Friday/Header.png" padding="0" alt="UnipolMove: moltiplica la velocità con la promo Bank Friday"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px" padding="22px 0 22px 0">
@@ -23,12 +23,11 @@
             </mj-column>
           </mj-section>
           <mj-text>Per il Bank Friday 2022 siamo riusciti a totalizzare oltre 4.600 pezzi di Unipolmove e con Bx100 di aprile abbiamo superato i 7.300 pezzi.</mj-text>
-        <mj-text><b>Affinché anche questa iniziativa sia un successo, contiamo sul tuo supporto per valorizzare al meglio questa promozione sulla rete e superare l’obiettivo dei 6.000 pezzi!</b></mj-text>
-        <mj-text><b>Abbiamo tempo fino al 1° dicembre.</b></mj-text>
+          <mj-text><b>Affinché anche questa iniziativa sia un successo, contiamo sul tuo supporto per valorizzare al meglio questa promozione sulla rete e superare l’obiettivo dei 6.000 pezzi!</b></mj-text>
+          <mj-text><b>Abbiamo tempo fino al 1° dicembre.</b></mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/UnipolMove%20Bank%20Friday/Loghi-fondo.png"></mj-image>
