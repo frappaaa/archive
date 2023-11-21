@@ -1,0 +1,41 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="" padding="0" alt=""></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px" padding="22px 0 22px 0">
+        <mj-column>
+          <mj-text font-size="20px">Gentile collega,</mj-text>
+          <mj-text>in queste settimane è attiva la promo Bank Friday di UnipolMove che oltre a <b>1 anno di canone gratuito</b> su due dispositivi offre anche <b>un’iniziativa di cash back dedicata esclusivamente ai clienti BPER.</b></mj-text>
+          <mj-text>Terminato il periodo promozionale, il canone passerà a €1,00 per il primo dispositivo e € 0,50 per il secondo.</mj-text>
+          <mj-section background-color="#00ae65" border-radius="24px" padding="20px">
+            <mj-column width="100%">
+              <mj-text color="#fff" padding="0 8px"><b>Come funziona il cashback?</b><br></br>
+              </mj-text>
+              <mj-text color="#fff" padding="0 8px">Il cliente che acquista UnipolMove entro il 1° dicembre riceverà un <b>rimborso fino a € 10</b> sul primo addebito per il pagamento dei servizi UnipolMove, purché tale addebito avvenga entro il termine del 3 febbraio. Il cash back verrà erogato <b>entro il 31 marzo 2024</b> e il cliente riceverà un bonifico con il rimborso.</mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-text>Per il Bank Friday 2022 siamo riusciti a totalizzare oltre 4.600 pezzi di Unipolmove e con Bx100 di aprile abbiamo superato i 7.300 pezzi.</mj-text>
+        <mj-text><b>Affinché anche questa iniziativa sia un successo, contiamo sul tuo supporto per valorizzare al meglio questa promozione sulla rete e superare l’obiettivo dei 6.000 pezzi!</b></mj-text>
+        <mj-text><b>Abbiamo tempo fino al 1° dicembre.</b></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
