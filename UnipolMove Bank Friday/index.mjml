@@ -7,7 +7,7 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="" padding="0" alt=""></mj-image>
+      <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/UnipolMove%20Bank%20Friday/Header.png" padding="0" alt=""></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px" padding="22px 0 22px 0">
@@ -31,7 +31,7 @@
     
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/UnipolMove%20Bank%20Friday/Loghi-fondo.png"></mj-image>
       </mj-column>
       <mj-column padding="0" width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
