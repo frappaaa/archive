@@ -1,0 +1,35 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2030mil/Header.png?raw=true" padding="0" alt="30 milioni € di PagaPoi. Continuiamo ad alzare l’asticella."></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>️️Care colleghe e cari colleghi,</mj-text>
+          <mj-text font-weight="bold">PagaPoi ha superato i 30 milioni di euro di erogato.</mj-text>
+          <mj-text>Un traguardo importante, che evidenzia il contributo crescente del canale digitale nel raggiungimento degli obiettivi di business complessivi: i volumi e la marginalità delle vendite di PagaPoi sono infatti interamente riconosciuti alla filiale di relazione. </mj-text>
+          <b>abbiamo toccato quota 70 milioni di erogato totale dal canale digitale</b>, un risultato importante che supporta e concorre al raggiungimento degli obiettivi della rete. <br></br><br></br> Il <b>prestito digitale</b> ha infatti superato i 50 milioni di euro di erogato, mentre <b>PagaPoi</b> ha segnato quota 20 milioni, in soli 3 mesi dal lancio sul mercato. </mj-text>
+          <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2030mil/Dati_PagaPoi.png?raw=true" alt="30 milioni € di importo erogato. Suddivisione per DT."></mj-image>
+          <mj-text> Grazie a tutti voi per la vostra collaborazione.</mj-text>
+          <mj-text> Perché la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
