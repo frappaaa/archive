@@ -17,26 +17,28 @@
           </mj-text>
           <mj-text>Insieme abbiamo ripercorso le tappe del nostro viaggio di evoluzione digitale e tracciato la rotta per le tante sfide che ci attendono nel 2024.<br></br> È stata una giornata doppiamente emozionante e carica di soddisfazioni.</mj-text>
           </mj-text>
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ringraziamenti/premio.png?raw=true" alt="Ieri BPER Banca ha infatti ricevuto il primo premio nella categoria Innovation & Design al Digital (R)evolution Awards."></mj-image>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ringraziamenti/premio.png?raw=true" alt="Ieri BPER Banca ha infatti ricevuto il primo premio nella categoria Innovation & Design al Digital (R)evolution Awards." padding="0"></mj-image>
           <mj-text>Essere riconosciuti come i migliori tra oltre 60 top player di 10 differenti industries ci conferma la qualità del percorso intrapreso. La nostra strategia omnicanale è, ogni giorno di più, una realtà che ci distingue e qualifica.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-wrapper background-color="#1B8482" padding-top="0" padding-bottom="0">
-      <mj-section background-color="1B8482">
+    <mj-wrapper background-color="#1B8482" padding="0 20px 0 20px">
+      <mj-section background-color="#005157" border-radius="24px" padding="20px 0 20px 0">
         <mj-column>
-          <mj-text font-size="20px" line-height="26px" color="#fff">Grazie a ognuno di voi perché rendete possibile tutto ciò con il vostro impegno.</mj-text>
-          <mj-text font-size="20px" line-height="26px" color="#fff">Ti è piaciuto l'evento? Lasciaci i tuoi suggerimenti per migliorare.</mj-text>
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ringraziamenti/CTA.png?raw=true" alt="Lasciaci i tuoi suggerimenti"></mj-image>
+          <mj-text color="#fff" font-size="18px" line-height="26px">Grazie a ognuno di voi perché rendete possibile tutto ciò con il vostro impegno.</mj-text>
+          <mj-text color="#fff" font-size="18px" line-height="26px">Ti è piaciuto l'evento? Lasciaci i tuoi suggerimenti per migliorare.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
+    <mj-section background-color="#1B8482" padding="0">
+      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/ringraziamenti/CTA.png?raw=true" alt="Lasciaci i tuoi suggerimenti" width="370px" href="https://forms.gle/DUafVrYwEPZTMgFf9" padding="0"></mj-image></mj-column>
+    </mj-section>
     <mj-section background-color="#1B8482" padding="0">
       <mj-column width="100%">
         <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/fondo.png?raw=true"></mj-image>
       </mj-column>
       <mj-column padding="0" width="100%">
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/bordo%20tondo.png?raw=true" padding="0" width="370px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/28nov23/bordo%20tondo.png?raw=true" padding="0"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
