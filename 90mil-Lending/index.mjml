@@ -7,32 +7,29 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/90mil-Lending/Header.png?raw=true" padding="0" alt="Il ritmo sale ancora. 6000 copie vendute."></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/90mil-Lending/Header.png?raw=true" padding="0" alt="90 milioni di € del canale digitale"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column>
           <mj-text>️Care colleghe e cari colleghi,</mj-text>
-
-<mj-text>oggi abbiamo superato i <b>90 milioni di erogato di prestiti digitali.</b></mj-text>
-
-<mj-text>Il <b>prestito digitale</b> ha infatti superato i xx milioni di euro di erogato, mentre <b>PagaPoi</b> ha segnato quota xx milioni.</mj-text>
-
-<mj-text>Un traguardo straordinario, che ci avvicina all’obiettivo che fino a poco tempo fa sembrava ancora lontano: <b>i 100 milioni di erogato</b>.</mj-text>
+          <mj-text>oggi abbiamo superato i <b>90 milioni di erogato di prestiti digitali.</b></mj-text>
+          <mj-text>Il <b>prestito digitale</b> ha infatti superato i xx milioni di euro di erogato, mentre <b>PagaPoi</b> ha segnato quota xx milioni.</mj-text>
+          <mj-text>Un traguardo straordinario, che ci avvicina all’obiettivo che fino a poco tempo fa sembrava ancora lontano: <b>i 100 milioni di erogato</b>.</mj-text>
           <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/90mil-Lending/Dati_Lending.png?raw=true" alt="90 milioni di € erogati"></mj-image>
           <mj-text>Vedere avvicinarsi il raggiungimento degli obiettivi ambiziosi che ci siamo prefissati è motivo di grande soddisfazione e orgoglio: i volumi e la marginalità delle vendite digitali sono infatti sempre interamente riconosciuti alla filiale di relazione.</mj-text>
-
-<mj-text>Diamo così un supporto prezioso, specialmente in questo periodo di fine anno, al raggiungimento degli obiettivi della rete.</mj-text>
-
-<mj-text>Grazie a tutti voi per il vostro contributo e per la vostra collaborazione. </mj-text>
-            
+          <mj-text>Diamo così un supporto prezioso, specialmente in questo periodo di fine anno, al raggiungimento degli obiettivi della rete.</mj-text>
+          <mj-text>Grazie a tutti voi per il vostro contributo e per la vostra collaborazione. </mj-text>
           </mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
-  <mj-section>
-  <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/90mil-Lending/Futuro.png?raw=true"></mj-image></mj-column></mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/90mil-Lending/Futuro.png?raw=true"></mj-image>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
