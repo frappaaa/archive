@@ -7,19 +7,19 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/6000%20utenti%20OFM/Header.png?raw=true" padding="0" alt="Il ritmo sale ancora. 6000 copie vendute."></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/7000%20utenti%20OFM/Header.png?raw=true" padding="0" alt="Il ritmo sale ancora. 7000 copie vendute."></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column>
-          <mj-text><b>6.000 conti BPER On Demand online.</b></mj-text>
-          <mj-text>Continua a crescere a gran ritmo il conto BPER On Demand online, che oggi raggiunge quota 6.000 nuovi clienti acquisiti tramite i nostri canali digitali.</mj-text>
+          <mj-text><b>7.000 conti BPER On Demand online.</b></mj-text>
+          <mj-text>È il nuovo, importante traguardo che oggi raggiunge il nostro conto digitale e umano e che ci avvicina sempre più <b>all’obiettivo di 10.000 conti aperti e 10.000 nuovi clienti acquisiti grazie ai canali digitali</b>.</mj-text>
           <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/6000%20utenti%20OFM/Dati_target.png?raw=true" alt="6000 nuovi conti suddivisi per target. Caratteristiche clientela acquisita"></mj-image>
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/6000%20utenti%20OFM/Dati_contiOFM.png?raw=true" alt="6000 nuovi conti suddivisi per DT"></mj-image>
-          <mj-text>I clienti che possono aprire un conto BPER On Demand online sono i clienti non censiti in anagrafe e quelli censiti senza rapporti attivanti. Non sono più considerati rapporti attivanti e possono quindi <b>sottoscrivere il conto online i clienti intestatari di un solo prodotto tra cassetta di sicurezza, deposito a risparmio o carta prepagata.</b></mj-text>
-          <mj-text>Ogni nuovo conto aperto in digitale contribuisce concretamente agli obiettivi di acquisizione e allo sviluppo multicanale della relazione con il cliente, generando un’opportunità di business importante da cogliere.</mj-text>
-          <mj-text>Grazie per il vostro contributo.</mj-tex>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/7000%20utenti%20OFM/Dati_target.png?raw=true" alt="7000 nuovi conti suddivisi per target. Caratteristiche clientela acquisita"></mj-image>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/7000%20utenti%20OFM/Dati_contiOFM.png?raw=true" alt="7000 nuovi conti suddivisi per DT"></mj-image>
+          
+          <mj-text>Guardiamo con soddisfazione e orgoglio a questi risultati, che contribuiscono concretamente agli obiettivi di acquisizione e allo sviluppo multicanale della relazione con il cliente.</mj-text>
+          <mj-text>Grazie per il vostro contributo.</mj-text>
             <mj-text>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://sites.google.com/bper.it/bsmart/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;">BSmart.</a></mj-text>
           </mj-text>
         </mj-column>
