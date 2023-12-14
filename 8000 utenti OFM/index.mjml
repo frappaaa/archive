@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/8000%20utenti%20OFM/Header.png?raw=true" padding="0" alt="Il ritmo continua a salire. 8000 copie vendute."></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column>
+          <mj-text><b>8.000 conti BPER On Demand online.</b></mj-text>
+          <mj-text>A un passo dalla fine dell’anno raggiungiamo un nuovo risultato per il nostro BPER On Demand online, che ha raggiunto ben 8.000 sottoscrizioni digitali.</b></mj-text>
+          <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/8000%20utenti%20OFM/Dati_target.png?raw=true" alt="8000 nuovi conti suddivisi per target. Caratteristiche clientela acquisita"></mj-image>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/8000%20utenti%20OFM/Dati_contiOFM.png?raw=true" alt="8000 nuovi conti suddivisi per DT"></mj-image>
+          <mj-text>L’obiettivo di 10.000 conti aperti è sempre più vicino: continuiamo su questa strada per concludere l’anno con un grande sprint.</mj-text>
+          <mj-text>Grazie per il vostro contributo.</mj-text>
+          <mj-text>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://sites.google.com/bper.it/bsmart/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;">BSmart.</a></mj-text>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
