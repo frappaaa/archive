@@ -13,7 +13,7 @@
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column>
           <mj-text><b>8.000 conti BPER On Demand online.</b></mj-text>
-          <mj-text>A un passo dalla fine dell’anno raggiungiamo un nuovo risultato per il nostro BPER On Demand online, che ha raggiunto ben 8.000 sottoscrizioni digitali.</b></mj-text>
+          <mj-text>A un passo dalla fine dell’anno raggiungiamo un nuovo risultato per il nostro BPER On Demand online, che supera le 8.000 sottoscrizioni digitali.<br></br> Un traguardo che amplifica i risultati di acquisizione in armonia con il lavoro delle filiali, a cui i nuovi clienti entrati dal canale digitale vengono affidati per lo sviluppo della relazione.</b></mj-text>
           <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/8000%20utenti%20OFM/Dati_target.png?raw=true" alt="8000 nuovi conti suddivisi per target. Caratteristiche clientela acquisita"></mj-image>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/8000%20utenti%20OFM/Dati_contiOFM.png?raw=true" alt="8000 nuovi conti suddivisi per DT"></mj-image>
