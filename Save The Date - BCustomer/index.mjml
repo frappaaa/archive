@@ -1,0 +1,30 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff" border-radius="24px">
+    <mj-section padding="0" background-color="#f5f9f9" padding-top="30px">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/Save%20The%20Date%20-%20Monza%20Elicottero/Header%20Elicottero.png?raw=true" padding="0" alt="Save the date. 3 settembre 2023. Gran Premio F1 – Circuito di Monza"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#ffffff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text color="#005157">Gentili Colleghi e Colleghe,<br></br> nell'ambito <b>dell'evento "BCustomer. We are powerful"</b> siete invitati ad una giornata di confronto e approfondimento sul <b>nuovo ruolo di Specialista Digital</b>, che si terrà <b>mercoledì 17 gennaio dalle 9.00 alle 17.15</b> presso il <b>Centro di Formazione di Modena</b>.</mj-text>
+          <mj-text> In questa occasione sarà per noi un piacere trascorrere assieme anche la serata del <b>16 gennaio in una cena di networking</b>; nei prossimi giorni riceverete maggiori dettagli su orario e location.</mj-text>
+          <mj-text>A presto, cordiali saluti.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
