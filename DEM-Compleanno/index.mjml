@@ -2,14 +2,14 @@
   <mj-head>
     <mj-attributes>
       <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
-      <mj-section background-color="#f5f9f9" />
+      <mj-section background-color="#F0F5F5" />
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/DEM-100e10/Header.png?raw=true" padding="0" alt="Ogni traguardo raggiunto è un nuovo inizio. 100 milioni € e 10.000 conti BPER On Demand"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/DEM-Compleanno/Header.png?raw=true" padding="0" alt="Buon Compleanno"></mj-image>
     </mj-section>
-    <mj-wrapper background-color="#f5f9f9" padding="20px">
+    <mj-wrapper background-color="#F0F5F5" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
         <mj-column>
           <mj-text>️Noi del Digital Business ci teniamo a <b>celebrare insieme i momenti importanti</b>.
@@ -25,9 +25,9 @@ Buon compleanno <b>[NOME]</b>!
         <mj-image src="https://github.com/frappaaa/archive/blob/main/90mil-Lending/Futuro.png?raw=true"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#f5f9f9" padding="0">
+    <mj-section background-color="#F0F5F5" padding="0">
       <mj-column width="100%">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
       </mj-column>
       <mj-column padding="0" width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
