@@ -7,7 +7,7 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/DEM-Compleanno/Header.png?raw=true" padding="0" alt="Buon Compleanno"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/DEM-Compleanno/Header.png?raw=true" padding="0" alt="Buon Compleanno! Celebriamo insieme i momenti importanti."></mj-image>
     </mj-section>
     <mj-wrapper background-color="#F0F5F5" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
@@ -30,7 +30,7 @@ Buon compleanno <b>[NOME]</b>!
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
       </mj-column>
       <mj-column padding="0" width="100%">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Bordi_finali_DEM.png" padding="0"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
