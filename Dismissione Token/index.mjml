@@ -14,7 +14,6 @@
         <mj-column>
           <mj-text font-size="20px">Gentile collega,</mj-text>
           <mj-text>Da alcuni mesi è in corso la dismissione dei token fisici Aruba C100 e C200, utilizzati da clienti titolari dei servizi <b>BPER CBI e Smart CBI.</b></mj-text>
-          <mj-text>Terminato il periodo promozionale, il canone passerà a €1,00 per il primo dispositivo e € 0,50 per il secondo.</mj-text>
           <mj-section background-color="#00ae65" border-radius="24px" padding="32px">
             <mj-column width="100%">
               <mj-text color="#fff" padding="0"><b>Tutti questi token saranno disattivati centralmente entro il 31 marzo 2024 in quanto non rispettano più le attuali normative.</b></mj-text>
@@ -27,7 +26,7 @@
             <mj-column width="100%">
               <mj-text color="#fff" padding="0"><b>Il passaggio alla token app</b> non è solo per i clienti con token fisico di vecchia generazione, ma è da consigliare e incentivare nei casi di: <ul>
                   <li>Apertura di nuovo contratto Smart CBI </li>
-                  <li>Sostituzione del token fisico, qualunque modello esso sia (vecchio o nuovo) <b>Eventuali richieste di sostituzione con token OTP Onespan DIGIPASS DG-310 vanno disincentivate</b>, anche per la limitata disponibilità dei dispositivi.</li>
+                  <li>Sostituzione del token fisico, qualunque modello esso sia (vecchio o nuovo).<br><b>Eventuali richieste di sostituzione con token OTP Onespan DIGIPASS DG-310 vanno disincentivate</b>, anche per la limitata disponibilità dei dispositivi.</li>
                 </ul>
               </mj-text>
             </mj-column>
