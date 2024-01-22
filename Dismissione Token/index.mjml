@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Dismissione%20Token/Header.png" padding="0" alt="Dismissione Token OTP Aruba C100 E C200"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px" padding="22px 0 22px 0">
+        <mj-column>
+          <mj-text font-size="20px">Gentile collega,</mj-text>
+          <mj-text>Da alcuni mesi è in corso la dismissione dei token fisici Aruba C100 e C200, utilizzati da clienti titolari dei servizi <b>BPER CBI e Smart CBI.</b></mj-text>
+          <mj-text>Terminato il periodo promozionale, il canone passerà a €1,00 per il primo dispositivo e € 0,50 per il secondo.</mj-text>
+          <mj-section background-color="#00ae65" border-radius="24px" padding="32px">
+            <mj-column width="100%">
+              <mj-text color="#fff" padding="0"><b>Tutti questi token saranno disattivati centralmente entro il 31 marzo 2024 in quanto non rispettano più le attuali normative.</b></mj-text>
+              <mj-text color="#fff" padding="16px 0 0 0"> Per non lasciare i clienti senza uno strumento necessario per l’accesso ai servizi digitale è importante guidare i clienti alla sostituzione del token fisico con la token app Smart CBI Mobile.</mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-text>La token app rispetto al token fisico è più sicura, più moderna e consente importanti risparmi alla banca in fatto di acquisto e gestione dei dispositivi fisici. </mj-text>
+          <mj-text> È un vantaggio per la filiale che avrà meno incombenze amministrative per la gestione dei dispositivi, ma anche per il cliente, essendo la token app completamente gratuita e scaricabile in autonomia.</mj-text>
+          <mj-section background-color="#005157" border-radius="24px" padding="32px">
+            <mj-column width="100%">
+              <mj-text color="#fff" padding="0"><b>Il passaggio alla token app</b> non è solo per i clienti con token fisico di vecchia generazione, ma è da consigliare e incentivare nei casi di: <ul>
+                  <li>Apertura di nuovo contratto Smart CBI </li>
+                  <li>Sostituzione del token fisico, qualunque modello esso sia (vecchio o nuovo) <b>Eventuali richieste di sostituzione con token OTP Onespan DIGIPASS DG-310 vanno disincentivate</b>, anche per la limitata disponibilità dei dispositivi.</li>
+                </ul>
+              </mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-text>Per questi motivi, ricordiamo che <b>il prezzo di 30€+iva per i token fisici non è derogabile, tranne in casi del tutto eccezionali</b>, In questo modo aggiungeremo un altro tassello al nostro percorso di digitalizzazione, da cui il nostro rapporto con la clientela non potrà che essere rafforzato, grazie a una migliore esperienza d’uso e a una maggiore soddisfazione dei clienti. </mj-text>
+          <mj-text>Grazie per la collaborazione.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
