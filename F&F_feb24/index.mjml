@@ -1,0 +1,37 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="0" background-color="#f5f9f9">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F_feb24/Header.png?raw=true" padding="0" alt="Scarica in anteprima la nuova app BPER Banca Smart Banking!"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>Ciao,</mj-text>
+          <mj-text>in vista del rilascio di febbraio, ti invitiamo a partecipare al Family & Friends, per scaricare e utilizzare in anteprima la nuova app, prima del rilascio ufficiale a tutta la clientela.</mj-text>
+          <mj-text>In questa release troverai il wizard per la sostituzione e la vendita delle carte, l’evoluzione delle feature dedicate all’assistenza e consulenza ai clienti con la nuova chat e la possiibilità di prendere appuntamento con la FOL, la nuova versione di PagaPoi, dei consensi Privacy e di Unisorriso. </mj-text>  <mj-text>Ti chiediamo di compilare il form di adesione cliccando su questo link o scansionando il QR Code qui sotto con i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).</mj-text>
+          <mj-text> Una volta che l'aggiornamento sarà disponibile e scaricabile potrai darci i tuoi suggerimenti o segnalare eventuali anomalie o malfunzionamenti tramite questo form, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#f5f9f9">
+        <mj-column>
+          <mj-image alt="Iscriviti subito al Family&Friends tramite questo QR Code o clicca il banner." src="https://github.com/frappaaa/archive/blob/main/F&F_feb24/qrcode.png?raw=true" padding="0">
+        </mj-column>
+        </mj-image>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
