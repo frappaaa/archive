@@ -20,7 +20,7 @@
       </mj-section>
       <mj-section background-color="#f5f9f9">
         <mj-column>
-          <mj-image alt="Iscriviti subito al Family&Friends tramite questo QR Code o clicca il banner." src="https://github.com/frappaaa/archive/blob/main/F&F_feb24/qrcode.png?raw=true" padding="0">
+          <mj-image alt="Iscriviti subito al Family&Friends tramite questo QR Code o clicca il banner." src="https://github.com/frappaaa/archive/blob/main/F&F_feb24/qrcode.png?raw=true" padding="0" href="https://forms.office.com/e/4A9Rz3d3Zu">
         </mj-column>
         </mj-image>
       </mj-section>
