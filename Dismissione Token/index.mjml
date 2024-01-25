@@ -26,12 +26,14 @@
             <mj-column width="100%">
               <mj-text color="#fff" padding="0"><b>Il passaggio alla token app</b> non è solo per i clienti con token fisico di vecchia generazione, ma è da consigliare e incentivare nei casi di: <ul>
                   <li>Apertura di nuovo contratto Smart CBI </li>
-                  <li>Sostituzione del token fisico, qualunque modello esso sia (vecchio o nuovo).<br><b>Eventuali richieste di sostituzione con token OTP Onespan DIGIPASS DG-310 vanno disincentivate</b>, anche per la limitata disponibilità dei dispositivi.</li>
+                  <li>Sostituzione del token fisico, qualunque modello esso sia (vecchio o nuovo).<br></li><li><b>Eventuali richieste di sostituzione con token OTP Onespan DIGIPASS DG-310 vanno disincentivate</b>, anche per la limitata disponibilità dei dispositivi.</li>
                 </ul>
+                In caso dei nuovi token fisici DigiPass, il dirottamento su token app va quindi fatto solo in caso di richiesta di sostituzione da parte del cliente per token scarico o rotto. 
               </mj-text>
             </mj-column>
           </mj-section>
-          <mj-text>Per questi motivi, ricordiamo che <b>il prezzo di 30€+iva per i token fisici non è derogabile, tranne in casi del tutto eccezionali</b>, In questo modo aggiungeremo un altro tassello al nostro percorso di digitalizzazione, da cui il nostro rapporto con la clientela non potrà che essere rafforzato, grazie a una migliore esperienza d’uso e a una maggiore soddisfazione dei clienti. </mj-text>
+          <mj-text>Per questi motivi, ricordiamo che <b>il prezzo dei token fisici non è derogabile, tranne in casi del tutto eccezionali.</b>
+In questo modo aggiungeremo un altro tassello al nostro percorso di digitalizzazione, da cui il nostro rapporto con la clientela non potrà che essere rafforzato, grazie a una migliore esperienza d’uso e a una maggiore soddisfazione dei clienti.</mj-text>
           <mj-text>Grazie per la collaborazione.</mj-text>
         </mj-column>
       </mj-section>
