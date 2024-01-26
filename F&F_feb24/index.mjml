@@ -14,7 +14,17 @@
         <mj-column width="100%">
           <mj-text>Ciao,</mj-text>
           <mj-text>in vista del rilascio di febbraio, ti invitiamo a partecipare al Family & Friends, per <b>scaricare e utilizzare in anteprima la nuova app</b>, prima del rilascio ufficiale a tutta la clientela.</mj-text>
-          <mj-text>In questa release troverai il wizard per la sostituzione e la vendita delle carte, l’evoluzione delle feature dedicate all’assistenza e consulenza ai clienti con la nuova chat e la possiibilità di prendere appuntamento con la FOL, la nuova versione di PagaPoi, dei consensi Privacy e di Unisorriso (<i>in caso di test della sottoscrizione della Polizza Unisorriso, per evitare l’addebito scrivi entro la mattina stessa in cui effettui il test a marina.conti@bper.it e martina.mineo@bper.it</i>). </mj-text>  <mj-text>Ti chiediamo di compilare il form di adesione cliccando su <a href="https://forms.office.com/e/4A9Rz3d3Zu" style="color:#005157"><b><u>questo link</u></b></a> o scansionando il QR Code qui sotto con i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).</mj-text>
+          <mj-text>In questa release troverai : <ul>
+              <li>evoluzione sezione carte e del wizard per la sostituzione e la vendita delle carte</li>
+              <li>la nuova versione dei consensi Privacy</li>
+              <li>evoluzione PagoPa</li>
+              <li>animazione nel giorno del compleanno</li>
+              <li>nuova login a Smart Web</li>
+              <li>evoluzione delle feature dedicate all’assistenza e consulenza ai clienti con la nuova chat e la possibilità di prendere appuntamento con la FOL (<i>testabile dal 1/02 - seguirà comunicazione dedicata</i>)</li>
+              <li>nuova versione di PagaPoi (<i>testabile dal 30/01</i>)</li>
+              <li>nuova versione di Unisorriso (<i>testabile dal 31/01 - in caso di test della sottoscrizione della Polizza Unisorriso, per evitare l’addebito scrivi entro la mattina stessa in cui effettui il test a <a href="mailto:marina.conti@bper.it" style="color:#005157">marina.conti@bper.it</a> e <a href="mailto:martina.mineo@bper.it" style="color:#005157">martina.mineo@bper.it</a></i>).</li>
+            </ul> </mj-text>  <mj-text>Ti chiediamo di compilare il form di adesione cliccando su <a href="https://forms.office.com/e/4A9Rz3d3Zu" style="color:#005157"><b><u>questo link</u></b></a> o scansionando il QR Code qui sotto con i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).</mj-text>
+          <mj-text>A partire da questo aggiornamento sarà inoltre possibile accedere a Smart Web semplicemente inquadrando con la app un QR Code: puoi testare questa funzionalità attraverso la pagina di login che trovi a <a href="https://homebanking.bpergroup.net/auth/#/auth?bank=05387&fef-debug-qr-code=true" style="color:#005157">questo link</a>.</mj-text>
           <mj-text> Una volta che l'aggiornamento sarà disponibile e scaricabile potrai <b>darci i tuoi suggerimenti o segnalare eventuali anomalie o malfunzionamenti</b> tramite <a href="https://forms.office.com/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDtVGpMrwd2tLtuRgtDKcvXFUNkY4MEY3TTY3MVNNVFFKUDdNTVVYVUwwQi4u" style="color:#005157"><b><u>questo form</u></b></a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
         </mj-column>
       </mj-section>
