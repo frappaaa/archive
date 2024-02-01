@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2487.3">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;mjml&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>&lt;mj-head&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;mj-attributes&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" /&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;mj-section background-color="#f5f9f9" /&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/mj-attributes&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>&lt;/mj-head&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>&lt;mj-body background-color="#fff" border-radius="24px"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;mj-section padding="24px 0 0 0" background-color="#fff"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;mj-image src="https://github.com/frappaaa/archive/blob/main/Prova%20DEM%20Roma%20Nord/Header_Roma_Nord.png?raw=true" padding="0" alt="Insieme per la crescita digitale: da oggi sei protagonista!</p>
+<p class="p1">Progetto pilota Area Roma Nord"&gt;&lt;/mj-image&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/mj-section&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;mj-wrapper background-color="#f5f9f9" padding="20px"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;mj-section background-color="#fff" border-radius="24px"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;mj-column&gt;</p>
+<p class="p1"><span class="Apple-converted-space">          </span>&lt;mj-text&gt;Dal 7 al 12 febbraio sarà rilasciata in maniera progressiva a tutti i clienti una &lt;b&gt;nuova versione dell’app Smart Banking&lt;/b&gt;, con cui muoviamo un altro passo nel nostro percorso di &lt;b&gt;crescita digitale con una strategia omnicanale sempre più orientata alla collaborazione e alla crescita della relazione col cliente.&lt;/b&gt; &lt;/mj-text&gt;</p>
+<p class="p1"><span class="Apple-converted-space">          </span>&lt;mj-section background-color="#f5f9f9" border-radius="24px" padding="20px"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;mj-column width="100%"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">              </span>&lt;mj-text padding="0 8px"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;ul style="padding-left:14px;"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                  </span>&lt;li style="padding-bottom:14px;"&gt;&lt;b&gt;Amplieremo la possibilità di interagire con noi quando e come il cliente preferisce&lt;/b&gt;, attraverso la nuova sezione dell’app “Hey Bper” dalla quale i clienti &lt;b&gt;potranno prenotare un appuntamento telefonico&lt;/b&gt; con la Filiale Online scegliendo il giorno e l’ora in cui essere ricontattati, compreso il &lt;b&gt;sabato mattina dalle 8.30 alle 14.30&lt;/b&gt;. &lt;/li&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                  </span>&lt;li style="padding-bottom:14px;"&gt;Novità anche nel mondo Carte, &lt;b&gt;con l’apertura di un percorso in self dedicato alla sostituzione delle carte da app&lt;/b&gt;, fondamentale per consentire ai nostri clienti di sostituire la propria carta Vpay o Maestro in autonomia prima della sua naturale scadenza, &lt;b&gt;per rinnovare il parco carte veicolandolo su soluzioni più innovative e a maggiore redditività&lt;/b&gt;.&lt;/li&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                  </span>&lt;li style="padding-bottom:14px;"&gt;&lt;b&gt;Proseguiamo inoltre nel consolidamento dei nostri prodotti e servizi digitali&lt;/b&gt;, con: &lt;ul&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                      </span>&lt;li style="padding-top:4px; padding-bottom:8px;"&gt;arricchimento della nostra &lt;b&gt;polizza UniSorriso&lt;/b&gt;&lt;/li&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                      </span>&lt;li style="padding-bottom:8px;"&gt;razionalizzazione dei &lt;b&gt;consensi Privacy&lt;/b&gt; indispensabili per comunicare con i nostri clienti&lt;/li&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                      </span>&lt;li style="padding-bottom:8px;"&gt;novità su &lt;b&gt;PagaPoi&lt;/b&gt;, con miglioramenti della user experience nel processo di sottoscrizione e ottimizzazione delle logiche dei motori di merito creditizio &lt;/li&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                      </span>&lt;li style="padding-bottom:8px;"&gt;possibilità di accedere a Smart Web semplicemente inquadrando con la app un QR Code&lt;/li&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;/ul&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                  </span>&lt;/li&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/ul&gt;</p>
+<p class="p1"><span class="Apple-converted-space">              </span>&lt;/mj-text&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;/mj-column&gt;</p>
+<p class="p1"><span class="Apple-converted-space">          </span>&lt;/mj-section&gt;</p>
+<p class="p1"><span class="Apple-converted-space">          </span>&lt;mj-text&gt;Contiamo sul vostro supporto per consentire alla rete di valorizzare al meglio i nostri Servizi Digitali, promuovendone il valore e l’utilizzo, e proseguire compatti nel percorso di digitalizzazione della nostra clientela.&lt;/mj-text&gt;</p>
+<p class="p1"><span class="Apple-converted-space">          </span>&lt;mj-text&gt;Per avere tutti gli aggiornamenti sui nostri servizi digitali visita &lt;b&gt;BSmart&lt;/b&gt;.&lt;/mj-text&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/mj-column&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;/mj-section&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/mj-wrapper&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;mj-section background-color="#f5f9f9" padding="0"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;mj-column width="100%"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"&gt;&lt;/mj-image&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;/mj-column&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;mj-column padding="0" width="100%"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"&gt;&lt;/mj-image&gt;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>&lt;/mj-column&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/mj-section&gt;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>&lt;/mj-body&gt;</p>
+<p class="p1">&lt;/mjml&gt;</p>
+</body>
+</html>
