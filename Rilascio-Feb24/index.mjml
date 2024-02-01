@@ -7,7 +7,7 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/Rilascio_Feb24/Header.png?raw=true" padding="0" alt="Smart Banking: le novità del rilascio di febbraio"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/Rilascio-Feb24/Header.png?raw=true" padding="0" alt="Smart Banking: le novità del rilascio di febbraio"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px">
