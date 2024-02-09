@@ -14,56 +14,63 @@
         <mj-column>
           <mj-text>Gentili colleghi e colleghe,</mj-text>
           <mj-text>con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionalità attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
-          <mj-section background-color="#fff" border-radius="24px" padding="10px">
-            <mj-column width="100%">
-              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
-              <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
-                Nuove installazioni effettuate:
-              </mj-text>
-            </mj-column>
-            <mj-column width="50%">
-              <mj-text font-size="24px" color="#00ae65"><b>5 CSA</b></mj-text>
-              <mj-divider border-color="#005157" border-width="1px"></mj-divider>
-              
-              <mj-text>
-                <ul style="padding-left:16px">
-                  <li>ANDRIA PIAZZA GUGLIELMO MARCONI</li>
-                  <li>PALERMO - AGENZIA 1
-                  </li>
-                  <li>CESENA - AGENZIA 3</li>
-                  <li>CASINALBO</li>
-                  <li>MODENA AG. 9</li>
-                </ul>
-              </mj-text>
-            </mj-column>
-            <mj-column width="50%">
-              <mj-text font-size="24px" color="#00ae65"><b>16 ATM</b></mj-text>
-              <mj-divider border-color="#005157" border-width="1px"></mj-divider>
-              <mj-text>
-                <ul style="padding-left:16px">
-                  <li>SORGONO</li>
-                  <li>CAGLIARI AG. 2</li>
-                  <li>PIACENZA SEDE</li>
-                  <li>OLBIA AG.1</li>
-                  <li>VARESE SANVITO</li>
-                  <li>CASTIGLIONE OLONA</li>
-                  <li>GROSSETO</li>
-                  <li>MINERBIO</li>
-                  <li>BOLOGNA AG. 20</li>
-                  <li>MODENA FIERE</li>
-                  <li>CAGLIARI EX AG. 12</li>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" border-radius="24px" padding="20px">
+        <mj-column width="100%">
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
+          <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
+            Nuove installazioni effettuate:
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-size="24px" color="#00ae65"><b>5 CSA</b></mj-text>
+          <mj-divider border-color="#005157" border-width="1px"></mj-divider>
 
-                  <li>NUXIS</li>
-                  <li>SASSARI AG.6</li>
-                  <li>OROTELLI</li>
-                  <li>SENIGALLIA</li>
-                </ul>
-              </mj-text>
-            </mj-column>
-          </mj-section>
+          <mj-text>
+            <ul style="padding-left:16px">
+              <li>ANDRIA PIAZZA GUGLIELMO MARCONI</li>
+              <li>PALERMO - AGENZIA 1
+              </li>
+              <li>CESENA - AGENZIA 3</li>
+              <li>CASINALBO</li>
+              <li>MODENA AG. 9</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text font-size="24px" color="#00ae65"><b>16 ATM EVO</b></mj-text>
+          <mj-divider border-color="#005157" border-width="1px"></mj-divider>
+          <mj-text>
+            <ul style="padding-left:16px">
+              <li>SORGONO</li>
+              <li>CAGLIARI AG. 2</li>
+              <li>PIACENZA SEDE</li>
+              <li>OLBIA AG.1</li>
+              <li style="line-height:16px">VARESE SANVITO <br><span style="font-size:12px;">(2 INSTALLAZIONI)</span></li>
+              <li>CASTIGLIONE OLONA</li>
+              <li>GROSSETO</li>
+              <li>MINERBIO</li>
+              <li>BOLOGNA AG. 20</li>
+              <li>MODENA FIERE</li>
+              <li>CAGLIARI EX AG. 12</li>
+
+              <li>NUXIS</li>
+              <li>SASSARI AG.6</li>
+              <li>OROTELLI</li>
+              <li>SENIGALLIA</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
           <mj-text>Clicca qui sotto per consultare una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
           <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/ETV4DQqfcqJOoYw0g4f4QywBq7jSFNSc7c3Mg5KW4GIEAQ?e=8TlCvb">Scarica il documento</mj-button>
           <mj-text line-height="14px"><i><b>Maurice Lisi e Diego Malerba</b></i></mj-text>
+        </mj-column>
+      </mj-section>
+
     </mj-wrapper>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
