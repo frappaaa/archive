@@ -65,11 +65,13 @@
             </mj-column>
               <mj-divider border-color="#fff" border-width="75px"></mj-divider>
           </mj-section>
+              <mj-text>A seguito dell’installazione di questa nuova dotazione, crescono le opportunità di migrazione delle transazioni nella tua filiale. Per questo tra due mesi, quando la piena conoscenza della nuova ATM vi consentirà di sfruttarne tutte le potenzialità, il Digital Transaction Ratio della tua filiale sarà aggiornato includendo tutte le nuove operazioni migrabili.</mj-text>
+              <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Unisciti a noi in questo percorso verso il futuro. 
+ Il tuo impegno e la tua competenza sono cruciali per garantire il raggiungimento dei nostri obiettivi di digitalizzazione."></mj-image>
+              <mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
+              <mj-text color="#3A888C" font-size="12px" line-height="14px"><i>*Il target 2024 è il risultato di un lavoro di stima del potenziale per singola filiale,in coerenza con i valori 2023, considerando le dotazioni a disposizione.
+Una voltainserita una nuova dotazione, solo dopo 2 mesi il DTR viene aggiornato peragevolarne l’ottimale sfruttamento.</i></mj-text>
     </mj-wrapper>
-    <mj-section>
-      <mj-column>
-      </mj-column>
-    </mj-section>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
