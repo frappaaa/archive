@@ -45,8 +45,7 @@
             <mj-column width="100%">
               <mj-text align="center" font-weight="bold" font-size="20px">
                 Obiettivi <span style="color:#00ae65">Santa Teresa Gallura:</span>
-              </mj-text>
-              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" height="1px"></mj-image>
+              </mj-text><mj-divider border-color="#005157" border-width="1px"></mj-divider>
             </mj-column>
             <mj-column width="50%">
               <mj-text><b>Migrazione digitale delle transazioni</b><br>
@@ -58,10 +57,13 @@
               <mj-text><b>Obiettivo fine 2024*</b></mj-text>
               <mj-text font-size="30px" align="center"><b>85,92 %</b></mj-text>
             </mj-column>
-            <mj-column width="100%" background-color="#000">
-              <mj-text align="center" padding-top="30px"><b>Numero di operazioni giornaliere da migrare oggi</b>
+              <mj-divider border-color="#fff" border-width="24px"></mj-divider>
+            <mj-column width="100%" background-color="#D9E7E8" padding="2px" border-radius="60px">
+              
+              <mj-text align="center"><b>Numero di operazioni giornaliere da migrare oggi</b><br>
                 per raggiungere il passo di periodo:  XXX</mj-text>
             </mj-column>
+              <mj-divider border-color="#fff" border-width="75px"></mj-divider>
           </mj-section>
     </mj-wrapper>
     <mj-section>
