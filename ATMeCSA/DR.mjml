@@ -13,7 +13,7 @@
       <mj-section background-color="#F5F9F9" border-radius="24px">
         <mj-column>
           <mj-text>Gentili colleghi e colleghe,</mj-text>
-          <mj-text>con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionaltà attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
+          <mj-text>con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionalità attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
           <mj-section background-color="#fff" border-radius="24px" padding="10px">
             <mj-column width="100%">
               <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
