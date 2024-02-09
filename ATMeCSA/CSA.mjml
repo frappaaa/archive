@@ -1,0 +1,80 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/Header-ATM.png?raw=true" padding="0" alt="è in arrivo un nuovo ATM Evoluto. Le dotazioni self aprono la tua filiale a nuove prospettive."></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#F5F9F9" border-radius="24px">
+        <mj-column>
+          <mj-text>Gentile [Nome direttore],</mj-text>
+          <mj-text>nella tua filiale il [xx/xx/xxxx] arriverà un <b>nuovo ATM evoluto</b>. Questa novità non solo contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, ma offrirà ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.</mj-text>
+          <mj-section background-color="#fff" border-radius="24px" padding="20px">
+            <mj-column width="100%">
+              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
+              <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
+                Le operazioni migrabili <span style="color:#00ae65">su ATM EVO sono:</span>
+              </mj-text>
+            </mj-column>
+            <mj-column width="33%">
+              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/01.png?raw=true" padding="0"></mj-image>
+            </mj-column>
+            <mj-column width="33%">
+              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/02.png?raw=true" padding="0"></mj-image>
+            </mj-column>
+            <mj-column width="33%">
+              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/03.png?raw=true" padding="0"></mj-image>
+            </mj-column>
+            <mj-column width="33%">
+              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/04.png?raw=true" padding="0"></mj-image>
+            </mj-column>
+            <mj-column width="33%">
+              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/05.png?raw=true" padding="0"></mj-image>
+            </mj-column>
+            <mj-column width="33%">
+              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/06.png?raw=true" padding="0"></mj-image>
+            </mj-column>
+          </mj-section>
+          <mj-text>Per realizzare appieno questa trasformazione, <b>contiamo sul tuo contributo</b>.<br>Ecco perché ci siamo posti degli <b>obiettivi concreti e realizzabili</b>, calcolati sul <b>potenziale della tua filiale</b>.</mj-text>
+          <mj-section background-url="https://github.com/frappaaa/archive/blob/main/ATMeCSA/BOX.png?raw=true" border-radius="24px" padding="20px" background-size="cover" background-repeat="no-repeat">
+            <mj-column width="100%">
+              <mj-text align="center" font-weight="bold" font-size="20px">
+                Obiettivi <span style="color:#00ae65">Santa Teresa Gallura:</span>
+              </mj-text>
+              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" height="1px"></mj-image>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text><b>Migrazione digitale delle transazioni</b><br>
+                <span>Santa Teresa Gallura</span>
+              </mj-text>
+              <mj-text font-size="30px" align="center"><b>90,65 %</b></mj-text>
+            </mj-column>
+            <mj-column width="50%">
+              <mj-text><b>Obiettivo fine 2024*</b></mj-text>
+              <mj-text font-size="30px" align="center"><b>85,92 %</b></mj-text>
+            </mj-column>
+            <mj-column width="100%" background-color="#000">
+              <mj-text align="center" padding-top="30px"><b>Numero di operazioni giornaliere da migrare oggi</b>
+                per raggiungere il passo di periodo:  XXX</mj-text>
+            </mj-column>
+          </mj-section>
+    </mj-wrapper>
+    <mj-section>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
