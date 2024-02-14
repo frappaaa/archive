@@ -8,16 +8,16 @@
   <mj-body background-color="#fff">
     <mj-section padding="24px 0 0 0" background-color="#fff">
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/Header-ATM.png?raw=true" padding="0" alt="è arrivato il nuovo ATM Evoluto. Le dotazioni self aprono la tua filiale a nuove prospettive."></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Collega/Header.png?raw=true" padding="0" alt="è arrivato il nuovo ATM Evoluto. Le dotazioni self aprono la tua filiale a nuove prospettive."></mj-image>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#F5F9F9" border-radius="24px">
         <mj-column width="100%">
           <mj-text>Gentile Collega,<br>
-nella tua filiale è arrivato un <b>nuovo ATM evoluto</b>.<br>
-Questa novità contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, consentendoti di ridurre l'attività allo sportello e offrendo ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.
-</mj-text>
+            nella tua filiale è arrivato un <b>nuovo ATM evoluto</b>.<br>
+            Questa novità contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, consentendoti di ridurre l'attività allo sportello e offrendo ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.
+          </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fff" border-radius="24px" padding="20px">
@@ -48,14 +48,15 @@ Questa novità contribuirà a rendere più <b>efficace l’operatività transazi
       </mj-section>
       <mj-section>
         <mj-column>
-          <mj-text>Per assicurare un pieno sfruttamento delle nuove dotazioni sarà importante <b>accompagnare sistematicamente tutti i clienti all’utilizzo</b>.<br> 
-A tal proposito, abbiamo creato un <b>documento che ti guiderà con suggerimenti pratici</b> sui percorsi consigliati per sfruttare al meglio tutte le opportunità di interazione col cliente e renderlo sempre più autonomo nella gestione in self delle transazioni.</mj-text>
-                    <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/ETV4DQqfcqJOoYw0g4f4QywBq7jSFNSc7c3Mg5KW4GIEAQ?e=8TlCvb">Scarica il documento</mj-button>
-<mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/visita-in-filiale.png"></mj-image>
-            <mj-text><b>Il tuo ruolo è fondamentale per realizzare appieno questa trasformazione.</b> 
-              <br></br>
-Ecco perché ci siamo posti degli <b>obiettivi concreti e realizzabili</b>, 
-calcolati sul <b>potenziale della tua filiale</b>.</mj-text>
+          <mj-text>Per assicurare un pieno sfruttamento delle nuove dotazioni sarà importante <b>accompagnare sistematicamente tutti i clienti all’utilizzo</b>.<br>
+            A tal proposito, abbiamo creato un <b>documento che ti guiderà con suggerimenti pratici</b> sui percorsi consigliati per sfruttare al meglio tutte le opportunità di interazione col cliente e renderlo sempre più autonomo nella gestione in self delle transazioni.</mj-text>
+          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/ETV4DQqfcqJOoYw0g4f4QywBq7jSFNSc7c3Mg5KW4GIEAQ?e=8TlCvb">Scarica il documento</mj-button>
+          <mj-image padding="0" src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/visita_in_filiale.png?raw=true"></mj-image>
+          <mj-text><b>Il tuo ruolo è fondamentale per realizzare appieno questa trasformazione.</b>
+            <br></br>
+            Ecco perché ci siamo posti degli <b>obiettivi concreti e realizzabili</b>,
+            calcolati sul <b>potenziale della tua filiale</b>.
+          </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fff" border-radius="24px" padding="20px" background-size="cover" background-repeat="no-repeat">
@@ -66,12 +67,22 @@ calcolati sul <b>potenziale della tua filiale</b>.</mj-text>
           <mj-divider border-color="#005157" border-width="1px"></mj-divider>
         </mj-column>
         <mj-column width="50%">
-          <mj-text><b>Dato attuale<br>Digital Transaction Ratio</b>
-          </mj-text>
+          <mj-table cellpadding="2px" padding-right="8px" font-family="Arial" font-size="16px" color="#005157">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DTR.png?raw=true" /></th>
+              <th style="text-align:left;">Dato attuale<br>
+                Digital Transaction Ratio</th>
+            </tr>
+          </mj-table>
           <mj-text font-size="30px" align="center"><b>xx,xx %</b></mj-text>
         </mj-column>
         <mj-column width="50%">
-          <mj-text><b>Obiettivo al<br>31 12 2024</b></mj-text>
+          <mj-table cellpadding="2px" padding-right="8px" font-family="Arial" font-size="16px" color="#005157">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/obiettivo.png?raw=true" /></th>
+              <th style="text-align:left;">Obiettivo al<br>31 12 2024</th>
+            </tr>
+          </mj-table>
           <mj-text font-size="30px" align="center"><b>xx,xx %</b></mj-text>
           <mj-divider border-color="#fff" border-width="24px"></mj-divider>
         </mj-column>
@@ -84,20 +95,18 @@ calcolati sul <b>potenziale della tua filiale</b>.</mj-text>
       </mj-section>
       <mj-section>
         <mj-column>
-          <mj-text>A seguito dell’installazione di questa nuova dotazione, crescono le opportunità di migrazione delle transazioni nella tua filiale. Per questo tra due mesi, quando la piena conoscenza della nuova ATM vi consentirà di sfruttarne tutte le potenzialità, il Digital Transaction Ratio della tua filiale sarà aggiornato includendo tutte le nuove operazioni migrabili.</mj-text>
+          <mj-image padding="0" src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/BannerEND.png?raw=true"></mj-image>
           <mj-text font-size="20px"><b><i>Grazie per il tuo impegno</i></b></mj-text>
           <mj-text color="#3A888C" font-size="12px" line-height="14px"><i> *Il target 2024 è il risultato di un lavoro di stima del potenziale per singola filiale, in coerenza con i valori 2023, considerando le dotazioni a disposizione.<br>
-Una volta inserita una nuova dotazione, solo dopo 2 mesi il DTR viene aggiornato per agevolarne l’ottimale sfruttamento.</i></mj-text>
+              Una volta inserita una nuova dotazione, solo dopo 2 mesi il DTR viene aggiornato per agevolarne l’ottimale sfruttamento.</i></mj-text>
         </mj-column>
       </mj-section>
-
-
     </mj-wrapper>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
-        <mj-text align="center" font-size="9px" color="#F5F9F9">
-          <p>
+        <mj-text align="center" font-size="4px" color="#F5F9F9" padding="0">
+          <p style="margin:0px">
             This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_IT]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>.
           </p>
         </mj-text>
