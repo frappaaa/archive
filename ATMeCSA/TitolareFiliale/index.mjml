@@ -24,62 +24,62 @@
           </mj-text>
         </mj-column>
         <mj-column width="33%">
-          <mj-table font-size="16px" color="#00ae65" align="left">
+          <mj-table font-size="20px" color="#00ae65" font-family="arial" cellpadding="2px">
             <tr>
               <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-csa.png?raw=true"></img></th>
-              <th>5 CSA</th>
+              <th style="text-align:left">5 CSA</th>
             </tr>
           </mj-table>
-          <mj-divider border-color="#005157" border-width="1px"></mj-divider>
-          <mj-text padding="0" font-size="14px" line-height="18px">
+          <mj-divider border-color="#005157" border-width="1px" padding="0 4px"></mj-divider>
+          <mj-text padding-left="0" font-size="14px" line-height="18px">
             <ul style="padding-left:16px">
               <li>ANDRIA PIAZZA GUGLIELMO MARCONI</li>
-              <li>PALERMO - AGENZIA 1
+              <li>PALERMO - AG. 1
               </li>
-              <li>CESENA - AGENZIA 3</li>
+              <li>CESENA - AG. 3</li>
               <li>CASINALBO</li>
-              <li>MODENA AG. 9</li>
+              <li>MODENA - AG. 9</li>
             </ul>
           </mj-text>
         </mj-column>
         <mj-column width="33%">
-          <mj-table font-size="16px" color="#00ae65" align="left">
+          <mj-table font-size="20px" color="#00ae65" font-family="arial" cellpadding="2px" padding="10px 10px">
             <tr>
               <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-atmevo.png?raw=true"></img></th>
-              <th>5 ATM Evo</th>
+              <th style="text-align:left">5 ATM Evo</th>
             </tr>
           </mj-table>
-          <mj-text font-size="24px" color="#00ae65"><b></b></mj-text>
-          <mj-divider border-color="#005157" border-width="1px"></mj-divider>
-          <mj-text padding="0" font-size="14px" line-height="18px">
+          <mj-divider border-color="#005157" border-width="1px" padding="0 4px"></mj-divider>
+          <mj-text padding-left="0" font-size="14px" line-height="18px">
             <ul style="padding-left:16px">
               <li>ANDRIA PIAZZA GUGLIELMO MARCONI</li>
-              <li>PALERMO - AGENZIA 1</li>
-              <li>CESENA - AGENZIA 3</li>
+              <li>PALERMO - AG, 1</li>
+              <li>CESENA - AG. 3</li>
               <li>CASINALBO</li>
-              <li>MODENA AG. 9</li>
+              <li>MODENA - AG. 9</li>
             </ul>
           </mj-text>
         </mj-column>
         <mj-column width="33%">
-          <mj-table font-size="16px" color="#00ae65" align="left">
+          <mj-table font-size="20px" color="#00ae65" font-family="arial" cellpadding="2px">
             <tr>
               <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-vetrine.png?raw=true"></img></th>
-              <th>5 Vetrine</th>
+              <th style="text-align:left">5 Vetrine</th>
             </tr>
           </mj-table>
-          <mj-divider border-color="#005157" border-width="1px"></mj-divider>
-          <mj-text padding="0" font-size="14px" line-height="18px">
+          <mj-divider border-color="#005157" border-width="1px" padding="0 4px"></mj-divider>
+          <mj-text padding-left="0" font-size="14px" line-height="18px">
             <ul style="padding-left:16px">
               <li>SORGONO</li>
-              <li>CAGLIARI AG. 2</li>
+              <li>CAGLIARI - AG. 2</li>
               <li>PIACENZA SEDE</li>
-              <li>OLBIA AG.1</li>
+              <li>OLBIA - AG.1</li>
               <li>VARESE SANVITO (2 ATM)</li>
             </ul>
           </mj-text>
         </mj-column>
       </mj-section>
+    <mj-section><mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/cartina.png?raw=true" align="center" padding="0"></mj-image></mj-column></mj-section>
       <mj-section>
         <mj-column>
           <mj-text><b>Nuove funzionalità implementate:</b>
