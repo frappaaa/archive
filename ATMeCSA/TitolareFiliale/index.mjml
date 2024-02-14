@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/Header.png?raw=true" padding="0" alt="Verso il futuro. L’evoluzione della transazionalità in self"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px" padding-top="0px">
+      <mj-section background-color="#F5F9F9" border-radius="24px">
+        <mj-column>
+          <mj-text>Gentili colleghi e colleghe,</br>
+            con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionaltà attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" border-radius="24px" padding="20px">
+        <mj-column width="100%">
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
+          <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
+            Nuove installazioni effettuate:
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%">
+          <mj-table font-size="16px" color="#00ae65" align="left">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-csa.png?raw=true"></img></th>
+              <th>5 CSA</th>
+            </tr>
+          </mj-table>
+          <mj-divider border-color="#005157" border-width="1px"></mj-divider>
+          <mj-text padding="0" font-size="14px" line-height="18px">
+            <ul style="padding-left:16px">
+              <li>ANDRIA PIAZZA GUGLIELMO MARCONI</li>
+              <li>PALERMO - AGENZIA 1
+              </li>
+              <li>CESENA - AGENZIA 3</li>
+              <li>CASINALBO</li>
+              <li>MODENA AG. 9</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%">
+          <mj-table font-size="16px" color="#00ae65" align="left">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-atmevo.png?raw=true"></img></th>
+              <th>5 ATM Evo</th>
+            </tr>
+          </mj-table>
+          <mj-text font-size="24px" color="#00ae65"><b></b></mj-text>
+          <mj-divider border-color="#005157" border-width="1px"></mj-divider>
+          <mj-text padding="0" font-size="14px" line-height="18px">
+            <ul style="padding-left:16px">
+              <li>ANDRIA PIAZZA GUGLIELMO MARCONI</li>
+              <li>PALERMO - AGENZIA 1</li>
+              <li>CESENA - AGENZIA 3</li>
+              <li>CASINALBO</li>
+              <li>MODENA AG. 9</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%">
+          <mj-table font-size="16px" color="#00ae65" align="left">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-vetrine.png?raw=true"></img></th>
+              <th>5 Vetrine</th>
+            </tr>
+          </mj-table>
+          <mj-divider border-color="#005157" border-width="1px"></mj-divider>
+          <mj-text padding="0" font-size="14px" line-height="18px">
+            <ul style="padding-left:16px">
+              <li>SORGONO</li>
+              <li>CAGLIARI AG. 2</li>
+              <li>PIACENZA SEDE</li>
+              <li>OLBIA AG.1</li>
+              <li>VARESE SANVITO (2 ATM)</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text><b>Nuove funzionalità implementate:</b>
+
+            <ul>
+              <li><b>Modalità autorizzativa</b> per opzioni di importo elevato: permette al cliente di eseguire operazioni di importo elevato se autorizzato dal personale di filiale tramite procedura dedicata</li>
+              <li><b>Mail di alert giacenza rulli</b>: vengono generate delle mailautomatiche verso le filiali per riportare la giacenza delle Casse Smart in duemomenti della giornata</li>
+            </ul>
+
+
+            Di seguito il <b>[Nome documento]</b> da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.
+          </mj-text>
+          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/ETV4DQqfcqJOoYw0g4f4QywBq7jSFNSc7c3Mg5KW4GIEAQ?e=8TlCvb">Scarica il documento</mj-button>
+          <mj-text line-height="14px"><i><b>Maurice Lisi e Diego Malerba</b></i></mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
