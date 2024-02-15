@@ -60,7 +60,7 @@
         <mj-column>
           <mj-text>Per assicurare un pieno sfruttamento delle nuove dotazioni sarà importante <b>accompagnare sistematicamente tutti i clienti all’utilizzo</b>.
             A tal proposito, abbiamo creato un <b>documento che ti guiderà con suggerimenti pratici</b> sui percorsi consigliati per sfruttare al meglio tutte le opportunità di interazione col cliente e renderlo sempre più autonomo nella gestione in self delle transazioni.</mj-text>
-          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/ETV4DQqfcqJOoYw0g4f4QywBq7jSFNSc7c3Mg5KW4GIEAQ?e=8TlCvb">Scarica il documento</mj-button>
+          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/francesco_luppi_bper_it/Eb3K3cHoT6BAlgwV5jQHRRcBFWEpa8644sd6f8IvigCQDA?e=3fqCTE">Scarica il documento</mj-button>
           <mj-image padding="0" src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/visita_in_filiale.png?raw=true"></mj-image>
           <mj-text padding="20px 30px"><b>Il tuo ruolo è fondamentale per realizzare appieno questa trasformazione.</b></mj-text>
           <mj-image padding="0" src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/BannerEND.png?raw=true"></mj-image>
