@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Collega/Header.png?raw=true" padding="0" alt="è arrivato il nuovo ATM Evoluto. Le dotazioni self aprono la tua filiale a nuove prospettive."></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#F5F9F9" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>Gentile Collega,<br></br>
+            nella tua filiale è arrivato un <b>nuovo ATM evoluto</b>.
+            Questa novità contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, consentendoti di ridurre l'attività allo sportello e offrendo ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" border-radius="24px" padding="20px">
+        <mj-column width="100%">
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
+          <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
+            Le operazioni migrabili <span style="color:#00ae65">su ATM EVO sono:</span>
+          </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/listaOperazioni.png?raw=true" padding="0"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text>Per assicurare un pieno sfruttamento delle nuove dotazioni sarà importante <b>accompagnare sistematicamente tutti i clienti all’utilizzo</b>.<br></br>
+            A tal proposito, abbiamo creato un <b>documento che ti guiderà con suggerimenti pratici</b> sui percorsi consigliati per sfruttare al meglio tutte le opportunità di interazione col cliente e renderlo sempre più autonomo nella gestione in self delle transazioni.</mj-text>
+          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/francesco_luppi_bper_it/ETHJYUkYE-dNiiDLqqs4mmIBB9TjYAmGx3rbTxug1B0e1A">Scarica il documento</mj-button>
+          <mj-text padding="20px 30px"><b>Il tuo ruolo è fondamentale per realizzare appieno questa trasformazione.</b>
+
+          </mj-text>
+          <mj-image  src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/BannerEND.png?raw=true" alt="Unisciti a noi in questo percorso verso il futuro. 
+Il tuo impegno e la tua competenza sono cruciali per garantire il raggiungimento dei nostri obiettivi di digitalizzazione."></mj-image>
+          <mj-text font-size="20px" padding="16px"><i>Grazie per il tuo impegno</i></mj-text>
+            <mj-image padding="10px" src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0"><mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
