@@ -13,7 +13,7 @@
       <mj-section background-color="#F5F9F9" border-radius="24px">
         <mj-column width="100%">
           <mj-text>Gentile [Nome direttore],</mj-text>
-          <mj-text>nella tua filiale il [xx/xx/xxxx] arriverà un <b>nuovo ATM evoluto</b>. Questa novità non solo contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, ma offrirà ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.</mj-text></mj-column>
+          <mj-text>nella tua filiale nei prossimi giorni arriverà un <b>nuovo ATM evoluto</b>. Questa novità non solo contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, ma offrirà ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.</mj-text></mj-column>
       </mj-section>
           <mj-section background-color="#fff" border-radius="24px" padding="20px">
             <mj-column width="100%">
@@ -45,18 +45,27 @@
           <mj-section background-color="#fff" border-radius="24px" padding="20px" background-size="cover" background-repeat="no-repeat">
             <mj-column width="100%">
               <mj-text align="center" font-weight="bold" font-size="20px">
-                Migrazione digitale delle transazioni <span style="color:#00ae65">Santa Teresa Gallura:</span>
+                Migrazione digitale delle transazioni<br> <span style="color:#00ae65">Santa Teresa Gallura:</span>
               </mj-text><mj-divider border-color="#005157" border-width="1px"></mj-divider>
             </mj-column>
             <mj-column width="50%">
-              <mj-text><b>Migrazione digitale delle transazioni</b><br>
-                <span>Santa Teresa Gallura</span>
-              </mj-text>
-              <mj-text font-size="30px" align="center"><b>90,65 %</b></mj-text>
-            </mj-column>
-            <mj-column width="50%">
-              <mj-text><b>Obiettivo fine 2024*</b></mj-text>
-              <mj-text font-size="30px" align="center"><b>85,92 %</b></mj-text>
+              <mj-table cellpadding="2px" padding-right="8px" font-family="Arial" font-size="16px" color="#005157">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DTR.png?raw=true" /></th>
+              <th style="text-align:left;">Dato attuale<br>
+                Digital Transaction Ratio</th>
+            </tr>
+          </mj-table>
+          <mj-text font-size="30px" align="center"><b>xx,xx %</b></mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-table cellpadding="2px" padding-right="8px" font-family="Arial" font-size="16px" color="#005157">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/obiettivo.png?raw=true" /></th>
+              <th style="text-align:left;">Obiettivo al<br>31 12 2024</th>
+            </tr>
+          </mj-table>
+          <mj-text font-size="30px" align="center"><b>xx,xx %</b></mj-text>
               <mj-divider border-color="#fff" border-width="24px"></mj-divider>
             </mj-column>
               

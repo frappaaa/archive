@@ -15,7 +15,7 @@
       <mj-section background-color="#F5F9F9" border-radius="24px">
         <mj-column width="100%">
           <mj-text>Gentile [Nome direttore],</mj-text>
-          <mj-text>nella tua filiale il <b>13/02/2024</b> arriverà una <b>nuova Cassa Smart</b>. Questa novità non solo contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, ma offrirà ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.</mj-text>
+          <mj-text>nella tua filiale nei prossimi giorni arriverà una <b>nuova Cassa Smart</b>. Questa novità non solo contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, ma offrirà ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fff" border-radius="24px" padding="20px">
@@ -24,34 +24,9 @@
           <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
             Le operazioni migrabili <span style="color:#00ae65">su Cassa Smart CSA sono:</span>
           </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/listaOperazioni.png?raw=true" padding="0"></mj-image>
         </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/01.png?raw=true" padding="0"></mj-image>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/02.png?raw=true" padding="0"></mj-image>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/03.png?raw=true" padding="0"></mj-image>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/04.png?raw=true" padding="0"></mj-image>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/05.png?raw=true" padding="0"></mj-image>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/06.png?raw=true" padding="0"></mj-image>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/07.png?raw=true" padding="0"></mj-image>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/08.png?raw=true" padding="0"></mj-image>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/09.png?raw=true" padding="0"></mj-image>
-        </mj-column>
+        
       </mj-section>
       <mj-section>
         <mj-column>
@@ -66,13 +41,23 @@
           <mj-divider border-color="#005157" border-width="1px"></mj-divider>
         </mj-column>
         <mj-column width="50%">
-          <mj-text><b>Dato attuale Digital Transaction Ratio</b>
-          </mj-text>
-          <mj-text font-size="30px" align="center"><b>90,65 %</b></mj-text>
+          <mj-table cellpadding="2px" padding-right="8px" font-family="Arial" font-size="16px" color="#005157">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DTR.png?raw=true" /></th>
+              <th style="text-align:left;">Dato attuale<br>
+                Digital Transaction Ratio</th>
+            </tr>
+          </mj-table>
+          <mj-text font-size="30px" align="center"><b>xx,xx %</b></mj-text>
         </mj-column>
         <mj-column width="50%">
-          <mj-text><b>Obiettivo al</b></br>31 12 2024</mj-text>
-          <mj-text font-size="30px" align="center"><b>85,92 %</b></mj-text>
+          <mj-table cellpadding="2px" padding-right="8px" font-family="Arial" font-size="16px" color="#005157">
+            <tr>
+              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/obiettivo.png?raw=true" /></th>
+              <th style="text-align:left;">Obiettivo al<br>31 12 2024</th>
+            </tr>
+          </mj-table>
+          <mj-text font-size="30px" align="center"><b>xx,xx %</b></mj-text>
           <mj-divider border-color="#fff" border-width="24px"></mj-divider>
         </mj-column>
 
