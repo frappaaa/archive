@@ -14,8 +14,8 @@
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#F5F9F9" border-radius="24px">
         <mj-column width="100%">
-          <mj-text>Gentile Collega,
-            nella tua filiale è arrivato una <b>nuova Cassa Smart</b>.
+          <mj-text>Gentile Collega,</br>
+            nella tua filiale è arrivata una <b>nuova Cassa Smart</b>.
             Questa novità contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, consentendoti di ridurre l'attività allo sportello e offrendo ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.
 
           </mj-text>
@@ -34,8 +34,7 @@
         <mj-column>
           <mj-text>Per assicurare un pieno sfruttamento delle nuove dotazioni sarà importante <b>accompagnare sistematicamente tutti i clienti all’utilizzo</b>.
             A tal proposito, abbiamo creato un <b>documento che ti guiderà con suggerimenti pratici</b> sui percorsi consigliati per sfruttare al meglio tutte le opportunità di interazione col cliente e renderlo sempre più autonomo nella gestione in self delle transazioni.</mj-text>
-          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/francesco_luppi_bper_it/ETHJYUkYE-dNiiDLqqs4mmIBB9TjYAmGx3rbTxug1B0e1A">Scarica il documento</mj-button>
-          <mj-text padding="20px 30px"><b>Il tuo ruolo è fondamentale per realizzare appieno questa trasformazione.</b></mj-text>
+          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/francesco_luppi_bper_it/ERc2I-qEAClDvpNO_p7dgncBFA9SA9RZhrq3VJpNIYfJeg">Scarica il documento</mj-button>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/BannerEND.png?raw=true" alt="Unisciti a noi in questo percorso verso il futuro. 
 Il tuo impegno e la tua competenza sono cruciali per garantire il raggiungimento dei nostri obiettivi di digitalizzazione."></mj-image>
           <mj-text font-size="20px"><i>Grazie per il tuo impegno</i></mj-text>
