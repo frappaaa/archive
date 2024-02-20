@@ -7,81 +7,56 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/Header.png?raw=true" padding="0" alt="Verso il futuro. L’evoluzione della transazionalità in self"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/Header.png?raw=true" padding="0" alt="Verso il futuro. Andamento KPI"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px" padding-top="0px">
       <mj-section background-color="#F5F9F9" border-radius="24px">
         <mj-column>
           <mj-text>Gentili colleghi e colleghe,</br>
-            con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionaltà attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
+            il percorso di digitalizzazione che abbiamo intrapreso è ambizioso ma basato su obiettivi concreti e realizzabili che vogliamo condividere periodicamente con voi, per seguirne l’avanzamento e sviluppare appieno il potenziale di digitalizzazione dei nostri clienti.</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#fff" border-radius="24px" padding="20px">
+      <mj-section background-color="#fff" border-radius="40px" padding="20px">
         <mj-column width="100%">
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
           <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
-            Nuove installazioni effettuate:
+            TITOLO
+          </mj-text>
+
+          <mj-divider border-color="#005157" border-width="1px" padding="0 4px"></mj-divider>
+        </mj-column>
+        <mj-column width="33%">
+          <mj-raw><svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+              <path d="M13.603 5C13.603 6.10457 11.1406 7 8.10303 7C5.06546 7 2.60303 6.10457 2.60303 5M13.603 5C13.603 3.89543 11.1406 3 8.10303 3C5.06546 3 2.60303 3.89543 2.60303 5M13.603 5V6.5M2.60303 5V17C2.60303 18.1046 5.06546 19 8.10303 19M8.10303 11C7.93448 11 7.76771 10.9972 7.60303 10.9918C4.79978 10.9 2.60303 10.0433 2.60303 9M8.10303 15C5.06546 15 2.60303 14.1046 2.60303 13M22.603 11.5C22.603 12.6046 20.1406 13.5 17.103 13.5C14.0655 13.5 11.603 12.6046 11.603 11.5M22.603 11.5C22.603 10.3954 20.1406 9.5 17.103 9.5C14.0655 9.5 11.603 10.3954 11.603 11.5M22.603 11.5V19C22.603 20.1046 20.1406 21 17.103 21C14.0655 21 11.603 20.1046 11.603 19V11.5M22.603 15.25C22.603 16.3546 20.1406 17.25 17.103 17.25C14.0655 17.25 11.603 16.3546 11.603 15.25" stroke="#00AE65" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            </svg></mj-raw>
+          <mj-text padding="0"><b>Vendite digitali a distanza</b></mj-text>
+
+          <mj-text padding-left="0" font-size="24px" line-height="18px" align="center">
+            <b>xx,xx%</b>
           </mj-text>
         </mj-column>
         <mj-column width="33%">
-          <mj-table font-size="20px" color="#00ae65" font-family="arial" cellpadding="2px">
-            <tr>
-              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-csa.png?raw=true"></img></th>
-              <th style="text-align:left">5 CSA</th>
-            </tr>
-          </mj-table>
-          <mj-divider border-color="#005157" border-width="1px" padding="0 4px"></mj-divider>
-          <mj-text padding-left="0" font-size="14px" line-height="18px">
-            <ul style="padding-left:16px">
-              <li>ANDRIA PIAZZA GUGLIELMO MARCONI</li>
-              <li>PALERMO - AG. 1
-              </li>
-              <li>CESENA - AG. 3</li>
-              <li>CASINALBO</li>
-              <li>MODENA - AG. 9</li>
-            </ul>
+          <mj-raw><svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+              <path d="M6.64564 9.31221V16.4241M10.6461 9.31221V16.4241M15.091 9.31221V16.4241M19.0914 9.31221V16.4241M4.86768 17.8464L4.86768 18.5576C4.86768 19.0555 4.86768 19.3044 4.96457 19.4946C5.0498 19.6619 5.1858 19.7979 5.35307 19.8831C5.54323 19.98 5.79217 19.98 6.29005 19.98H19.447C19.9449 19.98 20.1938 19.98 20.384 19.8831C20.5512 19.7979 20.6872 19.6619 20.7725 19.4946C20.8694 19.3044 20.8694 19.0555 20.8694 18.5576V17.8464C20.8694 17.3486 20.8694 17.0996 20.7725 16.9095C20.6872 16.7422 20.5512 16.6062 20.384 16.521C20.1938 16.4241 19.9449 16.4241 19.447 16.4241H6.29005C5.79217 16.4241 5.54323 16.4241 5.35307 16.521C5.1858 16.6062 5.0498 16.7422 4.96457 16.9095C4.86768 17.0996 4.86768 17.3486 4.86768 17.8464ZM12.56 4.04688L5.98149 5.50876C5.58406 5.59708 5.38535 5.64124 5.23702 5.7481C5.10618 5.84236 5.00345 5.97043 4.93982 6.1186C4.86768 6.28658 4.86768 6.49014 4.86768 6.89727L4.86768 7.88984C4.86768 8.38771 4.86768 8.63665 4.96457 8.82682C5.0498 8.99409 5.1858 9.13009 5.35307 9.21532C5.54323 9.31221 5.79217 9.31221 6.29005 9.31221H19.447C19.9449 9.31221 20.1938 9.31221 20.384 9.21532C20.5512 9.13009 20.6872 8.99409 20.7725 8.82682C20.8694 8.63665 20.8694 8.38771 20.8694 7.88984V6.89727C20.8694 6.49014 20.8694 6.28658 20.7972 6.1186C20.7336 5.97043 20.6309 5.84236 20.5 5.7481C20.3517 5.64124 20.153 5.59708 19.7555 5.50877L13.1771 4.04688C13.0619 4.02129 13.0044 4.0085 12.9462 4.0034C12.8945 3.99887 12.8425 3.99887 12.7909 4.0034C12.7327 4.0085 12.6751 4.02129 12.56 4.04688Z" stroke="#00AE65" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            </svg></mj-raw>
+          <mj-text padding="0"><b>Vendite digitali in filiale</b></mj-text>
+
+          <mj-text padding-left="0" font-size="24px" line-height="18px" align="center">
+            <b>xx,xx%</b>
           </mj-text>
         </mj-column>
         <mj-column width="33%">
-          <mj-table font-size="20px" color="#00ae65" font-family="arial" cellpadding="2px" padding="10px 10px">
-            <tr>
-              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-atmevo.png?raw=true"></img></th>
-              <th style="text-align:left">5 ATM Evo</th>
-            </tr>
-          </mj-table>
-          <mj-divider border-color="#005157" border-width="1px" padding="0 4px"></mj-divider>
-          <mj-text padding-left="0" font-size="14px" line-height="18px">
-            <ul style="padding-left:16px">
-              <li>ANDRIA PIAZZA GUGLIELMO MARCONI</li>
-              <li>PALERMO - AG, 1</li>
-              <li>CESENA - AG. 3</li>
-              <li>CASINALBO</li>
-              <li>MODENA - AG. 9</li>
-            </ul>
-          </mj-text>
-        </mj-column>
-        <mj-column width="33%">
-          <mj-table font-size="20px" color="#00ae65" font-family="arial" cellpadding="2px">
-            <tr>
-              <th><img src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/icon-vetrine.png?raw=true"></img></th>
-              <th style="text-align:left">5 Vetrine</th>
-            </tr>
-          </mj-table>
-          <mj-divider border-color="#005157" border-width="1px" padding="0 4px"></mj-divider>
-          <mj-text padding-left="0" font-size="14px" line-height="18px">
-            <ul style="padding-left:16px">
-              <li>SORGONO</li>
-              <li>CAGLIARI - AG. 2</li>
-              <li>PIACENZA SEDE</li>
-              <li>OLBIA - AG.1</li>
-              <li>VARESE SANVITO (2 ATM)</li>
-            </ul>
+          <mj-raw><svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
+              <path d="M4.13232 7H15.1323M15.1323 7L11.1323 11M15.1323 7L11.1323 3M4.13232 17H20.1323M20.1323 17L16.1323 21M20.1323 17L16.1323 13" stroke="#00AE65" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            </svg></mj-raw>
+          <mj-text padding="0"><b>Migrazione digitale delle transazioni</b></mj-text>
+
+          <mj-text padding-left="0" font-size="24px" line-height="18px" align="center">
+            <b>xx,xx%</b>
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section>
         <mj-column>
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/TitolareFiliale/cartina.png?raw=true" align="center" padding="0"></mj-image>
           <mj-text padding-top="30px"><b>Nuove funzionalità implementate:</b>
 
             <ul>
@@ -90,8 +65,10 @@
             </ul>
             Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.
           </mj-text>
-          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/ETV4DQqfcqJOoYw0g4f4QywBq7jSFNSc7c3Mg5KW4GIEAQ?e=8TlCvb">Scarica il documento</mj-button>
-          <mj-text line-height="14px"><i><b>Maurice Lisi e Diego Malerba</b></i></mj-text>
+          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="">Guarda la dashboard</mj-button>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/BannerEND.png?raw=true" align="center" padding="0"></mj-image>
+
+          <mj-text line-height="14px"><i><b>Grazie per il vostro contributo</b></i></mj-text>
         </mj-column>
       </mj-section>
 
