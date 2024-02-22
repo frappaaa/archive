@@ -97,7 +97,7 @@
       <mj-section>
         <mj-column>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/cartina.png?raw=true" alt="Dotazioni 
-complessive 2024: 155 CSA e 240 ATM evo"></mj-image>
+complessive 2024: 155 CSA e 240 ATM evo" padding="0"></mj-image>
           <mj-text><b>Nuove funzionalità implementate:</b></mj-text>
           <mj-text><ul><li><b>Mail alert giacenza rulli CSA (dal 22/02)</b>: vengono generate delle mail automatiche verso le filiali per riportare la giacenza della dotazione ed eventuali alert in due momenti della giornata</li></ul></mj-text>
           <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
