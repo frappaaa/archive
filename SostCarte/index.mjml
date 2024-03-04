@@ -42,10 +42,10 @@
       <mj-column width="100%">
         <mj-text font-weight="bold" padding-bottom="0">Maurice Lisi</mj-text>
         <mj-text padding-top="0"><i>Direzione Digital Business</i></mj-text>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/SostCarte/logo_footer.png"></mj-image>
+        <mj-image src="http://docs.bper.it/gruppobper/immagini/dem/logo_footer.png?raw=true?"></mj-image>
       </mj-column>
       <mj-column padding="0" width="100%">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+        <mj-image src="https://docs.bper.it/gruppobper/immagini/dem/bordi_fondo.png?raw=true?" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff">
