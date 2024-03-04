@@ -75,6 +75,9 @@ Una volta inserita una nuova dotazione, solo dopo 2 mesi il DTR viene aggiornato
       </mj-section>
     </mj-wrapper>
     <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+      </mj-column>
 
       <mj-column padding="0" width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
