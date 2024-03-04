@@ -7,13 +7,15 @@
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/SostCarte/Header.png?raw=true" padding="0" alt="Sostituzione in filiale con la nuova Carta di Debito"></mj-image>
+      <mj-image src="http://docs.bper.it/gruppobper/immagini/dem/Header.png?raw=true?" padding="0" alt="Sostituzione in filiale con la nuova Carta di Debito"></mj-image>
     </mj-section>
     <mj-wrapper background-color="#f5f9f9" padding="20px">
       <mj-section background-color="#fff" border-radius="24px" padding="22px 0 20px 0">
         <mj-column>
           <mj-text>Gentile collega,</mj-text>
           <mj-text>dal 4 marzo è possibile <b>sostituire le carte BPER Card V-Pay e Maestro e Carige Cash con la nuova Carta di Debito anche in filiale</b>.</mj-text>
+          <mj-text>Abbiamo quindi adesso a disposizione tutti i canali di sostituzione per proporre al cliente a parità di condizioni una carta che diventa il nostro biglietto da visita, con <b>funzionalità allineate agli standard di mercato e servizi distintivi a valore aggiunto</b>.</mj-text>
+          <mj-text>Contiamo sul tuo contributo per imprimere un’accelerazione ancora maggiore all’iniziativa, che già oggi sta registrando oltre 500 sostituzioni al giorno solo da canale self e con il supporto dei nostri consulenti online.</mj-text>
           <mj-text align="center" font-weight="bold" font-size="22px">Cosa puoi fare in filiale</mj-text>
           <mj-section background-color="#005157" border-radius="24px" padding="20px">
             <mj-column width="100%">
