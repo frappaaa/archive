@@ -1,0 +1,57 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/SostCarte/Header.png?raw=true" padding="0" alt="Sostituzione in filiale con la nuova Carta di Debito"></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px" padding="22px 0 20px 0">
+        <mj-column>
+          <mj-text>Gentile collega,</mj-text>
+          <mj-text>dal 4 marzo è possibile <b>sostituire le carte BPER Card V-Pay e Maestro e Carige Cash con la nuova Carta di Debito anche in filiale</b>.</mj-text>
+          <mj-text align="center" font-weight="bold" font-size="22px">Cosa puoi fare in filiale</mj-text>
+          <mj-section background-color="#005157" border-radius="24px" padding="20px">
+            <mj-column width="100%">
+              <mj-text color="#fff" padding="0 8px">
+                <ul style="padding-left:10px">
+                  <li style="margin-bottom:10px"><b>Sfrutta ogni occasione di incontro</b> con i clienti per proporre la nuova Carta di Debito</li>
+                  <li style="margin-bottom:10px"><b>Valorizza l’opportunità di sostituire la carta a parità di costi, ma con molti vantaggi e servizi a valore aggiunto</b>, come la copertura Unipolsai in caso di furto di contante prelevato da ATM e i servizi di assistenza sanitaria offerti tramite la app SiSalute Up per Bper Banca</li>
+                  <li style="margin-bottom:10px"><b>Proponi in maniera preferenziale la versione nominativa <sup>(1)</sup></b> della carta, rispetto a quella anonima: la carta verrà recapitata comodamente a casa del cliente che la potrà attivare in pochi passaggi dall’app Smart Banking</li>
+                  <li><b>Fai firmare</b> la richiesta della nuova carta attraverso Smart Desk, sia con il cliente in presenza (per versione anonima e nominativa) sia in offerta a distanza (solo per la nominativa): contribuirai così al raggiungimento degli obiettivi di digitalizzazione delle vendite della filiale.</li>
+                </ul>
+              </mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-text>I rifornimenti del nuovo prodotto Carta di Debito in versione anonima con consegna fisica in filiale stanno procedendo secondo la pianificazione concordata, tutte le filiali riceveranno uno stock iniziale di carte e relative buste pin entro il 22 marzo.</mj-text>
+          <mj-text>Con l’ampliamento a tutti i canali della vendita della nuova Carta di Debito, <b>dall’11 marzo faremo uscire definitivamente dal nostro catalogo il prodotto V-Pay</b>.</mj-text>
+          <mj-text>Chiediamo il tuo supporto per sfruttare al meglio questa opportunità commerciale, grazie a una proposta più conveniente per il cliente e più redditizia e strategica per la Banca.</mj-text>
+          <mj-text>Su BSmart puoi consultare <a href="https://bpergroup-my.sharepoint.com/:b:/g/personal/francesco_luppi_bper_it/Ea4tH_uGXFlCp4q_dG3SM2IB38SXVmOTXJxTLmwXsEDFTA?e=vpqiLe" style="color:#00ae65;font-weight:bold;">un manuale dedicato alla sostituzione carte</a>, con il dettaglio degli obiettivi dell’iniziativa, il target e i canali di sostituzione.</mj-text>
+          <mj-text font-weight="bold">Grazie per il tuo contributo</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-text font-weight="bold" padding-bottom="0">Maurice Lisi</mj-text>
+        <mj-text padding-top="0"><i>Direzione Digital Business</i></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/SostCarte/logo_footer.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="14px">
+          <mj-text><sup>(1)</sup> Per il processo di vendita e sostituzione per tutti i conti modulari old (8100), è necessario procedere selezionando il solo prodotto in versione "anonima".</mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
