@@ -28,7 +28,7 @@
           <mj-section background-color="#fff" border-radius="24px" padding="20px" background-size="cover" background-repeat="no-repeat">
             <mj-column width="100%">
               <mj-text align="center" font-weight="bold" font-size="20px">
-                Migrazione digitale delle transazioni<br> <span style="color:#00ae65">Santa Teresa Gallura:</span>
+                Migrazione digitale delle transazioni<br> <span style="color:#00ae65">[nome filiale]</span>
               </mj-text><mj-divider border-color="#005157" border-width="1px"></mj-divider>
             </mj-column>
             <mj-column width="50%">
