@@ -40,11 +40,7 @@
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
-        <mj-text align="center" font-size="9px" color="#F5F9F9">
-          <p>
-            This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_IT]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>.
-          </p>
-        </mj-text>
+        
       </mj-column>
 
       <mj-column padding="0" width="100%">
