@@ -1,0 +1,51 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/Header-CSA-1.png?raw=true" padding="0" alt="È in arrivo una nuova Cassa Smart. Le dotazioni self aprono la tua filiale a nuove prospettive."></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#F5F9F9" border-radius="24px">
+        <mj-column width="100%">
+          <mj-text>Gentile [Nome direttore],</br>
+          nella tua filiale nei prossimi giorni arriverà una <b>nuova Cassa Smart</b>. Questa novità non solo contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, ma offrirà ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" border-radius="24px" padding="20px">
+        <mj-column width="100%">
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
+          <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
+            Le operazioni migrabili <span style="color:#00ae65">su Cassa Smart CSA sono:</span>
+          </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/listaOperazioni.png?raw=true" padding="0"></mj-image>
+        </mj-column>
+        
+      </mj-section>
+      
+      <mj-section>
+        <mj-column>
+          <mj-text>A seguito dell’installazione di questa nuova dotazione, crescono le opportunità di migrazione delle transazioni nella tua filiale. Il "Tasso di migrazione digitale delle transazioni" (KPI di performance della tua filiale) sarà a breve aggiornato sulla base del nuovo perimetro di operazioni migrabili.</mj-text>
+          <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Prendi parte da protagonista a questo percorso verso il futuro. Il tuo impegno e la tua competenza sono fondamentali per il raggiungimento degli obiettivi di digitalizzazione."></mj-image>
+          <mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+        
+      </mj-column>
+
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
