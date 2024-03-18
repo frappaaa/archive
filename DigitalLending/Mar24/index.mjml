@@ -1,0 +1,42 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#f5f9f9" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0" background-color="#fff">
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/DigitalLending/Mar24/Header.png?raw=true" padding="0" alt="30 milioni.Celebriamo il primo traguardo del 2024."></mj-image>
+    </mj-section>
+    <mj-wrapper background-color="#f5f9f9" padding="20px">
+      <mj-section background-color="#fff" border-radius="24px">
+        <mj-column>
+          <mj-text>️Care colleghe e cari colleghi,</mj-text>
+          <mj-text>a meno di 3 mesi dall’inizio dell’anno abbiamo toccato quota <b>30 milioni di erogato dal canale digitale</b>: il prestito digitale ha infatti superato i 9,7 milioni di euro di erogato, mentre PagaPoi ha segnato quota 22,4 milioni.</mj-text>
+          <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/DigitalLending/Mar24/Dati_Lending.png?raw=true" alt="30 milioni di € erogati"></mj-image>
+          <mj-text>È un risultato importante, che ci dà la spinta per proseguire su questa strada anche nei prossimi mesi, supportando concretamente il raggiungimento degli obiettivi della rete: i volumi e la marginalità delle vendite digitali sono infatti sempre interamente riconosciuti alla filiale di relazione.</mj-text>
+
+          <mj-text>Daremo vita così a un 2024 ricco di traguardi importanti, che rafforzeranno la nostra evoluzione digitale e il nostro rapporto omnicanale con la clientela.</mj-text>
+           
+          <mj-text>Grazie a tutti voi per il vostro contributo e per la vostra collaborazione. </mj-text>
+
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/90mil-Lending/Futuro.png?raw=true"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f5f9f9" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Group%2013.png"></mj-image>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
