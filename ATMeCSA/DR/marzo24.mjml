@@ -25,7 +25,7 @@
         </mj-column>
         <mj-column width="25%">
           <mj-text font-size="20px" color="#00ae65" font-weight="bold" align="center" padding="0">21 CSA</mj-text>
-          <mj-divider border-width="1px" border-color="#005157" padding="0 4px"></mj-divider>
+          <mj-divider border-width="1px" border-color="#005157" padding="4px"></mj-divider>
           <mj-text font-size="14px" padding="0">
             <ul style="flex: 1; margin-right:4px;padding-left: 20px;">
               <li>Cervinara</li>
@@ -55,31 +55,60 @@
         </mj-column>
         <mj-column width="50%">
           <mj-text font-size="20px" color="#00ae65" font-weight="bold" align="center" padding="0">37 ATM Evo</mj-text>
-          <mj-divider border-width="1px" border-color="#005157" padding="0 4px"></mj-divider>
-          <mj-text font-size="14px" padding="0">
-            <ul style="flex: 1; margin-right:10px;padding-left: 20px;">
-              <li>Penne</li>
-              <li>Altamura</li>
-              <li>Campoleone</li>
-              <li>Stintino</li>
-              <li>Sassari ag.2</li>
-              <li>Celano</li>
-              <li>Grassano</li>
-              <li>Comiso</li>
-              <li>Magliano Sabina</li>
-              <li>Rocca di Mezzo</li>
-              <li>Cremona Sede</li>
-              <li>Ospedaletti</li>
-              <li>Rovigo Ag.1</li>
-              <li>Leffe</li>
-              <li>Palermo ag.3</li>
-            </ul>
-
-          </mj-text>
+          <mj-divider border-width="1px" border-color="#005157" padding="4px"></mj-divider>
+          <mj-table padding="0">
+            <tr style="padding:0; vertical-align:top">
+              <td style="padding:0;">
+                <ul style="flex: 1; margin-right:10px;padding-left: 20px; color:#005157">
+                  <li>Penne</li>
+                  <li>Altamura</li>
+                  <li>Campoleone</li>
+                  <li>Stintino</li>
+                  <li>Sassari Ag.2</li>
+                  <li>Celano</li>
+                  <li>Grassano</li>
+                  <li>Comiso</li>
+                  <li>Magliano Sabina</li>
+                  <li>Rocca Di Mezzo</li>
+                  <li>Cremona Sede</li>
+                  <li>Ospedaletti</li>
+                  <li>Rovigo Ag.1</li>
+                  <li>Leffe</li>
+                  <li>Palermo Ag. 3</li>
+                  <li>Arezzo</li>
+                  <li>Salemi</li>
+                  <li>Roma Succursale L</li>
+                  <li>Porto Viro</li>
+                  <li>Lucca Piazza San Martino</li>
+                  <li>Lunata</li>
+                </ul>
+              </td>
+              <td>
+                <ul style="flex: 1; margin-right:4px;padding-left: 20px;color:#005157">
+                  <li>Guardiagrele</li>
+                  <li>Passo Corese</li>
+                  <li>Adria</li>
+                  <li>Montignoso Ag. 1 - Cinquale</li>
+                  <li>Casinalbo</li>
+                  <li>Aulla</li>
+                  <li>Cecina</li>
+                  <li>Milazzo</li>
+                  <li>Villa D’Agri</li>
+                  <li>Mesola</li>
+                  <li>Pisa Sede</li>
+                  <li>Santa Maria Maddalena</li>
+                  <li>Montignoso</li>
+                  <li>Ravenna Sede</li>
+                  <li>Teramo</li>
+                  <li>Arezzo via Romana</li>
+                </ul>
+              </td>
+            </tr>
+          </mj-table>
         </mj-column>
         <mj-column width="25%" padding="0">
           <mj-text font-size="20px" color="#00ae65" font-weight="bold" align="center" padding="0">7 Cashless</mj-text>
-          <mj-divider border-width="1px" border-color="#005157" padding="0 4px"></mj-divider>
+          <mj-divider border-width="1px" border-color="#005157" padding="4px"></mj-divider>
           <mj-text font-size="14px" padding="0">
             <ul style="flex: 1; margin-right:10px;padding-left: 20px;">
 
