@@ -128,7 +128,7 @@
         <mj-column>
           <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/cartinaMarzo24.png?raw=true" alt="Installazioni effettuate a Marzo: 35 CSA, 77 ATM Evo, 21 Cashless" padding="0"></mj-image>
           <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
-          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/personal/tommaso_lacommare_bper_it/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftommaso%5Flacommare%5Fbper%5Fit%2FDocuments%2FDR%20BOOST%20SELF%20BANKING%2FBOOK%20DR%20MARZO%2FCSA%2DATM%5Freport%20MARZO%2Epdf&parent=%2Fpersonal%2Ftommaso%5Flacommare%5Fbper%5Fit%2FDocuments%2FDR%20BOOST%20SELF%20BANKING%2FBOOK%20DR%20MARZO&ct=1712048101237&or=OWA%2DNT%2DMail&cid=1e4fe2d3%2Dcbe6%2D6e85%2Dbb4f%2D8b9181ce226b&ga=1">Scarica il documento</mj-button>
+          <mj-button background-color="#00ae65" border-radius="20px" width="100%" font-weight="normal" font-size="16px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/EaZwlWSyrN5EjYcFDizcZ4oBjGIlje1u4NytdNFX3rESlA?e=bfEDzX">Scarica il documento</mj-button>
 
           <mj-text line-height="14px"><i><b>Maurice Lisi e Diego Malerba</b></i></mj-text>
         </mj-column>
