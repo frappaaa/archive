@@ -23,8 +23,7 @@
           <mj-text>Proseguiamo così nel <b>rafforzamento della nostra offerta di prodotti digitali</b>, cogliendo le potenzialità di sviluppo e acquisition di nuova clientela.</mj-text>
           <mj-text align="center" font-size="26px" font-weight="medium" line-height="32px" padding="20px 0"> Ecco qualche dato </mj-text>
           <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/OFM/24apr/Dati_OFM.png" alt="20.000 nuovi conti suddivisi per target. Caratteristiche clientela acquisita e Distribuzione sottoscrizioni."></mj-image>
-          <mj-text>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://intrawseal.gbbper.priv/blinkdue/host/55657/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;">BSmart.</a></mj-text>
-          </mj-text>
+          <mj-text>Tutti i dettagli su BPER On Demand online sono disponibili su <a href="https://intrawseal.gbbper.priv/blinkdue/host/55657/prodotti/conto-on-demand-digitale" style="color:#005157; font-weight:bold;" target="_blank">BSmart.</a></mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
