@@ -1,0 +1,34 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#1d1d1d" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Prestige/Header.png?raw=true" padding="0" alt="Carta di Credito Prestige: un nuovo pass per vivere esperienze esclusive."></mj-image>
+        <mj-text>Gentile Collega,</mj-text>
+        <mj-text>Prestige è la nuova carta di credito dedicata ai nostri top client, che ci consente di soddisfare le aspettative più elevate con una proposition commerciale prestigiosa, in linea con il nuovo posizionamento del Gruppo BPER.</mj-text>
+
+<mj-text><b>Prestige è molto più di una carta</b>, è un ecosistema di servizi avanzati e vantaggi esclusivi che porta l’esperienza dei nostri clienti a un livello superiore.</mj-text>
+<mj-text padding-bottom="0"><b>Perché la nuova carta si rivela un’occasione unica?</b> </mj-text>
+        <mj-text padding-top="0">Oltre alle sue caratteristiche distintive, entra sul mercato con un canone di lancio di <b>240 euro/anno</b> posizionandosi come una delle carte più competitive in termini di pricing per eccellenza dei servizi offerti.  Proponiamola ora, per dare modo ai nostri migliori clienti di conoscere i vantaggi esclusivi della nuova carta ad un costo assolutamente competitivo che ne supporterà il lancio. </mj-text>
+        <mj-text>Per scoprire le opportunità offerte dalla Carta di Credito Prestige, <b>consulta il leaflet in allegato.</b></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Prestige/condizioniPrestige.png?raw=true" alt="Comfort e riservatezza al primo posto. Travel: Fast track in aeroporti selezionati, Libero accesso alla vip lounge di 1500 aeroporti internazionali per il titolare della carta e 10 accessi all’anno per i suoi ospiti; Lifestyle: Servizio conciergerie con un assistente dedicato tramite live chat  o al telefono a disposizione 24/7 per informazioni e prenotazioni. Salute by SiSalute Up: Accesso illimitato a prestazioni sanitarie scontate nelle strutture convenzionate, Consulenza telefonica con un medico a disposizione 24/7; Sicurezza e protezione con un pacchetto di coperture assicurative e servizi di assistenza dedicati. Protezione acquisti by UnipolSai: Rimborso ticket eventi; Assistenza viaggi by UnipolSai: Assistenza medica in caso di infortunio o malattia in viaggio, Protezione bagagli, Protezione viaggi; Servizi digitali: Attivazione, gestione e controllo da app, Visualizzazione PIN e codici di sicurezza, Wallet digitale."></mj-image>
+        <mj-text>In
+          <b><a href="" style="color:#1d1d1d;font-style:italic;">questo documento</a></b>
+          potete trovare un
+          <b>interessante confronto con i principali competitor</b>, che
+          evidenzia l’unicità della nostra carta sul mercato. Tutti i dettagli
+          sulla carta Prestige sono disponibili su
+          <b><a href="https://intrawseal.gbbper.priv/blinkdue/host/55657/prodotti/carte/carta-credito-prestige" style="color:#1d1d1d;font-style:italic;">Bsmart</a></b>.
+        </mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Prestige/bannerPromo.png?raw=true" alt="Supera le aspettative dei tuoi clienti, offri un’esperienza Prestige."></mj-image>
+        <mj-text font-style="italic" font-weight="800" font-size="16px" padding-bottom="0">Maurice Lisi</mj-text>
+        <mj-text font-size="12px" padding-top="0">Direzione Digital Business</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
