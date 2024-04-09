@@ -13,12 +13,12 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24Apr/Header.png" alt="40 milioni. Celebriamo il Secondo traguardo del 2024." padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24Apr/Header.png" alt="40 milioni. Celebriamo il secondo traguardo del 2024." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
       <mj-column>
-        <mj-text color="#00ae65"><b>Care colleghe e cari colleghi,</b></mj-text>
+        <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
         <mj-text>oggi abbiamo superato i 40 milioni di erogato di prestiti digitali, un risultato significativo che concorre concretamente al raggiungimento degli obiettivi della rete. 
           Il prestito digitale ha infatti superato i xx milioni di euro di erogato, mentre PagaPoi ha segnato quota xx milioni.</mj-text>
