@@ -20,12 +20,14 @@
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>oggi abbiamo superato i 40 milioni di erogato di prestiti digitali, un risultato significativo che concorre concretamente al raggiungimento degli obiettivi della rete. 
-          Il prestito digitale ha infatti superato i 12,7 milioni di euro di erogato, mentre PagaPoi ha segnato quota 28,9 milioni.</mj-text>
+        <mj-text>abbiamo superato i 40 milioni di erogato di prestiti digitali, un risultato significativo che concorre al raggiungimento degli obiettivi delle vostre filiali.  Il prestito digitale ha infatti superato i 12,7 milioni di euro di erogato, mentre PagaPoi ha segnato quota 28,9 milioni.</mj-text>
 
         <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24Apr/datiLending.png" alt="42 milioni € di importo erogato. Suddivisione per DR."></mj-image>
-        <mj-text>Continuiamo con determinazione il nostro percorso di evoluzione digitale, sempre orientati verso nuovi importanti traguardi e sempre in ottica omnicanale.</mj-text>
+        <mj-text>Continuiamo con determinazione il percorso di evoluzione digitale, che nelle prossime settimane vedrà il lancio del nuovo prestito Smart.
+Attualmente in test su alcune filiali pilota, <b>il prestito Smart sarà presto disponibile su tutti i canali</b> (filiale fisica, filiale online e in self) e consentirà la sottoscrizione contestuale di una <b>polizza facoltativa CPI Arca</b>.
+Inoltre, prevedrà un <b>processo snello e veloce</b> (senza necessità di caricare documentazione reddituale) per alcune categorie di clienti che richiedono un finanziamento entro 10.000 euro e con rata mensile non superiore a 500 euro.</mj-text>
+        <mj-text>A presto per altri aggiornamenti su queste e altre novità!</mj-text>
         <mj-text><b>Grazie a tutti per il contributo e per la collaborazione.</b></mj-text>
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24Apr/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
