@@ -13,11 +13,11 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/24Outdoor/Header.png" alt="We are the F/Youture. Save the date 30-31 maggio." padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Prestito/Header.png" alt="Il nuovo prestito Smart" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column padding="0 68px" background-color="#fff" border-radius="30px">
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#009969"><b>Care colleghe e cari colleghi,</b></mj-text>
         <mj-text padding="10px 0">è ora disponibile su BStore in tutte le filiali il <b>nuovo Prestito Smart</b>, che arricchisce ed evolve la nostra offerta omnicanale.</mj-text>
 
@@ -26,7 +26,7 @@
     </mj-section>
     <mj-section>
       <mj-column padding="56px 68px" background-color="#005157" border-radius="30px">
-        <mj-text padding="10px 0" color="#fff">
+        <mj-text padding="0" color="#fff">
           <ul style="padding:0;">
             <li>consente la sottoscrizione di una <b>polizza facoltativa CPI Arca in aggiunta e contestualmente alla sottoscrizione del prestito</b> e offre la possibilità di aggiungere l'importo del premio al montante del finanziamento</li>
           </ul>
@@ -45,22 +45,22 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column padding="0 68px" background-color="#fff" border-radius="30px">
-        <mj-text padding="10px 0" color="#005157">Fai sottoscrivere il prestito Smart <b>tramite Smart Desk</b>, sia con il cliente in presenza sia a distanza: contribuirai così al raggiungimento degli obiettivi di vendite digitali della filiale.</mj-text>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="0" color="#005157">Fai sottoscrivere il prestito Smart <b>tramite Smart Desk</b>, sia con il cliente in presenza sia a distanza: contribuirai così al raggiungimento degli obiettivi di vendite digitali della filiale.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="56px 68px" background-color="#005157" border-radius="30px">
 
-        <mj-text padding="10px 0" color="#fff">
+        <mj-text padding="0px 0 30px 0" color="#fff">
           Il prestito sarà reso disponibile a tutti i clienti anche <b>sui canali digitali  a partire dal 29 aprile</b> e il lancio sarà accompagnato da una <b>promozione</b> particolarmente vantaggiosa valida <b>fino al 5 giugno</b>, dedicata a chi sottoscriverà il prestito in self.
 
         </mj-text>
-        <mj-image src=""></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Prestito/lista.png" padding="0px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column padding="0 68px" background-color="#fff" border-radius="30px">
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#005157">Contiamo sul vostro supporto per valorizzare al meglio il prodotto e cogliere le opportunità che offre.
         </mj-text>
         <mj-text padding="10px 0" color="#005157">
