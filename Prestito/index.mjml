@@ -25,7 +25,7 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column padding="56px 68px" background-color="#005157" border-radius="30px">
+      <mj-column padding="38px" padding-left="56px" background-color="#005157" border-radius="30px">
         <mj-text padding="0" color="#fff">
           <ul style="padding:0;">
             <li>consente la sottoscrizione di una <b>polizza facoltativa CPI Arca in aggiunta e contestualmente alla sottoscrizione del prestito</b> e offre la possibilità di aggiungere l'importo del premio al montante del finanziamento</li>
@@ -50,7 +50,7 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column padding="56px 68px" background-color="#005157" border-radius="30px">
+      <mj-column padding="38px" background-color="#005157" border-radius="30px">
 
         <mj-text padding="0px 0 30px 0" color="#fff">
           Il prestito sarà reso disponibile a tutti i clienti anche <b>sui canali digitali  a partire dal 29 aprile</b> e il lancio sarà accompagnato da una <b>promozione</b> particolarmente vantaggiosa valida <b>fino al 5 giugno</b>, dedicata a chi sottoscriverà il prestito in self.
