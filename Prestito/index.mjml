@@ -19,9 +19,10 @@
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#009969"><b>Care colleghe e cari colleghi,</b></mj-text>
-        <mj-text padding="10px 0">è ora disponibile su BStore in tutte le filiali il <b>nuovo Prestito Smart</b>, che arricchisce ed evolve la nostra offerta omnicanale.</mj-text>
+        <mj-text padding="10px 0">dal 18 aprile è disponibile su BStore in tutte le filiali il <b>Prestito Smart.</b></mj-text>
 
-        <mj-text padding="10px 0"> <b>Semplicità, flessibilità</b> e <b>protezione</b> sono le parole chiave del nuovo prestito che porta con sé alcune importanti innovazioni:</mj-text>
+        <mj-text padding="10px 0"> <b>Semplicità, flessibilità</b> e <b>protezione</b> sono le parole chiave del nuovo prestito che si caratterizza perchè:
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -33,27 +34,42 @@
         </mj-text>
         <mj-text padding="10px 0" color="#fff">
           <ul style="padding:0;">
-            <li><b>non necessita la validazione manuale della Scheda Privati da parte del Direttore o Vicario</b> della filiale di relazione siccome la validazione avverrà in modo automatico
+            <li><b>la validazione della Scheda Privati da parte del Titolare o Vicario è automatica</b>
             </li>
           </ul>
         </mj-text>
         <mj-text padding="10px 0" color="#fff">
           <ul style="padding:0;">
-            <li>prevede anche un processo snello (“lean”) e veloce (<b>senza necessità di caricare documentazione reddituale</b>) per i clienti con determinate caratteristiche (specificate nell'allegato) che richiedono un finanziamento <b>entro 10.000 euro e con rata mensile non superiore a 500 euro</b>.</li>
+            <li>prevede anche un processo snello <b>(senza necessità di caricare documentazione reddituale)</b> per i clienti con determinate caratteristiche che richiedono un finanziamento <b>entro 10.000 euro e con rata mensile non superiore a 500 euro</b></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 0" color="#fff">
+          <ul style="padding:0;">
+            <li>le sottoscrizioni tramite <b>Smart Desk alimentano i KPI delle Vendite Digitali in Filiale e a Distanza</b>, e i prestiti richiesti dal canale digitale <b>concorrono sia come volumi sia come margine di servizio al raggiungimento degli obiettivi della filiale.</b></li>
           </ul>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
-        <mj-text padding="0" color="#005157">Fai sottoscrivere il prestito Smart <b>tramite Smart Desk</b>, sia con il cliente in presenza sia a distanza: contribuirai così al raggiungimento degli obiettivi di vendite digitali della filiale.</mj-text>
+        <mj-text padding="0" color="#005157">Il prestito Smart arricchisce l’offerta di filiale diventando la <b>prima opzione di proposta per tutte le finalità ammesse e i clienti eleggibili.</b> In particolare:  
+          <ul>
+            <li>richiesta da parte di privati consumatori  </li>
+            <li>importo richiesto da 1.000 euro fino a 30.000 euro  
+            </li>
+            <li>durata da 12 a 120 mesi</li>  
+            <li>non collocabile in presenza di garanti o coobligati  
+            </li>
+            <li>non previsto per finalità di sottoscrizione  come “acquisto di beni strumentali”, “investimenti immobiliari”, "costituzione quota di anticipo per mutuo", "finanziamento a società/ ditte individuali" e "pagamento imposte" (la finalità "consolidamento" è ammessa solo in Filiale Fisica).</li>
+          </ul>   
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="38px" background-color="#005157" border-radius="30px">
 
         <mj-text padding="0px 0 30px 0" color="#fff">
-          Il prestito sarà reso disponibile a tutti i clienti anche <b>sui canali digitali  a partire dal 29 aprile</b> e il lancio sarà accompagnato da una <b>promozione</b> particolarmente vantaggiosa valida <b>fino al 5 giugno</b>, dedicata a chi sottoscriverà il prestito in self.
+          Il prestito sarà reso disponibile a tutti i clienti anche sui canali digitali e Filiale Online e il lancio sarà accompagnato da una <b>promozione</b>, dedicata a chi sottoscriverà il prestito in self o a distanza tramite la Filiale Online <b>tra il 29 aprile e il 14 giugno</b>.
 
         </mj-text>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Prestito/lista.png" padding="0px"></mj-image>
@@ -62,6 +78,10 @@
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#005157">Contiamo sul vostro supporto per valorizzare al meglio il prodotto e cogliere le opportunità che offre.
+
+        </mj-text>
+        <mj-text padding="10px 0" color="#005157">Tutti i dettagli sul Prestito Smart sono disponibili su BSmart.
+
         </mj-text>
         <mj-text padding="10px 0" color="#005157">
           <b>Grazie per la collaborazione.</b>
@@ -70,7 +90,7 @@
     </mj-section>
     <mj-section>
       <mj-column background-color="#fff" border-radius="30px">
-        <mj-text padding="10px 0" font-size="14px" font-style="italic" line-height="16px" color="#3A888C">Per sfruttare al meglio tutte le opportunità commerciali, sono state massimizzate le opportunità offerte dal motore di  CRM Salesforce in uso sia alla Filiale Fisica sia alla Filiale Online, che potranno ricontattare i clienti che hanno interrotto il flusso di sottoscrizione online, per favorire la ripresa ed il completamento della richiesta.
+        <mj-text padding="10px 0" font-size="14px" font-style="italic" line-height="16px" color="#3A888C">Per sfruttare al meglio tutte le opportunità commerciali, sono state massimizzate le opportunità offerte dal motore di CRM Salesforce in uso sia alla Filiale Fisica sia alla Filiale Online, che potranno ricontattare i clienti che hanno interrotto il flusso di sottoscrizione online, per favorire la ripresa ed il completamento della richiesta.
         </mj-text>
       </mj-column>
     </mj-section>
