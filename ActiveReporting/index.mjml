@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text
+        align="left"
+        color="#005157"
+        font-family="Arial"
+        font-size="20px"
+        line-height="28px"
+      />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png"
+          width="104px"
+          alt="BPER"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/ActiveReporting/Header.png"
+          alt="Sguardo sui dati. Scopri l’Active Reporting"
+          padding="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"
+          ><b>Gentile collega,</b></mj-text
+        >
+        <mj-text padding="10px 0"
+          >conoscere i risultati che ogni giorno raggiungiamo è fondamentale per
+          orientare le nostre azioni e condividere il nostro percorso di
+          evoluzione digitale.</mj-text
+        >
+        <mj-text padding="10px 0">
+          Per questo è a tua disposizione
+          <b
+            ><a
+              href="https://intrawseal.gbbper.priv/ddpgruppo/fe-actrep-cgruppo/"
+              style="color:#005157"
+              >l’Active Reporting</a
+            ></b
+          >, uno strumento prezioso che consente di monitorare
+          <b
+            >l'andamento dei principali indicatori digitali e il contributo che
+            questi portano agli obiettivi di business</b
+          >.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#009969"
+        border-radius="30px"
+      >
+        <mj-text padding="0" padding-bottom="14px" color="#fff"
+          >All’interno della dashboard potrai avere una vista dei risultati
+          raggiunti su diversi fronti:
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li style="padding:0px 0 10px 0"><b>Acquisition</b></li>
+            <li style="padding:0px 0 10px 0"><b>Digital Lending</b></li>
+            <li style="padding:0px 0 10px 0"><b>Digital Insurance</b></li>
+            <li style="padding:0px 0 10px 0">
+              <b>Vendita e sostituzione carte</b>
+            </li>
+            <li style="padding:0px 0 10px 0">
+              <b>Transazionalità su macchine self</b>
+            </li>
+            <li style="padding:0px 0 10px 0">
+              <b>Sessioni e transazioni giornaliere sui canali digitali</b>
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="0" color="#005157"
+          >È anche dalla consapevolezza del dato che possono emergere importanti
+          opportunità di crescita, che vogliamo cogliere insieme per puntare
+          sempre più in alto. 
+        </mj-text>
+        <mj-text padding="14px 0 0 0"
+          >Per accedere all’Active Reporting
+          <a
+            href="https://intrawseal.gbbper.priv/ddpgruppo/fe-actrep-cgruppo/"
+            style="color:#005157"
+            >clicca qui</a
+          >. </mj-text
+        >
+        <mj-text padding="14px 0 0 0">Grazie per il tuo contributo. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
