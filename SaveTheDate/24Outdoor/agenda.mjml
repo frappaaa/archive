@@ -13,37 +13,94 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/24Outdoor/Header.png" alt="We are the F/Youture. Save the date 30-31 maggio." padding="0"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column padding="56px 68px" background-color="#EFF5f5" border-radius="30px">
-        <mj-text padding="10px 0">Due giorni insieme, per fare squadra, immaginare, progettare e realizzare il nostro futuro. </mj-text>
-
-        <mj-text padding="10px 0">Un momento dedicato alla Direzione Digital Business per raccogliere suggestioni e acquisire nuove competenze che ci accompagneranno nel nostro percorso di evoluzione digitale.</mj-text>
-
-        <mj-text padding="10px 0"><b>Perché insieme facciamo la differenza.</b>
-        </mj-text> 
-        <mj-text padding="10px 0">Save the date & stay tuned!</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/Header.png?raw=true" alt="We are Powerful. Save the date 23 maggio. Sede BPER Banca Diamantino, Via Mike Bongiorno 13 – Milano" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/MonzaSportingClub_Foto.png?raw=true" alt="" padding="0"></mj-image>
+        <mj-text font-size="28px">Agenda del <b>30 e 31 maggio</b></mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="32px" background-color="#EFF5f5" border-radius="30px">
+        <mj-text padding="10px 0" font-size="24px">Giovedì <b>30 maggio</b></mj-text>
+        <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>11:30</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Deposito bagagli</span></br>presso <b>Hotel Royal Falcone</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>12:15</b></td>
+            <td style="padding-left:10px">partenza navetta per <b>Sporting Club</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Accoglienza e light</span></br>presso <b>Sporting Club</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>14:00</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Internal meeting</span></br><b>“Digitalizzazione e mega trend del mercato”</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157;width:65px"><b>15:30</b></td>
+            <td style="padding-left:10px">Coffee break</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>16:00</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">ingaggio a cura Direzione Digital Business</span></br><b>Testimonial</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>17:15</b></td>
+            <td style="padding-left:10px">Partenza navetta per centro storico</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>17:30</b></td>
+            <td style="padding-left:10px">Visita <b>Duomo e Palazzo Arengario</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>18:00</b></td>
+            <td style="padding-left:10px">Aperitivo presso <b>Saint</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>19:30</b></td>
+            <td style="padding-left:10px">Check in albergo <b>Royal Falcone</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>20:30</b></td>
+            <td style="padding-left:10px">Cena presso <b>ristorante Lait</b></td>
+          </tr>
+        </mj-table>
+        <mj-divider border-color="#005157" border-width="1px" padding="10px 0"></mj-divider>
+        <mj-text padding="10px 0" font-size="24px">Venerdì <b>31 maggio</b></mj-text>
+        <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>09:00</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Inizio caccia all'indizio</span></br>Centro storico di <b>Monza</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Debriefing attività formativa e chiusura lavori</span></br>presso sala <b>Hotel Royal Falcone</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:15</b></td>
+            <td style="padding-left:10px">Pranzo presso sala <b>Hotel Royal Falcone</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
+            <td style="padding-left:10px">Rientro</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/MonzaSportingClub_Logo.png?raw=true" alt="" align="left" width="100px"></mj-image>
-        <mj-text><b>Monza Sporting Club</b></mj-text>
-        <mj-text font-size="13px" line-height="18px">A pochi passi dal Parco della Villa Reale di Monza, nel cuore della Brianza e a pochi chilometri da Milano, lo Sporting Club Monza rappresenta un’oasi verde di 22.000 metri quadrati.</mj-text>
+        <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
+        <mj-text padding-top="0">Confermare la propria partecipazione tramite il calendar che verrà inviato</mj-text>
+        <mj-text>Segnalare eventuali esigenze alimentari alla seguente mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#009969" border-radius="30px">
-      <mj-column width="100%"><mj-text color="#fff" align="center" font-weight="bold">OBIETTIVI OUTDOOR FORMATIVO</mj-text></mj-column>
-      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/people.png?raw=true" width="100px"></mj-image><mj-text color="#fff" align="center" font-size="16px" line-height="20px" padding="0">Rafforzare le relazioni e la collaborazione</mj-text></mj-column>
-      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/support.png?raw=true" width="75px"></mj-image><mj-text color="#fff" align="center" font-size="16px" line-height="20px" padding="0">Creare coesione
-ed integrazione</mj-text></mj-column>
-      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/goal.png?raw=true" width="75px"></mj-image><mj-text color="#fff" align="center" font-size="16px" line-height="20px" padding="0">Orientare le azioni agli obiettivi</mj-text></mj-column>
+    <mj-section>
+      <mj-column></mj-column>
     </mj-section>
-    <mj-section><mj-column></mj-column></mj-section>
   </mj-body>
 </mjml>
