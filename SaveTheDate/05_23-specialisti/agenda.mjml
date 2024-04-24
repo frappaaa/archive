@@ -18,8 +18,8 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>Care colleghe e cari colleghi,
-          il 23 maggio ci ritroveremo per trascorrere una giornata insieme e mettere a fattor comune riflessioni e considerazioni sul nostro percorso di evoluzione digitale. </mj-text>
+        <mj-text>Care colleghe e cari colleghi, 
+il 23 maggio ci ritroveremo per trascorrere una giornata insieme e mettere a fattor comune riflessioni e considerazioni sul nostro percorso di evoluzione digitale.  </mj-text>
         <mj-text>Dedicheremo la mattinata all’approfondimento di alcuni temi verticali, mentre il pomeriggio vi vedrà protagonisti nel presentare le vostre attività, i vostri risultati e i vostri prossimi obiettivi.</mj-text>
       </mj-column>
     </mj-section>
@@ -27,31 +27,35 @@
       <mj-column padding="32px" background-color="#EFF5f5" border-radius="30px">
         <mj-text padding="10px 0" font-size="24px">Agenda di giovedì <b>23 maggio</b></mj-text>
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
-          <tr>
-            <td style="border-right: 2px solid #005157; width:65px"><b>10:00</b></td>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>10:30</b></td>
             <td style="padding-left:10px">Accredito</td>
           </tr>
-          <tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>10:45</b></td>
-            <td style="padding-left:10px">...</td>
+            <td style="padding-left:10px">Welcome Speech <b>Maurice Lisi</b></td>
           </tr>
-          <tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>11:00</b></td>
-            <td style="padding-left:10px">...</td>
+            <td style="padding-left:10px">Welcome Speech <b>Giuseppe Sibilla</b></td>
           </tr>
-          <tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>11:15</b></td>
-            <td style="padding-left:10px">...</td>
+            <td style="padding-left:10px;">Interventi a cura della Direzione Digital Business</br> e Bds</td>
           </tr>
-          <tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
+            <td style="padding-left:10px">Speech <b>Stefano Vittorio Kuhn</b></td>
+          </tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157;width:65px"><b>13:30</b></td>
-            <td style="padding-left:10px">Lunch</td>
+            <td style="padding-left:10px">Lunch presso <b>Ristorante Six</b></td>
           </tr>
-          <tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
             <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</td>
           </tr>
-          <tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>17:30</b></td>
             <td style="padding-left:10px">Fine lavori</td>
           </tr>
