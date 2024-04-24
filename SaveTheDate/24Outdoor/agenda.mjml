@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/24Outdoor/Header.png" alt="We are the F/Youture. Save the date 30-31 maggio." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="56px 68px" background-color="#EFF5f5" border-radius="30px">
+        <mj-text padding="10px 0">Due giorni insieme, per fare squadra, immaginare, progettare e realizzare il nostro futuro. </mj-text>
+
+        <mj-text padding="10px 0">Un momento dedicato alla Direzione Digital Business per raccogliere suggestioni e acquisire nuove competenze che ci accompagneranno nel nostro percorso di evoluzione digitale.</mj-text>
+
+        <mj-text padding="10px 0"><b>Perché insieme facciamo la differenza.</b>
+        </mj-text> 
+        <mj-text padding="10px 0">Save the date & stay tuned!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/MonzaSportingClub_Foto.png?raw=true" alt="" padding="0"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/MonzaSportingClub_Logo.png?raw=true" alt="" align="left" width="100px"></mj-image>
+        <mj-text><b>Monza Sporting Club</b></mj-text>
+        <mj-text font-size="13px" line-height="18px">A pochi passi dal Parco della Villa Reale di Monza, nel cuore della Brianza e a pochi chilometri da Milano, lo Sporting Club Monza rappresenta un’oasi verde di 22.000 metri quadrati.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#009969" border-radius="30px">
+      <mj-column width="100%"><mj-text color="#fff" align="center" font-weight="bold">OBIETTIVI OUTDOOR FORMATIVO</mj-text></mj-column>
+      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/people.png?raw=true" width="100px"></mj-image><mj-text color="#fff" align="center" font-size="16px" line-height="20px" padding="0">Rafforzare le relazioni e la collaborazione</mj-text></mj-column>
+      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/support.png?raw=true" width="75px"></mj-image><mj-text color="#fff" align="center" font-size="16px" line-height="20px" padding="0">Creare coesione
+ed integrazione</mj-text></mj-column>
+      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/goal.png?raw=true" width="75px"></mj-image><mj-text color="#fff" align="center" font-size="16px" line-height="20px" padding="0">Orientare le azioni agli obiettivi</mj-text></mj-column>
+    </mj-section>
+    <mj-section><mj-column></mj-column></mj-section>
+  </mj-body>
+</mjml>
