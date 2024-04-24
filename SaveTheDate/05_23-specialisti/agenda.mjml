@@ -26,46 +26,46 @@
         <mj-text padding="10px 0" font-size="24px">Agenda di <b>Giovedì 23 maggio</b></mj-text>
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr>
-            <td>10:30</td>
-            <td>Accredito</td>
+            <td style="border-right: 2px solid #005157;"><b>10:30</b></td>
+            <td style="padding-left:10px">Accredito</td>
           </tr>
           <tr>
-            <td>10:45</td>
-            <td>Welcome Speech Lisi</td>
+            <td style="border-right: 2px solid #005157;"><b>10:45</b></td>
+            <td style="padding-left:10px">Welcome Speech Lisi</td>
           </tr>
           <tr>
-            <td>11:00</td>
-            <td>Welcome Speech Sibilla</td>
+            <td style="border-right: 2px solid #005157;"><b>11:00</b></td>
+            <td style="padding-left:10px">Welcome Speech Sibilla</td>
           </tr>
           <tr>
-            <td>11:15</td>
-            <td>Interventi a cura della Direzione Digital</td>
+            <td style="border-right: 2px solid #005157;"><b>11:15</b></td>
+            <td style="padding-left:10px">Interventi a cura della Direzione Digital</td>
           </tr>
         </mj-table>
         <mj-text padding="10px 0"><b>Business & Bds</b></mj-text>
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr>
-            <td>13:00</td>
-            <td>Speech Kuhn</td>
+            <td style="border-right: 2px solid #005157; padding-right: 10px"><b>13:00</b></td>
+            <td style="padding-left:10px">Speech Kuhn</td>
           </tr>
           <tr>
-            <td>13:30</td>
-            <td>Lunch presso Ristorante Six</td>
+            <td style="border-right: 2px solid #005157; padding-right: 10px"><b>13:30</b></td>
+            <td style="padding-left:10px">Lunch presso Ristorante Six</td>
           </tr>
           <tr>
-            <td>14:30</td>
-            <td>Presentazioni a cura degli Specialisti Digital</td>
+            <td style="border-right: 2px solid #005157; padding-right: 10px"><b>14:30</b></td>
+            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</td>
           </tr>
           <tr>
-            <td>17:30</td>
-            <td>Fine lavori</td>
+            <td style="border-right: 2px solid #005157; padding-right: 10px"><b>17:30</b></td>
+            <td style="padding-left:10px">Fine lavori</td>
           </tr>
         </mj-table>
       </mj-column>
     </mj-section>
     <mj-section background-color="#009969" border-radius="30px">
       <mj-column width="30%">
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/05_23-specialisti/Pin.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/05_23-specialisti/Pin.png?raw=true" width="80px" align="center"></mj-image>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding-bottom="0" color="#fff"><b>Luogo</b></mj-text>
