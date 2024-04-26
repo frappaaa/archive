@@ -79,7 +79,7 @@
             </li>
           </ul>
         </mj-text>
-        <mj-text>Per maggiori dettagli consulta la <a href="https://bpergroup-my.sharepoint.com/:b:/g/personal/alice_gris_bper_it/EcjifPJNes9ElYjjqf8tpzEBvU9dblZ6c5-xdMY0qLMKNA?e=edsxpC" style="color:#fff">guida</a>.</mj-text>
+        <mj-text color="#fff" padding="0">Per maggiori dettagli consulta la <a href="https://bpergroup-my.sharepoint.com/:b:/g/personal/alice_gris_bper_it/EcjifPJNes9ElYjjqf8tpzEBvU9dblZ6c5-xdMY0qLMKNA?e=edsxpC" style="color:#fff">guida</a>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
