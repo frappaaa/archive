@@ -18,9 +18,11 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>Care colleghe e cari colleghi,
-          il 23 maggio ci ritroveremo per trascorrere una giornata insieme e mettere a fattor comune riflessioni e considerazioni sul nostro percorso di evoluzione digitale. </mj-text>
-        <mj-text>Dedicheremo la mattinata all’approfondimento di alcuni temi verticali, mentre il pomeriggio vi vedrà protagonisti nel presentare le vostre attività, i vostri risultati e i vostri prossimi obiettivi.</mj-text>
+        <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
+        <mj-text padding-top="0">
+          il 23 maggio ci ritroveremo per trascorrere una giornata insieme e condividere riflessioni e spunti sul nostro percorso di evoluzione digitale.</mj-text>
+        <mj-text>Dedicheremo la mattinata ad un inquadramento strategico e all’approfondimento di alcuni temi verticali.
+          Nel pomeriggio ciascuna Direzione Regionale avrà uno spazio per presentare le attività svolte, i risultati ottenuti e le azioni a piano per il raggiungimento degli obiettivi condivisi.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
