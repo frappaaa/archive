@@ -18,8 +18,8 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>Care colleghe e cari colleghi, 
-il 23 maggio ci ritroveremo per trascorrere una giornata insieme e mettere a fattor comune riflessioni e considerazioni sul nostro percorso di evoluzione digitale.  </mj-text>
+        <mj-text>Care colleghe e cari colleghi,
+          il 23 maggio ci ritroveremo per trascorrere una giornata insieme e mettere a fattor comune riflessioni e considerazioni sul nostro percorso di evoluzione digitale. </mj-text>
         <mj-text>Dedicheremo la mattinata all’approfondimento di alcuni temi verticali, mentre il pomeriggio vi vedrà protagonisti nel presentare le vostre attività, i vostri risultati e i vostri prossimi obiettivi.</mj-text>
       </mj-column>
     </mj-section>
@@ -75,7 +75,10 @@ il 23 maggio ci ritroveremo per trascorrere una giornata insieme e mettere a fat
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
-        <mj-text padding-top="0">Confermare la propria partecipazione tramite il calendar che verrà inviato</mj-text>
+        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative a
+          trasporto e pernottamento (ove necessario). </mj-text>
+        <mj-text>Confermare la propria partecipazione entro il 10/05/2024
+          tramite il calendar che verrà inviato.</mj-text>
         <mj-text>Segnalare eventuali esigenze alimentari alla seguente mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
       </mj-column>
     </mj-section>
