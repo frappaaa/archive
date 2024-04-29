@@ -21,13 +21,12 @@
         <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
         <mj-text padding-top="0">
           il 23 maggio ci ritroveremo per trascorrere una giornata insieme e condividere riflessioni e spunti sul nostro percorso di evoluzione digitale.</mj-text>
-        <mj-text>Dedicheremo la mattinata ad un inquadramento strategico e all’approfondimento di alcuni temi verticali.
-          Nel pomeriggio ciascuna Direzione Regionale avrà uno spazio per presentare le attività svolte, i risultati ottenuti e le azioni a piano per il raggiungimento degli obiettivi condivisi.</mj-text>
+        <mj-text>Affronteremo gli obiettivi strategici e ci addentreremo su temi verticali, alternando momenti dedicati a ciascuna Direzione Regionale che potrà presentare le attività svolte, i risultati ottenuti e le azioni a piano per il raggiungimento degli obiettivi condivisi.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="32px" background-color="#EFF5f5" border-radius="30px">
-        <mj-text padding="10px 0" font-size="24px">Agenda di giovedì <b>23 maggio</b></mj-text>
+        <mj-text padding="10px 0" font-size="24px">Agenda della giornata</mj-text>
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>10:30</b></td>
@@ -35,31 +34,60 @@
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>10:45</b></td>
-            <td style="padding-left:10px">Welcome Maurice Lisi <span style="font-size:16px; font-style:italic;">- Direzione Digital Business</span></td>
+            <td style="padding-left:10px">Welcome e avvio lavori</br> <span style="font-size:16px;">Maurice Lisi - <i>Direzione Digital Business</i></span></td>
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>11:00</b></td>
-            <td style="padding-left:10px">Giuseppe Sibilla <span style="font-size:16px; font-style:italic;">- Responsabile Rete Commerciale</span></td>
+            <td style="padding-left:10px">Intervento di apertura</br> <span style="font-size:16px;">Giuseppe Sibilla -<i>Responsabile Rete Commerciale</i></span></td>
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>11:15</b></td>
-            <td style="padding-left:10px;">Interventi a cura Digital Business e BdS</td>
+            <td style="padding-left:10px">Overview KPI Digitale</br> <span style="font-size:16px;">Tiziana Leo - <i>Servizio Digital Business Development & Engagement</i></span></td>
+          </tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>11:30</b></td>
+            <td style="padding-left:10px">Verticale canali diretti </br> <span style="font-size:16px;">Marco Puccioni -<i>Ufficio Direct Channels Individuals</i></span>
+              </br> <span style="font-size:16px;">Chiara Saltini - <i>Ufficio Direct Channels Legal Entity</i></span></td>
+          </tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
+            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br> <span style="font-size:16px;">Calabria Sicilia, Nord Ovest, Liguria, Sardegna Nord</span>
+            </td>
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
-            <td style="padding-left:10px">Stefano Vittorio Kuhn <span style="font-size:16px; font-style:italic;">- CRCBO</span></td>
+            <td style="padding-left:10px">Saluto e chiusura della mattinata</br> <span style="font-size:16px;">Stefano Vittorio Kuhn - <i>CRCBO</i></span>
+            </td>
           </tr>
-          <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157;width:65px"><b>13:30</b></td>
-            <td style="padding-left:10px">Lunch presso Ristorante Six</td>
+<tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:30</b></td>
+            <td style="padding-left:10px">Lunch presso Ristorante Six
+            </td>
           </tr>
-          <tr style="border-bottom:16px solid #EFF5f5">
+<tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
-            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</td>
+            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br> <span style="font-size:16px;">Lombardia Ovest, Campania Puglia Basilicata Molise, Centro Ovest, Emilia Ovest</span>
+            </td>
           </tr>
-          <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>18:00</b></td>
-            <td style="padding-left:10px">Fine lavori</td>
+<tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>15:30</b></td>
+            <td style="padding-left:10px">Verticale Filiale On Line</br> <span style="font-size:16px;">Giovanni Leonardi - <i>Servizio Digital Branch</i></span>
+            </td>
+          </tr>
+<tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>16:00</b></td>
+            <td style="padding-left:10px">Verticale Monetica</br> <span style="font-size:16px;">Claudio Susca - <i>Servizio Offering & Transaction Services</i></span>
+            </td>
+          </tr>
+<tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>16:30</b></td>
+            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br> <span style="font-size:16px;">Emilia Est - Romagna, Centro Est, Lombardia Est - Triveneto, Sardegna Sud</span>
+            </td>
+          </tr>
+<tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>17:30</b></td>
+            <td style="padding-left:10px">Chiusura lavori
+            </td>
           </tr>
         </mj-table>
       </mj-column>
@@ -77,11 +105,9 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
-        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative a
-          trasporto e pernottamento (ove necessario). </mj-text>
-        <mj-text>Confermare la propria partecipazione entro il 10/05/2024
-          tramite il calendar che verrà inviato.</mj-text>
-        <mj-text>Segnalare eventuali esigenze alimentari alla seguente mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
+        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative a trasporto e pernottamento (ove necessario).</mj-text>
+        <mj-text>Confermare la propria partecipazione entro il <b>10/05/2024</b> tramite il calendar che verrà inviato.</mj-text>
+        <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
