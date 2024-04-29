@@ -36,7 +36,7 @@
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Light brunch</span></br><b>Sporting Club</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Light lunch</span></br><b>Sporting Club</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:00</b></td>
@@ -56,19 +56,19 @@
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>17:30</b></td>
-            <td style="padding-left:10px">Visita <b>Duomo e Palazzo Arengario</b></td>
+            <td style="padding-left:10px">Visita Duomo e Palazzo Arengario</td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>18:00</b></td>
-            <td style="padding-left:10px">Cocktail presso <b>Saint</b></td>
+            <td style="padding-left:10px">Cocktail </br>presso <b>Saint</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>19:30</b></td>
-            <td style="padding-left:10px">Check in <b>Hotel Royal Falcone</b></td>
+            <td style="padding-left:10px">Check in </br><b>Hotel Royal Falcone</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>20:30</b></td>
-            <td style="padding-left:10px">Cena presso <b>ristorante Lait</b></td>
+            <td style="padding-left:10px">Cena </br>presso <b>ristorante Lait</b></td>
           </tr>
         </mj-table>
         <mj-divider border-color="#005157" border-width="1px" padding="10px 0"></mj-divider>
@@ -84,7 +84,7 @@
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:15</b></td>
-            <td style="padding-left:10px">Pranzo <b>Hotel Royal Falcone</b></td>
+            <td style="padding-left:10px">Pranzo </br><b>Hotel Royal Falcone</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
