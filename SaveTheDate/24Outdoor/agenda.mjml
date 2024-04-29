@@ -18,6 +18,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
+        <mj-text>Due giorni insieme, per fare squadra, immaginare, progettare e realizzare il nostro futuro.</mj-text>
         <mj-text font-size="28px">Agenda del <b>30 e 31 maggio</b></mj-text>
       </mj-column>
     </mj-section>
@@ -27,19 +28,19 @@
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>11:30</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Deposito bagagli</span></br>presso <b>Hotel Royal Falcone</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Ritrovo e deposito bagagli</span></br><b>Hotel Royal Falcone</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>12:15</b></td>
-            <td style="padding-left:10px">partenza navetta per <b>Sporting Club</b></td>
+            <td style="padding-left:10px">Trasferimento in navetta</td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Accoglienza e light</span></br>presso <b>Sporting Club</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Light brunch</span></br><b>Sporting Club</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:00</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Internal meeting</span></br><b>“Digitalizzazione e mega trend del mercato”</b></td>
+            <td style="padding-left:10px">Internal meeting</br></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157;width:65px"><b>15:30</b></td>
@@ -47,11 +48,11 @@
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>16:00</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">ingaggio a cura Direzione Digital Business</span></br><b>Testimonial</b></td>
+            <td style="padding-left:10px">Ripresa lavori e interventi testimonial</td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>17:15</b></td>
-            <td style="padding-left:10px">Partenza navetta per centro storico</td>
+            <td style="padding-left:10px">Trasferimento in navetta</td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>17:30</b></td>
@@ -59,11 +60,11 @@
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>18:00</b></td>
-            <td style="padding-left:10px">Aperitivo presso <b>Saint</b></td>
+            <td style="padding-left:10px">Cocktail presso <b>Saint</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>19:30</b></td>
-            <td style="padding-left:10px">Check in albergo <b>Royal Falcone</b></td>
+            <td style="padding-left:10px">Check in <b>Hotel Royal Falcone</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>20:30</b></td>
@@ -79,11 +80,11 @@
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Debriefing attività formativa e chiusura lavori</span></br>presso sala <b>Hotel Royal Falcone</b></td>
+            <td style="padding-left:10px"><span style="font-size:18px;">Debriefing attività formativa e chiusura lavori</span></br><b>Hotel Royal Falcone</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:15</b></td>
-            <td style="padding-left:10px">Pranzo presso sala <b>Hotel Royal Falcone</b></td>
+            <td style="padding-left:10px">Pranzo <b>Hotel Royal Falcone</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
@@ -95,8 +96,10 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
-        <mj-text padding-top="0">Confermare la propria partecipazione tramite il calendar che verrà inviato</mj-text>
-        <mj-text>Segnalare eventuali esigenze alimentari alla seguente mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
+        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative ai trasferimenti da e verso Monza.</mj-text>
+        <mj-text>Si consiglia abbigliamento casual.</mj-text>
+        <mj-text>Confermare la propria partecipazione entro il 10/05/2024 tramite il calendar che verrà inviato.</mj-text>
+        <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
