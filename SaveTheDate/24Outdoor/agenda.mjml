@@ -28,7 +28,7 @@
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>11:30</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Ritrovo e deposito bagagli</span></br><b>Hotel Royal Falcone</b></td>
+            <td style="padding-left:10px">Ritrovo e deposito bagagli</br><b>Hotel Royal Falcone</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>12:15</b></td>
@@ -36,7 +36,7 @@
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Light lunch</span></br><b>Sporting Club</b></td>
+            <td style="padding-left:10px">Light lunch</br><b>Sporting Club</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:00</b></td>
@@ -76,11 +76,11 @@
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>09:00</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Inizio caccia all'indizio</span></br>Centro storico di <b>Monza</b></td>
+            <td style="padding-left:10px">Inizio caccia all'indizio</br>Centro storico di <b>Monza</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
-            <td style="padding-left:10px"><span style="font-size:18px;">Debriefing attività formativa e chiusura lavori</span></br><b>Hotel Royal Falcone</b></td>
+            <td style="padding-left:10px">Debriefing attività formativa e chiusura lavori</br><b>Hotel Royal Falcone</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:15</b></td>
