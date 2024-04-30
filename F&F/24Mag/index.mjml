@@ -27,7 +27,7 @@
         <mj-text padding="0" padding-bottom="14px" color="#fff"><b>Ecco cosa troverai in questa versione:</b> </mj-text>
         <mj-text padding="0 18px" color="#fff">
           <ul style="padding:0;">
-            <li><b>Sottoscrizione fondi in self</b></br>avrai a disposizione una selezione di fondi comuni di investimento di Arca SGR, da sottoscrivere in self direttamente dall’app in forma di Piani di Accumulo del Capitale (PAC). Trovi tutti i dettagli nella guida dedicata.</li>
+            <li><b>Sottoscrizione fondi in self:</b></br>avrai a disposizione una selezione di fondi comuni di investimento di Arca SGR, da sottoscrivere in self direttamente dall’app in forma di Piani di Accumulo del Capitale (PAC). Trovi tutti i dettagli nella guida dedicata.</li>
           </ul>
         </mj-text>
         <mj-text padding="0 18px" color="#fff">
@@ -61,7 +61,7 @@
         <mj-text padding="0" color="#005157">Per partecipare compila il form di adesione cliccando su <a href="" style="color:#005157">questo link</a> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).  Per maggiori dettagli consulta la <a href="" style="color:#005157">guida</a> in allegato.
         </mj-text>
         <mj-text padding="14px 0 0 0">Ti avvisereo quando l'aggiornamento sarà disponibile e scaricabile; potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="" style="color:#005157">questo form</a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
-        <mj-text><b>Ti aspettiamo per vivere da protagonista il percorso di crescita digitale!</b></mj-text>
+        <mj-text padding="14px 0 0 0"><b>Ti aspettiamo per vivere da protagonista il percorso di crescita digitale!</b></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
