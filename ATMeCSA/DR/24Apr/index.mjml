@@ -28,8 +28,6 @@
         <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/cartinaAprile24.png?raw=true" alt="Installazioni effettuate ad Aprile: 98 CSA, 84 ATM Evo, 27 Cashless" padding="0" padding-bottom="20px"></mj-image>
         <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
         <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/davide_turci_bper_it/EfOCkCU5MZxCtz9E4IeU5koBO8QDo4nnZ7IRsY_gK7D0zg?e=4U6pFt">Scarica il documento</mj-button>
-
-        <mj-text line-height="14px"><i><b>Maurice Lisi e Diego Malerba</b></i></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
