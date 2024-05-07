@@ -13,7 +13,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/" alt="Verso il futuro. L’evoluzione della transazionalità in self." padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/Header.png?raw=true" alt="Verso il futuro. L’evoluzione della transazionalità in self." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -134,8 +134,8 @@
 
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/cartinaMarzo24.png?raw=true" alt="Installazioni effettuate a Marzo: 35 CSA, 77 ATM Evo, 21 Cashless" padding="0" padding-bottom="20px"></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/cartinaMarzo24.png?raw=true" alt="Installazioni effettuate ad Aprile: 35 CSA, 77 ATM Evo, 21 Cashless" padding="0" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/cartinaAprile24.png?raw=true" alt="Installazioni effettuate a Marzo: 35 CSA, 77 ATM Evo, 21 Cashless" padding="0" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/cartinaAprile24.png?raw=true" alt="Installazioni effettuate ad Aprile: 35 CSA, 77 ATM Evo, 21 Cashless" padding="0" padding-bottom="20px"></mj-image>
         <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
         <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/EaZwlWSyrN5EjYcFDizcZ4oBjGIlje1u4NytdNFX3rESlA?e=bfEDzX">Scarica il documento</mj-button>
 
