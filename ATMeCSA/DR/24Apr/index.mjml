@@ -22,122 +22,12 @@
         <mj-text padding-top="0">
           con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionaltà attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
       </mj-column>
-    </mj-section>
-    <mj-section background-color="#eff5f5" border-radius="24px" padding="20px">
-      <mj-column width="100%">
-
-        <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
-          Nuove installazioni effettuate ad Aprile:
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-text font-size="20px" color="#00ae65" font-weight="bold" align="center" padding="0">21 CSA</mj-text>
-        <mj-divider border-width="1px" border-color="#005157" padding="4px"></mj-divider>
-        <mj-text font-size="14px" padding="0">
-          <ul style="flex: 1; margin-right:4px;padding-left: 20px;">
-            <li>Cervinara</li>
-            <li>Carrara - Ag. 6 - Fossola</li>
-            <li>Sulmona Sede</li>
-            <li>Rende</li>
-            <li>Barletta Piazza Caduti in Guerra</li>
-            <li>Arezzo</li>
-            <li>Ferrara Sede</li>
-            <li>Vigarano Mainarda</li>
-            <li>Imola Ag. 2</li>
-            <li>Porto Mantovano</li>
-            <li>Milano Marittima</li>
-            <li>Alfonsine</li>
-            <li>Parma Ag. 5</li>
-            <li>Traversetolo</li>
-            <li>Parma Ag. 6</li>
-            <li>Porto Garibaldi</li>
-            <li>Medolla</li>
-            <li>Riale</li>
-            <li>Arceto</li>
-            <li>Quattro Castella</li>
-            <li>Palermo - Ag. 8</li>
-          </ul>
-        </mj-text>
-
-      </mj-column>
-      <mj-column width="50%">
-        <mj-text font-size="20px" color="#00ae65" font-weight="bold" align="center" padding="0">37 ATM Evo</mj-text>
-        <mj-divider border-width="1px" border-color="#005157" padding="4px"></mj-divider>
-        <mj-table padding="0">
-          <tr style="padding:0; vertical-align:top">
-            <td style="padding:0;">
-              <ul style="flex: 1; margin-right:10px;padding-left: 20px; color:#005157">
-                <li>Penne</li>
-                <li>Altamura</li>
-                <li>Campoleone</li>
-                <li>Stintino</li>
-                <li>Sassari Ag.2</li>
-                <li>Celano</li>
-                <li>Grassano</li>
-                <li>Comiso</li>
-                <li>Magliano Sabina</li>
-                <li>Rocca Di Mezzo</li>
-                <li>Cremona Sede</li>
-                <li>Ospedaletti</li>
-                <li>Rovigo Ag.1</li>
-                <li>Leffe</li>
-                <li>Palermo Ag. 3</li>
-                <li>Arezzo</li>
-                <li>Salemi</li>
-                <li>Roma Succursale L</li>
-                <li>Porto Viro</li>
-                <li>Lucca Piazza San Martino</li>
-                <li>Lunata</li>
-              </ul>
-            </td>
-            <td>
-              <ul style="flex: 1; margin-right:4px;padding-left: 20px;color:#005157">
-                <li>Guardiagrele</li>
-                <li>Passo Corese</li>
-                <li>Adria</li>
-                <li>Montignoso Ag. 1 - Cinquale</li>
-                <li>Casinalbo</li>
-                <li>Aulla</li>
-                <li>Cecina</li>
-                <li>Milazzo</li>
-                <li>Villa D’Agri</li>
-                <li>Mesola</li>
-                <li>Pisa Sede</li>
-                <li>Santa Maria Maddalena</li>
-                <li>Montignoso</li>
-                <li>Ravenna Sede</li>
-                <li>Teramo</li>
-                <li>Arezzo via Romana</li>
-              </ul>
-            </td>
-          </tr>
-        </mj-table>
-      </mj-column>
-      <mj-column width="25%" padding="0">
-        <mj-text font-size="20px" color="#00ae65" font-weight="bold" align="center" padding="0">7 Cashless</mj-text>
-        <mj-divider border-width="1px" border-color="#005157" padding="4px"></mj-divider>
-        <mj-text font-size="14px" padding="0">
-          <ul style="flex: 1; margin-right:10px;padding-left: 20px;">
-
-            <li>Varese Sant'Ambrogio Olona</li>
-            <li>Travedona</li>
-            <li>Biandronno</li>
-            <li>Bergamo Via Gasparini</li>
-            <li>Reggiolo</li>
-            <li>Roma Ag. 37</li>
-            <li>Latina Ag.1</li>
-          </ul>
-
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
+    </mj-section><mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/cartinaAprile24.png?raw=true" alt="Installazioni effettuate a Marzo: 35 CSA, 77 ATM Evo, 21 Cashless" padding="0" padding-bottom="20px"></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/cartinaAprile24.png?raw=true" alt="Installazioni effettuate ad Aprile: 35 CSA, 77 ATM Evo, 21 Cashless" padding="0" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/listaInstallazioniApr24.png?raw=true" alt="Nuove installazioni effettuate ad Aprile: 33 CSA, 7 ATM Evo, 6 Cashless." padding="0" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/cartinaAprile24.png?raw=true" alt="Installazioni effettuate ad Aprile: 98 CSA, 84 ATM Evo, 27 Cashless" padding="0" padding-bottom="20px"></mj-image>
         <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
-        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/EaZwlWSyrN5EjYcFDizcZ4oBjGIlje1u4NytdNFX3rESlA?e=bfEDzX">Scarica il documento</mj-button>
+        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/davide_turci_bper_it/EfOCkCU5MZxCtz9E4IeU5koBO8QDo4nnZ7IRsY_gK7D0zg?e=4U6pFt">Scarica il documento</mj-button>
 
         <mj-text line-height="14px"><i><b>Maurice Lisi e Diego Malerba</b></i></mj-text>
       </mj-column>
