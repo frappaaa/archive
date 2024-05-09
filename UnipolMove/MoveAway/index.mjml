@@ -1,0 +1,46 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/UnipolMove/MoveAway/Header.png?raw=true" alt="UnipolMove. Fino al 28/05 2 dispositivi gratis per 1 anno" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Cari colleghi e colleghe, 
+i recenti annunci di nuovi rincari da parte di Telepass rendono in questo momento il mercato del telepedaggio particolarmente sensibile. 
+</mj-text><mj-text>
+Mai come adesso abbiamo la possibilità di sfruttare al massimo la nostra offerta particolarmente competitiva con UnipolMove: <b>fino al 28 maggio la promo Move Away offre 12 mesi di canone gratuito sul primo e sul secondo dispositivo per nuove sottoscrizioni.</b>
+</mj-text>
+        
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/UnipolMove/MoveAway/lista.png?raw=true" alt="Confronto tra offerte di UnipolMove, Telepass e MooneyGo." padding="0"></mj-image></mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>É questo il momento di imprimere un’accelerazione forte al collocamento di UnipolMove e abbiamo tutti gli strumenti per farlo: la <b>convenienza economica</b> del prodotto, l’<b>esclusività</b> dell’offerta e la <b>distintività</b> della nostra proposta sul mercato.
+</mj-text><mj-text>
+Tutti i dettagli sulle caratteristiche e le condizioni economiche di UnipolMove sono disponibili su <a href="" style="color:#005157;"><b>Bsmart</b></a>.</mj-text>
+<mj-text>
+Ti ringrazio in anticipo per il contributo che darai nell’indirizzare al meglio la spinta commerciale.
+</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
