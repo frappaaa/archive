@@ -18,10 +18,11 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>Cari colleghi e colleghe, 
+        <mj-text padding-bottom="0">Cari colleghi e colleghe,</mj-text><mj-text>
 i recenti annunci di nuovi rincari da parte di Telepass rendono in questo momento il mercato del telepedaggio particolarmente sensibile. 
 </mj-text><mj-text>
-Mai come adesso abbiamo la possibilità di sfruttare al massimo la nostra offerta particolarmente competitiva con UnipolMove: <b>fino al 28 maggio la promo Move Away offre 12 mesi di canone gratuito sul primo e sul secondo dispositivo per nuove sottoscrizioni.</b>
+Mai come adesso abbiamo la possibilità di sfruttare al massimo la nostra offerta particolarmente competitiva con UnipolMove: <b>fino al 28 maggio la promo Move Away offre 12 mesi di canone gratuito sul primo e sul secondo dispositivo per nuove sottoscrizioni</b>.
+
 </mj-text>
         
       </mj-column>
@@ -35,7 +36,7 @@ Mai come adesso abbiamo la possibilità di sfruttare al massimo la nostra offert
 </mj-text><mj-text>
 Tutti i dettagli sulle caratteristiche e le condizioni economiche di UnipolMove sono disponibili su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/prodotti/unipolmove" style="color:#005157;"><b>Bsmart</b></a>.</mj-text>
 <mj-text>
-Ti ringrazio in anticipo per il contributo che darai nell’indirizzare al meglio la spinta commerciale.
+Grazie per il contributo che ciascuno darà nell’indirizzare al meglio la spinta commerciale.
 </mj-text>
       </mj-column>
     </mj-section>
