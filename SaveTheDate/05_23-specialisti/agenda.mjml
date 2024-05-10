@@ -29,63 +29,68 @@
         <mj-text padding="10px 0" font-size="24px">Agenda della giornata</mj-text>
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>10:30</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>09:00</b></td>
             <td style="padding-left:10px">Accredito</td>
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>10:45</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>09:30</b></td>
             <td style="padding-left:10px">Welcome e avvio lavori</br> <span style="font-size:16px;">Maurice Lisi - <i>Direzione Digital Business</i></span></td>
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>11:00</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>09:45</b></td>
             <td style="padding-left:10px">Intervento di apertura</br> <span style="font-size:16px;">Giuseppe Sibilla - <i>Responsabile Rete Commerciale</i></span></td>
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>11:15</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>10:00</b></td>
             <td style="padding-left:10px">Overview KPI Digitale</br> <span style="font-size:16px;">Tiziana Leo - <i>Servizio Digital Business Development & Engagement</i></span></td>
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>11:30</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>10:15</b></td>
             <td style="padding-left:10px">Verticale canali diretti </br> <span style="font-size:16px;">Marco Puccioni - <i>Ufficio Direct Channels Individuals</i></span>
               </br> <span style="font-size:16px;">Chiara Saltini - <i>Ufficio Direct Channels Legal Entity</i></span></td>
           </tr>
           <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>10:45</b></td>
+            <td style="padding-left:10px">Break</td>
+          </tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>11:15</b></td>
             <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br> <span style="font-size:16px;">Calabria Sicilia, Nord Ovest, Liguria, Sardegna Nord</span>
             </td>
           </tr>
+
           <tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>12:15</b></td>
+            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br> <span style="font-size:16px;">Lombardia Ovest, Campania Puglia Basilicata Molise, Centro Ovest, Emilia Ovest</span>
+            </td>
+          </tr>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:15</b></td>
             <td style="padding-left:10px">Saluto e chiusura della mattinata</br> <span style="font-size:16px;">Stefano Vittorio Kuhn - <i>CRCBO</i></span>
             </td>
           </tr>
-<tr style="border-bottom:16px solid #EFF5f5">
+          <tr style="border-bottom:16px solid #EFF5f5">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:30</b></td>
             <td style="padding-left:10px">Lunch presso Ristorante Six
             </td>
           </tr>
-<tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
-            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br> <span style="font-size:16px;">Lombardia Ovest, Campania Puglia Basilicata Molise, Centro Ovest, Emilia Ovest</span>
-            </td>
-          </tr>
-<tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>15:30</b></td>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>14:45</b></td>
             <td style="padding-left:10px">Verticale Filiale On Line</br> <span style="font-size:16px;">Giovanni Leonardi - <i>Servizio Digital Branch</i></span>
             </td>
           </tr>
-<tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>16:00</b></td>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>15:00</b></td>
             <td style="padding-left:10px">Verticale Monetica</br> <span style="font-size:16px;">Claudio Susca - <i>Servizio Offering & Transaction Services</i></span>
             </td>
           </tr>
-<tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>16:30</b></td>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>15:15</b></td>
             <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br> <span style="font-size:16px;">Emilia Est - Romagna, Centro Est, Lombardia Est - Triveneto, Sardegna Sud</span>
             </td>
           </tr>
-<tr style="border-bottom:16px solid #EFF5f5">
-            <td style="border-right: 2px solid #005157; width:65px"><b>17:30</b></td>
+          <tr style="border-bottom:16px solid #EFF5f5">
+            <td style="border-right: 2px solid #005157; width:65px"><b>16:15</b></td>
             <td style="padding-left:10px">Chiusura lavori
             </td>
           </tr>
