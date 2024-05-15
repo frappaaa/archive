@@ -13,7 +13,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/Header.png" alt="40 milioni. Celebriamo il secondo traguardo del 2024." padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/Header.png" alt="60 milioni. Digital Lending." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
@@ -23,7 +23,7 @@
         <mj-text>abbiamo toccato quota <b>60 milioni di erogato totale dal canale digitale</b>: il Prestito ha superato i XX milioni di euro di erogato, mentre PagaPoi ha segnato quota XX milioni.</mj-text>
 
         <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/datiLending.png" alt="42 milioni € di importo erogato. Suddivisione per DR."></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/datiLending.png" alt="60 milioni € di importo erogato. Suddivisione per DR."></mj-image>
         <mj-text>Nelle prossime settimane daremo nuova spinta alle erogazioni con una <b>promozione dedicata a chi sottoscriverà il Prestito Smart in self o a distanza tramite la Filiale Online tra il 20 maggio e il 16 giugno</b>: </mj-text>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/listaInfo.png" alt="42 milioni € di importo erogato. Suddivisione per DR."></mj-image>
         <mj-text>
