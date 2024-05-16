@@ -1,0 +1,32 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/Header.png" alt="Smart Banking. Naviga in anteprima la nuova versione dell’app." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentile Collega,</b></mj-text>
+        <mj-text padding="10px 0"><b>da oggi puoi navigare in anteprima la nuova versione dell’app</b>, per scoprire le novità prima del rilascio ufficiale a tutta la clientela.</mj-text>
+        <mj-text padding="10px 0"><b>Se non lo hai ancora fatto, compila il form di adesione cliccando su <a href="https://forms.office.com/e/jk5TQcS1dC" style="color:#005157;">questo link</a></b> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play). Per maggiori dettagli puoi consultare la guida in allegato. </mj-text>
+        <mj-text><b>Potrai darci i tuoi suggerimenti o segnalare eventuali anomalie accedendo a <a href="https://forms.office.com/e/95SqKxZwFi" style="color:#005157;">questo form</a></b>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti. </mj-text>
+        <mj-text>Grazie per il tuo contributo! </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
