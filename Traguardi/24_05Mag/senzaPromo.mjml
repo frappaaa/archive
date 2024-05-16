@@ -24,11 +24,13 @@
 
         <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/datiLending.png" alt="60 milioni € di importo erogato. Suddivisione per DR."></mj-image>
+        <mj-text>Il Prestito Smart arricchisce non solo la nostra esperienza digitale, ma anche l’offerta di filiale diventando la <b>prima opzione di proposta ai clienti eleggibili per tutte le finalità ammesse.</b> </mj-text>
         <mj-text>
-          Per sfruttare al meglio tutte le occasioni commerciali in ottica omnicanale, sono state implementate <b>nuove logiche CRM che generano opportunità per la filiale dalle interruzioni del processo sui canali digitali</b>.</mj-text>
+          Per sfruttare al meglio  le occasioni commerciali in ottica omnicanale, sono state implementate <b>nuove logiche CRM che generano opportunità per la filiale dalle interruzioni del processo sui canali digitali</b>. 
+La filiale di radicamento della relazione <b>dovrà ricontattare tempestivamente il cliente</b> per raccogliere a caldo i suoi bisogni e indirizzarli verso la soluzione migliore. </mj-text>
         <mj-text>La filiale di radicamento della relazione dovrà <b>ricontattare tempestivamente il cliente</b> per raccogliere a caldo i suoi bisogni e indirizzarli verso la soluzione migliore. </mj-text>
         <mj-text>
-          Si tratta di <b>opportunità commerciali preziose</b> e chiediamo il vostro contributo affinchè vengano sfruttate al meglio: potremo così raggiungere risultati sempre più gratificanti per noi ma anche per il cliente.</mj-text>
+          Si tratta di <b>opportunità commerciali preziose</b> e chiediamo il vostro contributo affinchè vengano sfruttate al meglio: potremo così raggiungere risultati sempre più gratificanti per noi ma anche per il cliente. </mj-text>
         <mj-text><b>Grazie per il vostro contributo.</b></mj-text>
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
