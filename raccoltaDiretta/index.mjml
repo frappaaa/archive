@@ -13,31 +13,60 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/UnipolMove/MoveAway/Header.png?raw=true" alt="UnipolMove. Fino al 28/05 2 dispositivi gratis per 1 anno" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/raccoltaDiretta/Header.png?raw=true" alt="Nuove opportunità da canale digitale. Focus raccolta diretta." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-bottom="0">Cari colleghi e colleghe,</mj-text><mj-text>
-i recenti annunci di rincari da parte del principale player rendono il mercato del telepedaggio particolarmente sensibile.
-</mj-text><mj-text>
-Mai come adesso abbiamo la possibilità di sfruttare al massimo la nostra offerta particolarmente competitiva con UnipolMove: <b>fino al 28 maggio la promo Move Away offre 12 mesi di canone gratuito sul primo e sul secondo dispositivo per nuove sottoscrizioni</b>.
-
-</mj-text>
-        
+        <mj-text padding-bottom="0">Gentile Collega,</mj-text>
+        <mj-text>
+          dal 3 maggio <b>la nostra offerta commerciale in ambito raccolta diretta si è rafforzata</b> attraverso l’introduzione di due nuovi prodotti: 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#00ae65" border-radius="30px">
+      <mj-column>
+        <mj-text color="#fff" >
+          <ol style="padding-bottom:0px">
+            <li style="padding-bottom:20px"><b>Certificato di Deposito</b> 4 mesi al tasso del 4,00%, riservato a nuova raccolta (importo minimo € 30.000)
+            </li>
+            <li><b>Servizio Di Più Bundle</b> 4 mesi al tasso del 5,00%, sottoscrivibile dalla clientela che apporta nuova liquidità (importo minimo € 60.000 di cui 50% destinati al vincolo Di Più bundle e 50% in prodotti di risparmio gestito e/o assicurativo vita).</li>
+          </ol>
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/UnipolMove/MoveAway/lista.png?raw=true" alt="Confronto tra offerte di UnipolMove, Telepass e MooneyGo." padding="0"></mj-image></mj-column>
+      <mj-column>
+        <mj-text>
+          Dal 20 maggio entrambi i prodotti saranno proposti tramite una campagna digitale con banner in app e mail: <b>il cliente potrà scegliere di essere ricontattato per sottoscrivere il prodotto col suo consulente in filiale.</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section border-radius="30px" background-color="#eff5f5">
+      <mj-column width="60%">
+        <mj-text>Per garantire una migliore esperienza e sfruttare la comodità offerta dal digitale, il comportamento da adottare è la <b>sottoscrizione con Smart Desk in offerta a distanza</b>. Il vostro Specialista Digital è a dispozione per supporto sull’utilizzo di questo importante strumento.</mj-text>
+      </mj-column>
+      <mj-column width="40%">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/raccoltaDiretta/phone.png?raw=true" alt="Firma i tuoi documenti direttamente dall'app con Smart Desk." padding="0" width="158px"></mj-image>
+      </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>É questo il momento di imprimere un’accelerazione forte al collocamento di UnipolMove e abbiamo tutti gli strumenti per farlo: la <b>convenienza economica</b> del prodotto, l’<b>esclusività</b> dell’offerta e la <b>distintività</b> della nostra proposta sul mercato.
-</mj-text><mj-text>
-Tutti i dettagli sulle caratteristiche e le condizioni economiche di UnipolMove sono disponibili su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/prodotti/unipolmove" style="color:#005157;"><b>Bsmart</b></a>.</mj-text>
-<mj-text>
-Grazie per il contributo che ciascuno darà nell’indirizzare al meglio la spinta commerciale.
-</mj-text>
+        <mj-text>É un altro esempio concreto della sinergia tra digitale e umano: <b>il canale digitale genera importanti opportunità per la filiale</b>, che attraverso un contatto tempestivo potrà raccogliere a caldo i bisogni del cliente interessato.</mj-text>
+        <mj-text>
+          Chiediamo il vostro contributo affinché vengano sfruttate al meglio: potremo così raggiungere risultati sempre più gratificanti per noi ma anche per il cliente. 
+        </mj-text>
+        <mj-text>Grazie per la collaborazione.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0"><b>Maurice Lisi</b></mj-text>
+        <mj-text font-size="16px" padding-top="0" line-height="18px"><i>Responsabile Direzione Digital Business</i></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding-bottom="0"><b>Pasquale Panzarino</b></mj-text>
+        <mj-text font-size="16px" padding-top="0" line-height="18px"><i>Responsabile Direzione Privati</i></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
