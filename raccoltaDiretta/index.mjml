@@ -39,13 +39,13 @@
       <mj-column>
         <mj-text>
           Dal 20 maggio entrambi i prodotti sono proposti tramite una campagna digitale con banner in app e mail: <b>il cliente potrà scegliere di essere ricontattato per sottoscrivere il prodotto col suo consulente in filiale.</b>
-<b>L’interesse manifestato dal cliente si tradurrà nell’apertura di un’opportunità su Salesforce</b> on origine “Ricontatti da dem e banner”, bisogno “Investimento”, oggetto “Cerificato di Deposito”/ “Bundle D+”.
+<b>L’interesse manifestato dal cliente si tradurrà nell’apertura di un’opportunità su Salesforce</b> con origine “Ricontatti da dem e banner”, bisogno “Investimento”, oggetto “Cerificato di Deposito”/ “Bundle D+”.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section border-radius="30px" background-color="#eff5f5">
       <mj-column width="60%">
-        <mj-text>Per il <b>Certificato di Deposito</b>è possibile effettuare la sottoscrizione a distanza: per garantire una migliore esperienza e sfruttare la comodità offerta dal digitale, il comportamento da stimolare è la <b>sottoscrizione con Smart Desk in offerta a distanza</b>l vostro Specialista Digital è a disposizione per supporto sull’utilizzo di questo strumento.</mj-text>
+        <mj-text>Per il <b>Certificato di Deposito</b> è possibile effettuare la sottoscrizione a distanza: per garantire una migliore esperienza e sfruttare la comodità offerta dal digitale, il comportamento da stimolare è la <b>sottoscrizione con Smart Desk in offerta a distanza</b>. Il tuo Specialista Digital è a disposizione per supporto sull’utilizzo di questo strumento.</mj-text>
       </mj-column>
       <mj-column width="40%">
         <mj-image src="https://github.com/frappaaa/archive/blob/main/raccoltaDiretta/phone.png?raw=true" alt="Firma i tuoi documenti direttamente dall'app con Smart Desk." padding="0" width="158px"></mj-image>
@@ -55,7 +55,7 @@
       <mj-column>
         <mj-text>É un altro esempio concreto della sinergia tra digitale e umano: <b>il canale digitale genera importanti opportunità per la filiale</b>, che attraverso un contatto tempestivo potrà raccogliere a caldo i bisogni del cliente interessato.</mj-text>
         <mj-text>
-          Chiediamo il vostro contributo affinché vengano sfruttate al meglio: potremo così raggiungere risultati sempre più gratificanti per noi ma anche per il cliente. 
+          Chiediamo il tuo contributo affinché vengano sfruttate al meglio: potremo così raggiungere risultati sempre più gratificanti per noi ma anche per il cliente. 
         </mj-text>
         <mj-text>Grazie per la collaborazione.</mj-text>
       </mj-column>
