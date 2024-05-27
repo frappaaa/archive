@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/DigitalWealth/24Mag/Header.png" alt="Digital Wealth. Le opportunità per il Gestore crescono insieme all’app" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentile Collega,</b></mj-text>
+        <mj-text padding="10px 0">per rafforzare la sinergia tra il ruolo del Gestore e il cliente attraverso l’apertura di un nuovo canale, nelle prossime settimane l’app Smart Banking si arricchirà di importanti novità relative al mondo degli investimenti:</mj-text>
+        <mj-text padding="0" padding-bottom="14px" color="#fff"><b>Ecco cosa troverai in questa versione:</b></mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>Sottoscrizione fondi in self: nella sezione Investimenti sarà messa a disposizione una selezione di 7 fondi comuni di investimento di Arca Fondi SGR, da sottoscrivere in self direttamente dall’app in forma di Piani di Accumulo del Capitale (PAC)  </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>Investimenti - posizione cliente: la sezione informativa relativa agli Investimenti sarà arricchita e ampliata; sarà inoltre possibile accedere al servizio Consulenza Evoluta anche da app.
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text>Si tratta di un primo passo per aumentare l’efficacia del modello di servizio sfruttando l’omnicanalità per:
+          <ul>
+            <li>favorire la digitalizzazione delle vendite anche a distanza attraverso SmartDesk
+              generare nuove opportunità da canale digitale
+            </li>
+            <li>allinearci ai competitor best-in-class.</li>
+          </ul>
+        </mj-text>
+        <mj-text>Riceverai a breve un invito in Calendar per una sessione formativa dedicata.</mj-text>
+        <mj-text>Non mancare, il tuo contributo sarà fondamentale per promuovere al meglio i nuovi servizi del Digital Wealth e accompagnare i nostri clienti nel percorso di evoluzione digitale.</mj-text>
+        <mj-text>Grazie.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
