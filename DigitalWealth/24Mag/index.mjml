@@ -47,6 +47,16 @@
       </mj-column>
     </mj-section>
     <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0"><b>Maurice Lisi</b></mj-text>
+        <mj-text font-size="16px" padding-top="0" line-height="18px"><i>Responsabile Direzione Digital Business</i></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding-bottom="0"><b>Pasquale Panzarino</b></mj-text>
+        <mj-text font-size="16px" padding-top="0" line-height="18px"><i>Responsabile Direzione Privati</i></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
       <mj-column></mj-column>
     </mj-section>
   </mj-body>
