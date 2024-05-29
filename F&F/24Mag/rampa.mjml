@@ -1,0 +1,65 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0"/>
+      <mj-section background-color="#fff" max-width="640px" />
+      <mj-column padding="0 34px"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/Header.png" alt="Smart Banking. Naviga in anteprima la nuova versione dell’app." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Care colleghe e cari colleghi,</b></mj-text>
+        <mj-text padding="10px 0">dal 29 maggio sarà rilasciata progressivamente su tutta la nostra clientela la nuova versione dell’app, che continua a crescere per diventare sempre di più un punto di snodo fondamentale nella relazione con il cliente.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="38px" padding-left="56px" background-color="#009969" border-radius="30px">
+        <mj-text padding="0" padding-bottom="14px" color="#fff"><b>Ecco cosa troverai in questa versione:</b> </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>l’esperienza diventa ancora più digitale e umana grazie a <b>nuove modalità di interazione con i consulenti online</b>, attraverso la chat o con la condivisione dello schermo per un supporto ancora più personalizzato.</li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Smart Desk evolve</b>, posizionandosi come uno strumento sempre più pervasivo e centrale nella proposizione in filiale: il suo utilizzo per la firma dei documenti viene infatti esteso ai processi <b>Finanza e Bancassurance</b> gestiti tramite FEQ da Pico e Hub.
+            </li>
+          </ul>
+        </mj-text>
+    <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>si ampliano le possibilità per <b>accedere alla sostituzione delle carte di debito in self</b> dalla app, aperto ora anche ai clienti rientranti in fascia di rischio Gianos Media (C); vengono pertanto rimandati alla Filiale Fisica esclusivamente i clienti rientranti in fascia di rischio Gianos Alta 
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>evolve <b>l’esperienza complessiva</b>, con le novità del profilo, il grafico entrate/uscite all’interno della sezione Movimenti nella schermata principale, nuovi ingaggi commerciali e informativi. 
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px">
+        <mj-text>Contiamo sul vostro supporto per valorizzare al meglio queste novità e continuare così il nostro percorso di innovazione.
+        </mj-text>
+        <mj-text>Per avere tutti gli aggiornamenti sui nostri servizi digitali visita <a href="https://intrawseal.gbbper.priv/blinkdue/host/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;font-weight:bold;">BSmart</a>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
