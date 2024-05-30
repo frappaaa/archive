@@ -14,7 +14,7 @@
     </mj-section>
     <mj-section>
       <mj-column padding="0">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/Header.png" alt="Smart Banking. Naviga in anteprima la nuova versione dell’app." padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/Header.png" alt="Smart Banking. Le novità del rilascio di maggio." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -25,13 +25,13 @@
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src=""></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/heybper.png" width="340px"></mj-image>
         <mj-text>Evolve l’interazione con i consulenti online: con <b style="color:#009969">HeyBPER</b> l’esperienza diventa ancora più digitale e umana anche attraverso la chat e la nuova funzionalità di condivisione schermo.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src=""></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/smartdesk.png" width="340px"></mj-image>
         <mj-text>A partire dal 13 giugno sarà possibile finalizzare la vendita dei prodotti Wealth tramite FEQ e <b style="color:#009969">Smart Desk</b>:
           <ul>
             <li>Risparmio amministrato (Pico – Hub Accorpatore) </li>
@@ -51,13 +51,13 @@
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src=""></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/cartadidebito.png" width="180px"></mj-image>
         <mj-text><b style="color:#009969">Sostituzione carte di debito</b>: anche i clienti rientranti in fascia di rischio Gianos Media (C) potranno sostituire direttamente in app le loro carte. Verranno rimandati alla Filiale Fisica esclusivamente i clienti rientranti in fascia di rischio Gianos Alta.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src=""></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/profilo.png" width="340px"></mj-image>
         <mj-text>Evolve l’<b style="color:#009969;">esperienza complessiva</b>: il grafico entrate/uscite in Home sotto la lista movimenti diventa più interattivo, arrivano nuovi ingaggi commerciali e si rinnova la sezione Profilo.</mj-text>
       </mj-column>
     </mj-section>
