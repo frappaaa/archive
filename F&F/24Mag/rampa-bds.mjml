@@ -9,7 +9,7 @@
   <mj-body max-width="640px">
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bds-logo.png" width="104px" alt="Banco di Sardegna"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bds-logo.png" width="280px" alt="Banco di Sardegna"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
