@@ -14,13 +14,13 @@
     </mj-section>
     <mj-section>
       <mj-column padding="0">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/Header.png" alt="Smart Banking. Le novità del rilascio di maggio." padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/Headerbds.png" alt="Smart Banking. Le novità del rilascio di maggio e giugno." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Care colleghe e cari colleghi,</b></mj-text>
-        <mj-text padding="10px 0">dal 29 maggio sarà rilasciata progressivamente su tutta la clientela la nuova versione dell’app, che continua a crescere per diventare sempre di più un punto di snodo fondamentale nella relazione con il cliente.</mj-text>
+        <mj-text padding="10px 0">dal 29 maggio stiamo rilasciando progressivamente su tutta la clientela la nuova versione dell’app, che continua a crescere per diventare sempre di più un punto di snodo fondamentale nella relazione con il cliente.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -32,7 +32,7 @@
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24Mag/smartdesk.png" width="340px"></mj-image>
-        <mj-text>A partire dal 13 giugno sarà possibile finalizzare la vendita dei prodotti Wealth tramite FEQ e <b style="color:#009969">Smart Desk</b>:
+        <mj-text>A partire dal 17 giugno sarà possibile finalizzare la vendita dei prodotti Wealth tramite FEQ e <b style="color:#009969">Smart Desk</b>:
           <ul>
             <li>Risparmio amministrato (Pico – Hub Accorpatore) </li>
             <li>Fondi Sicav (Pico – Hub Accorpatore) 
