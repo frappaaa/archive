@@ -24,7 +24,7 @@
       </mj-column>
     </mj-section><mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Apr/listaInstallazioniMag24.png?raw=true" alt="Nuove installazioni effettuate ad Aprile: 33 CSA, 7 ATM Evo, 6 Cashless." padding="0" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Mag/listaInstallazioniMag24.png?raw=true" alt="Nuove installazioni effettuate ad Aprile: 33 CSA, 7 ATM Evo, 6 Cashless." padding="0" padding-bottom="20px"></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Mag/cartinaMaggio24.png?raw=true" alt="Installazioni effettuate ad Aprile: 98 CSA, 84 ATM Evo, 27 Cashless" padding="0" padding-bottom="20px"></mj-image>
         <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
         <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/EYhdfiGrd6BDr9FyJo3ZFDoBjNT6PLZv6hhEsottc-yuCw?e=XVxycm">Scarica il documento</mj-button>
