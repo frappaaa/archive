@@ -19,8 +19,17 @@
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#009969"><b>Care colleghe e cari colleghi,</b></mj-text>
-        <mj-text padding="10px 0">dal 18 aprile è disponibile su BStore in tutte le filiali il <b>Prestito Smart.</b></mj-text>
+        <mj-text padding="10px 0">dallo scorso aprile il <b>nuovo Prestito Smart</b> è disponibile su BStore in tutte le filiali, sui canali digitali e in Filiale Online.</mj-text>
+        <mj-section>
+      <mj-column padding="38px" background-color="#005157" border-radius="30px">
 
+        <mj-text padding="0px 0 30px 0" color="#fff">
+          <b>Dal 10 giugno al 7 luglio</b> il prestito Smart sarà accompagnato da una <b>promozione</b>, per stimolare la sottoscrizione <b>in self o tramite la Filiale Online</b>: 
+
+        </mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Prestito/lista.png" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
         <mj-text padding="10px 0"> <b>Semplicità, flessibilità</b> e <b>protezione</b> sono le parole chiave del nuovo prestito che si caratterizza perchè:
         </mj-text>
       </mj-column>
