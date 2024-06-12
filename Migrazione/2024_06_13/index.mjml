@@ -13,7 +13,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2024_06_13/Header.png?raw=true" alt="Evolviamo insieme. Da BPER CBI a Smart Web Business" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Migrazione/2024_06_13/Header.png?raw=true" alt="Evolviamo insieme. Da BPER CBI a Smart Web Business" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
@@ -28,7 +28,7 @@
         <mj-text>
           Continuiamo su questa strada, insieme possiamo puntare davvero in alto. </mj-text>
         <mj-text><b>Grazie per il contributo.</b></mj-text>
-        <mj-image alt="Nel percorso verso il futuro, la collaborazione divide le sfide ma moltiplica i risultati. È ora di camminare insieme." src="https://raw.githubusercontent.com/frappaaa/archive/main/Migrazioni/2024_06_13/bannerPromo.png"></mj-image>
+        <mj-image alt="Nel percorso verso il futuro, la collaborazione divide le sfide ma moltiplica i risultati. È ora di camminare insieme." src="https://raw.githubusercontent.com/frappaaa/archive/main/Migrazione/2024_06_13/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
       </mj-column>
     </mj-section>
