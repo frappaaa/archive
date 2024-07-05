@@ -60,7 +60,7 @@
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="0" color="#005157">Per partecipare compila il form di adesione cliccando su <a href="https://forms.office.com/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDtVGpMrwd2tLtuRgtDKcvXFUQjk1UFU1WURTSjI0V0dKOEEyOERZWlgxVi4u" style="color:#005157">questo link</a> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).
         </mj-text>
-        <mj-text>Quando l'aggiornamento sarà disponibile avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="https://forms.office.com/e/yE25Mxhwj9" style="color:#005157">questo form</a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
+        <mj-text padding="10px 0 0 0" color="#005157">Quando l'aggiornamento sarà disponibile avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="https://forms.office.com/e/yE25Mxhwj9" style="color:#005157">questo form</a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
 
         <mj-text padding="14px 0 0 0"><b>Ti aspettiamo per vivere da protagonista il percorso di crescita digitale!</b></mj-text>
       </mj-column>
