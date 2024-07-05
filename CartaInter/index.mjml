@@ -24,20 +24,20 @@
         <mj-text font-size="28px" padding="10px 0" font-weight="bold" align="center">I vantaggi in campo <span style="color:#009969">sono tanti</span></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
+    <mj-section padding="0">
+      <mj-column vertical-align="middle">
         <mj-text font-size="24px;">Un <span style="color:#009969; font-weight:bold;">packaging speciale</span>, una <span style="color:#009969; font-weight:bold;">t-shirt celebrativa</span> e uno <span style="color:#009969; font-weight:bold;">sconto del 20%</span> presso <span style="color:#009969; font-weight:bold;">Inter Store</span>.</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/CartaInter/maglietta.png"></mj-image>
+      <mj-column vertical-align="middle">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CartaInter/maglietta.png?raw=true" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image alt="SiSalute. Un assist alla salute. L’app SiSalute Up per BPER Banca con sconti fino al 30% su esami e visite mediche." src="https://raw.githubusercontent.com/frappaaa/archive/main/CartaInter/VAS1.png"></mj-image>
+        <mj-image alt="SiSalute. Un assist alla salute. L’app SiSalute Up per BPER Banca con sconti fino al 30% su esami e visite mediche." src="https://raw.githubusercontent.com/frappaaa/archive/main/CartaInter/VAS1.png?raw=true"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-image alt="UnipolSai. Assicurazione sui biglietti. Un rimborso garantito per gli eventi acquistati con la carta, nel caso non si possa partecipare." src="https://raw.githubusercontent.com/frappaaa/archive/main/CartaInter/VAS2.png"></mj-image>
+        <mj-image alt="UnipolSai. Assicurazione sui biglietti. Un rimborso garantito per gli eventi acquistati con la carta, nel caso non si possa partecipare." src="https://raw.githubusercontent.com/frappaaa/archive/main/CartaInter/VAS2.png?raw=true"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section><mj-column><mj-text><b>IM 2 STARS scende in campo l'8 luglio</b> ed è riservata solo ai primi <b style="color:#009969">1908 nuovi clienti</b> che la sottoscriveranno online dal sito bper.it. L’iniziativa nasce dal gioco di squadra con Inter, che ci supporterà anche con un’intensa campagna di promozione sui propri canali. Sarà quindi <b>una grande occasione per accogliere nuovi clienti nel team BPER!</b></mj-text><mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
