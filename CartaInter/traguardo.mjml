@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/CartaInter/Header.png" alt="Il gioco di squadra arriva alle stelle. Inter e BPER: in campo insieme." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentili colleghe e colleghi,</b></mj-text>
+        <mj-text padding="10px 0">da oggi c’è una nuova stella che brilla. Dalla partnership con Inter nasce <b>IM 2 STARS</b>: una carta prepagata con Iban per celebrare la vittoria del 20° scudetto, con tiratura limitata di 1908 pezzi, in onore dell’anno di fondazione dell’Inter.</mj-text>
+        <mj-text padding="10px 0"><b>È più di una carta, è un goal di vantaggi</b>. Nasce dall’evoluzione di carta corrente, arricchita da servizi esclusivi. Oltre alle <b>coperture SiSalute e UnipolSai</b>, i tifosi nerazzurri potranno accedere a privilegi unici, proprio come la loro passione.</mj-text>
+        <mj-text font-size="28px" padding="10px 0" font-weight="bold" align="center">I vantaggi in campo <span style="color:#009969">sono tanti</span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="24px;">Un <span style="color:#009969; font-weight:bold;">packaging speciale</span>, una <span style="color:#009969; font-weight:bold;">t-shirt celebrativa</span> e uno <span style="color:#009969; font-weight:bold;">sconto del 20%</span> presso <span style="color:#009969; font-weight:bold;">Inter Store</span>.</mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CartaInter/maglietta.png?raw=true" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image alt="SiSalute. Un assist alla salute. L’app SiSalute Up per BPER Banca con sconti fino al 30% su esami e visite mediche." src="https://raw.githubusercontent.com/frappaaa/archive/main/CartaInter/VAS1.png?raw=true"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image alt="UnipolSai. Assicurazione sui biglietti. Un rimborso garantito per gli eventi acquistati con la carta, nel caso non si possa partecipare." src="https://raw.githubusercontent.com/frappaaa/archive/main/CartaInter/VAS2.png?raw=true"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section><mj-column><mj-text><b>IM 2 STARS scende in campo l'8 luglio</b> ed è riservata solo ai primi <b style="color:#009969">1908 nuovi clienti</b> che la sottoscriveranno online dal sito bper.it. L’iniziativa nasce dal gioco di squadra con Inter, che ci supporterà anche con un’intensa campagna di promozione sui propri canali. Sarà quindi <b>una grande occasione per accogliere nuovi clienti nel team BPER!</b></mj-text><mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
+</mj-column></mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
