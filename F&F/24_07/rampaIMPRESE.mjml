@@ -1,0 +1,68 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
+      <mj-section background-color="#fff" max-width="640px" />
+      <mj-column padding="0 34px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/HeaderIMPRESE.png" alt="Smart Banking Business. Le novità del rilascio di luglio" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentile collega,</b></mj-text>
+        <mj-text padding="10px 0">i servizi digitali per le imprese sono in costante evoluzione. Nelle prossime settimane i titolari di Smart Banking  Business troveranno in app alcune importanti novità:</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/home.png" width="340px"></mj-image>
+        <mj-text>Novità nella grafica dell’app, con una palette colori dedicata che rafforzi l’identità di Smart Web Business e la renda distintiva. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/riba.png" width="400"></mj-image>
+        <mj-text>Nuova voce di menu Portafoglio Riba, dalla quale i clienti potranno avere una vista delle Riba raggruppate per data di scadenza degli importi di credito accordato, utilizzato e residuo
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/esporta.png" width="250px"></mj-image>
+        <mj-text>Esportazione in formato standard CBI dei movimenti del conto corrente e degli esiti Riba ed F24, oltre che in excel o in pdf</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/distinte.png" width="340px"></mj-image>
+        <mj-text>Per le funzioni in forma di distinta, i clienti potranno salvare le loro bozze e recuperarle poi da apposita voce di menu, per modificarle, cancellarle o autorizzarle</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/upload.png" width="340px"></mj-image>
+        <mj-text>Possibilità di importare un file in formato CBI per il pagamento dei bonifici e degli stipendi</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Continuiamo su questa strada per garantire ai nostri clienti una migliore esperienza d’uso e un servizio sempre più vicino alle loro aspettative.
+        </mj-text>
+        <mj-text>Grazie per la vostra collaborazione.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
