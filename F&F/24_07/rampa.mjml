@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
+      <mj-section background-color="#fff" max-width="640px" />
+      <mj-column padding="0 34px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/Header.png" alt="Smart Banking. Le novità del rilascio di luglio" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Care colleghe e cari colleghi,</b></mj-text>
+        <mj-text padding="10px 0">è in corso il rilascio progressivo su tutti i clienti di una nuova versione dell’app Smart Banking, con cui muoviamo un altro  passo nella crescita digitale e nella strategia omnicanale. Di seguito le novità più rilevanti.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/heybper.png" width="340px"></mj-image>
+        <mj-text>La <span style="color:#009969;">sezione Investimenti</span>  si arricchisce di informazioni sulla posizione cliente (visualizzazione del portafoglio con analisi e grafici, pagina Ordini e Movimenti aggiornata e accesso al servizio Consulenza Evoluta anche via app), inoltre i clienti potranno sottoscrivere in self direttamente dall’app dei Piani di Accumulo del Capitale (PAC) su una selezione di 7 fondi di investimento di Arca SGR. 
+Si tratta di un’opportunità per rafforzare la relazione tra il consulente e il cliente in logica omnicanale,  
+diffondere la cultura della gestione del risparmio anche attraverso l’operatività in self e generare così nuove opportunità da canale digitale.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/smartdesk.png" width="340px"></mj-image>
+        <mj-text>Nasce <span style="color:#009969">Teen: conto, carta e servizi digitali pensati per i ragazzi tra i 13 e i 17 anni</span> per un primo passo verso l’indipendenza finanziaria sempre sotto la supervisione del genitore, che potrà gestire e monitorare il conto del figlio, ricevere notifiche per ogni bonifico o transazione eseguita e programmare una paghetta periodica sul conto.
+Con il nuovo Conto Teen vogliamo rispondere ai bisogni sia dei genitori che dei figli minorenni con un posizionamento distintivo sul mercato: il nostro obiettivo è guidare e coinvolgere i Teen nella crescita, preparandoli a diventare i nostri clienti del futuro.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/cartadidebito.png" width="180px"></mj-image>
+        <mj-text>Si arricchisce la nostra offerta assicurativa con <span style="color:#009969">UniSalute 4Zampe</span>, la polizza dedicata al benessere di cani e gatti, acquistabile direttamente da app.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/profilo.png" width="340px"></mj-image>
+        <mj-text>Viene introdotto un nuovo <span style="color:#009969">processo di sicurezza automatizzato</span> per recuperare le credenziali smarrite in poche mosse, anche attraverso spid o carta di identità elettronica.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/profilo.png" width="340px"></mj-image>
+        <mj-text>Migliora <span style="color:#009969">l’esperienza d’uso complessiva</span> del cliente, grazie ad alcune novità come l’evoluzione della sezione Profilo o la possibilità di rendere ricorrente un bonifico direttamente dalla pagina conclusiva dell’operazione. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Contiamo sul vostro supporto per consentire alla rete di valorizzare al meglio i Servizi Digitali, promuovendone il valore e l’utilizzo, e proseguire compatti nel percorso di digitalizzazione della nostra clientela.  
+        </mj-text>
+        <mj-text>Per avere tutti gli aggiornamenti sui nostri servizi digitali visita <a href="https://intrawseal.gbbper.priv/blinkdue/host/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157">BSmart</a>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
