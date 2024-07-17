@@ -25,36 +25,36 @@
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/heybper.png" width="340px"></mj-image>
-        <mj-text>La <span style="color:#009969;">sezione Investimenti</span>  si arricchisce di informazioni sulla posizione cliente (visualizzazione del portafoglio con analisi e grafici, pagina Ordini e Movimenti aggiornata e accesso al servizio Consulenza Evoluta anche via app), inoltre i clienti potranno sottoscrivere in self direttamente dall’app dei Piani di Accumulo del Capitale (PAC) su una selezione di 7 fondi di investimento di Arca SGR. 
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/Investimenti.png" width="340px"></mj-image>
+        <mj-text>La <b style="color:#009969;">sezione Investimenti</b>  si arricchisce di informazioni sulla posizione cliente (visualizzazione del portafoglio con analisi e grafici, pagina Ordini e Movimenti aggiornata e accesso al servizio Consulenza Evoluta anche via app), inoltre i clienti potranno sottoscrivere in self direttamente dall’app dei Piani di Accumulo del Capitale (PAC) su una selezione di 7 fondi di investimento di Arca SGR. 
 Si tratta di un’opportunità per rafforzare la relazione tra il consulente e il cliente in logica omnicanale,  
 diffondere la cultura della gestione del risparmio anche attraverso l’operatività in self e generare così nuove opportunità da canale digitale.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/smartdesk.png" width="340px"></mj-image>
-        <mj-text>Nasce <span style="color:#009969">Teen: conto, carta e servizi digitali pensati per i ragazzi tra i 13 e i 17 anni</span> per un primo passo verso l’indipendenza finanziaria sempre sotto la supervisione del genitore, che potrà gestire e monitorare il conto del figlio, ricevere notifiche per ogni bonifico o transazione eseguita e programmare una paghetta periodica sul conto.
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/teen.png" width="400"></mj-image>
+        <mj-text>Nasce <b style="color:#009969">Teen: conto, carta e servizi digitali pensati per i ragazzi tra i 13 e i 17 anni</b> per un primo passo verso l’indipendenza finanziaria sempre sotto la supervisione del genitore, che potrà gestire e monitorare il conto del figlio, ricevere notifiche per ogni bonifico o transazione eseguita e programmare una paghetta periodica sul conto.
 Con il nuovo Conto Teen vogliamo rispondere ai bisogni sia dei genitori che dei figli minorenni con un posizionamento distintivo sul mercato: il nostro obiettivo è guidare e coinvolgere i Teen nella crescita, preparandoli a diventare i nostri clienti del futuro.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/cartadidebito.png" width="180px"></mj-image>
-        <mj-text>Si arricchisce la nostra offerta assicurativa con <span style="color:#009969">UniSalute 4Zampe</span>, la polizza dedicata al benessere di cani e gatti, acquistabile direttamente da app.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/4zampe.png" width="250px"></mj-image>
+        <mj-text>Si arricchisce la nostra offerta assicurativa con <b style="color:#009969">UniSalute 4Zampe</b>, la polizza dedicata al benessere di cani e gatti, acquistabile direttamente da app.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/sicurezza.png" width="340px"></mj-image>
+        <mj-text>Viene introdotto un nuovo <b style="color:#009969">processo di sicurezza automatizzato</b> per recuperare le credenziali smarrite in poche mosse, anche attraverso spid o carta di identità elettronica.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/profilo.png" width="340px"></mj-image>
-        <mj-text>Viene introdotto un nuovo <span style="color:#009969">processo di sicurezza automatizzato</span> per recuperare le credenziali smarrite in poche mosse, anche attraverso spid o carta di identità elettronica.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/profilo.png" width="340px"></mj-image>
-        <mj-text>Migliora <span style="color:#009969">l’esperienza d’uso complessiva</span> del cliente, grazie ad alcune novità come l’evoluzione della sezione Profilo o la possibilità di rendere ricorrente un bonifico direttamente dalla pagina conclusiva dell’operazione. </mj-text>
+        <mj-text>Migliora <b style="color:#009969">l’esperienza d’uso complessiva</b> del cliente, grazie ad alcune novità come l’evoluzione della sezione Profilo o la possibilità di rendere ricorrente un bonifico direttamente dalla pagina conclusiva dell’operazione. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
