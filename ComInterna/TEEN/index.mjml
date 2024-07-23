@@ -8,19 +8,19 @@
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section>
       <mj-column>
-        <mj-image src="" padding="0"></mj-image>
-        <mj-image src="" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/TEEN/HEADER.png?raw=true" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/TEEN/BANNER.png?raw=true" padding="0"></mj-image>
         <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
         <mj-text padding-top="0">con la nuova versione dell’app BPER rilasciata nei giorni scorsi a tutta la clientela, arriva un <b>nuovo importante tassello del programma di evoluzione digitale</b>: il <b>nuovo Conto Teen</b>, un’innovativa offerta a pacchetto, con canone azzerato, dedicata ai teenager tra i 13 e i 17 anni.</mj-text>
-        <mj-image src="" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/TEEN/TABELLA.png?raw=true" padding="0"></mj-image>
         <mj-text>L’obiettivo è accompagnare i teenager in un percorso di indipendenza e educazione finanziaria, sempre sotto la supervisione dell’adulto: i genitori hanno tutto sotto controllo e i ragazzi imparano  a gestire le spese e i risparmi, direttamente dall’app BPER Banca. </mj-text>
         <mj-text>Il nuovo conto Teen è accompagnato anche da servizi a valore aggiunto: l’assicurazione Unipolsai contro il bullismo offre consulenza e supporto psicologico, oltre a una copertura in caso di furto o rapina dello smartphone. </mj-text>
         <mj-text>Il lancio del Conto sarà accompagnato da una campagna di comunicazione sui nostri clienti attraverso email, canali digitali e social. 
 L’email ai clienti rimanderà alla sottoscrizione in app, ma anche alla possibilità di essere ricontattati dalla propria fililale, generando in questo caso un’opportunità Salesforce sui clienti interessati.</mj-text>
         <mj-text>Vi invito a promuovere questa importante novità ai vostri clienti e a coglierla anche per voi se avete ragazzi tra i 13 e i 17 anni, per guidare e coinvolgere i Teen nella crescita, preparandoli a diventare i nostri clienti del futuro. </mj-text>
         <mj-text>Tutti i dettagli sull’offerta Teen sono disponibili su Bsmart.</mj-text>
-        <mj-image src="" ></mj-image>
-        <mj-image src="" padding="0 20px 0 0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/TEEN/CTA.png?raw=true" ></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/TEEN/FOOTER.png?raw=true" padding="0 20px 0 0"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
