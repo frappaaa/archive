@@ -13,7 +13,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Giu/Header.png?raw=true" alt="Transazionalità in self: colmiamo il gap. Accompagniamo i clienti all’utilizzo degli ATM EVO e delle CSA" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/GAP/HEADER.png?raw=true" alt="Transazionalità in self: colmiamo il gap. Accompagniamo i clienti all’utilizzo degli ATM EVO e delle CSA" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -27,7 +27,7 @@
       </mj-column>
     </mj-section><mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Giu/listaInstallazioniGiu24.png?raw=true" alt="Periodo riferimento 15/07 - 18/07" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/GAP/CARTINA.png?raw=true" alt="Periodo riferimento 15/07 - 18/07" padding-bottom="20px"></mj-image>
         <mj-text>Il tuo supporto è fondamentale per il raggiungimento degli obiettivi di digitalizzazione, favorendo la  condivisione con i titolari delle filiali che dispongono di CSA e garantire così il pieno sfruttamento delle potenzialità offerte da queste dotazioni.</mj-text>
         <mj-text>Grazie per il tuo contributo.</mj-text>
       </mj-column>
