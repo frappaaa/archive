@@ -53,7 +53,7 @@
         <mj-text>Grazie a queste evoluzioni, per i clienti diventa ancora più vantaggioso migrare da <b>BPER CBI a Smart Web Business</b>: vi invitiamo per questo a <b>contattare tempestivamente i clienti non ancora migrati</b>, che dal <b>31 luglio</b> passerebbero altrimenti automaticamente a Smart CBI, rendendo più complesso un passaggio successivo a Smart Web Business.
         </mj-text>
         <mj-text align="center" font-size="22px" font-weight="bold">Ecco qualche dato sulla migrazione:</mj-text>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/datiContatti.png"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/datiContatti.png" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
