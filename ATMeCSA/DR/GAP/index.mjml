@@ -1,0 +1,39 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Giu/Header.png?raw=true" alt="Transazionalità in self: colmiamo il gap. Accompagniamo i clienti all’utilizzo degli ATM EVO e delle CSA" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text><b>Gentili colleghi,</b></mj-text>
+        <mj-text>
+          migrare le operazioni transazionali verso le dotazioni self consente di <b>aumentare l’efficacia</b> dell'operatività in filiale e offrire ai clienti <b>maggiori opportunità di autonomia e crescita digitale.</b> </mj-text>
+        <mj-text>
+          È per questo che è <b>fondamentale accompagnare attivamente i clienti a gestire le operazioni in self</b> ogni qualvolta sia possibile.</mj-text>
+        <mj-text><b>Ecco qualche dato sull’utilizzo delle CSA</b> che ci evidenzia un ampio margine di operatività ancora da spostare:</mj-text>
+      </mj-column>
+    </mj-section><mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Giu/listaInstallazioniGiu24.png?raw=true" alt="Periodo riferimento 15/07 - 18/07" padding-bottom="20px"></mj-image>
+        <mj-text>Il tuo supporto è fondamentale per il raggiungimento degli obiettivi di digitalizzazione, favorendo la  condivisione con i titolari delle filiali che dispongono di CSA e garantire così il pieno sfruttamento delle potenzialità offerte da queste dotazioni.</mj-text>
+        <mj-text>Grazie per il tuo contributo.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
