@@ -1,0 +1,29 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/05_23-specialisti/Header.png?raw=true" alt="We are Powerful. Save the date 23 maggio. Sede BPER Banca Diamantino, Via Mike Bongiorno 13 – Milano" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="56px 68px" background-color="#EFF5f5" border-radius="30px">
+        <mj-text padding="10px 0">Dopo la pausa estiva ripartiremo insieme con una giornata dedicata all’incontro e alla condivisione tra gli Specialisti Digital, per fare il punto sui passi percorsi finora e sui nostri prossimi obiettivi di crescita digitale.  </mj-text>
+
+        <mj-text padding="10px 0">Siamo pronti a costruire ogni giorno il nostro futuro.</mj-text>
+        <mj-text padding="10px 0"><b>Save the date & stay tuned!</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section><mj-column></mj-column></mj-section>
+  </mj-body>
+</mjml>
