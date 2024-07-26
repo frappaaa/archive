@@ -29,7 +29,7 @@
       <mj-column>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/GAP/CARTINA.png?raw=true" alt="Periodo riferimento 01/01 - 19/07. Il dato considera l'operatività complessiva di Sportello (incluse le operazioni non migrabili) relativa a tutte le filiali BPER (incluse quelle senza dotazioni Evo e per il periodo precedente all’installazione). 
 Non è considerata l’operatività delle dotazioni Self installate negli ultimi due mesi. Fonte dati: Uff. Payments&Teller Applications, Uff. E-Money Applications, Uff. Physical Sales&Branches Applications. Elaborazione dati: Ufficio Processing Partnership & Self Banking Interface" padding-bottom="20px"></mj-image>
-        <mj-text>Il tuo supporto è fondamentale per il raggiungimento degli obiettivi di digitalizzazione, favorendo la condivisione con i titolari delle filiali che dispongono di dotazioni Self e garantire cosi il loro pieno sfruttamento. </mj-text>
+        <mj-text>Il tuo supporto è fondamentale per il raggiungimento degli obiettivi di digitalizzazione, favorendo la condivisione con i titolari delle filiali che dispongono di dotazioni Self al fine di garantire così il loro pieno sfruttamento.</mj-text>
         <mj-text>Grazie per il tuo contributo.</mj-text>
       </mj-column>
     </mj-section>
