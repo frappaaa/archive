@@ -20,15 +20,16 @@
       <mj-column>
         <mj-text><b>Gentili colleghi,</b></mj-text>
         <mj-text>
-          migrare le operazioni transazionali verso le dotazioni self consente di <b>aumentare l’efficacia</b> dell'operatività in filiale e offrire ai clienti <b>maggiori opportunità di autonomia e crescita digitale.</b> </mj-text>
+          migrare le operazioni transazionali verso le dotazioni self consente di <b>aumentare l’efficacia</b> dell'operatività in filiale e offrire ai clienti <b>maggiori opportunità di autonomia e crescita digitale.</b></mj-text>
         <mj-text>
           È per questo che è <b>fondamentale accompagnare attivamente i clienti a gestire le operazioni in self</b> ogni qualvolta sia possibile.</mj-text>
-        <mj-text><b>Ecco qualche dato sull’utilizzo delle CSA</b> che ci evidenzia un ampio margine di operatività ancora da spostare:</mj-text>
+        <mj-text><b>Ecco qualche dato sull’utilizzo delle dotazioni Self</b> che ci evidenzia un ampio margine di operatività ancora da spostare:</mj-text>
       </mj-column>
     </mj-section><mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/GAP/CARTINA.png?raw=true" alt="Periodo riferimento 15/07 - 18/07" padding-bottom="20px"></mj-image>
-        <mj-text>Il tuo supporto è fondamentale per il raggiungimento degli obiettivi di digitalizzazione, favorendo la  condivisione con i titolari delle filiali che dispongono di CSA e garantire così il pieno sfruttamento delle potenzialità offerte da queste dotazioni.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/GAP/CARTINA.png?raw=true" alt="Periodo riferimento 01/01 - 19/07. Il dato considera l'operatività complessiva di Sportello (incluse le operazioni non migrabili) relativa a tutte le filiali BPER (incluse quelle senza dotazioni Evo e per il periodo precedente all’installazione). 
+Non è considerata l’operatività delle dotazioni Self installate negli ultimi due mesi. Fonte dati: Uff. Payments&Teller Applications, Uff. E-Money Applications, Uff. Physical Sales&Branches Applications. Elaborazione dati: Ufficio Processing Partnership & Self Banking Interface" padding-bottom="20px"></mj-image>
+        <mj-text>Il tuo supporto è fondamentale per il raggiungimento degli obiettivi di digitalizzazione, favorendo la condivisione con i titolari delle filiali che dispongono di dotazioni Self e garantire cosi il loro pieno sfruttamento. </mj-text>
         <mj-text>Grazie per il tuo contributo.</mj-text>
       </mj-column>
     </mj-section>
