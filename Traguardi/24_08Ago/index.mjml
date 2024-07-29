@@ -1,0 +1,41 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px" background-color="#F5F7FA" width="660px">
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="30px 0 20px 0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_08Ago/Header.png?raw=true" alt="I numeri della nostra evoluzione digitale. Luglio." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 20px">
+      <mj-column>
+        <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
+
+        <mj-text>continuiamo il nostro percorso di evoluzione digitale condividendo con voi i risultati più importanti che abbiamo traguardato nel mese di luglio. </mj-text>
+
+        <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_08Ago/datiOFM.png?raw=true" alt="Acquisition. 23.024 BPER On Demand da canale digitale nel 2024"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_08Ago/datiLending.png?raw=true" alt="Digital Lending. 96,8 milioni € di importo erogato. Suddivisione per DR."></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_08Ago/datiUnipolMove.png?raw=true" alt="UnipolMove. Più di 7 mila dispositivi venduti solo a giugno"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_08Ago/datiKPI.png?raw=true" alt="KPI. Digitalizzazione: ancora troppo lento il passo su digitalizzazione clienti, ingranano le vendite digitali. 1. N° clienti privati ed imprese con possesso contratto CBI (attivo+passivo) o SB (info+dispo) / Tot clienti privati ed imprese attivi; 2. N° clienti imprese con possesso di contratto CBI (attivo+passivo)  o SB (info+dispo) / Tot clienti imprese attivi (Natura Giuridica Imprese); 3. N° clienti privati con possesso contratto SB (info+dispo) / N° clienti privati con possesso contratto SB (info+dispo); 4. N° pezzi venduti in filiale (cliente in presenza) tramite Smart Desk / Totale pezzi venduti dalla filiale per prodotti eleggibili a Smart Desk; 5. N° pezzi venduti in filiale (Offerta a Distanza) tramite Smart Desk / Totale pezzi venduti dalla filiale per prodotti eleggibili a Smart Desk"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_08Ago/datiCarte.png?raw=true" alt="Debito, credito e prepagate vendute e sostituite. Dati per sostituzione carta di debito suddivisa per DR e dati di vendita carte per canale e tipo di carta, debito, credito e prepagata."></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_08Ago/datiMifid.png?raw=true" alt="Mifid: Questionari inseriti e aggiornati sui canali digitali. Dal rilascio di dicembre si evidenzia un incremento della raccolta di questionari Mifid da Mobile accompagnato da una diminuzione della compilazione su Web. 
+Da inizio anno, la raccolta dei questionari Mifid da canale Smart rappresenta il 19,2% del totale Questionari Mifid raccolti."></mj-image>
+        <mj-text>
+          Sono numeri importanti, che ci fanno da trampolino per un’estate che sarà ricca di ambizioni e obiettivi da raggiungere insieme. </mj-text>
+        <mj-text><b>Grazie per il contributo di ognuno di voi.</b></mj-text>
+        <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
+        <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
