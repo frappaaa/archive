@@ -1,60 +1,64 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
+      <mj-text align="left" color="#1c1c1c" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
       <mj-section background-color="#fff" max-width="640px" />
     </mj-attributes>
   </mj-head>
   <mj-body max-width="640px">
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER" align="left"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/DigitalWealth/24Ago/logoBCP.png" width="200px" alt="BPER" align="left"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/DigitalWealth/24Ago/Header.png" alt="Digital Wealth. Le opportunità per il Gestore crescono insieme all’app" padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/DigitalWealth/24Ago/Header.png" alt="App Smart Banking. La nuova sezione Investimenti" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
-        <mj-text color="#009969" font-size="26px"><b>Gentile Collega,</b></mj-text>
-        <mj-text>per rafforzare la <b>sinergia tra il ruolo del Gestore e il cliente</b>, nelle prossime settimane l’app Smart Banking si arricchirà di importanti novità relative al mondo degli investimenti:</mj-text>
+        <mj-text color="#0051CF" font-size="26px"><b>Gentile Collega,</b></mj-text>
+        <mj-text><b>da giovedì 1 agosto</b> anche i clienti di BPER Banca Private Cesare Ponti accederanno alla <b>nuova sezione Investimenti</b> all’interno dell’app Smart Banking. 
+Le principali novità riguardano: </mj-text>
 
         <mj-text padding="0 18px">
           <ul style="padding:0;">
-            <li><b>Sottoscrizione fondi in self</b>: sarà messa a disposizione una selezione di 7 fondi comuni di investimento di Arca Fondi SGR, da sottoscrivere in self direttamente dall’app in forma di Piani di Accumulo del Capitale (PAC)   </li>
+            <li><b>Sottoscrizione fondi in self:</b> il cliente avrà a disposizione una selezione di 7 fondi comuni di investimento di Arca Fondi SGR, da sottoscrivere in self direttamente dall’app in forma di Piani di Accumulo del Capitale (PAC)</li>
           </ul>
         </mj-text>
         <mj-text padding="0 18px">
           <ul style="padding:0;">
-            <li><b>Investimenti - posizione cliente</b>: la sezione “Investimenti” sarà arricchita e ampliata con informazioni  relative alla posizione cliente
+            <li><b>Investimenti - posizione cliente</b>: la sezione sarà arricchita e ampliata con informazioni relative alla posizione cliente e alla consulenza evoluta.
             </li>
           </ul>
         </mj-text>
-        <mj-text>Si tratta di un primo passo per <b>aumentare l’efficacia del modello di servizio sfruttando l’omnicanalità</b> per:
-          <ul>
-            <li><b>diffondere la cultura della gestione del risparmio anche attraverso l’operatività in self;</b></li>
-            <li><b>generare nuove opportunità da canale digitale;</b></li>
-            <li><b>allinearci ai competitor best-in-class.</b></li>
+        <mj-text>Questo segna l’inizio di un percorso di evoluzione del canale digitale a supporto dell’attività di consulenza del Private Banker, per un miglioramento costante del posizionamento del Gruppo rispetto alle <i>best practice</i> di mercato.
+          </mj-text>
+        <mj-text>
+        Alcuni piccoli affinamenti sono in corso, in particolare:  </mj-text>
+        
+        <mj-text padding="0 18px">
+          <ul style="padding:0;">
+            <li>I clienti che hanno aderito al servizio di <b>consulenza evoluta</b> visualizzano la valorizzazione in <i>delay</i> di un giorno rispetto alla sezione informativa della posizione cliente  (armonizzione prevista per novembre).</li>
+            <li>Il <b>rateo dei titoli obbligazionari</b> in app è valorizzato  in <i>delay</i> di un giorno rispetto alla vista del gestore su Pico (armonizzazione prevista per settembre).</li>
+            <li>Titolari di rapporti collegati (persone fisiche titolari di ditte individuali): estensione delle funzionalità prevista per settembre.</li>
           </ul>
         </mj-text>
-        <mj-text>Contestualmente, sarà resa disponibile in filiale la possibilità di sottoscrivere i prodotti di investimento (Pico e Hub) tramite SmartDesk, per <b>favorire la digitalizzazione delle vendite  anche a distanza</b>.</mj-text>
-        <mj-text>Riceverai a breve un <b>invito</b> in Calendar per una <b>sessione formativa dedicata</b>.</mj-text>
-        <mj-text>Non mancare, il tuo contributo sarà fondamentale per <b>promuovere al meglio i nuovi servizi del Digital Wealth</b> e accompagnare i clienti nel percorso di evoluzione digitale.</mj-text>
+        <mj-text>Le vostre segnalazioni sono fondamentali per contribuire all’ottimizzazione delle funzionalità e garantire il miglior servizio ai clienti </mj-text>
+        <mj-text>Ecco il percorso corretto per l’apertura dei ticket BHelp:</mj-text>
+        <mj-text padding="0 18px">
+          <ul style="padding:0;">
+            <li>per Posizione Cliente: <i>Catalogo> Operatività e Procedure> Home Banking - Smart Web> Presidio Canali e Monitoring> Area Investimenti - Posizione Cliente Wealth;</i>
+            </li>
+            <li>per Trading Fondi: <i>Catalogo> Operatività e Procedure> FOL - Filiale Online> Fondi, Collocamento, Amministrato> Fondi> Anomalia.</i></li>
+          </ul>
+        </mj-text>
+        <mj-text>Per maggiori informazioni e per restare sempre aggiornati sulle novità, vi invitiamo a consultare la intranet BSmart.</mj-text>
         <mj-text>Grazie.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 34px">
-      <mj-column>
-        <mj-text padding-bottom="0"><b>Maurice Lisi</b></mj-text>
-        <mj-text font-size="16px" padding-top="0" line-height="18px"><i>Responsabile Direzione Digital Business</i></mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text padding-bottom="0"><b>Pasquale Panzarino</b></mj-text>
-        <mj-text font-size="16px" padding-top="0" line-height="18px"><i>Responsabile Direzione Privati</i></mj-text>
-      </mj-column>
-    </mj-section>
+    
     <mj-section>
       <mj-column></mj-column>
     </mj-section>
