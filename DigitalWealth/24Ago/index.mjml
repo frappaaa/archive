@@ -20,7 +20,8 @@
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text color="#0051CF" font-size="26px"><b>Gentile Collega,</b></mj-text>
         <mj-text><b>da giovedì 1 agosto</b> anche i clienti di BPER Banca Private Cesare Ponti accederanno alla <b>nuova sezione Investimenti</b> all’interno dell’app Smart Banking. 
-Le principali novità riguardano: </mj-text>
+</mj-text>
+        <mj-text padding-top="0">Le principali novità riguardano:</mj-text> 
 
         <mj-text padding="0 18px">
           <ul style="padding:0;">
