@@ -1,0 +1,37 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Lug/Header.png?raw=true" alt="Verso il futuro. L’evoluzione della transazionalità in self." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0"><b>Gentili colleghi e colleghe,</b></mj-text>
+        <mj-text padding-top="0">
+          con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionaltà attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
+      </mj-column>
+    </mj-section><mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Lug/listaInstallazioniLug24.png?raw=true" alt="Nuove installazioni effettuate a Maggio: 6 CSA, 17 ATM Evo." padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Lug/cartinaLuglio24.png?raw=true" alt="Installazioni effettuate ad Aprile: 74 CSA, 101 ATM Evo, 27 Cashless" padding-bottom="20px"></mj-image>
+        <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
+        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/EXaZ4VBlpuRPjkQyw6AyIkEBpE_kl1c44PqpwbW7-YpFBQ">Scarica il documento</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
