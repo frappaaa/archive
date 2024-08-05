@@ -13,21 +13,29 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Lug/Header.png?raw=true" alt="Verso il futuro. L’evoluzione della transazionalità in self." padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/Header.png?raw=true" alt="Una nuova idea di FOL diventa realtà" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-bottom="0"><b>Gentili colleghi e colleghe,</b></mj-text>
+        <mj-text padding-bottom="0" color="#009969"><b>Gentili colleghi e colleghe,</b></mj-text>
         <mj-text padding-top="0">
-          con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionaltà attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
-      </mj-column>
-    </mj-section><mj-section>
-      <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Lug/listaInstallazioniLug24.png?raw=true" alt="Nuove installazioni effettuate a Maggio: 6 CSA, 17 ATM Evo." padding-bottom="20px"></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Lug/cartinaLuglio24.png?raw=true" alt="Installazioni effettuate ad Aprile: 74 CSA, 101 ATM Evo, 27 Cashless" padding-bottom="20px"></mj-image>
-        <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
-        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/EXaZ4VBlpuRPjkQyw6AyIkEBpE_kl1c44PqpwbW7-YpFBQ">Scarica il documento</mj-button>
+          tutti noi sappiamo bene quanto sia importante il <b>ruolo della Filiale Online nel nostro percorso di crescita digitale</b>: struttura dedicata al supporto della clientela, centro di relazione commerciale, fulcro dell’approccio multicanale.</mj-text>
+        <mj-text>L’evoluzione di questa struttura passa non solo dall’ampliamento delle competenze e dal rafforzamento delle tecnologie, ma anche da <b>uno spazio di lavoro che sappia rispondere a pieno alle esigenze dei colleghi</b> che tutti i giorni vi lavorano.</mj-text>
+        <mj-text>È per questo che è in corso un vero e proprio restyling degli ambienti di lavoro della FOL. Il primo ad essere stato completato è quello della <b>Filiale Online di Ravenna</b>, i cui 47 colleghi possono da oggi contare su un nuovo spazio moderno, confortevole e accogliente con:</mj-text>
+        <mj-text>
+          <ul>
+            <li>Postazioni di lavoro evolute e ergonomiche</li>
+            <li>Spogliatoio e sala relax</li>
+            <li>Area pranzo</li>
+            <li>Nuova sala riunioni</li>
+            <li>Creazione di 3 spazi phone booth</li>
+          </ul>
+        </mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/ristrutturazione.png?raw=true" alt="Dal disegno alla realtà, il futuro è oggi" padding="0"></mj-image>
+
+        <mj-text>Anche grazie a questi nuovi spazi sapremo rispondere ai bisogni dei nostri clienti in maniera sempre più flessibile ed efficace.</mj-text>
+        <mj-text><b>A presto per altre novità e aggiornamenti.</b></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
