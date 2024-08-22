@@ -1,0 +1,33 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_09/HeaderNEWNEW.png?raw=true" alt="We are the F/youture. 30.09.2024 - Accenture Customer Innovation Network Milan
+Piazza Gae Aulenti 8, Milano" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="56px 68px" background-color="#EFF5f5" border-radius="30px">
+        <mj-text><b>L’incontro è ripianificato al 30 settembre</b> per evitare le complicazioni logistiche derivate dalla concomitanza con la Settimana della Moda di Milano. </mj-text>
+        <mj-text><b>Seguirà calendar.</b> Vi aspettiamo per questa giornata dedicata all’incontro e alla condivisione tra gli Specialisti Digital, per fare il punto sui passi percorsi finora e sui nostri prossimi obiettivi di crescita digitale. </mj-text>
+
+        <mj-text>Siamo pronti a costruire ogni giorno il nostro futuro.</mj-text>
+        <mj-text><b>Save the date & stay tuned!</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
