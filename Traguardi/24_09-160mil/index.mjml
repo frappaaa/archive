@@ -24,7 +24,7 @@
 
         <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_09-160mil/datiLending.png" alt="130,1 milioni € di importo erogato. Suddivisione per DR."></mj-image>
-        <mj-text>Fino al prossimo 31 dicembre l’erogato sarà sostenuto anche dal repricing delle sottoscrizioni del Prestito Smart in self e da Filiale Online, al <b>tasso del 8,90%.</b></mj-text>
+        <mj-text>Fino al prossimo 30 settembre l’erogato sarà sostenuto anche dal repricing delle sottoscrizioni del Prestito Smart in self e da Filiale Online, al <b>tasso del 8,90%.</b></mj-text>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_09-160mil/listaInfo.png" alt=""></mj-image>
         <mj-text>
           La filiale potrà sfruttare al massimo le opportunità generate su Salesforce dalle interruzioni del processo online, ricontattando tempestivamente il cliente.</mj-text>
