@@ -48,19 +48,19 @@
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>16:45</b></td>
-            <td style="padding-left:10px">Lunch</td>
+            <td style="padding-left:10px">Fine lavori</td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>17:00</b></td>
-            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br>Lombardia Ovest, Lombardia Est-Triveneto, Emilia-Romagna Est, Emilia Ovest</td>
+            <td style="padding-left:10px">Pinacoteca</br>Lombardia Ovest, Lombardia Est-Triveneto, Emilia-Romagna Est, Emilia Ovest</td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>18:30</b></td>
-            <td style="padding-left:10px">Brainstorming finale</td>
+            <td style="padding-left:10px">Aperitivo</td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>19:30</b></td>
-            <td style="padding-left:10px">Fine lavori</td>
+            <td style="padding-left:10px">Cena</td>
           </tr>
         </mj-table>
         
