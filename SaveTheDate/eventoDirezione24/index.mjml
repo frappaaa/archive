@@ -80,6 +80,7 @@
         <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
         <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative a trasporto e pernottamento (ove necessario).</mj-text>
         <mj-text>Confermare la propria partecipazione entro il <b>25/09/2024</b> tramite il calendar che verrà inviato.</mj-text>
+        <mj-text>Dress code: business formal.</mj-text>
         <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
       </mj-column>
     </mj-section>
