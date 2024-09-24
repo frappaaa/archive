@@ -28,31 +28,31 @@
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:00</b></td>
-            <td style="padding-left:10px">M.Lisi</td>
+            <td style="padding-left:10px">M.Lisi<br><i>Keynote speech</i></br></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>14:45</b></td>
-            <td style="padding-left:10px">Opening keynote<br>Maurice Lisi - <i>Direzione Digital Business</i></td>
+            <td style="padding-left:10px">M. Puccioni e C. Saltini<br><i>Highlight dal Servizio Direct Channels</i></br></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>15:15</b></td>
-            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br>Calabria Sicilia, Campania Puglia Basilicata Molise, Centro Est, Centro Ovest</td>
+            <td style="padding-left:10px">G. Leonardi<br><i>Highlight dal Servizio Digital Branch</i></br></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>15:45</b></td>
-            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br>Liguria, Nord Ovest, Sardegna Nord, Sardegna Sud</td>
+            <td style="padding-left:10px">C. Susca<br><i>Highlight dal Servizio Offering & Transaction Services</i></br></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157;width:65px"><b>16:15</b></td>
-            <td style="padding-left:10px">Tour Experience</td>
+            <td style="padding-left:10px">T. Leo<br><i>Highlight dal Servizio Digital Business Development & Engagement</i></br></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>16:45</b></td>
-            <td style="padding-left:10px">Fine lavori</td>
+            <td style="padding-left:10px">M. Lisi<br><i>Fine lavori</i></br></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>17:00</b></td>
-            <td style="padding-left:10px">Pinacoteca</br>Lombardia Ovest, Lombardia Est-Triveneto, Emilia-Romagna Est, Emilia Ovest</td>
+            <td style="padding-left:10px">Pinacoteca</td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>18:30</b></td>
