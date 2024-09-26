@@ -1,0 +1,42 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
+      <mj-section background-color="#fff" max-width="640px" />
+      <mj-column padding="0 34px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F/2024_09-Imprese/Header.png?raw=true" alt="Smart Banking Business. Smart Desk" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentili colleghi,</b></mj-text>
+        <mj-text padding="10px 0">prosegue l'evoluzione dei nostri servizi digitali business, sempre più vicini alle esigenze degli imprenditori: da oggi <b>Smart Desk si estende alla firma dei documenti delle ditte individuali e dei liberi professionisti</b>, diventando un importante abilitatore della relazione col cliente business.</mj-text>
+        <mj-text>La novità è attiva <b>per conti correnti e carte di debito, credito o prepagate vendibili con raccolta della firma FEQ su BStore</b>, aprendo pratiche di vendita che prevedono un’operazione di <b>presa visione, firma o caricamento documento.</b></mj-text>
+        <mj-text>Smart Desk si affianca alla modalità di firma via magic link già attiva per i clienti con contatti certificati e documenti validi caricati in procedura.</mj-text>
+        <mj-text>È possibile utilizzare Smart Desk per:</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_09-Imprese/listaProdotti.png" width="400"></mj-image>
+        <mj-text align="center"><b>È fondamentale utilizzare Smart Desk</b> per concludere un processo di vendita ogni qualvolta sia possibile, anche con il cliente in presenza in filiale: in questo modo sarà possibile velocizzare la pratica, evitare la stampa cartacea, semplificare la raccolta delle firme, senza occuparsi dell’archiviazione fisica.
+        </mj-text>
+        <mj-text>L’offerta per le imprese si svilupperà ulteriormente nei prossimi mesi, con l’estensione di Smart Desk a tutte le Persone Giuridiche; potremo così sfruttare tutte le opportunità di contatto, massimizzando le vendite grazie a un processo semplice e trasparente. </mj-text>
+        <mj-text>A presto con altre novità.<br>Grazie</br></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
