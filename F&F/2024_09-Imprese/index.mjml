@@ -27,9 +27,13 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_09-Imprese/listaProdotti.png" width="400"></mj-image>
-        <mj-text align="center"><b>È fondamentale utilizzare Smart Desk</b> per concludere un processo di vendita ogni qualvolta sia possibile, anche con il cliente in presenza in filiale: in questo modo sarà possibile velocizzare la pratica, evitare la stampa cartacea, semplificare la raccolta delle firme, senza occuparsi dell’archiviazione fisica.
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="20px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_09-Imprese/listaProdotti.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text><b>È fondamentale utilizzare Smart Desk</b> per concludere un processo di vendita ogni qualvolta sia possibile, anche con il cliente in presenza in filiale: in questo modo sarà possibile velocizzare la pratica, evitare la stampa cartacea, semplificare la raccolta delle firme, senza occuparsi dell’archiviazione fisica.
         </mj-text>
         <mj-text>L’offerta per le imprese si svilupperà ulteriormente nei prossimi mesi, con l’estensione di Smart Desk a tutte le Persone Giuridiche; potremo così sfruttare tutte le opportunità di contatto, massimizzando le vendite grazie a un processo semplice e trasparente. </mj-text>
         <mj-text>A presto con altre novità.<br>Grazie</br></mj-text>
