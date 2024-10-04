@@ -20,7 +20,8 @@
       <mj-column>
         <mj-text padding-bottom="0"><b>Gentili colleghi e colleghe,</b></mj-text>
         <mj-text padding-top="0">
-          con l'obiettivo di restare allineati sui passi che stiamo compiendo, condividiamo l’avanzamento del nostro piano evolutivo per una efficace migrazione della transazionaltà attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
+          continua il nostro piano evolutivo per una efficace migrazione della transazionalità, attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
+        <mj-text>Siamo certi di poter contare sul <b>vostro fondamentale contributo per garantire il pieno  sfruttamento delle potenzialità delle nuove dotazioni e raggiungere i nostri obiettivi di migrazione</b>, valorizzando così al meglio gli investimenti fatti.</mj-text>
       </mj-column>
     </mj-section><mj-section>
       <mj-column>
@@ -30,7 +31,7 @@
         
 <mj-text>
 Per garantire il pieno sfruttamento delle opportunità offerte dalle nuove installazioni, è necessaria la collaborazione di tutti perché siano sempre presidiati i caricamenti al fine di evitare fermi macchina e incentivare i clienti ad un utilizzo regolare e assiduo delle dotazioni self.</mj-text>
-        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/tommaso_lacommare_bper_it/EdBZ8QHN89VHvPXTg25-sz0B4dD2R6VdZ0Dr8F8n8Ao5OQ?e=n0EoD9">Scarica il documento</mj-button>
+        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/davide_turci_bper_it/EYjle5vO_vpPpX5-XwM436gB3UyYzgkH7uccA-zb3SieKA?e=CMP0ja">Scarica il documento</mj-button>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/24Set/AccessoCardless.png?raw=true" alt="Accesso a Cassa Smart, anche senza carta." padding="0" padding-top="30px"></mj-image>
       </mj-column>
     </mj-section>
