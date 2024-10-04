@@ -7,27 +7,13 @@
   </mj-head>
   <mj-body background-color="#fff">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/Header-ATM.png?raw=true" padding="0" alt="è in arrivo un nuovo ATM Evoluto. Le dotazioni self aprono la tua filiale a nuove prospettive."></mj-image></mj-column>
+      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Cashless/HeaderTeasing.png?raw=true" padding="0" alt=""></mj-image></mj-column>
     </mj-section>
-    <mj-wrapper background-color="#f5f9f9" padding="20px">
+    
       <mj-section background-color="#F5F9F9" border-radius="24px">
         <mj-column width="100%">
-          <mj-text>Gentile [Nome direttore],</br>
-          nella tua filiale nei prossimi giorni arriverà un <b>nuovo ATM evoluto</b>. Questa novità non solo contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, ma offrirà ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.</mj-text></mj-column>
-      </mj-section>
-          <mj-section background-color="#fff" border-radius="24px" padding="20px">
-            <mj-column width="100%">
-              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
-              <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
-                Le operazioni migrabili <span style="color:#00ae65">su ATM EVO sono:</span>
-              </mj-text>
-              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/listaOperazioni.png?raw=true" padding="0"></mj-image>
-            </mj-column>
-          </mj-section>
-              <mj-section><mj-column><mj-text>A seguito dell’installazione di questa nuova dotazione, crescono le opportunità di migrazione delle transazioni nella tua filiale. Il "Tasso di migrazione digitale delle transazioni" (KPI di performance della tua filiale) sarà a breve aggiornato sulla base del nuovo perimetro di operazioni migrabili.</mj-text><mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Prendi parte da protagonista a questo percorso verso il futuro. Il tuo impegno e la tua competenza sono fondamentali per il raggiungimento degli obiettivi di digitalizzazione."></mj-image><mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
-              
-              
-    </mj-wrapper>
+          <mj-text>Gentile [Nome direttore],<br><b>dal [data] la tua filiale diventerà cashless.</b></br>
+          </mj-text><mj-text>Questo nuovo modello non prevede il servizio di cassa tradizionale allo sportello, per questo il ruolo tuo e dei tuoi collaboratori diventa ancora più cruciale nell’accompagnare il cliente nell’utilizzo delle dotazioni di self banking. Il cliente sarà più autonomo nella gestione della propria operatività e voi avrete più tempo di valore da dedicare allo sviluppo della relazione e alle attività di consulenza.  </mj-text><mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Prendi parte da protagonista a questo percorso verso il futuro. Il tuo impegno e la tua competenza sono fondamentali per il raggiungimento degli obiettivi di digitalizzazione."></mj-image><mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text></mj-column></mj-section>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
