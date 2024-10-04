@@ -7,35 +7,44 @@
   </mj-head>
   <mj-body background-color="#fff">
     <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Cashless/HeaderAttiva.png?raw=true" padding="0" alt=""></mj-image></mj-column>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Cashless/HeaderAttiva.png?raw=true" padding="0" alt=""></mj-image>
+      </mj-column>
     </mj-section>
-      <mj-section background-color="#F5F9F9" border-radius="24px">
-        <mj-column width="100%">
-          <mj-text>Gentile [Nome direttore],<br><b>la tua filiale diventa Cashless.</b></br></mj-text>
-        <mj-text>Questa novità contribuirà a rendere più efficace <b>l'operatività transazionale in filiale</b>, rafforzando il ruolo tuo e dei tuoi collaboratori nell’accompagnare il cliente nell’utilizzo delle dotazioni di self banking.</mj-text>
-        <mj-text>Da questo momento il cliente sarà più autonomo nella gestione della propria operatività e voi avrete più tempo di valore da dedicare allo sviluppo della relazione e alle attività di consulenza, raggiungendo al contempo gli <b>obiettivi di migrazione della transazionalità della Banca.</b></mj-text></mj-column>
-      </mj-section>
-          <mj-section background-color="#fff" border-radius="24px" padding="20px">
-            <mj-column width="100%">
-              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
-              <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
-                Le operazioni migrabili <span style="color:#00ae65">su ATM EVO sono:</span>
-              </mj-text>
-              <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Cashless/listaOperazioni.png?raw=true" padding="0"></mj-image>
-            </mj-column>
-          </mj-section>
-              <mj-section><mj-column><mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Prendi parte da protagonista a questo percorso verso il futuro. Il tuo impegno e la tua competenza sono fondamentali per il raggiungimento degli obiettivi di digitalizzazione."></mj-image><mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
-              
-              
-    
-    <mj-section background-color="#f5f9f9" padding="0">
+    <mj-section background-color="#F5F9F9">
       <mj-column width="100%">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
-      </mj-column>
-      
-      <mj-column padding="0" width="100%">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+        <mj-text>Gentile [Nome direttore],</mj-text>
+        <mj-text><b>la tua filiale diventa Cashless.</b></mj-text>
+        <mj-text>Questa novità contribuirà a rendere più efficace <b>l'operatività transazionale in filiale</b>, rafforzando il ruolo tuo e dei tuoi collaboratori nell’accompagnare il cliente nell’utilizzo delle dotazioni di self banking.</mj-text>
+        <mj-text>Da questo momento il cliente sarà più autonomo nella gestione della propria operatività e voi avrete più tempo di valore da dedicare allo sviluppo della relazione e alle attività di consulenza, raggiungendo al contempo gli <b>obiettivi di migrazione della transazionalità della Banca.</b></mj-text>
       </mj-column>
     </mj-section>
+    <mj-wrapper background-color="#F5F9F9">
+      <mj-section background-color="#fff" padding="20px">
+        <mj-column width="100%">
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
+          <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
+            Le operazioni migrabili <span style="color:#00ae65">su Cassa Smart sono:</span>
+          </mj-text>
+          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Cashless/listaOperazioni.png?raw=true" padding="0"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Prendi parte da protagonista a questo percorso verso il futuro. Il tuo impegno e la tua competenza sono fondamentali per il raggiungimento degli obiettivi di digitalizzazione."></mj-image>
+        <mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
+
+
+
+        <mj-section background-color="#f5f9f9" padding="0">
+          <mj-column width="100%">
+            <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+          </mj-column>
+
+          <mj-column padding="0" width="100%">
+            <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+          </mj-column>
+        </mj-section>
   </mj-body>
 </mjml>
