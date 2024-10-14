@@ -13,7 +13,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_10-100milPagaPoi/Header.png" alt="100 milioni. PagaPoi." padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_10-100milPagaPoi/Header.png?raw=true" alt="100 milioni. PagaPoi." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
@@ -23,7 +23,7 @@
         <mj-text>a poco più di un anno dal lancio di PagaPoi possiamo festeggiare un traguardo tondo: abbiamo infatti superato i <b>100 milioni di euro di erogato</b>, un risultato che ancora una volta evidenzia il contributo del canale digitale nel raggiungimento degli obiettivi di business complessivi.</mj-text>
 
         <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_10-100milPagaPoi/datiLending.png" alt="101,1 milioni € di importo erogato. Suddivisione per DR."></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_10-100milPagaPoi/datiLending.png?raw=true" alt="101,1 milioni € di importo erogato. Suddivisione per DR."></mj-image>
         <mj-text>Pagapoi ha rappresentato una novità importante per i nostri clienti: un prodotto interamente digitale, attivabile in autonomia per una rateizzazione facile e veloce delle spese già sostenute.</mj-text>
         <mj-text>
 
