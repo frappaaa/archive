@@ -16,19 +16,20 @@
       <mj-column width="100%">
         <mj-text>Gentile [Nome direttore],
         </mj-text>
-        <mj-text><b>dal [data] la tua filiale diventerà cashless.</b></mj-text>
-        <mj-text>Questo nuovo modello non prevede il servizio di cassa tradizionale allo sportello, per questo il ruolo tuo e dei tuoi collaboratori diventa ancora più cruciale nell’accompagnare il cliente nell’utilizzo delle dotazioni di self banking. Il cliente sarà più autonomo nella gestione della propria operatività e voi avrete più tempo di valore da dedicare allo sviluppo della relazione e alle attività di consulenza.  </mj-text>
+        <mj-text><b>dal [data] la tua filiale diventerà cashless. </b></mj-text>
+        <mj-text>Il tuo ruolo e quello dei tuoi collaboratori è fondamentale nel supportare i clienti nel passaggio da un modello tradizionale ad uno nuovo improntato all’utilizzo degli ATM e delle CASSE SELF: sarà importante valorizzare l’autonomia che potranno avere nell’operatività transazionale e la disponibilità loro riservata per i bisogni di consulenza.</mj-text>
+        <mj-text>Il pieno utilizzo delle dotazioni vi garantirà tempo di valore da dedicare allo sviluppo della relazione e al contempo raggiungerete gli obiettivi della Banca di migrazione della transazionalità sul Self Banking.</mj-text>
+        <mj-text><b><i>Grazie per la tua collaborazione</i></b></mj-text>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Prendi parte da protagonista a questo percorso verso il futuro. Il tuo impegno e la tua competenza sono fondamentali per il raggiungimento degli obiettivi di digitalizzazione."></mj-image>
-        <mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#f5f9f9" padding="0">
       <mj-column width="100%">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
+        
       </mj-column>
 
-      <mj-column padding="0" width="100%">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      <mj-column width="100%">
+        
       </mj-column>
     </mj-section>
   </mj-body>
