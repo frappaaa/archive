@@ -13,23 +13,24 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_10-100milPagaPoi/Header.png" alt="180 milioni. Digital Lending." padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_10-100milPagaPoi/Header.png" alt="100 milioni. PagaPoi." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>abbiamo superato i <b>181 milioni di erogato totale dal canale digitale</b>:  82,1 milioni di euro arrivano dai prestiti online e 98,9 milioni da PagaPoi.</mj-text>
+        <mj-text>a poco più di un anno dal lancio di PagaPoi possiamo festeggiare un traguardo tondo: abbiamo infatti superato i <b>100 milioni di euro di erogato</b>, un risultato che ancora una volta evidenzia il contributo del canale digitale nel raggiungimento degli obiettivi di business complessivi.</mj-text>
 
         <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_10-100milPagaPoi/datiLending.png" alt="181,1 milioni € di importo erogato. Suddivisione per DR."></mj-image>
-        <mj-text>Vi ricordiamo che fino al 31 dicembre a supportare il raggiungimento degli obiettivi concorre anche il repricing del Prestito Smart dedicato alle sottoscrizioni in self e da Filiale Online, con <b>tasso del 8,90% per prestiti superiori a 7.000,00€ e durata da 60 a 120 mesi</b>.  
-Per prestiti con condizioni differenti, viene invece applicata una struttura di pricing allineata a quella in vigore in filiale dal 23 settembre.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_10-100milPagaPoi/datiLending.png" alt="101,1 milioni € di importo erogato. Suddivisione per DR."></mj-image>
+        <mj-text>Pagapoi ha rappresentato una novità importante per i nostri clienti: un prodotto interamente digitale, attivabile in autonomia per una rateizzazione facile e veloce delle spese già sostenute.</mj-text>
         <mj-text>
-          Non solo: nelle prossime settimane arriveranno delle novità anche per <b>PagaPoi</b>, che supporteranno e miglioreranno l’utilizzo del prodotto e l’esperienza per i nostri clienti. </mj-text>
-        <mj-text>Continuiamo con determinazione il nostro percorso di evoluzione digitale, orientati verso nuovi importanti traguardi e sempre in ottica omnicanale.</mj-text>
 
+          E l’evoluzione continua: nelle prossime settimane arriveranno importanti novità che miglioreranno ulteriormente l’esperienza dei nostri clienti.
+
+        </mj-text>
+        <mj-text>Solo lavorando per un miglioramento continuo possiamo garantire ogni giorno ai nostri clienti un’esperienza digitale unica e distintiva.</mj-text>
         <mj-text><b>Grazie per il vostro contributo.</b></mj-text>
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_10-100milPagaPoi/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
