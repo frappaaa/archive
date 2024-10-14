@@ -15,12 +15,12 @@
       <mj-column width="100%">
         <mj-text>Gentile [Nome direttore],</mj-text>
         <mj-text><b>la tua filiale diventa Cashless.</b></mj-text>
-        <mj-text>Questa novità contribuirà a rendere più efficace <b>l'operatività transazionale in filiale</b>, rafforzando il ruolo tuo e dei tuoi collaboratori nell’accompagnare il cliente nell’utilizzo delle dotazioni di self banking.</mj-text>
-        <mj-text>Da questo momento il cliente sarà più autonomo nella gestione della propria operatività e voi avrete più tempo di valore da dedicare allo sviluppo della relazione e alle attività di consulenza, raggiungendo al contempo gli <b>obiettivi di migrazione della transazionalità della Banca.</b></mj-text>
+        <mj-text>Da ora i clienti della tua filiale potranno soddisfare i loro bisogni transazionali ancora più velocemente e le loro esigenze di consulenza potranno essere soddisfatte dai colleghi che potranno dedicarvi tempo di valore.</mj-text>
+        <mj-text>Il tuo ruolo e quello dei tuoi collaboratori è cruciale nell’accompagnare i clienti in questo cambiamento, supportandoli nell’utilizzo degli ATM e delle CASSE SELF: loro saranno più autonomi nella gestione della propria operatività e voi avrete più tempo da riservare allo sviluppo della relazione, raggiungendo al contempo gli obiettivi della Banca di migrazione della transazionalità sul Self Banking. </mj-text>
       </mj-column>
     </mj-section>
-    <mj-wrapper background-color="#F5F9F9">
-      <mj-section background-color="#fff" padding="20px">
+    <mj-wrapper background-color="#F5F9F9" padding="20">
+      <mj-section background-color="#fff" padding="20px" border-radius="40px">
         <mj-column width="100%">
           <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/Line.png?raw=true" align="center" width="50px"></mj-image>
           <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
@@ -32,18 +32,15 @@
     </mj-wrapper>
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Prendi parte da protagonista a questo percorso verso il futuro. Il tuo impegno e la tua competenza sono fondamentali per il raggiungimento degli obiettivi di digitalizzazione."></mj-image>
-        <mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
+        <mj-text><b><i>Grazie per la tua collaborazione</i></b></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/Installato/BannerAccessoCardless.png?raw=true" padding="0" alt="Accesso a Cassa Smart, anche senza carta. I tuoi clienti hanno a disposizione una nuova modalità di accesso alla Cassa Smart (CSA) in filiale: possono anche autenticarsi tramite app BPER invece di usare la carta."></mj-image>
+        
 
 
 
         <mj-section background-color="#f5f9f9" padding="0">
           <mj-column width="100%">
-            <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Footer.png"></mj-image>
-          </mj-column>
-
-          <mj-column padding="0" width="100%">
-            <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+            
           </mj-column>
         </mj-section>
   </mj-body>
