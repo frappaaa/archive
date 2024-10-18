@@ -1,0 +1,33 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOUNISALUTE/HEADER.png?raw=true" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOUNISALUTE/BANNER.png?raw=true" padding="0"></mj-image>
+        <mj-text padding-bottom="0" padding-top="20px">Care colleghe e cari colleghi,</mj-text>
+        <mj-text padding-top="0" padding-bottom="20px">dal 17 ottobre è attiva una <b>promo</b> sulle sottoscrizioni dei prodotti UniSalute “Sorriso” e “4Zampe” vendibili tramite canali digitali (Self e Filiale Online). L’iniziativa prevede una <b>riduzione pari al 20% del premio annuale</b> e sarà attiva <b>fino al 18 novembre per UniSalute Sorriso e fino al 31 dicembre per 4ZAMPE</b>.  Il vantaggio viene mantenuto anche per i rinnovi successivi.</mj-text>
+        <mj-text>I prodotti, che offrono la copertura di due bisogni largamente diffusi sulla nostra clientela come la cura del benessere dentale e l’attenzione alla salute dei propri animali domestici, potranno essere oggetto di proposizione in filiale, <b>accompagnando il cliente nel processo di sottoscrizione self direttamente in app</b> (vedi guida alla sottoscrizione in self di Unisalute Sorriso e Unisalute 4ZAMPE) </mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOUNISALUTE/TABELLA.png?raw=true" padding="0"></mj-image>
+        <mj-text padding-top="30px">Ricordiamo che la promozione sui due prodotti si somma alle condizioni già in essere che prevedono uno sconto progressivo al crescere degli assicurati:</mj-text>
+        <mj-text>
+          <ul>
+            <li>1 assicurato: sconto 20%</li>
+            <li>2 assicurati: sconto 30% (10%+20%)</li>
+            <li>3 assicurati: sconto 35% (15%+20%)</li>
+            <li>4 assicurati: sconto 45% (25%+20%)</li>
+            <li>5 -10 assicurati: sconto 50% (30%+20%)</li>
+          </ul>
+        </mj-text>
+        <mj-text>Nel caso di clientela non in possesso dei servizi digitali Smart, la proposizione dovrà essere accompagnata dalla preliminare attivazione dell’app, contribuendo in questo modo anche al processo di digitalizzazione.  </mj-text>
+        <mj-text>Maggiori dettagli sono disponibili al percorso Bsmart> Prodotti> <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/prodotti/unisalute-sorriso" target="_blank" style="text-decoration:underline; color:inherit;">Unisalute Sorriso</a> e Bsmart> Prodotti> <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/prodotti/unisalute-4zampe" target="_blank" style="text-decoration:underline; color:inherit;">Unisalute 4ZAMPE</a>. </mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOUNISALUTE/FOOTER.png?raw=true" padding="30px 0 0 0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
