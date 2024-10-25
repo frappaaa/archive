@@ -1,0 +1,119 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text
+        align="left"
+        color="#1C1C1C"
+        font-family="Arial"
+        font-size="20px"
+        line-height="28px"
+      />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/LOGHI/BCP.png"
+          width="240px"
+          alt="BPER Banca Private Cesare Ponti"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_10-CenaPrestige/Header.png?raw=true"
+          alt="Pass esclusivo per un'esperienza prestige. 12/11/2024. BPER Training Center, Viale dello Sport, Appiano Gentile, CO"
+          padding="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
+        <mj-text
+          >il <b>12 novembre</b> avremo l'opportunità di vivere un'esperienza
+          davvero prestige, frutto della partnership tra BPER e Inter: un
+          <b
+            >esclusivo tour guidato e una cena presso il centro sportivo BPER
+            Training Center</b
+          >.</mj-text
+        >
+        <mj-text
+          >Sarà un’occasione unica per visitare questo luogo e vivere una serata
+          densa di emozioni, in un contesto riservato il cui accesso è
+          abitualmente consentito solo al team Inter.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column padding="32px" background-color="#FAF8F3" border-radius="30px">
+        <mj-text padding="10px 0" font-size="24px">Agenda della serata</mj-text>
+        <mj-table
+          font-size="20px"
+          line-height="30px"
+          color="#1C1C1C"
+          padding="10px 0"
+          font-family="Arial"
+        >
+          <tr style="border-bottom: 16px solid #FAF8F3;">
+            <td style="border-right: 2px solid #1C1C1C; width:65px">
+              <b>19:00</b>
+            </td>
+            <td style="padding-left:10px">Accredito e welcome cocktail</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #FAF8F3;">
+            <td style="border-right: 2px solid #1C1C1C; width:65px">
+              <b>19:30</b>
+            </td>
+            <td style="padding-left:10px">Tour guidato del Centro Sportivo</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #FAF8F3;">
+            <td style="border-right: 2px solid #1C1C1C; width:65px">
+              <b>20:30</b>
+            </td>
+            <td style="padding-left:10px">Cena Prestige</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #FAF8F3;">
+            <td style="border-right: 2px solid #1C1C1C; width:65px">
+              <b>21:45</b>
+            </td>
+            <td style="padding-left:10px">Dessert e saluti</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0051CF" border-radius="30px">
+      <mj-column width="30%">
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/05_23-specialisti/Pin.png?raw=true"
+          width="80px"
+          align="center"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding-bottom="0" color="#fff"
+          ><b>BPER Training Center</b></mj-text
+        >
+        <mj-text padding-top="0" padding-bottom="0" color="#fff"
+          >Viale dello Sport, Appiano Gentile, CO</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="0"
+          >Le chiediamo di darci conferma della sua presenza
+          <b>rispondendo a questa mail entro il xx/xx</b>, segnalandoci
+          eventuali intolleranze alimentali o esigenze particolari.
+        </mj-text>
+        <mj-text>Arrivederci ad Appiano Gentile!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
