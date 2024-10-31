@@ -49,7 +49,7 @@
         </mj-table>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#0051CF" border-radius="30px">
+    <mj-section>
       <mj-column >
                 <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_10-CenaPrestige/LUOGO.png?raw=true" alt="BPER Training Centre. Viale dello Sport, Appiano Gentile, CO" padding="0"></mj-image>
       </mj-column>
