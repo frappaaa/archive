@@ -50,12 +50,8 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#0051CF" border-radius="30px">
-      <mj-column width="30%">
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/05_23-specialisti/Pin.png?raw=true" width="80px" align="center"></mj-image>
-      </mj-column>
-      <mj-column width="70%">
-        <mj-text padding-bottom="0" color="#fff"><b>BPER Training Centre</b></mj-text>
-        <mj-text padding-top="0" padding-bottom="0" color="#fff">Viale dello Sport, Appiano Gentile, CO</mj-text>
+      <mj-column >
+                <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_10-CenaPrestige/LUOGO.png?raw=true" alt="BPER Training Centre. Viale dello Sport, Appiano Gentile, CO" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
