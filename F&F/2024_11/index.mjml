@@ -1,0 +1,72 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_7-Lug/Header.png" alt="Smart Banking. Naviga in anteprima la nuova versione dell’app." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentile Collega,</b></mj-text>
+        <mj-text padding="10px 0">ti invitiamo a partecipare al Family&Friends per <b>accedere in anteprima alla nuova versione dell’app</b> che sarà lanciata a fine luglio. Potrai così scoprire le novità prima del rilascio ufficiale a tutta la clientela e contribuirai attivamente al percorso di evoluzione digitale.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="38px" padding-left="56px" background-color="#009969" border-radius="30px">
+        <mj-text padding="0" padding-bottom="14px" color="#fff"><b>Ecco cosa troverai in questa versione:</b> </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Conto Teen!:</b></br>la soluzione per i ragazzi tra i 13 e i 17 anni per un primo passo verso l’indipendenza finanziaria</br><span style="font-size:14px;">(Per l’apertura a questa funzionalità sarà inviata una comunicazione specifica)</span></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>UniSalute 4Zampe:</b></br>la polizza dedicata al benessere di cani e gatti
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Recupero credenziali:</b></br>un nuovo processo di sicurezza automatizzato per recuperare le credenziali smarrite in poche mosse
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Possibilità di rendere un bonifico ricorrente</b></br>direttamente dalla pagina conclusiva dell’operazione
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Miglioramento della sezione Profilo:</b></br>inserimento del gestore e dei suoi contatti
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="0" color="#005157">Per partecipare compila il form di adesione cliccando su <a href="https://forms.office.com/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDtVGpMrwd2tLtuRgtDKcvXFUQjk1UFU1WURTSjI0V0dKOEEyOERZWlgxVi4u" style="color:#005157">questo link</a> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).
+        </mj-text>
+        <mj-text padding="10px 0 0 0" color="#005157">Quando l'aggiornamento sarà disponibile avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="https://forms.office.com/e/yE25Mxhwj9" style="color:#005157">questo form</a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
+
+        <mj-text padding="14px 0 0 0"><b>Ti aspettiamo per vivere da protagonista il percorso di crescita digitale!</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
