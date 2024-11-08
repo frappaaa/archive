@@ -13,26 +13,25 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/2024_11-BankFriday/Header.png?raw=true" alt="" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/2024_11-BankFriday/Header.png?raw=true" alt="Bank Friday. SUPER F. Quando le opportunità chiamano, la FOL risponde." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>dall’11 novembre al 2 dicembre arriva il Bank Friday, un ricco paniere di promozioni e vantaggi commerciali per i nostri clienti, tra cui spicca il Prestito Smart, con una promo davvero competitiva valida su tutti i canali di sottoscrizione.</mj-text>
-        <mj-image src=""></mj-image>
-        <mj-text>Il vostro contributo sarà ancora una volta fondamentale per raggiungere gli obiettivi sui prestiti e nell’incrementare ulteriormente l’abbinamento delle CPI (nella scorsa settimana l’abbinamento CPI dalla FOL è stato del 39,2% ).</mj-text>
-        <mj-text>Non solo prestito, il bank friday coinvolgerà anche altri prodotti:</mj-text>
-        <mj-image src=""></mj-image>
-        <mj-image src=""></mj-image>
-        <mj-image src=""></mj-image>
-        <mj-image src=""></mj-image>
+        <mj-text>dall’11 novembre al 2 dicembre arriva il Bank Friday, con una <b>promo davvero competitiva su Prestito Smart</b>, che sarà valida su tutti i canali della Banca.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/2024_11-BankFriday/TABELLA.png?raw=true"></mj-image>
+        <mj-text>Ai prestiti con importo e/o durata differente da quelli sopra indicati si applicano i tassi attualmente in vigore. </mj-text>
+        <mj-text><b>Cogliamo ogni occasione</b> per traguardare gli obiettivi sui prestiti, dal <i>reactive inbound</i> alle opportunità generate dal canale self, dall’<i>outbound</i>  al ricontatto dei clienti che hanno manifestato interesse, <b>proponendo sempre ai nostri clienti la protezione garantita dall’abbinamento con la CPI</b>.</mj-text>
+        <mj-text>Il nostro focus non si limita al prestito, durante il Bank Friday le promo interesseranno anche altri prodotti:</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/2024_11-BankFriday/UNIPOLMOVE.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/2024_11-BankFriday/UNISALUTE.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/2024_11-BankFriday/PARAMOUNT.png?raw=true"></mj-image>
         <mj-text>
-          Ad agevolare la vostra proposizione commerciale ci sarà anche una campagna di comunicazione che raggiungerà i clienti su vari canali, come sito internet e social network, ma anche dem e ingaggi in app.</mj-text>
-        <mj-text>Tra le iniziative che in questo momento ci stanno supportando nell’acquis</mj-text>
-        <mj-text><b>Siate consapevoli di quanto il vostro lavoro sia prezioso</b> per il successo di ognuna di questa iniziative, grazie a tutte le energie che mettete in campo in ogni ambito: dali reactive inbound alla creazione di opportunità per la rete, dall’outbound  al ricontatto dei clienti che hanno manifestato interesse per le nostre proposte. </mj-text>
-        <mj-text>Insieme possiamo davvero fare la differenza.<br><b>Grazie per il vostro contributo. </b></br></mj-text>
+         <b> L’invito è a sfruttare al meglio queste leve commerciali, consapevoli di quanto il vostro lavoro sia prezioso</b> per il successo di ognuna di questa iniziative.</mj-text>
+        <mj-text>Insieme possiamo davvero fare la differenza.</mj-text>
+        <mj-text><b>Grazie per il vostro contributo.</b></mj-text>
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
       </mj-column>
