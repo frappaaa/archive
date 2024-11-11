@@ -17,7 +17,7 @@ Viale dello Sport, Appiano Gentile, CO" padding="0"></mj-image>
       <mj-column>
         <mj-text padding-bottom="0">Gentile cliente,</mj-text>
         <mj-text>siamo lieti di accoglierla questa sera al BPER Training Centre per vivere un’esperienza Prestige davvero esclusiva.</mj-text>
-        <mj-text>Sarà un’occasione unica per visitare il BPER Training Centre e cenare in un contesto esclusivo, solitamente riservato al Team Inter.</mj-text>
+        
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
