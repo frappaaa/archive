@@ -13,7 +13,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/Header.png?raw=true" alt="È arrivato il Bank Friday" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/BANKFRIDAY_PRIVATI/Header.png?raw=true" alt="È arrivato il Bank Friday" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
@@ -39,7 +39,7 @@
             <li><b>ACuore</b>: Doppio check up di prevenzione valido su tutte le configurazioni della polizza</li>
             <li><b>ACuore Super</b>: finanziamento a tasso zero dell’importo del premio</li>
             <li><b>UniSalute Sorriso</b>: sconto del 20% su premio annuale</li>
-            <li><b>4ZAMPE</b>: sconto del 20% su premio annuale</li>
+            <li><b>UniSalute 4ZAMPE</b>: sconto del 20% su premio annuale</li>
           </ul>
         </mj-text>
         <mj-text><b>Promo Rami Elementari:</b>  
@@ -55,7 +55,7 @@
         <mj-text><b>UnipolRental</b>: 3 vetture con pricing promo. </mj-text>
         <mj-text><b>Carta di credito</b>: i clienti che acquistano una carta di credito Prime, Premium o Prestige ricevono un voucher per la visione gratuita di Paramount+, con durata differenziata a seconda della carta scelta (3-6-12 mesi). </mj-text>
         <mj-text><b>Servizi digitali Smart</b>: concorso “Vinci Parigi con l’app BPER” per i clienti che sottoscrivono i servizi digitali Smart e li attivano. </mj-text>
-        <mj-text>Per conoscere i dettagli di tutte le promo attive vai sul <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/56713/privati" style="color:#005157;">sito Privati</a> o scarica il vademecum in allegato.</mj-text>
+        <mj-text>Per conoscere i dettagli di tutte le promo attive vai sul <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/56713/privati" style="color:#005157;">sito Privati</a> o <a href="https://bpergroup.sharepoint.com/:b:/s/m365-dg-21710/EfKxdH0G9EpCgBR_1RkjxqEBZmaWPy9CbEceKODGfBjp7g" style="color:#005157;">scarica il vademecum</a>.</mj-text>
         <mj-text padding-bottom="0"><b>Pasquale Panzarino</b></mj-text>
         <mj-text padding-top="0" font-size="16px"><i>Responsabile Direzione Privati</i></mj-text>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
