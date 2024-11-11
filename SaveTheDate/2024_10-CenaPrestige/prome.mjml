@@ -17,7 +17,6 @@ Viale dello Sport, Appiano Gentile, CO" padding="0"></mj-image>
       <mj-column>
         <mj-text padding-bottom="0">Gentile cliente,</mj-text>
         <mj-text>siamo lieti di accoglierla questa sera al BPER Training Centre per vivere un’esperienza Prestige davvero esclusiva.</mj-text>
-        
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
@@ -58,7 +57,7 @@ Viale dello Sport, Appiano Gentile, CO" padding="0"></mj-image>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-top="0"><b>Le abbiamo riservato un posto auto</b> all'interno del centro sportivo: per accedere le sarà sufficiente presentare il documento di identità all'ingresso.
+        <mj-text padding-top="0"><b>Le abbiamo riservato un posto auto</b> all'interno del centro sportivo: per accedere le sarà sufficiente comunicare nome e cognome all'ingresso.
         </mj-text>
         <mj-text>La aspettiamo questa sera al BPER Training Centre di Appiano Gentile!</mj-text>
       </mj-column>
