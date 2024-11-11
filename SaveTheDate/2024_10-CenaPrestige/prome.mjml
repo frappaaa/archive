@@ -8,13 +8,15 @@
   <mj-body max-width="640px">
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_10-CenaPrestige/Header.png?raw=true" alt="Pass esclusivo per un'esperienza prestige. 12/11/2024. BPER Training Centre, Viale dello Sport, Appiano Gentile, CO" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_10-CenaPrestige/HeaderProme.png?raw=true" alt="Invito esclusivo al BPER Training Centre. 12.11.2024
+BPER Training Centre
+Viale dello Sport, Appiano Gentile, CO" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
-        <mj-text>abbiamo il piacere di invitarla a vivere un’esperienza Prestige, frutto della partnership tra BPER e Inter.</mj-text>
+        <mj-text padding-bottom="0">Gentile cliente,</mj-text>
+        <mj-text>siamo lieti di accoglierla questa sera al BPER Training Centre per vivere un’esperienza Prestige davvero esclusiva.</mj-text>
         <mj-text>Sarà un’occasione unica per visitare il BPER Training Centre e cenare in un contesto esclusivo, solitamente riservato al Team Inter.</mj-text>
       </mj-column>
     </mj-section>
@@ -56,9 +58,9 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-top="0">L’invito è valido per 1 persona.<br>La preghiamo di darci conferma della sua presenza rispondendo a questa mail <b><u>entro il 5 novembre</u></b>, segnalandoci eventuali intolleranze alimentari o esigenze particolari.</br>
+        <mj-text padding-top="0"><b>Le abbiamo riservato un posto auto</b> all'interno del centro sportivo: per accedere le sarà sufficiente presentare il documento di identità all'ingresso.
         </mj-text>
-        <mj-text>A presto al BPER Training Centre di Appiano Gentile!</mj-text>
+        <mj-text>La aspettiamo questa sera al BPER Training Centre di Appiano Gentile!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
