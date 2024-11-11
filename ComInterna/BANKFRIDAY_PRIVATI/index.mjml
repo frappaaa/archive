@@ -1,0 +1,65 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px" background-color="#F5F7FA" width="660px">
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="30px 0 20px 0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/Header.png?raw=true" alt="È arrivato il Bank Friday" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 20px">
+      <mj-column>
+        <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
+
+        <mj-text>Il Bank Friday è arrivato e fino al 2 dicembre clienti e prospect potranno accedere a un’esclusiva <b>promo sui Prestiti Personali</b> valida con le stesse condizioni sui canali filiale, digital e filiale online:</mj-text>
+        <mj-text>
+          <ul>
+            <li>Nome: Promo Bank Friday</li>
+            <li>Tasso 7,95%</li>
+            <li>Spese istruttoria 0%</li>
+            <li>Incasso rata 1,75€ </li>
+            <li>Durata da 48 a 72 mesi </li>
+            <li>Importo da 7.000 € e fino a 30.000 €</li>
+            <li>Rating 1-7 oppure assente</li>
+          </ul>
+        </mj-text>
+        <mj-text>Tante altre promo sono in corso o in partenza durante il Bank Friday:</mj-text>
+        <mj-text><b>Mutui</b>: Mutuo Green e Mutuo Assicurato tasso al 2,55%</mj-text>
+        <mj-text><b>Promo Salute:</b>
+          <ul>
+            <li><b>ACuore</b>: Doppio check up di prevenzione valido su tutte le configurazioni della polizza</li>
+            <li><b>ACuore Super</b>: finanziamento a tasso zero dell’importo del premio</li>
+            <li><b>UniSalute Sorriso</b>: sconto del 20% su premio annuale</li>
+            <li><b>4ZAMPE</b>: sconto del 20% su premio annuale</li>
+          </ul>
+        </mj-text>
+        <mj-text><b>Promo Rami Elementari:</b>  
+          <ul>
+            <li><b>SìPrevisto</b>: sconto del 20% sul premio </li>
+            <li><b>Casa a modo tuo</b>: sconto del 20% </li>
+            <li><b>Tutto tondo</b>: finanziamento a tasso zero </li>
+            <li><b>Ti indennizzo</b>: sconto del 20% </li>
+          </ul>
+        </mj-text>
+        <mj-text><b>Conto On Demand</b>: per tutti clienti che attivano il conto online fino a 50€ di cashback se utilizzano la carta di debito Plus. </mj-text>
+        <mj-text><b>Unipolmove</b>: 12 mesi di canone gratuito sul primo dispositivo (poi 1,50€/mese) e secondo dispositivo gratis sempre. </mj-text>
+        <mj-text><b>UnipolRental</b>: 3 vetture con pricing promo. </mj-text>
+        <mj-text><b>Carta di credito</b>: i clienti che acquistano una carta di credito Prime, Premium o Prestige ricevono un voucher per la visione gratuita di Paramount+, con durata differenziata a seconda della carta scelta (3-6-12 mesi). </mj-text>
+        <mj-text><b>Servizi digitali Smart</b>: concorso “Vinci Parigi con l’app BPER” per i clienti che sottoscrivono i servizi digitali Smart e li attivano. </mj-text>
+        <mj-text>Per conoscere i dettagli di tutte le promo attive vai sul <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/56713/privati" style="color:#005157;">sito Privati</a> o scarica il vademecum in allegato.</mj-text>
+        <mj-text padding-bottom="0"><b>Pasquale Panzarino</b></mj-text>
+        <mj-text padding-top="0" font-size="16px"><i>Responsabile Direzione Privati</i></mj-text>
+        <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
