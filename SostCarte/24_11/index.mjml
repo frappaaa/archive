@@ -2,30 +2,36 @@
   <mj-head>
     <mj-attributes>
       <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
-      <mj-section background-color="#f5f9f9" />
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#fff" border-radius="24px">
-    <mj-section padding="24px 0 0 0" background-color="#fff">
-      <mj-image src="http://docs.bper.it/gruppobper/immagini/dem/Header.png?raw=true?" padding="0" alt="Sostituzione in filiale con la nuova Carta di Debito"></mj-image>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="30px 0 20px 0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
     </mj-section>
-    <mj-wrapper background-color="#f5f9f9" padding="20px">
-      <mj-section background-color="#fff" border-radius="24px" padding="22px 0 20px 0">
-        <mj-column>
-          <mj-text color="#009969">Care colleghe e cari colleghi,</mj-text>
-          <mj-text>abbiamo il piacere di comunicarvi le filiali che si sono maggiormente distinte  nell’ambito dell’iniziativa di sostituzione carte di debito, attiva dal 6 maggio al 28 giugno 2024. Per loro è previsto un momento di <b>alta formazione</b> realizzato in collaborazione con Mastercard, a cui seguirà una <b>cena esclusiva</b>. </mj-text>
-          <mj-text>Con l’obiettivo di promuovere il confronto e stimolare l’attiva partecipazione, sarà organizzato un unico evento formativo per Direzione Regionale nei mesi di gennaio e febbraio 2025.</mj-text>
-          <mj-text>Di seguito le filiali Top Performer:</mj-text>
-          
-         <mj-image src=""></mj-image>
-          <mj-text>L’organizzazione degli eventi e la convocazione dei partecipanti, compresi i colleghi delle Strutture di Semicentro, saranno gestiti in collaborazione con le Segreterie di Direzione Regionale, che verranno coinvolte già nelle prossime settimane. </mj-text>
-          <mj-text>Desideriamo complimentarci con le colleghe e i colleghi per il risultato raggiunto e per il loro fattivo contributo al successo dell’iniziativa.</mj-text>
-          <mj-text><b>Grazie per la collaborazione.</b></mj-text>
-        </mj-column>
-      </mj-section>
-    </mj-wrapper>
+    <mj-section>
+      <mj-column>
+        <mj-image src="http://docs.bper.it/gruppobper/immagini/dem/Header.png?raw=true?" padding="0" alt="Top performer sostituzione carte di debito. Edizione maggio/giugno 2024"></mj-image>
+      </mj-column>
+    </mj-section>
 
-    <mj-section background-color="#f5f9f9" padding="0">
+    <mj-section background-color="#fff" border-radius="24px" padding="22px 0 20px 0">
+
+      <mj-column>
+        <mj-text color="#009969"><b>Care colleghe e cari colleghi,</b></mj-text>
+        <mj-text>abbiamo il piacere di comunicarvi le filiali che si sono maggiormente distinte nell’ambito dell’iniziativa di sostituzione carte di debito, attiva dal 6 maggio al 28 giugno 2024. Per loro è previsto un momento di <b>alta formazione</b> realizzato in collaborazione con Mastercard, a cui seguirà una <b>cena esclusiva</b>. </mj-text>
+        <mj-text>Con l’obiettivo di promuovere il confronto e stimolare l’attiva partecipazione, sarà organizzato un unico evento formativo per Direzione Regionale nei mesi di gennaio e febbraio 2025.</mj-text>
+        <mj-text>Di seguito le filiali Top Performer:</mj-text>
+
+        <mj-image src=""></mj-image>
+        <mj-text>L’organizzazione degli eventi e la convocazione dei partecipanti, compresi i colleghi delle Strutture di Semicentro, saranno gestiti in collaborazione con le Segreterie di Direzione Regionale, che verranno coinvolte già nelle prossime settimane. </mj-text>
+        <mj-text>Desideriamo complimentarci con le colleghe e i colleghi per il risultato raggiunto e per il loro fattivo contributo al successo dell’iniziativa.</mj-text>
+        <mj-text><b>Grazie per la collaborazione.</b></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
       <mj-column>
         <mj-text font-weight="bold" padding-bottom="0">Maurice Lisi</mj-text>
         <mj-text padding-top="0"><i>Responsabile Direzione Digital Business</i></mj-text>
