@@ -1,10 +1,11 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="left" color="#005157" font-family="Arial" font-size="16px" line-height="22px" />
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
-  <mj-body background-color="#fff" border-radius="24px">
+  <mj-body max-width="640px" background-color="#F5F7FA" width="660px">
     <mj-section background-color="#fff" padding="0px">
       <mj-column padding="30px 0 20px 0">
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
@@ -12,33 +13,29 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="http://docs.bper.it/gruppobper/immagini/dem/Header.png?raw=true?" padding="0" alt="Top performer sostituzione carte di debito. Edizione maggio/giugno 2024"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/Header.png?raw=true" alt="I numeri della nostra evoluzione digitale. Ottobre." padding="0"></mj-image>
       </mj-column>
     </mj-section>
-
-    <mj-section background-color="#fff" border-radius="24px" padding="22px 0 20px 0">
-
+    <mj-section padding="0 20px">
       <mj-column>
-        <mj-text color="#009969"><b>Care colleghe e cari colleghi,</b></mj-text>
-        <mj-text>abbiamo il piacere di comunicarvi le filiali che si sono maggiormente distinte nell’ambito dell’iniziativa di sostituzione carte di debito, attiva dal 6 maggio al 28 giugno 2024. Per loro è previsto un momento di <b>alta formazione</b> realizzato in collaborazione con Mastercard, a cui seguirà una <b>cena esclusiva</b>. </mj-text>
-        <mj-text>Con l’obiettivo di promuovere il confronto e stimolare l’attiva partecipazione, sarà organizzato un unico evento formativo per Direzione Regionale nei mesi di gennaio e febbraio 2025.</mj-text>
-        <mj-text>Di seguito le filiali Top Performer:</mj-text>
+        <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-image src=""></mj-image>
-        <mj-text>L’organizzazione degli eventi e la convocazione dei partecipanti, compresi i colleghi delle Strutture di Semicentro, saranno gestiti in collaborazione con le Segreterie di Direzione Regionale, che verranno coinvolte già nelle prossime settimane. </mj-text>
-        <mj-text>Desideriamo complimentarci con le colleghe e i colleghi per il risultato raggiunto e per il loro fattivo contributo al successo dell’iniziativa.</mj-text>
-        <mj-text><b>Grazie per la collaborazione.</b></mj-text>
-      </mj-column>
-    </mj-section>
+        <mj-text>condividiamo con voi i risultati raggiunti nel mese di ottobre, che ci vedono raggiungere obiettivi importanti come quota 40.000 clienti acquisiti digitalmente nel 2024 e 200 milioni di erogato digitale.</mj-text>
 
-    <mj-section padding="0">
-      <mj-column>
-        <mj-text font-weight="bold" padding-bottom="0">Maurice Lisi</mj-text>
-        <mj-text padding-top="0"><i>Responsabile Direzione Digital Business</i></mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text font-weight="bold" padding-bottom="0">Pasquale Panzarino</mj-text>
-        <mj-text padding-top="0"><i>Responsabile Direzione Privati</i></mj-text>
+        <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/datiOFM.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/datiLending.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/datiUnipolMove.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/datiKPI.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/datiCarte.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/datiKYC.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/datiPolizze.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_11Nov/datiWealth.png?raw=true" alt=""></mj-image>
+        <mj-text>
+          Acceleriamo ancora il passo per raggiugere gli obiettivi di digitalizzazione del 2024 e prepararci alle sfide e al boost del nuovo Piano Industriale, che vedrà come grande protagonista l’evoluzione digitale della Banca.</mj-text>
+        <mj-text><b>Grazie per il contributo di ognuno di voi.</b></mj-text>
+        <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
+        <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
