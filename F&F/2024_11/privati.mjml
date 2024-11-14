@@ -9,12 +9,12 @@
   <mj-body max-width="640px">
     <mj-section>
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/00-LOGHI/BPER.png" width="104px" alt="BPER"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="0">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/Header.png" alt="Smart Banking. Le novità del rilascio di luglio" padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/HeaderPrivati.png" alt="Smart Banking. Le novità del rilascio di novembre" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -25,29 +25,37 @@
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/Investimenti.png" width="340px"></mj-image>
-        <mj-text align="center" color="009969"><b>Arricchimento situazione Assicurazioni</b></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/PagaPoi.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>PagaPoi</b></mj-text>
+        <mj-text align="center">per le nuove sottoscrizioni possibilità di rateizzare le spese con piani a partire da 100 euro;</mj-text>
+        <mj-text align="center">per chi ha sottoscritto il prodotto da febbraio 2024, possibilità di attivare la rateizzazione contestualmente all’esecuzione di un bonifico istantaneo da canali digitali.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/Assicurazioni.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Arricchimento situazione Assicurazioni</b></mj-text>
         <mj-text align="center">lista completa delle polizze danni e protezione acquistate su tutti canali (online e fisici) e dettaglio delle polizze acquistate in self.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/teen.png" width="400"></mj-image>
-        <mj-text align="center" color="009969"><b>Human Collaboration</b></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/HC.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Human Collaboration</b></mj-text>
         <mj-text align="center">introduzione dell’assistete virtuale tramite chatbot ed evoluzione delle modalità di interazione con i Consulenti Online, grazie all’introduzione della videochiamata.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/4zampe.png" width="250px"></mj-image>
-        <mj-text align="center" color="009969"><b>Richiesta carte di credito</b></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/CarteCredito.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Richiesta carte di credito</b></mj-text>
         <mj-text align="center">per i clienti privati, possibilità di avviare sui canali digitali della Banca la richiesta di una carta di credito: i dati e i documenti caricati dal cliente vengono automaticamente veicolati sulla FOL, che raccoglie poi il benestare da parte della Filiale Fisica per la concessione della carta e la definizione del plafond.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/sicurezza.png" width="340px"></mj-image>
-        <mj-text align="center" color="009969"><b>Sezione pagamenti</b></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/Pagamenti.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Sezione pagamenti</b></mj-text>
         <mj-text align="center">visualizzazione dei bonifici prenotati dopo il cut-off;</mj-text>
         <mj-text align="center">nuovi limiti per i bonifici istantanei e un cruscotto per attivarli e disattivarli.</mj-text>
       </mj-column>
