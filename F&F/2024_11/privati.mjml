@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
+      <mj-section background-color="#fff" max-width="640px" />
+      <mj-column padding="0 34px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/Header.png" alt="Smart Banking. Le novità del rilascio di luglio" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Care colleghe e cari colleghi,</b></mj-text>
+        <mj-text padding="10px 0">è in corso il rilascio progressivo su tutti i clienti di una nuova versione dell’app Smart Banking, con cui muoviamo un altro  passo nella crescita digitale e nella strategia omnicanale. Di seguito le novità più rilevanti.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/Investimenti.png" width="340px"></mj-image>
+        <mj-text align="center" color="009969"><b>Arricchimento situazione Assicurazioni</b></mj-text>
+        <mj-text align="center">lista completa delle polizze danni e protezione acquistate su tutti canali (online e fisici) e dettaglio delle polizze acquistate in self.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/teen.png" width="400"></mj-image>
+        <mj-text align="center" color="009969"><b>Human Collaboration</b></mj-text>
+        <mj-text align="center">introduzione dell’assistete virtuale tramite chatbot ed evoluzione delle modalità di interazione con i Consulenti Online, grazie all’introduzione della videochiamata.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/4zampe.png" width="250px"></mj-image>
+        <mj-text align="center" color="009969"><b>Richiesta carte di credito</b></mj-text>
+        <mj-text align="center">per i clienti privati, possibilità di avviare sui canali digitali della Banca la richiesta di una carta di credito: i dati e i documenti caricati dal cliente vengono automaticamente veicolati sulla FOL, che raccoglie poi il benestare da parte della Filiale Fisica per la concessione della carta e la definizione del plafond.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/sicurezza.png" width="340px"></mj-image>
+        <mj-text align="center" color="009969"><b>Sezione pagamenti</b></mj-text>
+        <mj-text align="center">visualizzazione dei bonifici prenotati dopo il cut-off;</mj-text>
+        <mj-text align="center">nuovi limiti per i bonifici istantanei e un cruscotto per attivarli e disattivarli.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+        <mj-text><b>Contiamo sul vostro supporto per valorizzare la crescita dei servizi Smart e aumentare la digitalizzazione dei clienti</b>, garantendo loro una esperienza omnicanale sempre più completa e soddisfacente.  
+        </mj-text>
+        <mj-text>Tutti gli aggiornamenti sui nostri servizi digitali sono disponibili su  <a href="https://intrawseal.gbbper.priv/blinkdue/host/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157">BSmart</a>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

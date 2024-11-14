@@ -1,0 +1,70 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
+      <mj-section background-color="#fff" max-width="640px" />
+      <mj-column padding="0 34px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/F&F/24_07/HeaderIMPRESE.png?raw=true" alt="Smart Banking Business. L’evoluzione dell’offerta per le imprese." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentili colleghi,</b></mj-text>
+        <mj-text padding="10px 0">i servizi digitali per le imprese sono in costante evoluzione: è in corso il <b>rilascio del nuovo Smart Banking Business</b> con alcune <b>importanti novità funzionali</b> e una <b>nuova identità grafica</b> pensata per rendere l’esperienza ancora più distintiva. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/riba.png" width="400"></mj-image>
+        <mj-text align="center">Nuova vista grafica sul <b>Portafoglio Riba</b>, grazie alla quale i clienti potranno avere una panoramica delle Riba raggruppate per data di scadenza degli importi di credito accordato, utilizzato e residuo.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/esporta.png" width="250px"></mj-image>
+        <mj-text align="center">Possibilità di importare un file in <b>formato CBI</b> per il pagamento dei bonifici e degli stipendi, ampliando la compatibilità con i formati usati dai gestionali aziendali.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/distinte.png" width="340px"></mj-image>
+        <mj-text align="center">Per le funzioni in forma di distinta, i clienti potranno <b>salvare le loro bozze e recuperarle poi da apposita voce di menu</b>, per modificarle, cancellarle o autorizzarle in un secondo momento ottimizzando il proprio tempo. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/upload.png" width="340px"></mj-image>
+        <mj-text align="center"><b>Esportazione in formato standard CBI</b> dei movimenti del conto corrente e degli esiti Riba ed F24, oltre che in excel o in pdf.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Grazie a queste evoluzioni, per i clienti diventa ancora più vantaggioso migrare da <b>BPER CBI a Smart Web Business</b>: vi invitiamo per questo a <b>contattare tempestivamente i clienti non ancora migrati</b>, che dal <b>31 luglio</b> passerebbero altrimenti automaticamente a Smart CBI, rendendo più complesso un passaggio successivo a Smart Web Business.
+        </mj-text>
+        <mj-text align="center" font-size="22px" font-weight="bold">Ecco qualche dato sulla migrazione:</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/24_07/datiContatti.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Accompagniamo i nostri clienti al nuovo Smart Web Business per garantire loro una migliore esperienza d’uso e una più ampia copertura funzionale grazie ad una piattaforma in costante evoluzione.
+        </mj-text>
+        <mj-text>Grazie per la vostra collaborazione.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
