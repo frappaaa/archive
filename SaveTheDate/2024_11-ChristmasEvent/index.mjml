@@ -1,0 +1,63 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_11-ChristmasEvent/Header.png?raw=true" alt="Christmas Event. 12.12.2024. We Care, Foro Buonaparte 76, Milano" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
+        <mj-text>vi aspettiamo il 12 dicembre per un brindisi natalizio all’insegna della condivisione e della solidarietà. </mj-text>
+        <mj-text>Sarà un’occasione per celebrare un anno ricco di traguardi e sfide e prepararci ad un 2025 con obiettivi ancora più ambiziosi.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column padding="32px" background-color="#eff5f5" border-radius="30px">
+        <mj-text padding="10px 0" font-size="24px">Agenda della serata</mj-text>
+        <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>16:45</b>
+            </td>
+            <td style="padding-left:10px">Ritrovo presso We Care<br>Foro Buonaparte 76, Milano</br></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>17:00</b>
+            </td>
+            <td style="padding-left:10px">Iniziativa Charity</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>20:00</b>
+            </td>
+            <td style="padding-left:10px">Cena IT Maison<br>Via Tommaso da Cazzaniga, 2</br></td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column >
+                <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_11-ChristmasEvent/LUOGO.png?raw=true" alt="BPER Training Centre. Viale dello Sport, Appiano Gentile, CO" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="0">Ti preghiamo di darci conferma della tua presenza <u><b>entro il 2 dicembre</b></u>, accettando l’invito che troverai direttamente sul tuo calendar. 
+        </mj-text>
+        <mj-text>In caso di intolleranze alimentari o esigenze particolari ti invitiamo a segnalarcelo rispondendo a questa email.</mj-text>
+        <mj-text><i>Dress Code: Smart Casual</i></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
