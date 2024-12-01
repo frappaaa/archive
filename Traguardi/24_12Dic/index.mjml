@@ -1,0 +1,42 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px" background-color="#F5F7FA" width="660px">
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="30px 0 20px 0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/00-LOGHI/BPER.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/Header.png?raw=true" alt="I numeri della nostra evoluzione digitale. Ottobre." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 20px">
+      <mj-column>
+        <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
+
+        <mj-text>condividiamo con voi i risultati raggiunti nel mese di ottobre, che ci vedono raggiungere obiettivi importanti come quota 40.000 clienti acquisiti digitalmente nel 2024 e 200 milioni di erogato digitale.</mj-text>
+
+        <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/datiOFM.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/datiLending.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/datiUnipolMove.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/datiKPI.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/datiCarte.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/datiKYC.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/datiPolizze.png?raw=true" alt=""></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/24_12Dic/datiWealth.png?raw=true" alt=""></mj-image>
+        <mj-text>
+          Acceleriamo ancora il passo per raggiugere gli obiettivi di digitalizzazione del 2024 e prepararci alle sfide e al boost del nuovo Piano Industriale, che vedrà come grande protagonista l’evoluzione digitale della Banca.</mj-text>
+        <mj-text><b>Grazie per il contributo di ognuno di voi.</b></mj-text>
+        <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
+        <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
