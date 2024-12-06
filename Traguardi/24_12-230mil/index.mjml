@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px" background-color="#F5F7FA" width="660px">
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="30px 0 20px 0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_12-230mil/Header.png" alt="235 milioni. Digital Lending." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 20px">
+      <mj-column>
+        <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
+
+        <mj-text>ci apprestiamo a chiudere questo 2024 con oltre <b>235 milioni di erogato totale dal canale digitale</b>: 110,5 milioni di euro arrivano dai prestiti e 124,6 milioni da PagaPoi.</mj-text>
+
+        <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_12-230mil/datiLending.png" alt="235 milioni € di importo erogato. Suddivisione per DR."></mj-image>
+        <mj-text>A supportare il raggiungimento degli obiettivi di fine anno, <b>dal 9  al 20 dicembre</b> sarà attiva una <b>promozione sul Prestito</b> con le stesse condizioni sui canali filiale, digital e FOL.</mj-text>
+        
+          <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_12-230mil/TABELLA.png" alt="Ecco i dettagli della promo Prestito:
+Tasso
+7,95%
+Spese istruttoria  
+0%
+Incasso rata
+1,75€
+Durata
+da 48 a 72 mesi 
+Importo
+da 7.000 € e fino a 30.000 €
+Canali
+Self, FOL, Filiale fisica"></mj-image>
+         <mj-text>Le sottoscrizioni effettuate in self e tramite FOL concorrono agli obiettivi di filiale in logica totalmente omnicanale.</mj-text>
+        <mj-text><b>Grazie per il vostro contributo.</b></mj-text>
+        <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_12-230mil/bannerPromo.png"></mj-image>
+        <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
