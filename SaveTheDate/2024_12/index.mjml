@@ -1,0 +1,79 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px" background-color="#fff">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_11-ChristmasEvent/Header.png?raw=true" alt="Inter vs Bologna - 15.01.2025 - Stadio San Siro, sala Pitchside Club - Piazzale Angelo Moratti, 20151 Milano MI" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>In occasione dell’incontro <b>Inter - Bologna</b> del prossimo <b>15 gennaio</b>, di cui <b>BPER Banca è match sponsor</b>, avremo l’opportunità di vivere insieme un’esperienza esclusiva allo Stadio San Siro.</mj-text>
+        <mj-text>Assisteremo al match da <b>una posizione privilegiata a bordocampo</b> e per noi si apriranno le porte del <b>Pitchside Club</b>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column padding="32px" background-color="#eff5f5" border-radius="30px">
+        <mj-text padding="10px 0" font-size="24px">Agenda della serata</mj-text>
+        <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>19:15</b>
+            </td>
+            <td style="padding-left:10px">Ritrovo presso lo Stadio San Siro ed accredito nella sala del Pitchside Club</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>19:30</b>
+            </td>
+            <td style="padding-left:10px">Saluto del Top Management Inter</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>19:45</b>
+            </td>
+            <td style="padding-left:10px">Cena al Pitchside Club</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>20:30</b>
+            </td>
+            <td style="padding-left:10px">Celebration Business Partnership e lancio di Carta Inter</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>20:45</b>
+            </td>
+            <td style="padding-left:10px">Visione del match da bordocampo</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px">
+              <b>22:30</b>
+            </td>
+            <td style="padding-left:10px">Termine del match</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column >
+                <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_11-ChristmasEvent/LUOGO.png?raw=true" alt="Pitchside Club. Uno spazio esclusivo e riservato, accessibile due ore prima del fischio d’inizio." padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="0">Sarà un piacere trascorrere insieme una serata all'insegna delle grandi emozioni.
+        </mj-text>
+        <mj-text>A presto!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
