@@ -8,7 +8,7 @@
   <mj-body max-width="640px" background-color="#fff">
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_11-ChristmasEvent/Header.png?raw=true" alt="Inter vs Bologna - 15.01.2025 - Stadio San Siro, sala Pitchside Club - Piazzale Angelo Moratti, 20151 Milano MI" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_12/Header.png?raw=true" alt="Inter vs Bologna - 15.01.2025 - Stadio San Siro, sala Pitchside Club - Piazzale Angelo Moratti, 20151 Milano MI" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -62,7 +62,7 @@
     </mj-section>
     <mj-section>
       <mj-column >
-                <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_11-ChristmasEvent/LUOGO.png?raw=true" alt="Pitchside Club. Uno spazio esclusivo e riservato, accessibile due ore prima del fischio d’inizio." padding="0"></mj-image>
+                <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_12/LUOGO.png?raw=true" alt="Pitchside Club. Uno spazio esclusivo e riservato, accessibile due ore prima del fischio d’inizio." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
