@@ -18,41 +18,46 @@
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
-      <mj-column padding="32px" background-color="#eff5f5" border-radius="30px">
-        <mj-text padding="10px 0" font-size="24px">Agenda della serata</mj-text>
-        <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px">
+      <mj-column padding="32px" background-color="#005157" border-radius="30px">
+        <mj-table font-size="20px" line-height="30px" color="#fff" padding="10px 0" font-family="Arial">
+          <tr style="border-bottom: 16px solid #005157;">
+            <td>
+              <img src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_12/calendar.png?raw=true" style="width:27px; height:27px;"></img>
+            </td>
+            <td style="font-size:24px;">Agenda della serata</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #005157;">
+            <td style="border-right: 2px solid #ffffff; width:65px">
               <b>19:15</b>
             </td>
             <td style="padding-left:10px">Ritrovo presso lo Stadio San Siro ed accredito nella sala del Pitchside Club</td>
           </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px">
+          <tr style="border-bottom: 16px solid #005157;">
+            <td style="border-right: 2px solid #ffffff; width:65px">
               <b>19:30</b>
             </td>
             <td style="padding-left:10px">Saluto del Top Management Inter</td>
           </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px">
+          <tr style="border-bottom: 16px solid #005157;">
+            <td style="border-right: 2px solid #ffffff; width:65px">
               <b>19:45</b>
             </td>
             <td style="padding-left:10px">Cena al Pitchside Club</td>
           </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px">
+          <tr style="border-bottom: 16px solid #005157;">
+            <td style="border-right: 2px solid #ffffff; width:65px">
               <b>20:30</b>
             </td>
             <td style="padding-left:10px">Celebration Business Partnership e lancio di Carta Inter</td>
           </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px">
+          <tr style="border-bottom: 16px solid #005157;">
+            <td style="border-right: 2px solid #ffffff; width:65px">
               <b>20:45</b>
             </td>
             <td style="padding-left:10px">Visione del match da bordocampo</td>
           </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px">
+          <tr style="border-bottom: 16px solid #005157;">
+            <td style="border-right: 2px solid #ffffff; width:65px">
               <b>22:30</b>
             </td>
             <td style="padding-left:10px">Termine del match</td>
