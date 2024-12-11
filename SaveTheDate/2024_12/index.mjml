@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-text align="left" color="#000000" font-family="Arial" font-size="20px" line-height="28px" />
       <mj-section background-color="#fff" max-width="640px" />
     </mj-attributes>
   </mj-head>
@@ -13,19 +13,22 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>In occasione dell’incontro <b>Inter - Bologna</b> del prossimo <b>15 gennaio</b>, di cui <b>BPER Banca è match sponsor</b>, avremo l’opportunità di vivere insieme un’esperienza esclusiva allo Stadio San Siro.</mj-text>
-        <mj-text>Assisteremo al match da <b>una posizione privilegiata a bordocampo</b> e per noi si apriranno le porte del <b>Pitchside Club</b>.</mj-text>
+        <mj-text>Siamo lieti di invitarvi all’incontro <b>Inter - Bologna</b> del prossimo <b>15 gennaio</b>, di cui <b>BPER Banca è match sponsor</b>. Sarà l’occasione per vivere insieme un’esperienza esclusiva e <b>celebrare il lancio della Carta Inter</b>.</mj-text>
+        <mj-text>Grazie alla partnership con FC Internazionale Milano, di cui BPER è Official Banking Partner, assisteremo al match da <b>una posizione privilegiata a bordocampo</b> e per noi si apriranno le porte del <b>Pitchside Club</b>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
       <mj-column padding="32px" background-color="#005157" border-radius="30px">
         <mj-table font-size="20px" line-height="30px" color="#fff" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #005157;">
-            <td>
-              <img src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_12/calendar.png?raw=true" style="width:27px; height:27px;"></img>
+            <td style="width:44px;">
+              <img src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_12/calendar.png?raw=true" style="width:32px; height:32px;"></img>
             </td>
-            <td style="font-size:24px;">Agenda della serata</td>
+            <td style="font-size:28px;">Agenda della serata</td>
           </tr>
+        </mj-table>
+        <mj-table font-size="20px" line-height="30px" color="#fff" padding="10px 0" font-family="Arial">
+
           <tr style="border-bottom: 16px solid #005157;">
             <td style="border-right: 2px solid #ffffff; width:65px">
               <b>19:15</b>
@@ -66,13 +69,15 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column >
-                <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_12/LUOGO.png?raw=true" alt="Pitchside Club. Uno spazio esclusivo e riservato, accessibile due ore prima del fischio d’inizio." padding="0"></mj-image>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_12/LUOGO.png?raw=true" alt="Pitchside Club. Uno spazio esclusivo e riservato, accessibile due ore prima del fischio d’inizio." padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-top="0">Sarà un piacere trascorrere insieme una serata all'insegna delle grandi emozioni.
+        <mj-text padding-top="0"><b>Nei prossimi giorni invieremo calendar in agenda attraverso il quale sarà possibile confermare la propria partecipazione.</b>
+        </mj-text>
+        <mj-text>Per segnalare eventuali allergie o intolleranze, vi invitiamo a rispondere alla presente mail.<br>Sarà un piacere trascorrere insieme una serata all'insegna delle grandi emozioni.</br>
         </mj-text>
         <mj-text>A presto!</mj-text>
       </mj-column>
