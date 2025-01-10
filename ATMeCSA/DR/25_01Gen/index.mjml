@@ -25,13 +25,13 @@
       </mj-column>
     </mj-section><mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_01Gen/installazioni.png?raw=true" alt="Nuove installazioni effettuate a Novembre: 31 CSA, 23 ATM Evo e 12 Cashless." padding-bottom="20px"></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_01Gen/cartina.png?raw=true" alt="Installazioni effettuate nel 2024: 197 CSA, 242 ATM Evo e 115 Cashless" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_01Gen/installazioni.png?raw=true" alt="" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_01Gen/cartina.png?raw=true" alt="" padding-bottom="20px"></mj-image>
         <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
         
 <mj-text>
 Per garantire il pieno sfruttamento delle opportunità offerte dalle nuove installazioni, è necessaria la collaborazione di tutti perché siano sempre presidiati i caricamenti al fine di evitare fermi macchina e incentivare i clienti ad un utilizzo regolare e assiduo delle dotazioni self.</mj-text>
-        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/antonino_sergi_bper_it/Eayy40_d81pNsuJZZE-hD28BI2reGID5NEvhmGDMA0uq9A?e=LTiKHx">Scarica il documento</mj-button>
+        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup-my.sharepoint.com/:b:/g/personal/antonino_sergi_bper_it/EeI0Uk3rfHVJgvKLz2hEHbkB6h8pn64DCkvvMqclMIwiIg">Scarica il documento</mj-button>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_01Gen/AccessoCardless.png?raw=true" alt="Accesso a Cassa Smart, anche senza carta." padding="0" padding-top="30px"></mj-image>
       </mj-column>
     </mj-section>
