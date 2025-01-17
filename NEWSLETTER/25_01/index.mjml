@@ -1,0 +1,46 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="600px" background-color="#F5F7FA" width="600px">
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column vertical-align="middle" padding="0">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Header.png?raw=true" alt="DIGITAL DRINK
+BUONI PROPOSITI 2025
+hai già iniziato a metterli in pratica?
+2025"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 20px">
+      <mj-column>
+        <mj-text font-weight="bold">Nuovo anno, nuovi buoni propositi: mangiar sano 🍏, andare in palestra 🏋🏻, gestire meglio le spese 🤑... Ti suona familiare?</mj-text>
+        <mj-text>Qualunque sia il tuo obiettivo, possiamo aiutarti a trasformarlo in realtà.
+          Per esempio, hai visto il grafico entrate-uscite nella home dell’app? È perfetto per gestire le spese e tenere sotto controllo il tuo bilancio!</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Punto1.png?raw=true" width="416px" padding="40px 0"></mj-image>
+        <mj-text font-weight="bold">Tra i buoni propositi di quest’anno c’è il master per dare un boost alla tua carriera?</mj-text>
+        <mj-text>Se serve un aiuto finanziario per realizzare il tuo progetto, un prestito può essere la soluzione.</mj-text>
+        <mj-text color="#009969" font-weight="bold">CALCOLA LA RATA -></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Punto2.png?raw=true" width="416px" padding="40px 0"></mj-image>
+        <mj-text font-weight="bold">Il 2025 è l’anno dei Ponti: 25 aprile, 1 maggio, 2 giugno... E tu, dove vai? </mj-text>
+        <mj-text>Si può partire senza una carta? Prelevi, paghi in tutto il mondo e in più, che tu scelga un soggiorno relax o un viaggio on the road, con le carte BPER Mastercard hai hotel e noleggio auto con uno sconto dedicato a te. Scopri i vantaggi nella <u style="color:#009969"><b>sezione Carte</b></u>.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Punto3.png?raw=true" width="260px" padding="40px 0"></mj-image>
+        <mj-text font-weight="bold">Parlando di vantaggi, se tra i tuoi buoni propositi c’è quello di prenderti più cura di te...</mj-text>
+        <mj-text>Senti che chicca: con la tua carta BPER Mastercard hai incluse visite, esami e fisioterapia con sconti fino al 30% e anche televisite con medici specialisti a prezzo scontato. Come approfittarne? Usa l’app <b>SiSalute</b> e se non ce l’hai, <b><u style="color:#009969">scaricala ora</u></b>.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Punto4.png?raw=true" width="416px" padding="40px 0"></mj-image>
+         <mj-text font-weight="bold">A proposito di risparmi... Hai un obiettivo importante che vuoi raggiungere?</mj-text>
+        <mj-text>Costruisci qualcosa di grande, un passo alla volta. Bastano 50 euro al mese per mettere da parte piccole somme e costruire i tuoi progetti di domani. Se non sai da dove cominciare, ti aiutiamo noi. I nostri Consulenti Online sono a tua disposizione via chat, al telefono, in videochiamata e puoi anche prenotare un appuntamento telefonico quando preferisci!</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Punto5.png?raw=true" width="416px" padding="40px 0"></mj-image>
+        <mj-text font-weight="bold" align="center" text-transform="uppercase" font-size="26px">Novità da non perdere</mj-text>
+        <mj-text>Costruisci qualcosa di grande, un passo alla volta. Bastano 50 euro al mese per mettere da parte piccole somme e costruire i tuoi progetti di domani. Se non sai da dove cominciare, ti aiutiamo noi. I nostri Consulenti Online sono a tua disposizione via chat, al telefono, in videochiamata e puoi anche prenotare un appuntamento telefonico quando preferisci!</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Punto6.png?raw=true" width="416px" padding="40px 0"></mj-image>
+        <mj-text>Stai preparando i documenti per approfittare del bonus bollette e devi rinnovare l’ISEE? Basta scartoffie, ti aiutiamo noi! La certificazione di saldi e giacenza del tuo conto relativi al 2023 è disponibile qui.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Punto7.png?raw=true" width="416px" padding="40px 0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section><mj-column><mj-image padding="0" src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Punto8.png?raw=true"></mj-image>
+        <mj-image padding="0" src="https://github.com/frappaaa/archive/blob/main/NEWSLETTER/25_01/Footer.png?raw=true"></mj-image></mj-column></mj-section>
+  </mj-body>
+</mjml>
