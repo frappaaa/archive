@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#000000" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px" background-color="#fff">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true" alt="BPER" padding="32px 0" width="140px"></mj-image>
+        <mj-image src="https://0x4hr.mjt.lu/img2/0x4hr/cc12db17-0aa2-4592-9c11-3eab4de1bd43/content" alt="Sostituzione carte di debito Business" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#009969" font-size="24px">Gentile collega,</mj-text>
+        <mj-text>entro metà febbraio si concluderà l'invio delle nuove carte di debito Business per i conti intestati a Persone Giuridiche, in sostituzione delle vecchie BperCard PB-Vpay e PB-Maestro, operazione che coinvolge circa 250.000 clienti.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column padding="32px" background-color="#005157" border-radius="30px">
+        <mj-text color="#009969" font-size="24px">Perché è importante?</mj-text>
+        <mj-text color="#005157">Il cliente riceve in sostituzione la carta di debito Business, pensata per le esigenze business e offre vantaggi esclusivi, tra cui coperture assicurative Unipol per chi viaggia per lavoro, come l’assicurazione sulle spese mediche in viaggio e sui bagagli, oltre a servizi di assistenza sanitaria a tariffe scontate fino al 30% tramite l’app SiSalute Up.</mj-text>
+        <mj-divider color="#6EA8AB"></mj-divider>
+        <mj-text color="#009969" font-size="24px">Come possiamo supportare i clienti?</mj-text>
+        <mj-text color="#005157"><b>Valorizziamo la carta con il cliente</b>: sfruttiamo ogni incontro con i clienti per ricordare loro i vantaggi della carta.</mj-text>
+        <mj-text color="#005157"><b>Attivazione della carta</b>: ricordiamo ai clienti di attivare la nuova carta, promuovendo l'attivazione tramite i servizi digitali Smart. La carta può anche essere attivata in filiale.</mj-text>
+        <mj-divider color="#6EA8AB"></mj-divider>
+        <mj-text color="#009969" font-size="24px">Cosa fare se i clienti non hanno ricevuto la carta a domicilio?</mj-text>
+        <mj-text color="#005157"><b>Carte non consegnate o disguidate tornate in filiale</b>: i clienti ricevono ingaggi digitali per recarsi in filiale, dove potremo consegnare loro la carta <b>nominativa</b>.</mj-text>
+        <mj-text color="#005157"><b>Carte non prodotte</b> (per esempio per problemi anagrafici): i clienti ricevono ingaggi digitali (mail o sms) di carta in giacenza in filiale, in sua presenza dovremo consegnare una carta <b>anonima</b> e contestualmente revocare la vecchia carta. </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="0">N.B.: le carte sostituite cesseranno di funzionare definitivamente dal 30 giugno 2025.
+        </mj-text>
+        <mj-text>Maggiori informazioni sono disponibili sulla intranet <a href="#" target="_blank" style="">BSmart</a> . 
+        </mj-text>
+        <mj-text><b>Grazie per il vostro impegno.</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
