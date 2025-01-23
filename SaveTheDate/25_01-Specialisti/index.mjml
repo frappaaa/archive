@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" padding="10px 0" />
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
       <mj-section background-color="#fff" max-width="640px" />
     </mj-attributes>
   </mj-head>
@@ -17,18 +17,25 @@
 Dynamic
 29.01.25
 Sala Amenity- Diamantino
-Via Mike Bongiorno 13, Milano" padding="0"></mj-image>
+Via Mike Bongiorno 13, Milanoo" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column padding="56px 68px" background-color="#EFF5f5" border-radius="30px">
-        <mj-text>Iniziamo questo 2025 con una giornata dedicata all’incontro tra gli Specialisti Digital, per condividere strategie e obiettivi e porre le basi per le sfide del Piano Industriale. </mj-text>
-        <mj-text>Siamo pronti a costruire ogni giorno il nostro futuro.</mj-text>
-        <mj-text><b>Save the date & stay tuned!</b></mj-text>
+      <mj-column>
+        <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
+        <mj-text>
+Il 29 gennaio vi aspettiamo per una giornata dedicata a condividere strategie e obiettivi e porre le basi per le sfide del Piano Industriale.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_01-Specialisti/Agenda.png?raw=true" alt="" padding="10px 0" width="560px"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_01-Specialisti/Luogo.png?raw=true" alt="Sala Amenity- Diamantino
+Via Mike Bongiorno 13, Milanoo" padding="10px 0" width="560px"></mj-image>
+        <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
+        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative a trasporto e pernottamento (ove necessario).</mj-text>
+        <mj-text>Confermare la propria partecipazione entro il <b>24/01/2025</b> tramite il calendar che verrà inviato.</mj-text>
+        <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
+        <mj-text color="#ffffff" font-size="1px">
+              This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_IT]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>.
+          </mj-text>
       </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column></mj-column>
     </mj-section>
   </mj-body>
 </mjml>
