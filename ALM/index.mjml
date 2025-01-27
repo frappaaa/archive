@@ -13,25 +13,24 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_01-Specialisti/Header.png?raw=true" alt="We are 
-Dynamic
-29.01.25
-Sala Amenity- Diamantino
-Via Mike Bongiorno 13, Milanoo" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ALM/Header.png?raw=true" alt="Sessioni di Training per l'Utilizzo di ALM
+Miglioriamo l'efficienza
+dei processi" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
+        <mj-text padding-bottom="0" color="#009969" font-weight="bold" font-size="26px">Gentile collega,</mj-text>
         <mj-text>
-Il 29 gennaio vi aspettiamo per una giornata dedicata a condividere strategie e obiettivi e porre le basi per le sfide del Piano Industriale.</mj-text>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_01-Specialisti/Agenda.png?raw=true" alt="" padding="10px 0" width="560px"></mj-image>
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_01-Specialisti/Luogo.png?raw=true" alt="Sala Amenity- Diamantino
-Via Mike Bongiorno 13, Milanoo" padding="10px 0" width="560px"></mj-image>
-        <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
-        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative a trasporto e pernottamento (ove necessario).</mj-text>
-        <mj-text>Confermare la propria partecipazione entro il <b>24/01/2025</b> tramite il calendar che verrà inviato.</mj-text>
-        <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
+nei giorni scorsi hai ricevuto l'invitation a partecipare ad una delle 2 sessioni di training per l'utilizzo dello strumento aziendale standard (ALM) per  la gestione dei casi di test e delle anomalie per i rilasci App e web.</mj-text>
+        <mj-text font-weight="bold" align="center">Le 2 sessioni (tra loro alternative) sono fissate per</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ALM/Date.png?raw=true" alt="27 Lunedì 16:00 - 17:00 - 29 mercoledì 9:00 - 10:00" padding="10px 0" width="450px"></mj-image>
+      <mj-text color="#009969" font-weight="bold">Perchè è importante usare ALM?</mj-text>
+        <mj-text>ALM migliora l'efficienza complessiva dei nostri processi e garantisce un flusso di lavoro più snello e produttivo per tutti: </mj-text>
+        <mj-text><ul><li>ciascuno può segnalare autonomamente le problematiche riscontrate durante le fasi di UAT;
+</li><li>è possibile effettuare estrazioni in totale autonomia per verificare la situazione dei defect personali e generali.</li></ul></mj-text>
+        <mj-text>Vi invito a sfruttare a pieno i momenti formativi per richiedere approfondimenti, suggerire evoluzioni o segnalare eventuali problematiche (accesso, abilitazione, ...).</mj-text>
+        <mj-text><b>Grazie per la vostra collaborazione.</b></mj-text>
         <mj-text color="#ffffff" font-size="1px">
               This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_IT]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>.
           </mj-text>
