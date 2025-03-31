@@ -19,39 +19,33 @@
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentile Collega,</b></mj-text>
-        <mj-text padding="10px 0">ti invitiamo a partecipare al Family&Friends per <b>accedere in anteprima alla nuova versione dell’app</b>, che sarà lanciata a fine novembre. Potrai così scoprire le novità prima del rilascio ufficiale a tutta la clientela e contribuirai attivamente al percorso di evoluzione digitale.</mj-text>
+        <mj-text padding="10px 0">ti invitiamo a partecipare al Family&Friends per <b>accedere in anteprima alla nuova versione dell’app</b>, che sarà aperta alla clientela dal 9 al 15 aprile. Potrai così scoprire le novità prima del rilascio ufficiale e contribuirai attivamente al percorso di evoluzione digitale.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="38px" padding-left="56px" background-color="#009969" border-radius="30px">
-        <mj-text padding="0" padding-bottom="14px" color="#fff"><b>Ecco alcune delle novità che troverai in questa versione:</b> </mj-text>
+        <mj-text padding="0" padding-bottom="14px" color="#fff"><b>Ecco alcune delle principali novità che troverai in questa versione:</b> </mj-text>
         <mj-text padding="0 18px" color="#fff">
           <ul style="padding:0;">
-            <li><b>PagaPoi:</b><br>- per le nuove sottoscrizioni possibilità di rateizzare le spese con piani a partire da 100 euro;</br><br>- per chi ha sottoscritto il prodotto da febbraio 2024, possibilità di attivare la rateizzazione contestualmente all’esecuzione di un bonifico istantaneo da canali digitali.</br></li>
+            <li><b>Vendita carte di credito in self:</b><br>possono essere richieste in autonomia, senza l’intervento della filiale. Si può accedere alla richiesta da vetrina prodotti o dalla sezione Carte.</br></li>
           </ul>
         </mj-text>
 
         <mj-text padding="0 18px" color="#fff">
           <ul style="padding:0;">
-            <li><b>Arricchimento situazione Assicurazioni:</b><br>lista completa delle polizze danni e protezione acquistate su tutti canali (online e fisici) e dettaglio delle polizze acquistate in self.</br>
+            <li><b>Assicurazioni:</b><br>vengono aggiunte le pagine di dettaglio delle polizze attive ed estinte (negli ultimi 13 mesi) nella sezione dedicata. Indicano nome e tipo di polizza, decorrenza, scadenza, numero polizza, stato attivo o da rinnovare e, in caso di assicurazione auto, anche la targa associata.</br>
             </li>
           </ul>
         </mj-text>
         <mj-text padding="0 18px" color="#fff">
           <ul style="padding:0;">
-            <li><b>Human Collaboration:</b><br>introduzione di un chatbot e evoluzione delle modalità di interazione con i Consulenti Online, grazie all’introduzione della videochiamata.</br>
+            <li><b>Questionario di adeguata verifica:</b><br>per gli utilizzatori con profilo idoneo sarà possibile procedere all’aggiornamento del QAV in scadenza/scaduto direttamente dai servizi digitali Smart, senza rivolgersi alla filiale.</br>
             </li>
           </ul>
         </mj-text>
         <mj-text padding="0 18px" color="#fff">
           <ul style="padding:0;">
-            <li><b>Richiesta carte di credito:</b><br>per i clienti privati, possibilità di avviare sui canali digitali della Banca la richiesta di una carta di credito: i dati e i documenti caricati dal cliente vengono automaticamente veicolati sulla FOL, che raccoglie poi il benestare da parte della Filiale Fisica per la concessione della carta e la definizione del plafond.</br>
-            </li>
-          </ul>
-        </mj-text>
-        <mj-text padding="0 18px" color="#fff">
-          <ul style="padding:0;">
-            <li><b>Sezione pagamenti:</b><br>visualizzazione dei bonifici prenotati dopo il cut-off, nuovi limiti per i bonifici istantanei e un cruscotto per attivarli.</br>
+            <li><b>Conto TEEN:</b><br>al compimento dei 18 anni sarà possibile per il cliente passare al conto On Demand U35, mantenendo lo stesso iban e le stesse credenziali di accesso ai servizi digitali Smart.</br>
             </li>
           </ul>
         </mj-text>
@@ -59,9 +53,9 @@
     </mj-section>
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
-        <mj-text padding="0" color="#005157">Per partecipare compila il form di adesione cliccando su <a href="https://forms.office.com/e/cw3GLGMLTX" style="color:inherit;"><b>questo link</b></a> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).
+        <mj-text padding="0" color="#005157">Per partecipare compila il form di adesione cliccando su <a href="https://forms.office.com/e/E0w18k0ysR" style="color:inherit;"><b>questo link</b></a> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).
         </mj-text>
-        <mj-text padding="10px 0 0 0" color="#005157">Quando l'aggiornamento sarà disponibile avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="https://forms.office.com/e/cuzGA1UWSK" style="color:inherit;"><b>questo form</b></a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
+        <mj-text padding="10px 0 0 0" color="#005157">Quando l'aggiornamento sarà disponibile avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="https://forms.office.com/e/e7gyVsYM6w" style="color:inherit;"><b>questo form</b></a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
 
         <mj-text padding="14px 0 0 0"><b>Ti aspettiamo per vivere da protagonista il percorso di crescita digitale!</b></mj-text>
       </mj-column>
