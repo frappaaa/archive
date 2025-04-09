@@ -14,47 +14,47 @@
     </mj-section>
     <mj-section>
       <mj-column padding="0">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/HeaderPrivati.png" alt="Smart Banking. Le novità del rilascio di aprile" padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/HeaderPrivati.png" alt="Smart Banking. Le novità del rilascio di aprile" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Care colleghe e cari colleghi,</b></mj-text>
-        <mj-text padding="10px 0">è in corso il rilascio progressivo su tutti i clienti di una nuova versione dell’app Smart Banking, con cui muoviamo un altro  passo nella crescita digitale e nella strategia omnicanale. Di seguito le novità più rilevanti.</mj-text>
+        <mj-text padding="10px 0">a partire dal 9 aprile, sarà progressivamente rilasciata su tutta la clientela la nuova versione dei servizi digitali Smart, un passo fondamentale per l’evoluzione digitale di BPER Banca sia per i clienti Privati sia per le Imprese. Rendiamo ancora più distintivo il nostro posizionamento omnicanale, sempre più digitale e umano.</mj-text>
+        <mj-text align="center" font-weight="bold" font-size="28px">PER I NOSTRI CLIENTI PRIVATI</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/PagaPoi.png" width="340px"></mj-image>
-        <mj-text align="center" color="#009969"><b>PagaPoi</b></mj-text>
-        <mj-text align="center">per le nuove sottoscrizioni possibilità di rateizzare le spese con piani a partire da 100 euro;</mj-text>
-        <mj-text align="center">per chi ha sottoscritto il prodotto da febbraio 2024, possibilità di attivare la rateizzazione contestualmente all’esecuzione di un bonifico istantaneo da canali digitali.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/PagaPoi.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Vendita carte di credito in self</b></mj-text>
+        <mj-text align="center">Il cliente può richiedere in autonomia dai servizi digitali Smart le carte di credito Prime Premium e Prestige con un processo completamente digitale. Questa novità non migliora solo il flusso in self ampliando i canali di vendita, ma rappresenta una fondamentale evoluzione dei processi creditizi legati alla concessione delle carte di credito a saldo con l’introduzione della Pef e di un nuovo motore di valutazione del merito creditizio che troverà applicazione anche in filiale. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/Assicurazioni.png" width="340px"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/Assicurazioni.png" width="340px"></mj-image>
         <mj-text align="center" color="#009969"><b>Arricchimento situazione Assicurazioni</b></mj-text>
         <mj-text align="center">lista completa delle polizze danni e protezione acquistate su tutti canali (online e fisici) e dettaglio delle polizze acquistate in self.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/HC.png" width="340px"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/HC.png" width="340px"></mj-image>
         <mj-text align="center" color="#009969"><b>Human Collaboration</b></mj-text>
         <mj-text align="center">introduzione dell’assistete virtuale tramite chatbot ed evoluzione delle modalità di interazione con i Consulenti Online, grazie all’introduzione della videochiamata.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/CarteCredito.png" width="340px"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/CarteCredito.png" width="340px"></mj-image>
         <mj-text align="center" color="#009969"><b>Richiesta carte di credito</b></mj-text>
         <mj-text align="center">per i clienti privati, possibilità di avviare sui canali digitali della Banca la richiesta di una carta di credito: i dati e i documenti caricati dal cliente vengono automaticamente veicolati sulla FOL, che raccoglie poi il benestare da parte della Filiale Fisica per la concessione della carta e la definizione del plafond.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/Pagamenti.png" width="340px"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/Pagamenti.png" width="340px"></mj-image>
         <mj-text align="center" color="#009969"><b>Sezione pagamenti</b></mj-text>
         <mj-text align="center">visualizzazione dei bonifici prenotati dopo il cut-off;</mj-text>
         <mj-text align="center">nuovi limiti per i bonifici istantanei e un cruscotto per attivarli e disattivarli.</mj-text>
