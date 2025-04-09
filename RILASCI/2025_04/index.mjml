@@ -76,7 +76,7 @@
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/cassaSmartBusiness.png" width="340px"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/cassaSmartImprese.png" width="340px"></mj-image>
         <mj-text align="center" color="#009969"><b>Login a Cassa Smart tramite app </b></mj-text>
 
         <mj-text align="center">Si apre anche alle imprese la possibilità di <b>accedere alla Cassa Smart tramite l’app Smart Banking Business, dalla funzione “Inquadra e accedi”</b> in pre login. I rapporti su cui è possibile operare sono tutti quelli intestati/delegati sia personali che aziendali collegati a chi accede.</mj-text>
