@@ -14,62 +14,81 @@
     </mj-section>
     <mj-section>
       <mj-column padding="0">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/HeaderPrivati.png" alt="Smart Banking. Le novità del rilascio di aprile" padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/Header.png" alt="Smart Banking. Le novità del rilascio di aprile" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Care colleghe e cari colleghi,</b></mj-text>
-        <mj-text padding="10px 0">a partire dal 9 aprile, sarà progressivamente rilasciata su tutta la clientela la nuova versione dei servizi digitali Smart, un passo fondamentale per l’evoluzione digitale di BPER Banca sia per i clienti Privati sia per le Imprese. Rendiamo ancora più distintivo il nostro posizionamento omnicanale, sempre più digitale e umano.</mj-text>
+        <mj-text padding="10px 0">a partire <b>dal 9 aprile</b>, sarà progressivamente rilasciata su tutta la clientela la nuova versione dei servizi digitali Smart, un passo fondamentale per l’evoluzione digitale di BPER Banca sia per i clienti Privati sia per le Imprese. Rendiamo ancora <b>più distintivo il nostro posizionamento omnicanale</b>, sempre più digitale e umano.</mj-text>
         <mj-text align="center" font-weight="bold" font-size="28px">PER I NOSTRI CLIENTI PRIVATI</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/PagaPoi.png" width="340px"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/venditaCarte.png" width="340px"></mj-image>
         <mj-text align="center" color="#009969"><b>Vendita carte di credito in self</b></mj-text>
-        <mj-text align="center">Il cliente può richiedere in autonomia dai servizi digitali Smart le carte di credito Prime Premium e Prestige con un processo completamente digitale. Questa novità non migliora solo il flusso in self ampliando i canali di vendita, ma rappresenta una fondamentale evoluzione dei processi creditizi legati alla concessione delle carte di credito a saldo con l’introduzione della Pef e di un nuovo motore di valutazione del merito creditizio che troverà applicazione anche in filiale. </mj-text>
+        <mj-text align="center">Il cliente può richiedere in autonomia dai servizi digitali Smart le <b>carte di credito Prime, Premium e Prestige con un processo completamente digitale</b>. Questa novità amplia i canali di vendita e rappresenta un’<b>importante evoluzione dei processi creditizi</b> con l’introduzione della Pef e di un nuovo motore di valutazione del merito creditizio che troverà applicazione <b>anche in filiale</b>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/Assicurazioni.png" width="340px"></mj-image>
-        <mj-text align="center" color="#009969"><b>Arricchimento situazione Assicurazioni</b></mj-text>
-        <mj-text align="center">lista completa delle polizze danni e protezione acquistate su tutti canali (online e fisici) e dettaglio delle polizze acquistate in self.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/Assicurazioni.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Assicurazioni - Posizione cliente</b></mj-text>
+        <mj-text align="center">Per una maggiore trasparenza e per agevolare rinnovi e nuove sottoscrizioni, la sezione Assicurazioni si arricchisce di <b>informazioni per ogni copertura</b>: decorrenza, scadenza, numero polizza, dettaglio di ogni garanzia prevista, periodo di copertura, premio annuo, frazionamento, conto di addebito, ecc. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/HC.png" width="340px"></mj-image>
-        <mj-text align="center" color="#009969"><b>Human Collaboration</b></mj-text>
-        <mj-text align="center">introduzione dell’assistete virtuale tramite chatbot ed evoluzione delle modalità di interazione con i Consulenti Online, grazie all’introduzione della videochiamata.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/QAV.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Questionario di Adeguata Verifica</b></mj-text>
+        <mj-text align="center">Per gli utilizzatori con profilo idoneo è possibile procedere all’<b>aggiornamento del QAV in scadenza/scaduto direttamente dai servizi digitali Smart</b>, senza rivolgersi alla filiale e con un processo guidato.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/CarteCredito.png" width="340px"></mj-image>
-        <mj-text align="center" color="#009969"><b>Richiesta carte di credito</b></mj-text>
-        <mj-text align="center">per i clienti privati, possibilità di avviare sui canali digitali della Banca la richiesta di una carta di credito: i dati e i documenti caricati dal cliente vengono automaticamente veicolati sulla FOL, che raccoglie poi il benestare da parte della Filiale Fisica per la concessione della carta e la definizione del plafond.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/swicthContoTeen.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Conto TEEN</b></mj-text>
+        <mj-text align="center">Vengono ampliate le opportunità commerciali con la <b>rimozione di alcuni blocchi</b>: i clienti già in possesso di <b>fondo pensione e deposito a risparmio</b> possono ora aprire il conto Teen. <br></br>Più semplice la <b>modifica del Card Control</b> con la possibilità di modificare il genitore che gestisce il controllo sull’utenza Teen del minore.<br></br>Tra le novità anche lo switch 18: <b>al compimento dei 18 anni il cliente può richiedere il passaggio al conto On Demand Under 35, mantenendo lo stesso iban e le stesse credenziali di accesso ai servizi digitali Smart</b>, con un processo tutto in app intuitivo e veloce.  </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/2024_11/Pagamenti.png" width="340px"></mj-image>
-        <mj-text align="center" color="#009969"><b>Sezione pagamenti</b></mj-text>
-        <mj-text align="center">visualizzazione dei bonifici prenotati dopo il cut-off;</mj-text>
-        <mj-text align="center">nuovi limiti per i bonifici istantanei e un cruscotto per attivarli e disattivarli.</mj-text>
-      </mj-column>
-    </mj-section>
-    
     <mj-section>
       <mj-column>
-        <mj-text><b>Contiamo sul vostro supporto per valorizzare la crescita dei servizi Smart e aumentare la digitalizzazione dei clienti</b>, garantendo loro una esperienza omnicanale sempre più completa e soddisfacente.  
-        </mj-text>
-        <mj-text>Tutti gli aggiornamenti sui nostri servizi digitali sono disponibili su  <a href="https://intrawseal.gbbper.priv/blinkdue/host/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157">BSmart</a>. </mj-text>
+        <mj-text align="center" font-weight="bold" font-size="28px">PER I NOSTRI CLIENTI BUSINESS</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column></mj-column>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/HC.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Hey BPER – Human collaboration</b></mj-text>
+
+        <mj-text align="center">Con questa versione viene introdotta la <b>possibilità per i clienti business di ricevere la consulenza e il supporto della Filiale Online durante i processi di vendita in self</b> per garantire un’esperienza digitale sempre più umana.  </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/CartaDebitoBusiness.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Vendita carte di debito business da self
+            <br>anche a terzi</br></b></mj-text>
+
+        <mj-text align="center">È ora possibile chiedere in self una carta di debito <b>per un delegato sul conto aziendale</b>. Il richiedente potrà firmare la richiesta tramite i servizi digitali Smart, mentre il delegato riceverà una mail con magic link per procedere con la firma. La carta sarà poi inviata alla sede legale dell’azienda.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border-radius="30px" background-color="#EFF5F5" padding="44px 34px">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/RILASCI/2025_04/cassaSmartBusiness.png" width="340px"></mj-image>
+        <mj-text align="center" color="#009969"><b>Login a Cassa Smart tramite app </b></mj-text>
+
+        <mj-text align="center">Si apre anche alle imprese la possibilità di <b>accedere alla Cassa Smart tramite l’app Smart Banking Business, dalla funzione “Inquadra e accedi”</b> in pre login. I rapporti su cui è possibile operare sono tutti quelli intestati/delegati sia personali che aziendali collegati a chi accede.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-weight="bold" font-size="28px">L'EVOLUZIONE DIGITALE OMNICANALE DI BPER BANCA</mj-text>
+        <mj-text>Queste novità rappresentano il nostro impegno a rendere i servizi digitali sempre più evoluti, aprendo al contempo <b>nuovi canali di vendita per garantire un sempre più rilevante contributo agli obiettivi di business. </b></mj-text>
+        <mj-text><b>Sfruttiamo ogni occasione per digitalizzare i clienti, accompagnarli all’uso dell’app e proporgli la firma tramite SmartDesk</b> per tutti i processi coperti da FEQ.</mj-text>
+        <mj-text>Grazie per il vostro contributo!</mj-text>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
