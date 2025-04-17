@@ -13,29 +13,23 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/Header.png?raw=true" alt="I numeri della nostra evoluzione digitale. Novembre." padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_04/BANNER.png?raw=true"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>febbraio su chiude con un importante contributo del digitale rispetto agli obiettivi complessivi. Solo per citare i principali risultati raggiunti: <b>49,6 milioni € di erogato da canale digitale</b> tra Prestiti e PagaPoi, <b>oltre 10.000 clienti acquisiti</b> (8.500 conti e oltre 1.700 carte) e <b>380 polizze salute</b> sottoscritte. Per quanto riguarda i KPI di digitalizzazione, il Digital Customer Ratio supera il passo atteso di periodo, mentre restano da attenzionare le vendite digitali, ancora sotto performance sia in presenza sia a distanza.</mj-text>
+        <mj-text> 
+          il percorso di digitalizzazione delineato dal Piano Industriale ha bisogno del contributo di tutti noi: per renderlo concreto occorre calarlo con decisione nei comportamenti quotidiani.
+        </mj-text>
+        <mj-text>Uno di questi è l’<b>utilizzo sistematico di SmartDesk per la sottoscrizione di tutti i prodotti e servizi coperti da FEQ, sia col cliente in presenza sia a distanza.</b></mj-text>
+        <mj-text>
 
-        <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiOFM.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiLending.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiUnipolMove.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiKPI.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiCarteSostituzione.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiCarteVendita.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiKYC.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiPolizze.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiMifid.png?raw=true" alt=""></mj-image>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_02Feb/datiWealth.png?raw=true" alt=""></mj-image>
-        <mj-text><b>Grazie per il vostro contributo.</b></mj-text>
-        <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
-        <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
+          I KPI che misurano le vendite digitali in presenza e a distanza evidenziano <b>numerose filiali fortemente sotto il passo atteso</b>, ma, quel che è peggio, <b>troppe sono ancora a zero</b>. Occorre perciò un’azione decisa per orientare i comportamenti digitali, a partire dalle filiali più in difficoltà che trovate evidenziate di seguito.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_04/CARTINA.png?raw=true" padding="0"></mj-image>
+        <mj-text><b>Contiamo sull’impegno di tutti voi per proseguire con successo il nostro percorso di evoluzione digitale.</b></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
