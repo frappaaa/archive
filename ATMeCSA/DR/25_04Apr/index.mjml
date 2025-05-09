@@ -1,5 +1,6 @@
 <mjml>
   <mj-head>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" name="Open Sans"></mj-font>
     <mj-attributes>
       <mj-text align="left" color="#005157" font-family="Open Sans, Arial, sans-serif" font-size="20px" line-height="28px" />
       <mj-section background-color="#fff" max-width="640px" />
