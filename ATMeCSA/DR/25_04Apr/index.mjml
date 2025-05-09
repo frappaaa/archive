@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-text align="left" color="#005157" font-family="Open Sans, Arial, sans-serif" font-size="20px" line-height="28px" />
       <mj-section background-color="#fff" max-width="640px" />
     </mj-attributes>
   </mj-head>
@@ -13,7 +13,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_04Apr/Header.png?raw=true" alt="Verso il futuro. L’evoluzione della transazionalità in self." padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_04Apr/Header.png?raw=true" alt="" padding="0"></mj-image>
         <mj-text padding-bottom="0" padding-top="30px;"><b>Gentili colleghi e colleghe,</b></mj-text>
         <mj-text padding-top="0">
           continua il nostro piano evolutivo per una efficace migrazione della transazionalità, attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
