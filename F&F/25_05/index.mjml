@@ -1,0 +1,73 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/25_05/Header.png" alt="" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentile Collega,</b></mj-text>
+        <mj-text padding="10px 0">Lorem ipsum</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="38px" padding-left="56px" background-color="#009969" border-radius="30px">
+        <mj-text padding="0" padding-bottom="14px" color="#fff"><b>Ecco alcune delle principali funzionalità:</b> </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>Possibilità di acquistare UnipolMove tramite processo Self end-to-end ingaggiato da nuovo tab Mobilità</li>
+          </ul>
+        </mj-text>
+
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>ad ogni prodotto “UnipolMove” sottoscritto dall’utente, è possibile collegare un massimo di due dispositivi; ciascun dispositivo può essere collegato ad una sola targa (i veicoli a cui è possibili associare una targa sono autovetture sotto le 3,5 tonnellate e motociclette)
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>Le banche coinvolte sono BPER e BDS
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>Ci sono offerte ad hoc per dipendenti BPER -> dispositivi gratis per i primi 24 mesi
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li>Ci sarà un nuovo tab Mobilità di post vendita in cui si potrà vedere il proprio dispositivo sottoscritto in self o da filiali BPER (relativamente al dispostivo acquistato sarà mostrata la targa e il codice dispositivo), il deeplink ad App Unipol Move, il link al pagamento del bollo auto, e l'ingaggio a vetrina prodotti per sottoscrivere il dispositivo
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="0" color="#005157">Per partecipare compila il form di adesione cliccando su <a href="https://forms.office.com/e/83cMQb76f5" style="color:inherit;"><b>questo link</b></a> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).
+        </mj-text>
+        <mj-text padding="10px 0 0 0" color="#005157">Quando l'aggiornamento sarà disponibile avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="https://forms.office.com/e/90BLaQnzeA" style="color:inherit;"><b>questo form</b></a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
+
+        <mj-text padding="14px 0 0 0"><b>Ti aspettiamo per vivere da protagonista il percorso di crescita digitale!</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
