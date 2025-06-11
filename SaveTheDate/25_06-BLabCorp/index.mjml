@@ -32,6 +32,7 @@ BLab Corp è nato con l’intento di mettere i clienti al centro del processo di
         <mj-text><b>Continuiamo ad evolvere insieme</b>
 <br>Il tuo supporto ci permette di crescere e rafforzare il nostro impegno nel soddisfare le esigenze dei nostri clienti.</br></mj-text>
         <mj-button background-color="#005157" color="#ffffff" font-size="24px" border-radius="50px"><a href="https://globaleysurvey.ey.com/jfe/form/SV_bHJEmmjLIBTGp4G" style="color:inherit;">Dai qui il tuo feedback</a></mj-button>
+        <mj-text font-size="24px"><i><b>BLab Corp</b></i></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
