@@ -22,19 +22,16 @@ Via Mike Bongiorno 13, Milanoo" padding="0"></mj-image>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
-        <mj-text>
-Il 29 gennaio vi aspettiamo per una giornata dedicata a condividere strategie e obiettivi e porre le basi per le sfide del Piano Industriale.</mj-text>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Agenda.png?raw=true" alt="" padding="10px 0" width="560px"></mj-image>
-      <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Luogo.png?raw=true" alt="Sala Amenity- Diamantino
-Via Mike Bongiorno 13, Milanoo" padding="10px 0" width="560px"></mj-image>
-        <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
-        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative a trasporto e pernottamento (ove necessario).</mj-text>
-        <mj-text>Confermare la propria partecipazione entro il <b>24/01/2025</b> tramite il calendar che verrà inviato.</mj-text>
-        <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
-        <mj-text color="#ffffff" font-size="1px">
-              This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_IT]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>.
-          </mj-text>
+        <mj-text padding-bottom="0">Gentile Cliente,<br>desideriamo ringraziarti per la tua partecipazione ai workshop di BLab Corp. 
+Il tuo contributo è stato prezioso nella definizione del nostro percorso di trasformazione digitale.</br>
+</mj-text>
+        <mj-text><b>Collaborazione e evoluzione continua</b>
+Grazie alla partecipazione attiva dei nostri clienti, come te, stiamo costruendo insieme un futuro digitale che risponda sempre meglio alle necessità quotidiane delle aziende. </mj-text>
+        <mj-text><b>Un approccio collaborativo</b>
+BLab Corp è nato con l’intento di mettere i clienti al centro del processo di digitalizzazione. La tua voce ha contribuito a migliorare i nostri servizi e, con il proseguire del progetto, continueremo a lavorare insieme per costruire il futuro digitale delle imprese.</mj-text>
+        <mj-text><b>Continuiamo ad evolvere insieme</b>
+<br>Il tuo supporto ci permette di crescere e rafforzare il nostro impegno nel soddisfare le esigenze dei nostri clienti.</br></mj-text>
+        <mj-button background-color="#005157" color="#ffffff" font-size="24px" border-radius="50px"><a href="https://globaleysurvey.ey.com/jfe/form/SV_bHJEmmjLIBTGp4G" style="color:inherit;">Dai qui il tuo feedback</a></mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
