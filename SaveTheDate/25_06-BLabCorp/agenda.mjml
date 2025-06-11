@@ -1,0 +1,90 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2024_09/HeaderAgenda.png?raw=true" alt="We are the F/youture. 30.9.2024. Accenture Customer Innovation Network Milan, Piazza Gae Aulenti 8, Milano" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0">Care colleghe e cari colleghi,</mj-text>
+        <mj-text>Il 30 settembre vi aspettiamo per una giornata dedicata alla condivisione tra la Direzione Digital Business e gli Specialisti Digital, per fare il punto sui passi percorsi finora, le azioni che metteremo in campo per traguardare gli obiettivi 2024 e quanto ci attende nel nostro percorso di crescita digitale.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column padding="32px" background-color="#EFF5f5" border-radius="30px">
+        <mj-text padding="10px 0" font-size="24px">Agenda della giornata</mj-text>
+        <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>09:45</b></td>
+            <td style="padding-left:10px">Accredito e welcome coffee</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>10:00</b></td>
+            <td style="padding-left:10px">Opening keynote<br>Maurice Lisi - <i>Direzione Digital Business</i></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>10:30</b></td>
+            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br>Calabria Sicilia, Campania Puglia Basilicata Molise, Centro Est, Centro Ovest</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>11:30</b></td>
+            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br>Liguria, Nord Ovest, Sardegna Nord, Sardegna Sud</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157;width:65px"><b>12:30</b></td>
+            <td style="padding-left:10px">Tour Experience</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:30</b></td>
+            <td style="padding-left:10px">Lunch</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
+            <td style="padding-left:10px">Presentazioni a cura degli Specialisti Digital</br>Lombardia Ovest, Lombardia Est-Triveneto, Emilia-Romagna Est, Emilia Ovest</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>15:30</b></td>
+            <td style="padding-left:10px">Brainstorming finale</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>16:30</b></td>
+            <td style="padding-left:10px">Fine lavori</td>
+          </tr>
+        </mj-table>
+        
+      </mj-column>
+    </mj-section>
+<mj-section background-color="#009969" border-radius="30px">
+      <mj-column width="30%">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/05_23-specialisti/Pin.png?raw=true" width="80px" align="center"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding-bottom="0" color="#fff"><b>Accenture Customer Innovation <br>Network Milan</br></b></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" color="#fff">Piazza Gae Aulenti 8, Milano</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
+        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative a trasporto e pernottamento (ove necessario).</mj-text>
+        <mj-text>Confermare la propria partecipazione entro il <b>25/09/2024</b> tramite il calendar che verrà inviato.</mj-text>
+        <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
