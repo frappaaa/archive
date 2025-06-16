@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Header.png?raw=true" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0">Gentile Cliente,<br>desideriamo ringraziarti per la tua partecipazione ai workshop di BLab Corp.
+          </br>Il tuo contributo è stato prezioso nella definizione del nostro percorso di trasformazione digitale.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0">
+      <mj-column background-color="#eff5f5" border-radius="20px" padding="20px 10px">
+        <mj-table color="#005157" font-size="20px" line-height="28px" font-family="Open Sans, sans-serif">
+          <tr style="padding: 0 15px 0 0;">
+            <td style="padding: 0 15px 0 0;"><img src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Evolutiva.png?raw=true" style="width:32px;"></img></td>
+            <td style="padding: 0 15px;"><b>Collaborazione e evoluzione continua</b></td>
+          </tr>
+          <tr style="padding: 15px 0;">
+            <td></td>
+            <td style="padding: 0 15px;">Grazie alla partecipazione attiva dei nostri clienti, come te, stiamo costruendo insieme un futuro digitale che risponda sempre meglio alle necessità quotidiane delle aziende.<br></br></td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0;"><img src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/collab.png?raw=true" style="width:32px;"></img></td>
+            <td style="padding: 0 15px;"><b>Un approccio collaborativo</b></td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0;"></td>
+            <td style="padding: 0 15px;">BLab Corp è nato con l’intento di mettere i clienti al centro del processo di digitalizzazione. La tua voce ha contribuito a migliorare i nostri servizi e, con il proseguire del progetto, continueremo a lavorare insieme per costruire il futuro digitale delle imprese.</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0">
+      <mj-column background-color="#009969" border-radius="20px" padding="20px 10px">
+        <mj-text color="#ffffff"><b>Continuiamo ad evolvere insieme</b>
+          <br>Il tuo supporto ci permette di crescere e rafforzare il nostro impegno nel soddisfare le esigenze dei nostri clienti.</br>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Button.png?raw=true" width="330px" alt="Dai qui il tuo feedback" href="https://globaleysurvey.ey.com/jfe/form/SV_8BSHaQqFkINrIvs" target="_blank"></mj-image>
+        <mj-text font-size="32px" padding-top="40px"><i><b>BLab Corp</b></i></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
