@@ -7,55 +7,32 @@
   </mj-head>
   <mj-body max-width="640px">
     <mj-section>
-      <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      <mj-column padding="0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ComInterna/2025_06_16-mutuodigitale/1-HEADER.png?raw=true" alt="Direzione Digital Business" padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ComInterna/2025_06_16-mutuodigitale/2-BANNER.png?raw=true" padding="0"></mj-image>
+        <mj-text padding-top="30px">È ora disponibile in app il nuovo Simulatore Mutuo, uno strumento pensato per rendere l’esperienza del cliente ancora più immediata, chiara e su misura.</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ComInterna/2025_06_16-mutuodigitale/3-TABELLA.png?raw=true"></mj-image>
+        <mj-text text-transform="uppercase"><b>Advisor Mutui e Filiale: una sinergia vincente</b></mj-text>
+        <mj-text>Durante tutto il percorso del mutuo, l’Advisor Mutui FOL e la Filiale di relazione collaborano per fornire un'esperienza multicanale di qualità garantendo allineamento e continuità</mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ComInterna/2025_06_16-mutuodigitale/4-TABELLA.png?raw=true"></mj-image>
+        <mj-text text-transform="uppercase"><b>Prossimi passi: l’evoluzione con BMe</b></mj-text>
+        <mj-text>In questa fase, la possibilità di richiedere il mutuo online è disponibile solo per i <b>clienti digitali già acquisiti.</b></mj-text>
+        <mj-text><b>Da fine luglio</b>, grazie alla nuova identità digitale BMe, <b>anche i prospect potranno accedere al processo di richiesta mutuo digitale</b>. </mj-text>
+        <mj-text>Grazie a questa collaborazione tra canali digitali, Filiale Online e rete fisica, accompagniamo i clienti in ogni fase con un’esperienza integrata, trasparente e su misura. </mj-text>
+        <mj-text>Per saperne di più, guarda il video e visita <a style="color:inherit;" href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/prodotti/mutui"><b>BSmart</b></a>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Header.png?raw=true" padding="0"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ComInterna/2025_06_16-mutuodigitale/5-Video.png?raw=true" padding="2px" href="https://intrawseal.gbbper.priv/blinkdue/host/news/video-gallery/0c34407c-9b08-4804-ad5c-31fe6ef2336b?autoplay=true"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ComInterna/2025_06_16-mutuodigitale/6-BSmart.png?raw=true" padding="2px" href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/prodotti/mutui"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-bottom="0">Gentile Cliente,<br>desideriamo ringraziarti per la tua partecipazione ai workshop di BLab Corp.
-          </br>Il tuo contributo è stato prezioso nella definizione del nostro percorso di trasformazione digitale.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px 0">
-      <mj-column background-color="#eff5f5" border-radius="20px" padding="20px 10px">
-        <mj-table color="#005157" font-size="20px" line-height="28px" font-family="Open Sans, sans-serif">
-          <tr style="padding: 0 15px 0 0;">
-            <td style="padding: 0 15px 0 0;"><img src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Evolutiva.png?raw=true" style="width:32px;"></img></td>
-            <td style="padding: 0 15px;"><b>Collaborazione e evoluzione continua</b></td>
-          </tr>
-          <tr style="padding: 15px 0;">
-            <td></td>
-            <td style="padding: 0 15px;">Grazie alla partecipazione attiva dei nostri clienti, come te, stiamo costruendo insieme un futuro digitale che risponda sempre meglio alle necessità quotidiane delle aziende.<br></br></td>
-          </tr>
-          <tr>
-            <td style="padding: 0 15px 0 0;"><img src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/collab.png?raw=true" style="width:32px;"></img></td>
-            <td style="padding: 0 15px;"><b>Un approccio collaborativo</b></td>
-          </tr>
-          <tr>
-            <td style="padding: 0 15px 0 0;"></td>
-            <td style="padding: 0 15px;">BLab Corp è nato con l’intento di mettere i clienti al centro del processo di digitalizzazione. La tua voce ha contribuito a migliorare i nostri servizi e, con il proseguire del progetto, continueremo a lavorare insieme per costruire il futuro digitale delle imprese.</td>
-          </tr>
-        </mj-table>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px 0">
-      <mj-column background-color="#009969" border-radius="20px" padding="20px 10px">
-        <mj-text color="#ffffff"><b>Continuiamo ad evolvere insieme</b>
-          <br>Il tuo supporto ci permette di crescere e rafforzare il nostro impegno nel soddisfare le esigenze dei nostri clienti.</br>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Button.png?raw=true" width="330px" alt="Dai qui il tuo feedback" href="https://globaleysurvey.ey.com/jfe/form/SV_8BSHaQqFkINrIvs" target="_blank"></mj-image>
-        <mj-text font-size="32px" padding-top="40px"><i><b>BLab Corp</b></i></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ComInterna/2025_06_16-mutuodigitale/FOOTER.png?raw=true" padding="2px"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
