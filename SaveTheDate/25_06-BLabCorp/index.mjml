@@ -19,7 +19,7 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0">Gentile Cliente,<br>desideriamo ringraziarti per la tua partecipazione ai workshop di BLab Corp.
-          </br><br>Il tuo contributo è stato prezioso nella definizione del nostro percorso di trasformazione digitale.</br>
+          </br>Il tuo contributo è stato prezioso nella definizione del nostro percorso di trasformazione digitale.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -54,7 +54,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-button background-color="#005157" color="#ffffff" font-size="24px" border-radius="50px"><a href="https://globaleysurvey.ey.com/jfe/form/SV_8BSHaQqFkINrIvs" style="color:inherit;">Dai qui il tuo feedback</a></mj-button>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Button.png?raw=true" width="330px" alt="Dai qui il tuo feedback" href="https://globaleysurvey.ey.com/jfe/form/SV_8BSHaQqFkINrIvs" target="_blank"></mj-image>
         <mj-text font-size="32px" padding-top="40px"><i><b>BLab Corp</b></i></mj-text>
       </mj-column>
     </mj-section>
