@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/24Outdoor/Header.png?raw=true" alt="We are Powerful. Save the date 23 maggio. Sede BPER Banca Diamantino, Via Mike Bongiorno 13 – Milano" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Due giorni insieme, per fare squadra, immaginare, progettare e realizzare il nostro futuro.</mj-text>
+        <mj-text font-size="28px">Agenda del <b>30 e 31 maggio</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="32px" background-color="#EFF5f5" border-radius="30px">
+        <mj-text padding="10px 0" font-size="24px">Giovedì <b>30 maggio</b></mj-text>
+        <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>11:30</b></td>
+            <td style="padding-left:10px">Ritrovo e deposito bagagli</br><b>Hotel Royal Falcone</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>12:15</b></td>
+            <td style="padding-left:10px">Trasferimento in navetta</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
+            <td style="padding-left:10px">Light lunch</br><b>Sporting Club</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>14:00</b></td>
+            <td style="padding-left:10px">Internal meeting</br></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157;width:65px"><b>15:30</b></td>
+            <td style="padding-left:10px">Coffee break</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>16:00</b></td>
+            <td style="padding-left:10px">Ripresa lavori e interventi testimonial</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>17:15</b></td>
+            <td style="padding-left:10px">Trasferimento in navetta</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>17:30</b></td>
+            <td style="padding-left:10px">Visita Duomo e Palazzo Arengario</td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>18:00</b></td>
+            <td style="padding-left:10px">Cocktail </br>presso <b>Saint</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>19:30</b></td>
+            <td style="padding-left:10px">Check in </br><b>Hotel Royal Falcone</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>20:30</b></td>
+            <td style="padding-left:10px">Cena </br>presso <b>ristorante Lait</b></td>
+          </tr>
+        </mj-table>
+        <mj-divider border-color="#005157" border-width="1px" padding="10px 0"></mj-divider>
+        <mj-text padding="10px 0" font-size="24px">Venerdì <b>31 maggio</b></mj-text>
+        <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>09:00</b></td>
+            <td style="padding-left:10px">Inizio caccia all'indizio</br>Centro storico di <b>Monza</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
+            <td style="padding-left:10px">Debriefing attività formativa e chiusura lavori</br><b>Hotel Royal Falcone</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:15</b></td>
+            <td style="padding-left:10px">Pranzo </br><b>Hotel Royal Falcone</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
+            <td style="padding-left:10px">Rientro</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
+        <mj-text padding-top="0">Utilizzare la procedura Trasferte ZTravel per richieste relative ai trasferimenti da e verso Monza.</mj-text>
+        <mj-text>Si consiglia abbigliamento casual.</mj-text>
+        <mj-text>Confermare la propria partecipazione entro il 10/05/2024 tramite il calendar che verrà inviato.</mj-text>
+        <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:digitalbusiness@bper.it" style="color:#005157;">digitalbusiness@bper.it</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
