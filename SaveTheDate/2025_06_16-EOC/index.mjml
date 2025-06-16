@@ -19,7 +19,7 @@
     <mj-section>
       <mj-column>
         <mj-text>Guidati da obiettivi ambiziosi e da una leadership condivisa, lavoriamo ogni giorno per raggiungere traguardi importanti.</mj-text>
-        <mj-text>Questo momento rappresenta un’occasione per valorizzare l’eccellenza e consolidare una visione comune, in un contesto outdoor esclusivo dove business e leisure si incontrano per creare un’esperienza unica.</mj-text>
+        <mj-text>Questo momento rappresenta un’occasione per valorizzare l’eccellenza e consolidare una visione comune, in un contesto outdoor esclusivo dove <i>business</i> e <i>leisure</i> si incontrano per creare un’esperienza unica.</mj-text>
         <mj-text font-size="28px"><b>Programma</b></mj-text>
       </mj-column>
     </mj-section>
