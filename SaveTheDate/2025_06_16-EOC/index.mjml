@@ -2,7 +2,7 @@
   <mj-head>
     <mj-attributes>
       <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
-      <mj-section background-color="#fff" max-width="640px" />
+      <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
   <mj-body max-width="640px">
@@ -28,48 +28,20 @@
         <mj-text padding="10px 0" font-size="24px">Mercoledì <b>23 luglio</b></mj-text>
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>11:30</b></td>
-            <td style="padding-left:10px">Ritrovo e deposito bagagli <b>Hotel Royal Falcone</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
+            <td style="padding-left:10px"><b>Welcome e Light Lunch (Opzionale)</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>12:15</b></td>
-            <td style="padding-left:10px">Trasferimento in navetta</td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>15:00</b></td>
+            <td style="padding-left:10px"><b>Avvio lavori con apertura CRCBO</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>13:00</b></td>
-            <td style="padding-left:10px">Light lunch <b>Sporting Club</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>19:00</b></td>
+            <td style="padding-left:10px"><b>Fine lavori</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>14:00</b></td>
-            <td style="padding-left:10px">Internal meeting </td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157;width:65px"><b>15:30</b></td>
-            <td style="padding-left:10px">Coffee break</td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>16:00</b></td>
-            <td style="padding-left:10px">Ripresa lavori e interventi testimonial</td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>17:15</b></td>
-            <td style="padding-left:10px">Trasferimento in navetta</td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>17:30</b></td>
-            <td style="padding-left:10px">Visita Duomo e Palazzo Arengario</td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>18:00</b></td>
-            <td style="padding-left:10px">Cocktail  presso <b>Saint</b></td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>19:30</b></td>
-            <td style="padding-left:10px">Check in  <b>Hotel Royal Falcone</b></td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>20:30</b></td>
-            <td style="padding-left:10px">Cena  presso <b>ristorante Lait</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>20:00</b></td>
+            <td style="padding-left:10px"><b>Entertainment Dinner</b></td>
           </tr>
         </mj-table>
         <mj-divider border-color="#005157" border-width="1px" padding="10px 0"></mj-divider>
@@ -77,48 +49,38 @@
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>09:00</b></td>
-            <td style="padding-left:10px">Inizio caccia all'indizio Centro storico di <b>Monza</b></td>
+            <td style="padding-left:10px"><b>Avvio lavori</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
-            <td style="padding-left:10px">Debriefing attività formativa e chiusura lavori <b>Hotel Royal Falcone</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>13:30</b></td>
+            <td style="padding-left:10px"><b>Light Lunch</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>15:00</b></td>
+            <td style="padding-left:10px"><b>Sessione pomeridiana</b></td>
+          </tr>
+          <tr style="border-bottom: 16px solid #eff5f5;">
+            <td style="border-right: 2px solid #005157; width:65px"><b>19:00</b></td>
+            <td style="padding-left:10px"><b>Fine lavori</b></td>
           </tr>
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>13:15</b></td>
-            <td style="padding-left:10px">Pranzo  <b>Hotel Royal Falcone</b></td>
+            <td style="padding-left:10px"><b>Dinner presso Brix 01</b></td>
           </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
-            <td style="padding-left:10px">Rientro</td>
-          </tr>
-
         </mj-table>
-<mj-divider border-color="#005157" border-width="1px" padding="10px 0"></mj-divider>
+        <mj-divider border-color="#005157" border-width="1px" padding="10px 0"></mj-divider>
         <mj-text padding="10px 0" font-size="24px">Venerdì <b>25 luglio</b></mj-text>
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #eff5f5;">
             <td style="border-right: 2px solid #005157; width:65px"><b>09:00</b></td>
-            <td style="padding-left:10px">Inizio caccia all'indizio Centro storico di <b>Monza</b></td>
+            <td style="padding-left:10px"><b>Breakfast “INSIEME” e Check-out</b></td>
           </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>12:00</b></td>
-            <td style="padding-left:10px">Debriefing attività formativa e chiusura lavori <b>Hotel Royal Falcone</b></td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>13:15</b></td>
-            <td style="padding-left:10px">Pranzo  <b>Hotel Royal Falcone</b></td>
-          </tr>
-          <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>14:30</b></td>
-            <td style="padding-left:10px">Rientro</td>
-          </tr>
-
         </mj-table>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2025_06_16-EOC/Location.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2025_06_16-EOC/Location.png?raw=true" padding="10px 0"></mj-image>
         <mj-text padding-bottom="0"><b>Ulteriori info</b></mj-text>
         <mj-text>Segnalare eventuali esigenze alimentari alla mail <a href="mailto:valentina.lugli@bper.it" style="color:#005157;">valentina.lugli@bper.it</a></mj-text>
       </mj-column>
