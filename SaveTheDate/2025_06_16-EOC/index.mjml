@@ -72,8 +72,8 @@
         <mj-text padding="10px 0" font-size="24px">Venerdì <b>25 luglio</b></mj-text>
         <mj-table font-size="20px" line-height="30px" color="#005157" padding="10px 0" font-family="Arial">
           <tr style="border-bottom: 16px solid #eff5f5;">
-            <td style="border-right: 2px solid #005157; width:65px"><b>09:00</b></td>
-            <td style="padding-left:10px"><b>Breakfast “INSIEME” e Check-out</b></td>
+            <td style="border-right: 2px solid #005157; width:65px"><b>07:30</b></td>
+            <td style="padding-left:10px"><b>Breakfast insieme, saluti e  check-out</b></td>
           </tr>
         </mj-table>
       </mj-column>
