@@ -37,9 +37,11 @@
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_06Giugno/datiPolizze.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_06Giugno/datiMifid.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_06Giugno/datiWealth.png?raw=true" alt=""></mj-image>
-        <mj-text>Stiamo costruendo ogni giorno una banca più rapida, digitale e attenta ai bisogni dei clienti: lo testimoniano gli importanti rilasci di questi giorni che ci vedono ampliare l’offerta digitale anche ai <b>Mutui</b>, aprire il canale self alle sottoscrizioni di <b>Unipolmove</b>, irrobustire le opportunità di investimento con la sottoscrizione da app dei <b>Titoli di Stato</b>.
-        </mj-text>
-        <mj-text><b>Grazie al vostro contributo costante, puntiamo a valorizzare al massimo questo percorso, che si distingue a livello nazionale per rapidità e slancio innovativo.</b></mj-text>
+        <mj-text>Ogni giorno lavoriamo per creare una banca più veloce, digitale e focalizzata sulle esigenze dei clienti: lo testimonia anche il veloce passo delle novità sul canale.
+
+</mj-text><mj-text>A fine luglio i servizi digitali si arricchiscono infatti di nuove funzionalità tra cui il prestito con la nuova PPI, l’apertura ai prospect dei mutui da FOL, una sezione dedicata e esperienze lifestyle integrata con la piattaforma Priceless di Mastercard unica nel panorama bancario.  E per il mondo business l’offerta si amplia con l’anticipo fatture e la vendita in self dei POS.
+</mj-text><mj-text>Con grande orgoglio, grazie al vostro contributo, siamo determinati a valorizzare appieno questo percorso unico, che si distingue non solo per l’innovazione ma per il peculiare approccio digitale e umano.</mj-text>
+        
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
       </mj-column>
