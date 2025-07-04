@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
       <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
@@ -20,11 +20,11 @@
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>la crescita digitale continua a ritmo sostenuto anche a giugno, col miglior risultato di sempre sull’acquisition: oltre 27.500 nuovi conti self da inizio anno e quasi 6.000 carte correnti.
+        <mj-text>la crescita digitale continua a ritmo sostenuto anche a giugno, col <b>miglior risultato di sempre sull’acquisition</b>: oltre <b>27.500 nuovi conti</b> self da inizio anno e quasi <b>6.000 carte correnti</b>.
 
-</mj-text><mj-text>Conti privati: puntiamo sempre più su clienti a valore. Dal 4 giugno al 31 luglio a chi apre un conto online, accredita stipendio o pensione e deposita almeno 5.000€ per 6 mesi offriamo un rendimento annuo lordo del 2,5% .
-</mj-text><mj-text>Carte Napoli: sono oltre 2.700 a  solo un mese dal lancio!
-</mj-text><mj-text>Conti imprese: il digitale spinge forte e da maggio porta oltre 320 conti On Demand Business, con il 54% delle aperture di giugno provenienti dal canale self.</mj-text>
+</mj-text><mj-text>Conti privati: puntiamo sempre più su clienti <b>a valore</b>. Dal 4 giugno al 31 luglio a chi apre un conto online, accredita stipendio o pensione e deposita almeno 5.000€ per 6 mesi offriamo un rendimento annuo lordo del 2,5% .
+</mj-text><mj-text><b>Carte Napoli</b>: sono oltre 2.700 a  solo un mese dal lancio!
+</mj-text><mj-text><b>Conti imprese</b>: il digitale spinge forte e da maggio porta oltre 320 conti On Demand Business, con il 54% delle aperture di giugno provenienti dal canale self.</mj-text>
 
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_06Giugno/datiOFM.png?raw=true" alt=""></mj-image>
@@ -39,7 +39,7 @@
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_06Giugno/datiWealth.png?raw=true" alt=""></mj-image>
         <mj-text>Ogni giorno lavoriamo per creare una banca più veloce, digitale e focalizzata sulle esigenze dei clienti: lo testimonia anche il veloce passo delle novità sul canale.
 
-</mj-text><mj-text>A fine luglio i servizi digitali si arricchiscono infatti di nuove funzionalità tra cui il prestito con la nuova PPI, l’apertura ai prospect dei mutui da FOL, una sezione dedicata e esperienze lifestyle integrata con la piattaforma Priceless di Mastercard unica nel panorama bancario.  E per il mondo business l’offerta si amplia con l’anticipo fatture e la vendita in self dei POS.
+</mj-text><mj-text>A fine luglio i servizi digitali si arricchiscono infatti di nuove funzionalità tra cui il <b>prestito con la nuova PPI, l’apertura ai prospect dei mutui da FOL</b>, una sezione dedicata e esperienze lifestyle <b>integrata con la piattaforma Priceless di Mastercard unica nel panorama bancario</b>.  E per il mondo business l’offerta si amplia con l’<b>anticipo fatture</b> e la <b>vendita in self dei POS</b>.
 </mj-text><mj-text>Con grande orgoglio, grazie al vostro contributo, siamo determinati a valorizzare appieno questo percorso unico, che si distingue non solo per l’innovazione ma per il peculiare approccio digitale e umano.</mj-text>
         
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
