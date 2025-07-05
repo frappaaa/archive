@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px" background-color="#F5F7FA" width="660px">
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="30px 0 20px 0">
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/25_07-200mil/Header.png" alt="100 milioni di prestiti digitali" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 20px">
+      <mj-column>
+        <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
+
+        <mj-text>abbiamo superato un traguardo importante: <b>100 milioni di euro erogati in prestiti digitali</b>. Un risultato che testimonia la forza della nostra visione e la costanza con cui stiamo costruendo una banca sempre più vicina ai clienti, capace di interpretare e anticipare i loro bisogni.</mj-text>
+        <mj-text><b>Oggi il canale digitale – Self e FOL – contribuisce per il 19% sul totale dei prestiti erogati</b>. Un dato che conferma la centralità del digitale nella nostra strategia di crescita, non solo in termini di numeri, ma soprattutto come modalità per offrire soluzioni semplici, accessibili e pensate per le persone.</mj-text>
+        <mj-text><b>La campagna in corso sui canali digitali ne è un esempio: “Le vacanze non si rimandano, le rate sì”</b>. Senza puntare sulla leva tasso, offriamo ai clienti la possibilità di iniziare a pagare dopo 90 giorni: un messaggio efficace, perché parte da un'esigenza reale e garantisce ai nostri clienti un’estate più leggera.</mj-text>
+
+        <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/25_07-200mil/datiLending.png" alt="100 milioni € di importo erogato. Suddivisione per DR."></mj-image>
+        <mj-text>Abbiamo 100 milioni di motivi per guardare avanti con energia e orgoglio: con ogni passo in questa direzione, stiamo  trasformando la nostra visione di una banca sempre più digitale e umana in una best practice riconosciuta sul mercato.</mj-text>
+        <mj-text><b>Grazie per il vostro contributo.</b></mj-text>
+        <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://github.com/frappaaa/archive/blob/main/bannerPromo.png?raw=true"></mj-image>
+        <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
