@@ -25,7 +25,7 @@
         
 <mj-text>
 Per garantire il pieno sfruttamento delle opportunità offerte dalle nuove installazioni, è necessaria la collaborazione di tutti perché siano sempre presidiati i caricamenti al fine di evitare fermi macchina e incentivare i clienti ad un utilizzo regolare e assiduo delle dotazioni self.</mj-text>
-        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup.sharepoint.com/:b:/s/m365-dg-27799/EYnkqzVMO5FPucgR3zyRYjkBOjkMLovB_OblK0RBuUEn_w">Scarica il documento</mj-button>
+        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup.sharepoint.com/:b:/s/m365-dg-27799/EQHT3fImHnlEm9bIIH6raYkBI3GZGClcCg7dnpa86Zx2tA?e=pDNqKC">Scarica il documento</mj-button>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/PrelievoCardless.png?raw=true" alt="Accesso a Cassa Smart, anche senza carta." padding="0" padding-top="30px"></mj-image>
       </mj-column>
     </mj-section>
