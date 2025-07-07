@@ -20,12 +20,13 @@
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>la crescita digitale continua a ritmo sostenuto anche a giugno, col <b>miglior risultato di sempre sull’acquisition</b>: oltre <b>27.500 nuovi conti</b> self da inizio anno e quasi <b>6.000 carte correnti</b>.
-
-</mj-text><mj-text>Conti privati: puntiamo sempre più su clienti <b>a valore</b>. Dal 4 giugno al 31 luglio a chi apre un conto online, accredita stipendio o pensione e deposita almeno 5.000€ per 6 mesi offriamo un rendimento annuo lordo del 2,5% .
-</mj-text><mj-text><b>Carte Napoli</b>: sono oltre 2.700 a  solo un mese dal lancio!
-</mj-text><mj-text><b>Conti imprese</b>: il digitale spinge forte e da maggio porta oltre 320 conti On Demand Business, con il 54% delle aperture di giugno provenienti dal canale self.</mj-text>
-
+        <mj-text>la crescita digitale continua a ritmo sostenuto anche a giugno, col <b>miglior risultato di sempre sull’acquisition</b>: oltre <b>27.500 nuovi conti</b> self da inizio anno e quasi <b>6.000 carte correnti</b>.</mj-text>
+        <mj-image
+           src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_06Giugno/riassunto.png?raw=true"
+           alt="Conti privati: puntiamo su clienti a valore con una promo che offre un rendimento annuo lordo del 2,5% a chi apre un conto online entro il 31 luglio, accredita stipendio o pensione e deposita almeno 5.000€ per 6 mesi.
+Carte Napoli: a un mese dal lancio sono oltre 2.500 i nuovi clienti acquisiti  tra la fanbase partenopea!
+Conti imprese: il digitale spinge forte e da maggio porta oltre 320 conti On Demand Business, con il 54% delle aperture di giugno in self."
+            />
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_06Giugno/datiOFM.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_06Giugno/datiLending.png?raw=true" alt=""></mj-image>
