@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Header.png?raw=true" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0">Gentile Cliente,</mj-text>
+        <mj-text><b>desideriamo ringraziarti per aver partecipato al laboratorio dedicato allo scambio documentale e alla firma digitale.</b></mj-text>
+        <mj-text>Il tuo contributo è stato prezioso e ha generato spunti di grande valore: ora siamo al lavoro per <b>trasformare le tue idee in soluzioni concrete per il tuo business.</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0">
+      <mj-column background-color="#eff5f5" border-radius="20px" padding="20px 10px">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Evolutiva.png?raw=true" width="40px" align="left"></mj-image>
+        <mj-text><b>Evoluzione e dialogo continuo</b></mj-text>
+        <mj-text padding-top="0">BLab Corp nasce per mettere i clienti al centro del percorso di trasformazione digitale. Continueremo a tenerti aggiornato sui prossimi sviluppi della soluzione che stiamo costruendo insieme.
+          Nel frattempo, raccontaci com’è andata: il tuo feedback sul laboratorio è fondamentale per migliorare ancora.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/25_06-BLabCorp/Button.png?raw=true" width="330px" alt="Dai qui il tuo feedback" href="https://globaleysurvey.ey.com/jfe/form/SV_8q2onPvwtL6MxnM" target="_blank"></mj-image>
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0">
+      <mj-column background-color="#009969" border-radius="20px" padding="20px 10px">
+        <mj-text color="#ffffff"><b>Continuiamo ad evolvere insieme</b>
+          <br>Il tuo supporto ci permette di crescere e rafforzare il nostro impegno nel soddisfare le esigenze dei nostri clienti.</br>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        
+        <mj-text font-size="32px"><i><b>BLab Corp</b></i></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
