@@ -20,13 +20,17 @@
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>abbiamo raggiunto un traguardo importante: <b>oltre 200 milioni di euro erogati tra prestiti digitali e PagaPoi</b>. Questo risultato testimonia la forza della nostra visione e la determinazione con cui stiamo costruendo una banca sempre più vicina ai clienti, capace di interpretare e anticipare le loro esigenze.</mj-text>
-<mj-text<b>>Oggi il canale digitale – Self e FOL – contribuisce per il 19% sul totale dei prestiti erogati e pari al XX% di erogato con PagaPoi</b>. Questi dati confermano il ruolo centrale del digitale nella nostra strategia di crescita, non solo in termini quantitativi, ma soprattutto come strumento per offrire soluzioni semplici, accessibili e pensate per le persone.</mj-text>
-<mj-text>A supportare questi obiettivi, dal 7 luglio avremo a disposizione sul canale digitale una promozione sul prestito con tasso 8,60% e spese di istruttoria azzerate.</mj-text>
+        <mj-text>insieme abbiamo raggiunto un traguardo importante per la strategia di BPER: <b>200 milioni di euro erogati tra prestiti digitali e PagaPoi</b>. 
+Questo successo conferma la solidità della  visione della Banca  e la determinazione nel costruire un modello sempre più vicino alle esigenze dei clienti.</mj-text>
+</mj-column></mj-section>
+    <mj-section padding="40px">
+      <mj-column background-color="#E1EDED" border-radius="20px" padding="14px">
+        <mj-text><b>Oggi il canale digitale pesa per il 19% dei prestiti personali erogati e per il 98% di PagaPoi</b>, evidenziando il ruolo centrale dell’innovazione nella strategia di crescita di BPER per ampliare le opportunità commerciali e di contatto.</mj-text></mj-column></mj-section><mj-section><mj-column>
 
         <mj-text align="center" font-size="28px"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/25_07-200mil/datiLending.png" alt="100 milioni € di importo erogato. Suddivisione per DR."></mj-image>
-        <mj-text>Abbiamo 100 milioni di motivi per guardare avanti con energia e orgoglio: con ogni passo in questa direzione, stiamo  trasformando la nostra visione di una banca sempre più digitale e umana in una best practice riconosciuta sul mercato.</mj-text>
+        <mj-text><b>La digitalizzazione è un’opportunità che possiamo sfruttare appieno solo accompagnando i clienti nel loro percorso digitale</b>. La filiale fisica resta centrale, evolvendo il modello di business con la vendita a distanza del Prestito Smart e valorizzando il digitale nelle interazioni col cliente.</mj-text>
+    <mj-text>Con ogni passo in questa direzione, stiamo  trasformando la nostra visione di una banca sempre più digitale e umana in una best practice riconosciuta sul mercato.</mj-text>
         <mj-text><b>Grazie per il vostro contributo.</b></mj-text>
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://github.com/frappaaa/archive/blob/main/bannerPromo.png?raw=true"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
