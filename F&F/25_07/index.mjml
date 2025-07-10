@@ -68,7 +68,7 @@
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
         <mj-text padding="0" color="#005157">Per partecipare compila il form di adesione cliccando su <a href="https://forms.office.com/e/wbjKcgRQZp" style="color:inherit;"><b>questo link</b></a> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).
         </mj-text>
-        <mj-text padding="10px 0 0 0" color="#005157">Quando l'aggiornamento sarà disponibile avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="https://bper.atlassian.net/servicedesk/customer/portal/2" style="color:inherit;"><b>questo form</b></a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
+        <mj-text padding="10px 0 0 0" color="#005157">Quando l'aggiornamento sarà disponibile, avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie esclusivamente tramite <a href="https://bper.atlassian.net/servicedesk/customer/portal/2" style="color:inherit;"><b>questo form</b></a>, (in cui occorre indicare obbligatoriamente almeno una mail tra quella BPER e quella personale) aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
 
         <mj-text padding="14px 0 0 0"><b>Ti aspettiamo per vivere da protagonista il percorso di crescita digitale!</b></mj-text>
       </mj-column>
