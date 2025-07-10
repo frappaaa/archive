@@ -1,0 +1,80 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/25_07/Header.png" alt="" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"><b>Gentile Collega,</b></mj-text>
+        <mj-text padding="10px 0">ti invitiamo ad <b>accedere in anteprima alla nuova versione dell’app</b>, che sarà aperta alla clientela da fine luglio. Partecipando al nuovo Family&Friends, potrai contribuire attivamente al percorso di evoluzione digitale e scoprire in anticipo le funzionalità in arrivo.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="38px" padding-left="56px" background-color="#009969" border-radius="30px">
+        <mj-text padding="0" padding-bottom="14px" color="#fff"><b>Ecco alcune delle principali novità che troverai in questa versione:</b> </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Prestito digital con PPI</b>: la polizza assicurativa abbinata a prestito Smart  diventa la PPI, con un processo più semplice e veloce.</li>
+          </ul>
+        </mj-text>
+
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Lifestyle</b>: per i possessori di una carta Mastercard, si apre un mondo di vantaggi tramite l’integrazione della piattaforma Priceless di Mastercard  arricchita con proposte ed esperienze  esclusive riservate ai clienti BPER.
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Identificativo chiamante</b>: un nuovo servizio che consente di notificare al cliente quando la Filiale Online lo sta chiamando, segnalando eventuali telefonate sospette o non verificate.
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>F24 ordinari da app</b>: è ora possibile pagare anche gli F24 ordinari da app tramite OCR.
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0" padding-bottom="14px" color="#fff">Anche <b>l’offerta business</b> vede due importanti <b>novità su Smart Banking Business</b>: </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Anticipo fatture</b>: per ottenere liquidità chiedendo un anticipo sulle fatture presentate.
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding:0;">
+            <li><b>Vendita POS</b>: per richiedere in autonomia un apparecchio Smart POS Mini o Soft POS.
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="0" color="#005157">Per partecipare compila il form di adesione cliccando su <a href="https://forms.office.com/e/wbjKcgRQZp" style="color:inherit;"><b>questo link</b></a> e inserisci i dati richiesti: nome, cognome ed email personale o aziendale con cui accedi allo store (Appstore e/o Google Play).
+        </mj-text>
+        <mj-text padding="10px 0 0 0" color="#005157">Quando l'aggiornamento sarà disponibile avrai accesso alla nuova versione: potrai darci i tuoi suggerimenti o segnalare eventuali anomalie tramite <a href="https://bper.atlassian.net/servicedesk/customer/portal/2" style="color:inherit;"><b>questo form</b></a>, aiutandoci così concretamente a migliorare l’app prima che venga resa disponibile a tutti.</mj-text>
+
+        <mj-text padding="14px 0 0 0"><b>Ti aspettiamo per vivere da protagonista il percorso di crescita digitale!</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
