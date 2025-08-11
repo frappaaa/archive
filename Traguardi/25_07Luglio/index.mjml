@@ -20,13 +20,10 @@
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>la crescita digitale continua a ritmo sostenuto anche a giugno, col <b>miglior risultato di sempre sui prodotti di acquisition: 8.000 sottoscrizioni</b>, di cui 5.600 conti e 2.400 carte correnti.</mj-text>
-        <mj-image
-           src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_07Luglio/riassunto.png?raw=true"
-           alt="Conti privati: puntiamo su clienti a valore con una promo che offre un rendimento annuo lordo del 2,5% a chi apre un conto online entro il 31 luglio, accredita stipendio o pensione e deposita almeno 5.000€ per 6 mesi.
-Carte Napoli: a un mese dal lancio sono oltre 2.500 i nuovi clienti acquisiti  tra la fanbase partenopea!
-Conti imprese: il digitale spinge forte e da maggio porta oltre 320 conti On Demand Business, con il 54% delle aperture di giugno in self."
-            />
+        <mj-text>non si ferma la crescita digitale, che sta mantenendo lo stesso passo anche nel periodo estivo, contribuendo a sostenere il raggiungimento degli obiettivi 2025.</mj-text>
+        <mj-text>Da inizio anno sono stati acquisiti in self quasi <b>40.000 nuovi clienti</b> (32.246 conti e oltre 7.370 carte correnti), anche grazie alla <b>promo D Più</b> che offre un <b>rendimento annuo lordo del 2,5%</b> sui risparmi depositati per almeno 6 mesi.</mj-text>
+        <mj-text>In costante crescita anche le sottoscrizioni tramite i canali digitali di <b>Prestiti e PagaPoi</b>, supportate dalle promo estive e da tassi agevolati e che hanno raggiunto da inizio anno i <b>225 milioni di euro di erogato</b>.</mj-text>
+
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_07Luglio/datiOFM.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_07Luglio/datiLending.png?raw=true" alt=""></mj-image>
@@ -38,11 +35,9 @@ Conti imprese: il digitale spinge forte e da maggio porta oltre 320 conti On Dem
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_07Luglio/datiPolizze.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_07Luglio/datiMifid.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_07Luglio/datiWealth.png?raw=true" alt=""></mj-image>
-        <mj-text>Ogni giorno lavoriamo per creare una banca più veloce, digitale e focalizzata sulle esigenze dei clienti: lo testimonia anche il veloce passo delle novità sul canale.
+        <mj-text>Il nostro percorso verso una banca più agile, tecnologica e attenta alle reali necessità dei clienti sta generando risultati concreti, rafforzando il legame con una clientela sempre più esigente e consapevole.</mj-text>
+        <mj-text>Grazie al vostro continuo supporto, siamo pronti a valorizzare con orgoglio ogni tappa di questo cammino distintivo, che si caratterizza per la sua spinta all’innovazione e per un equilibrio unico tra digitalizzazione e relazione umana.</mj-text>
 
-</mj-text><mj-text>A fine luglio i servizi digitali si arricchiscono infatti di nuove funzionalità tra cui il <b>prestito con la nuova PPI, l’apertura ai prospect dei mutui da FOL</b>, una sezione dedicata e esperienze lifestyle <b>integrata con la piattaforma Priceless di Mastercard unica nel panorama bancario</b>.  E per il mondo business l’offerta si amplia con l’<b>anticipo fatture</b> e la <b>vendita in self dei POS</b>.
-</mj-text><mj-text>Con grande orgoglio, grazie al vostro contributo, siamo determinati a valorizzare appieno questo percorso unico, che si distingue non solo per l’innovazione ma per il peculiare approccio digitale e umano.</mj-text>
-        
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
       </mj-column>
