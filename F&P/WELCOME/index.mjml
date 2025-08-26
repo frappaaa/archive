@@ -1,0 +1,46 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="600px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/F&P/2025_07/Header.png?raw=true" alt="" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          Gentile cliente,
+</mj-text>
+        <mj-text>è con grande piacere che ti invitiamo all’incontro di avvio del <b>programma Friends & Partner di BLab Corp</b>, un’iniziativa esclusiva che celebra la nostra collaborazione e il percorso condiviso verso l’evoluzione digitale del Gruppo BPER.</mj-text>
+        <mj-text>La tua azienda avrà <b>accesso in anteprima alla nuova versione della nostra piattaforma digitale dedicata al mondo business</b>: uno strumento potenziato, nato dall’ascolto dei clienti e progettato per offrirti un’esperienza più semplice, efficace e personalizzata.</mj-text>
+        <mj-text font-size="22px" align="center"><b>Le 2 sessioni (tra loro alternative) sono fissate per</b></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/F&P/2025_07/Date.png?raw=true" padding="10px 0" width="500px"></mj-image>
+        <mj-text>Clicca qui per indicarci la data che preferisci, o per segnalarci la tua eventuale impossibilità a partecipare. Ti chiediamo di farci avere il tuo feedback entro il 22 luglio, così da organizzare al meglio l’incontro che si svolgerà da remoto.</mj-text>
+        <mj-text><b>Grazie per il tuo contributo.</b></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/F&P/2025_07/Button.png?raw=true" align="center" href="https://globaleysurvey.ey.com/jfe/form/SV_ex2wHSaOxACO53E" width="200px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#009969" border-radius="30px">
+      <mj-column>
+        <mj-text color="#ffffff"><b>Continuiamo ad evolvere insieme</b></mj-text>
+        <mj-text color="#ffffff">
+Siamo entusiasti di iniziare insieme questo percorso di sviluppo collaborativo: il tuo contributo sarà fondamentale per disegnare soluzioni digitali sempre più vicine alle esigenze del tuo business.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text font-size="32px"><i><b>BLab Corp</b></i></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
