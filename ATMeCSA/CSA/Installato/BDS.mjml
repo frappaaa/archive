@@ -47,8 +47,8 @@ Il tuo impegno e la tua competenza sono cruciali per garantire il raggiungimento
       </mj-section>
     </mj-wrapper>
     <mj-section padding="0">
-      <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bordi_fondo.png" padding="0"></mj-image>
+      <mj-column padding="0" width="100%">
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/Installato/BannerAccessoCardless_BDS.png?raw=true" padding="0"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
