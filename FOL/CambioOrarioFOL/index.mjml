@@ -1,11 +1,11 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
-      <mj-section background-color="#fff" max-width="640px" />
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="16px" line-height="22px" />
+      <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
-  <mj-body max-width="640px">
+  <mj-body>
     <mj-section>
       <mj-column>
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
@@ -13,33 +13,52 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/Header.png?raw=true" alt="Una nuova idea di FOL diventa realtà" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/CambioOrarioFOL/Header.png?raw=true" alt="La Filiale Online si evolve. Estensione degli orari e ruolo strategico dei consulenti" padding="0"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding-bottom="0" color="#009969"><b>Gentili colleghi e colleghe,</b></mj-text>
-        <mj-text padding-top="0">
-          tutti noi sappiamo bene quanto sia importante il <b>ruolo della Filiale Online nel nostro percorso di crescita digitale</b>: struttura dedicata al supporto della clientela, centro di relazione commerciale, fulcro dell’approccio multicanale.</mj-text>
-        <mj-text>L’evoluzione di questa struttura passa non solo dall’ampliamento delle competenze e dal rafforzamento delle tecnologie, ma anche da <b>uno spazio di lavoro che sappia rispondere a pieno alle esigenze dei colleghi</b> che tutti i giorni vi lavorano.</mj-text>
-        <mj-text>È per questo che è in corso un vero e proprio restyling degli ambienti di lavoro della FOL, un innovativo progetto a guida della Direzione Real Estate. Il primo ad essere stato completato è quello della <b>Filiale Online di Ravenna</b>, i cui 47 colleghi possono da oggi contare su un nuovo spazio moderno, confortevole e accogliente con:</mj-text>
+        <mj-text color="#009969" font-size="26px" padding-top="0"><b>Ciao [nome],</b></mj-text>
         <mj-text>
-          <ul>
-            <li>Postazioni di lavoro evolute e ergonomiche</li>
-            <li>Spogliatoio e sala relax</li>
-            <li>Area pranzo</li>
-            <li>Nuova sala riunioni</li>
-            <li>Creazione di 3 spazi phone booth</li>
-          </ul>
-        </mj-text>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/ristrutturazione.png?raw=true" alt="Dal disegno alla realtà, il futuro è oggi" padding="0"></mj-image>
-
-        <mj-text>E le novità non finiscono qui: <b>a breve inizieranno i lavori anche nella Filiale Online di Avellino</b>, che entro fine anno potrà contare su uno spazio completamente rinnovato.</mj-text>
-        <mj-text>A presto per altre novità e aggiornamenti.</mj-text>
+          la Filiale Online sta crescendo rapidamente e si sta affermando come un vero motore di spinta commerciale per la banca, passando da un punto di assistenza a un centro di eccellenza per il cliente.</mj-text>
+        <mj-text>Per supportare questo importante cambiamento, dal 6 ottobre 2025 sarà esteso l’orario di lavoro, coinvolgendo in modo più diretto i consulenti interni della Filiale Online.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFF5F5" border="1px solid #005157" border-radius="20px">
+      <mj-column>
+        <mj-text color="#009969" font-size="26px" padding-top="0"><b>Cosa cambia?</b></mj-text>
+        <mj-text font-weight="bold" font-size="20px">Attività di assistenza - Team Customer Care</mj-text>
+        <mj-text>La disponibilità H24 per i clienti rimane invariata. La novità è che i consulenti FOL ampliano la loro copertura <b>anche nei turni serali fino alle 20:00 e al sabato</b>, affiancando il lavoro degli outsourcer (con orario lun–ven 8:30–20:00 | sab 8:30–17:00). Questo significa che, grazie alle vostre competenze e alla vostra esperienza, il servizio diventa ancora più qualificato e vicino alle esigenze dei clienti.</mj-text>
+        <mj-text font-weight="bold" font-size="20px">Consulenza commerciale</mj-text>
+        <mj-text>L’orario infrasettimanale si protrae di 30 minuti (dal lunedì al venerdì dalle 9:00 alle 19:30). Il <b>sabato</b> si estende: da 8:30-14:30 diventa <b>9:00-17:00</b>, per garantire un’assistenza più completa e di valore, anche nei weekend.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column></mj-column>
+      <mj-column>
+        <mj-text font-weight="bold" font-size="20px">Cosa significa per voi?</mj-text>
+        <mj-text>La FOL articola i propri orari di servizio e continua ad arricchirsi di nuove risorse per venire sempre più incontro alle esigenze del cliente in orari più estesi.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#005157" border="1px solid #005157" border-radius="20px">
+      <mj-column>
+        <mj-text font-weight="bold" align="center" color="#ffffff" font-size="20px">Ecco alcune novità introdotte
+          per favorire una migliore gestione del tempo:</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/CambioOrarioFOL/1.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-text color="#ffffff" padding-top="0">La pausa pranzo è stata ridotta a 30 minuti per chi ha un orario lavorativo di 7 ore e 30 minuti, consentendo maggiore disponibilità di tempo libero al termine della giornata.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/CambioOrarioFOL/2.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-text color="#ffffff" padding-top="0">Per i turni da 7 ore e 12 minuti, una delle pause da 15 minuti già previste viene prolungata di 15 minuti aggiuntivi (a carico della banca), portandola a 30 minuti.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/FOL/CambioOrarioFOL/3.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-text color="#ffffff" padding-top="0">Il contributo richiesto al team Customer Care sul sabato ricorrerà una volta ogni 6 settimane.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-weight="bold" font-size="20px">Perché questo cambiamento?</mj-text>
+        <mj-text>La Filiale Online sta assumendo un ruolo sempre più centrale e strategico per la banca. Per essere coerenti con questa crescita, anche il servizio deve evolversi, e voi siete al centro di questa trasformazione.</mj-text>
+        <mj-text>La vostra professionalità e il vostro impegno sono fondamentali per offrire un servizio di qualità e costruire relazioni di fiducia con i clienti. </mj-text>
+        <mj-text font-weight="bold" font-size="20px">Un ambiente che cresce con te </mj-text>
+        <mj-text font-weight="bold">Questi cambiamenti nascono dalla volontà della banca di valorizzare il lavoro dei Consulenti Online, offrendo un contesto dinamico, attento all’equilibrio tra lavoro e vita privata e ricco di opportunità per crescere professionalmente.</mj-text><mj-text>Grazie per il vostro impegno, la vostra professionalità e la passione che ogni giorno mettete in ciò che fate.</mj-text>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
