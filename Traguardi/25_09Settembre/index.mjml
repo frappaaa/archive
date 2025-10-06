@@ -20,10 +20,11 @@
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>anche ad agosto il canale digitale si conferma un alleato prezioso per i nostri clienti, accompagnandoli ovunque, anche in vacanza, e rappresentando un driver strategico per il raggiungimento degli obiettivi 2025.</mj-text>
-        <mj-text>Significativo il contributo all’acquisizione: <b>da inizio anno sono entrati quasi 45.000 nuovi clienti tramite il canale self</b>, con 35.895 conti e 8.585 carte correnti aperti.</mj-text>
-        <mj-text>Prosegue anche la crescita dell’<b>erogato da canale digitale</b>, che supera complessivamente i <b>247 milioni di euro</b>, sostenuta dalla promozione prestiti al 7,95%, prorogata anche a settembre per le sottoscrizioni effettuate in self o con il supporto dei Consulenti Online.</mj-text>
-
+        <mj-text>settembre si conferma il mese della ripartenza, e dopo la pausa estiva ci proietta con sempre più determinazione verso gli obiettivi 2025.</mj-text>
+        <mj-text>Numeri da record sui prestiti: in un solo mese <b>96 mln € di caricato e circa 25,8 mln € di erogato da canale digitale (self e FOL)</b>, con un contributo rispetto alla produzione complessiva che supera il 20%.
+          Significativo il boost dato all’acquisition dove il digitale contribuisce per il 26,6%: da inizio anno sono <b>quasi 51.000 i clienti arrivati attraverso i canali digitali</b> tra conti e carte.
+        </mj-text>
+        <mj-text>Per rendere questo passo ancora più incisivo, serve però lavorare ancora sui comportamenti: <b>i KPI delle vendite digitali in filiale (26,05% actual vs 32,91% target) e a distanza (18,64% actual vs 26,46% target) ci restituiscono un risultato ancora troppo distante dagli obiettivi condivisi</b>.</mj-text>
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_09Settembre/datiOFM.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_09Settembre/datiLending.png?raw=true" alt=""></mj-image>
@@ -35,9 +36,9 @@
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_09Settembre/datiPolizze.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_09Settembre/datiMifid.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_09Settembre/datiWealth.png?raw=true" alt=""></mj-image>
-        <mj-text>Grazie ai canali self e alla Filiale Online, i nostri clienti possono contare sulla propria banca sempre e ovunque.</mj-text>
-        <mj-text>Con perserveranza, stiamo garantendo continuità al nostro approccio omnicanale, ampliando ogni giorno le opportunità offerte ai clienti, anche business: <b>a fine agosto abbiamo lanciato la vendita dei POS in modalità self e, già dai primi di settembre, sarà disponibile l’anticipo fatture attraverso i canali digitali</b>.</mj-text>
-        <mj-text>Con grande orgoglio e grazie al vostro contributo, siamo determinati a valorizzare questo percorso unico, che è riconosciuto per il peculiare approccio profondamente digitale e, al tempo stesso, umano.</mj-text>
+        <mj-text>Con visione e impegno, continuiamo a sviluppare il nostro modello omnicanale, ampliando le opportunità per i clienti.<br>Tra le novità in rilascio in questi giorni l'<b>estensione del catalogo investimenti in self</b> con la possibilità di sottoscrivere in autonomia, o col supporto dei Consulenti Online, anche <b>Certificates e Bond</b> in primo collocamento.</br>
+          Si evolve anche l'offerta legata all'ecosistema salute, con Il <b>Pediatra Online, il nuovo servizio di consulenza pediatrica da remoto</b>, per rispondere ai bisogni reali e urgenti delle famiglie, soprattutto in contesti dove il sistema sanitario pubblico fatica a garantire tempestività e continuità.</mj-text>
+        <mj-text>Il digitale si conferma quindi leva strategica per generare valore, offrendo soluzioni accessibili, efficaci e sempre più in linea con le esigenze quotidiane dei nostri clienti. Grazie per essere parte di questo percorso!</mj-text>
 
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
