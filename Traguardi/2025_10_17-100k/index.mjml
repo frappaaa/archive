@@ -1,0 +1,29 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="30px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/OFM/HEADER.png?raw=true" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_10_17-100k/HEADER.png?raw=true" padding="0"></mj-image>
+        <mj-text padding-bottom="0" padding-top="20px">Care colleghe e cari colleghi,</mj-text>
+        <mj-text padding-top="0" padding-bottom="20px">oggi abbiamo superato una soglia che ha un valore non solo simbolico ma anche strategico:  <b>100.000 conti On Demand digitali aperti da clienti privati e imprese.</b></mj-text>
+        <mj-text>Un risultato che non è solo numerico, ma rappresenta un segnale forte del valore della nostra proposta digitale:
+da ottobre 2023 contiamo oltre 98.900 nuovi clienti privati che hanno scelto di sottoscrivere il conto dal canale digitale. A questi si sono aggiunti da maggio di quest’anno anche 1.100 clienti imprese.</mj-text>
+        <mj-text color="#009969" font-weight="bold">Oggi il 26,7% dell’acquisition complessiva della banca passa dal canale digitale.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_10_17-100k/MAPPA.png?raw=true" padding="0"></mj-image>
+        <mj-text padding-top="30px"><b>Più di un cliente su quattro sceglie BPER partendo dal digitale.</b> Questo testimonia la nostra capacità di coniugare semplicità ed efficacia e di rendere l’esperienza online accessibile e distintiva.</mj-text>
+        <mj-text>Stiamo dando forma, giorno dopo giorno, a una banca che sa evolvere con coerenza, che ascolta i bisogni dei clienti e che unisce il valore umano alla forza dell’innovazione.</mj-text>
+        <mj-text font-weight="bold">Grazie per il vostro impegno e per continuare a guidare questa trasformazione con visione e determinazione.</mj-text>
+
+        <mj-text><i>Insieme, costruiamo la banca che vogliamo essere.</i></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/OFM/FOOTER.png?raw=true" padding="30px 0 0 0"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
