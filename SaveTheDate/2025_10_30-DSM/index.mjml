@@ -38,6 +38,11 @@
     </mj-section>
     <mj-section>
       <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/SaveTheDate/2025_10_30-DSM/Luogo.png?raw=true" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
         <mj-text><b>Segna la data in agenda!</b><br>A breve seguiranno tutti i dettagli.</br></mj-text><mj-text></mj-text>
         <mj-text><b>Ti aspettiamo: con la tua presenza puoi fare la differenza!</b></mj-text>
         <mj-text padding-bottom="0" font-size="16px"><b>Ulteriori info</b></mj-text>
