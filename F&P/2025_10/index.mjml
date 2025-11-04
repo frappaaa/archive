@@ -25,7 +25,7 @@
       </mj-column>
     </mj-section>
     <mj-section><mj-column><mj-text font-size="24px" font-weight="bold">È arrivato il momento di scoprire i vantaggi che ti abbiamo riservato!</mj-text><mj-text font-size="24px">Contatta il tuo gestore, ti darà tutti i dettagli.</mj-text></mj-column><mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/F&P/2025_10/fotovantaggio.png?raw=true"></mj-image></mj-column></mj-section>
-    <mj-section><mj-column><mj-text>Nel frattempo continua a usare <b>B:Digital Corporate</b> e rispondi al sondaggio, il tuo contributo è molto prezioso!</mj-text><mj-button font-size="20px" border-radius="10px" background-color="#009969">Rispondi al sondaggio</mj-button></mj-column></mj-section>
+    <mj-section><mj-column><mj-text>Nel frattempo continua a usare <b>B:Digital Corporate</b> e rispondi al sondaggio, il tuo contributo è molto prezioso!</mj-text><mj-button font-size="20px" border-radius="10px" background-color="#009969"><a href="https://globaleysurvey.ey.com/jfe/form/SV_2corcjRjYLxOexM" style="color:#ffffff; text-decoration:none;">Rispondi al sondaggio</a></mj-button></mj-column></mj-section>
     <mj-section background-color="#009969" border-radius="30px">
       <mj-column>
         <mj-text color="#ffffff">
