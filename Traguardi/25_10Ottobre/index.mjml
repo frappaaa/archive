@@ -20,11 +20,10 @@
       <mj-column>
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>settembre si conferma il mese della ripartenza, e dopo la pausa estiva ci proietta con sempre più determinazione verso gli obiettivi 2025.</mj-text>
-        <mj-text>Numeri da record sui prestiti: in un solo mese <b>96 mln € di caricato e circa 25,8 mln € di erogato da canale digitale (self e FOL)</b>, con un contributo rispetto alla produzione complessiva che supera il 20%.
-          Significativo il boost dato all’acquisition dove il digitale contribuisce per il 26,6%: da inizio anno sono <b>quasi 51.000 i clienti arrivati attraverso i canali digitali</b> tra conti e carte.
-        </mj-text>
-        <mj-text>Per rendere questo passo ancora più incisivo, serve però lavorare ancora sui comportamenti: <b>i KPI delle vendite digitali in filiale (26,05% actual vs 32,91% target) e a distanza (18,64% actual vs 26,46% target) ci restituiscono un risultato ancora troppo distante dagli obiettivi condivisi</b>.</mj-text>
+        <mj-text>ottobre si è chiuso con una conferma importante: il digitale è sempre più il motore della crescita e della trasformazione del Gruppo BPER.</mj-text>
+        <mj-text>Abbiamo superato i <b>320 milioni di euro di erogato tramite canali digitali</b>. Un risultato che vale il <b>20% della produzione complessiva</b> della Banca.</mj-text>
+        <mj-text>Sul fronte acquisition, sono quasi <b>57.000 i nuovi clienti</b> che hanno scelto i nostri conti e carte attraverso i canali digitali, contribuendo per circa il <b>27% dell’acquisizione totale</b>.</mj-text>
+        <mj-text>Grazie alla continua evoluzione delle funzionalità digitali, cresce anche l’apporto in ambito wealth.  Un esempio fra tutti, il <b>BTP Valore</b> che ha visto il <b>19,3% del controvalore</b> arrivare dal digital (self e FOL).</mj-text>
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_10Ottobre/datiOFM.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_10Ottobre/datiLending.png?raw=true" alt=""></mj-image>
@@ -36,9 +35,8 @@
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_10Ottobre/datiPolizze.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_10Ottobre/datiMifid.png?raw=true" alt=""></mj-image>
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/2025_10Ottobre/datiWealth.png?raw=true" alt=""></mj-image>
-        <mj-text>Con visione e impegno, continuiamo a sviluppare il nostro modello omnicanale, ampliando le opportunità per i clienti.<br>Tra le novità in rilascio in questi giorni l'<b>estensione del catalogo investimenti in self</b> con la possibilità di sottoscrivere in autonomia, o col supporto dei Consulenti Online, anche <b>Certificates e Bond</b> in primo collocamento.</br>
-          Si evolve anche l'offerta legata all'ecosistema salute, con Il <b>Pediatra Online, il nuovo servizio di consulenza pediatrica da remoto</b>, per rispondere ai bisogni reali e urgenti delle famiglie, soprattutto in contesti dove il sistema sanitario pubblico fatica a garantire tempestività e continuità.</mj-text>
-        <mj-text>Il digitale si conferma quindi leva strategica per generare valore, offrendo soluzioni accessibili, efficaci e sempre più in linea con le esigenze quotidiane dei nostri clienti. Grazie per essere parte di questo percorso!</mj-text>
+        <mj-text>La nostra trasformazione digitale prosegue anche sul fronte <b>imprese</b>: il 30 ottobre è stato lanciato <b>B:Digital Corporate</b>, una piattaforma destinata a evolversi progressivamente e a definire un nuovo posizionamento di BPER in ambito business.</mj-text>
+        <mj-text>Grazie al contributo di ciascuno di voi, continuiamo su questa strada, con energia e visione. Il digitale è già il nostro presente.</mj-text>
 
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
