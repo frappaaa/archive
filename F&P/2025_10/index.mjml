@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="left" color="#2C393A" font-family="Open Sans" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="600px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/F&P/2025_10/Header.png?raw=true" alt="" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          Gentile cliente,
+        </mj-text>
+        <mj-text>ti ringraziamo per la tua partecipazione alla prima fase dell’iniziativa Friends & Partners.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section><mj-column><mj-text font-size="24px" font-weight="bold">È arrivato il momento di scoprire i vantaggi che ti abbiamo riservato!</mj-text><mj-text font-size="24px">Contatta il tuo gestore, ti darà tutti i dettagli.</mj-text></mj-column><mj-column><mj-image src="https://github.com/frappaaa/archive/blob/main/F&P/2025_10/fotovantaggio.png?raw=true"></mj-image></mj-column></mj-section>
+    <mj-section><mj-column><mj-text>Nel frattempo continua a usare <b>B:Digital Corporate</b> e rispondi al sondaggio, il tuo contributo è molto prezioso!</mj-text><mj-button font-size="20px" border-radius="10px" background-color="#009969">Rispondi al sondaggio</mj-button></mj-column></mj-section>
+    <mj-section background-color="#009969" border-radius="30px">
+      <mj-column>
+        <mj-text color="#ffffff">
+          Per qualsiasi necessità, il nostro team dedicato è a tua disposizione:</mj-text>
+        <mj-text color="#ffffff">
+          <ul>
+            <li>Via Telefono: <b>059.2918309</b></li>
+            <li>Via Email: <b>blabcorp@bper.it</b></li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>Grazie per la fiducia e per far parte della nostra
+          community Friends & Partners.</mj-text>
+        <mj-text>Cordialmente,</mj-text>
+        <mj-text padding-top="0"><b>Il Team Friends & Partners di BLab Corp</b></mj-text>
+        <mj-text padding-top="0">
+          Gruppo BPER Banca</mj-text>
+        <mj-text font-size="32px"><i><b>BLab Corp</b></i></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
