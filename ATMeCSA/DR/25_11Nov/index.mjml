@@ -1,0 +1,33 @@
+<mjml>
+  <mj-head>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" name="Open Sans"></mj-font>
+    <mj-attributes>
+      <mj-text align="left" color="#005157" font-family="Open Sans, Arial, sans-serif" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/HeaderBookDR.png?raw=true" alt="" padding="0"></mj-image>
+        <mj-text padding-bottom="0" padding-top="30px;"><b>Gentili colleghi e colleghe,</b></mj-text>
+        <mj-text padding-top="0">
+          continua il nostro piano evolutivo per una efficace migrazione della transazionalità, attraverso la crescita delle dotazioni self e lo sviluppo di nuove funzionalità.</mj-text>
+        <mj-text>Siamo certi di poter contare sul <b>vostro fondamentale contributo per garantire il pieno  sfruttamento delle potenzialità delle nuove dotazioni e raggiungere i nostri obiettivi di migrazione</b>, valorizzando così al meglio gli investimenti fatti.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_10Ott/installazioni.png?raw=true" alt="" padding-bottom="20px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/25_10Ott/cartina.png?raw=true" alt="" padding-bottom="20px"></mj-image>
+        <mj-text>Di seguito il documento da consultare per una vista aggiornata delle progettualità per il rafforzamento della transazionalità.</mj-text>
+        
+<mj-text>
+Per garantire il pieno sfruttamento delle opportunità offerte dalle nuove installazioni, è necessaria la collaborazione di tutti perché siano sempre presidiati i caricamenti al fine di evitare fermi macchina e incentivare i clienti ad un utilizzo regolare e assiduo delle dotazioni self.</mj-text>
+        <mj-button background-color="#009969" inner-padding="17px" border-radius="10px" width="100%" font-weight="normal" font-size="18px" href="https://bpergroup.sharepoint.com/:b:/s/m365-dg-27799/EZ61DS8gIglNlgorlHuo9hQBtHCvLEU3IC06UGL6gpNncA?e=60bJKn">Scarica il documento</mj-button>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/DR/PrelievoCardless.png?raw=true" alt="Accesso a Cassa Smart, anche senza carta." padding="0" padding-top="30px"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
