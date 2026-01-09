@@ -1,0 +1,86 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px" background-color="#fff">
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true" alt="BPER" padding="32px 0" width="140px"></mj-image>
+
+        <mj-image src="" alt="" padding="0"></mj-image>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+
+        <mj-text color="#009969" font-size="24px" font-weight="bold">Cari Direttori,</mj-text>
+
+        <mj-text>Nelle prossime settimane BPER compirà un passaggio decisivo nel percorso di evoluzione del Corporate Banking.</mj-text>
+
+        <mj-text>A febbraio lanceremo B:Digital Corporate, la nuova piattaforma che rappresenta la soluzione target per la gestione operativa e finanziaria delle imprese corporate del Gruppo.</mj-text>
+
+        <mj-text>Non si tratta di un semplice cambio di strumento, ma delle fondamenta su cui costruire la value proposition Corporate di BPER nei prossimi anni.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column padding="32px" background-color="#E1EDED" border-radius="30px">
+
+        <mj-text color="#009969" font-size="24px" font-weight="bold">Per governare correttamente questa transizione, abbiamo definito una roadmap chiara:</mj-text>
+
+        <mj-text color="#005157">
+          <ul>
+            <li>da lunedì verrà inibita la vendita di Smart CBI, per concentrare le nuove attivazioni su B:Digital Corporate e creare una prima base di clienti early adopter
+            </li>
+            <li>dal 16 febbraio, Smart CBI sarà definitivamente chiuso a catalogo
+            </li>
+            <li>
+              da marzo, partirà la migrazione progressiva dei clienti verso la nuova piattaforma</li>
+          </ul>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+
+        <mj-text padding-top="0">
+          Questa scelta è indispensabile per:
+          <ul>
+            <li>evitare nuove attivazioni su una soluzione destinata al phase-out
+
+            </li>
+            <li>garantire continuità operativa durante la migrazione
+
+            </li>
+            <li>
+              accompagnare clienti e strutture verso il nuovo modello in modo ordinato e sostenibile
+            </li>
+          </ul>
+        </mj-text>
+
+        <mj-text>B:Digital Corporate nasce con un set funzionale essenziale, ma è pensata per evolvere rapidamente: già a metà febbraio è previsto un primo ampliamento significativo, mentre ad aprile verrà raggiunta la copertura completa rispetto a Smart CBI.</mj-text>
+
+        <mj-text>In questa fase è fondamentale che il messaggio sia chiaro e coerente su tutto il territorio: B:Digital Corporate è la piattaforma su cui stiamo costruendo il futuro del Corporate Banking BPER.</mj-text>
+
+        <mj-text>Vi ringrazio fin da ora per il supporto e l’allineamento su un passaggio che richiede visione, responsabilità e spirito di squadra.
+        </mj-text>
+
+        <mj-text>Un caro saluto,</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
