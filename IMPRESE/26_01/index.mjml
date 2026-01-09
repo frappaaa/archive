@@ -21,11 +21,11 @@
 
         <mj-text color="#009969" font-size="24px" font-weight="bold">Cari Direttori,</mj-text>
 
-        <mj-text>Nelle prossime settimane BPER compirà un passaggio decisivo nel percorso di evoluzione del Corporate Banking.</mj-text>
+        <mj-text>Nelle prossime settimane BPER compirà un passaggio <b>decisivo</b> nel percorso di evoluzione del Corporate Banking.</mj-text>
 
-        <mj-text>A febbraio lanceremo B:Digital Corporate, la nuova piattaforma che rappresenta la soluzione target per la gestione operativa e finanziaria delle imprese corporate del Gruppo.</mj-text>
+        <mj-text>A febbraio lanceremo <b>B:Digital Corporate</b>, la nuova piattaforma che rappresenta la <b>soluzione target</b> per la gestione operativa e finanziaria delle imprese corporate del Gruppo.</mj-text>
 
-        <mj-text>Non si tratta di un semplice cambio di strumento, ma delle fondamenta su cui costruire la value proposition Corporate di BPER nei prossimi anni.</mj-text>
+        <mj-text>Non si tratta di un semplice cambio di strumento, ma delle <b>fondamenta su cui costruire la value proposition Corporate di BPER nei prossimi anni</b>.</mj-text>
 
       </mj-column>
     </mj-section>
@@ -74,7 +74,7 @@
         </mj-text>
 
         <mj-text>Un caro saluto</mj-text>
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2010mil/Banner%20Futuro.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/b46e2916566ea0ff0b429c3c083d137750218168/Banner_Futuro.png?raw=true"></mj-image>
 
       </mj-column>
     </mj-section>
