@@ -12,7 +12,7 @@
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true" alt="BPER" padding="32px 0" width="140px"></mj-image>
 
-        <mj-image src="" alt="" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/c572ee462edf41b91cf4b266ac2fd196e0057e3b/IMPRESE/26_01/Header.png?raw=true" alt="" padding="0"></mj-image>
 
       </mj-column>
     </mj-section>
@@ -30,18 +30,18 @@
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
-      <mj-column padding="32px" background-color="#E1EDED" border-radius="30px">
+      <mj-column padding="24px" background-color="#E1EDED" border-radius="30px">
 
         <mj-text color="#009969" font-size="24px" font-weight="bold">Per governare correttamente questa transizione, abbiamo definito una roadmap chiara:</mj-text>
 
         <mj-text color="#005157">
           <ul>
-            <li>da lunedì verrà inibita la vendita di Smart CBI, per concentrare le nuove attivazioni su B:Digital Corporate e creare una prima base di clienti early adopter
+            <li><b>da lunedì verrà inibita la vendita di Smart CBI,</b> per concentrare le nuove attivazioni su B:Digital Corporate e creare una prima base di clienti early adopter
             </li>
-            <li>dal 16 febbraio, Smart CBI sarà definitivamente chiuso a catalogo
+            <li><b>dal 16 febbraio</b>, Smart CBI sarà definitivamente chiuso a catalogo
             </li>
             <li>
-              da marzo, partirà la migrazione progressiva dei clienti verso la nuova piattaforma</li>
+              <b>da marzo</b>, partirà la migrazione progressiva dei clienti verso la nuova piattaforma</li>
           </ul>
         </mj-text>
 
@@ -66,14 +66,15 @@
           </ul>
         </mj-text>
 
-        <mj-text>B:Digital Corporate nasce con un set funzionale essenziale, ma è pensata per evolvere rapidamente: già a metà febbraio è previsto un primo ampliamento significativo, mentre ad aprile verrà raggiunta la copertura completa rispetto a Smart CBI.</mj-text>
+        <mj-text>B:Digital Corporate nasce con un set funzionale essenziale, ma è <b>pensata per evolvere rapidamente</b>: già a metà febbraio è previsto un primo ampliamento significativo, mentre ad aprile verrà raggiunta la copertura completa rispetto a Smart CBI.</mj-text>
 
-        <mj-text>In questa fase è fondamentale che il messaggio sia chiaro e coerente su tutto il territorio: B:Digital Corporate è la piattaforma su cui stiamo costruendo il futuro del Corporate Banking BPER.</mj-text>
+        <mj-text>In questa fase è fondamentale che il messaggio sia <b>chiaro</b> e <b>coerente</b> su tutto il territorio: B:Digital Corporate è la piattaforma su cui stiamo costruendo il futuro del Corporate Banking BPER.</mj-text>
 
         <mj-text>Vi ringrazio fin da ora per il supporto e l’allineamento su un passaggio che richiede visione, responsabilità e spirito di squadra.
         </mj-text>
 
-        <mj-text>Un caro saluto,</mj-text>
+        <mj-text>Un caro saluto</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/PagaPoi%2010mil/Banner%20Futuro.png?raw=true"></mj-image>
 
       </mj-column>
     </mj-section>
