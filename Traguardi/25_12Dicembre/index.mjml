@@ -1,6 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
+
       <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
       <mj-section background-color="#fff" />
     </mj-attributes>
@@ -8,36 +9,62 @@
   <mj-body max-width="640px" background-color="#F5F7FA" width="660px">
     <mj-section background-color="#fff" padding="0px">
       <mj-column padding="30px 0 20px 0">
+
         <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/00-LOGHI/BPER.png" width="104px" alt="BPER"></mj-image>
+
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/Header.png?raw=true" alt="I numeri della nostra evoluzione digitale." padding="0"></mj-image>
+
       </mj-column>
     </mj-section>
     <mj-section padding="0 20px">
       <mj-column>
+
         <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>iniziamo quest’ultimo mese del 2025 condividendo i risultati raggiunti a novembre.</mj-text><mj-text>Abbiamo superato i <b>350 milioni di euro</b> di erogato tramite i canali digitali, un risultato che rappresenta quasi il <b>20%</b> della produzione complessiva della Banca e conferma la forza del digitale nel nostro modello di business.</mj-text>
-        <mj-text>Sul fronte dell’acquisizione, <b>quasi 65.000 nuovi clienti</b> hanno scelto conti e carte attraverso i canali digitali, contribuendo a <b>oltre il 27%</b> dell’acquisizione totale.</mj-text>
-        <mj-text>Abbiamo a disposizione tutti gli strumenti commerciali per raggiungere i nostri obiettivi: l’operazione a premi <b>Teen che fino al 31/12 regala un braccialetto Tapster</b>, la promo <b>carte di credito con canone azzerato il primo anno e cashback, </b> il <b> preammortamento gratuito di 90 giorni sul Prestito</b> Smart digitale,  solo per citarne alcune.</mj-text>
+        <mj-text>il 2025 ha segnato un punto di svolta: il canale digitale è diventato ancora di più un motore strategico, accelerando il raggiungimento degli obiettivi e aprendo nuove opportunità.</mj-text>
+
+        <mj-text>
+          Nel mese di dicembre abbiamo <b>superato i 380 milioni di euro di erogato</b> tra prestiti e PagaPoi, contribuendo quasi per il <b>20%</b> alla produzione complessiva della Banca. Anche sul fronte acquisition abbiamo dato un <b>boost importante con quasi 59.000 conti e più di 12.000 carte</b> sottoscritti in digitale, un risultato che rappresenta oltre il <b>27%</b> dell’acquisizione totale.</mj-text>
+
+        <mj-text>
+          Le vendite dai canali digitali sono <b>cresciute esponenzialmente</b> in ogni area di business: rispetto al 2024, sono quasi <b>triplicate per il comparto lending e quadruplicate per il comparto wealth&insurance</b>, mentre per <b>l’acquisition</b> abbiamo registrato un incremento di <b>oltre il 30%</b>.</mj-text>
+
+        <mj-text>
+          Ora siamo pronti a ripartire nel modo migliore, con tutte le leve per iniziare l’anno con slancio: dalle nuove <b>promozioni sulle carte di credito Prime e Premium</b>, alla <b>promo sul Prestito Smart</b>, fino a quella dedicata a <b>UnipolMove</b>. </mj-text>
+
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiOFM.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiLending.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiUnipolMove.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiKPI.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiCarteSostituzione.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiCarteVendita.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiKYC.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiPolizze.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiMifid.png?raw=true" alt=""></mj-image>
+
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/25_12Dicembre/datiWealth.png?raw=true" alt=""></mj-image>
+
         <mj-text>Entriamo nel 2026 con entusiasmo e visione, pronti a trasformare le sfide in opportunità. Il digitale non è solo un canale, ma il motore che ci guiderà verso nuove conquiste e innovazione. Grazie per tutto ciò che costruiremo insieme: il meglio deve ancora venire.</mj-text>
 
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
+
         <mj-image padding="40px 20px 80px 20px" src="https://raw.githubusercontent.com/frappaaa/archive/main/bottomLogo.png" alt="BPER"></mj-image>
+
       </mj-column>
     </mj-section>
   </mj-body>
