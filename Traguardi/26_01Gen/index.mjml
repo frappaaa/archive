@@ -24,18 +24,15 @@
     <mj-section padding="0 20px">
       <mj-column>
 
-        <mj-text color="#00ae65" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
+        <mj-text color="#005157" padding-top="0"><b>Care colleghe e cari colleghi,</b></mj-text>
 
-        <mj-text>il 2025 ha segnato un punto di svolta: il canale digitale è diventato ancora di più un motore strategico, accelerando il raggiungimento degli obiettivi e aprendo nuove opportunità.</mj-text>
-
-        <mj-text>
-          Nel mese di dicembre abbiamo <b>superato i 380 milioni di euro di erogato</b> tra prestiti e PagaPoi, contribuendo quasi per il <b>20%</b> alla produzione complessiva della Banca. Anche sul fronte acquisition abbiamo dato un <b>boost importante con quasi 59.000 conti e più di 12.000 carte</b> sottoscritti in digitale, un risultato che rappresenta oltre il <b>27%</b> dell’acquisizione totale.</mj-text>
+        <mj-text>i risultati di gennaio confermano la solidità di un percorso che sta rafforzando un modello sempre più integrato, nel quale <b>la relazione con il cliente è al centro ed è sostenuta dal lavoro congiunto tra rete, digitale e FOL</b>. Un sistema in cui canali, competenze e strumenti si integrano in modo naturale per generare valore.</mj-text>
 
         <mj-text>
-          Le vendite dai canali digitali sono <b>cresciute esponenzialmente</b> in ogni area di business: rispetto al 2024, sono quasi <b>triplicate per il comparto lending e quadruplicate per il comparto wealth&insurance</b>, mentre per <b>l’acquisition</b> abbiamo registrato un incremento di <b>oltre il 30%</b>.</mj-text>
+          In questo contesto si inseriscono i risultati raggiunti insieme a gennaio: <b>oltre 38 milioni di euro di erogato da canale digitale</b> tra Prestiti e PagaPoi e un <b>contributo significativo all’acquisition, con più di 5.000 conti e 400 carte</b>. Numeri che rappresentano <b>quasi il 30% della produzione complessiva della Banca</b> nei due comparti e che raccontano l’efficacia di un modello omnicanale che funziona quando tutti i punti di contatto collaborano.</mj-text>
 
         <mj-text>
-          Ora siamo pronti a ripartire nel modo migliore, con tutte le leve per iniziare l’anno con slancio: dalle nuove <b>promozioni sulle carte di credito Prime e Premium</b>, alla <b>promo sul Prestito Smart</b>, fino a quella dedicata a <b>UnipolMove</b>. </mj-text>
+          A supporto di questo lavoro congiunto, sono attive importanti leve commerciali, pensate per accompagnare e valorizzare la relazione in logica omnicanale: la <b>promo sul Prestito Smart</b> con tasso all’8,29%, le carte di credito <b>Prime e Premium con primo anno di canone gratuito</b> e la <b>polizza UniSalute Sorriso</b> con sconto del 10% sul premio finale.</mj-text>
 
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"><b>Ecco qualche dato</b></mj-text>
 
@@ -49,8 +46,6 @@
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_01Gen/datiCarteSostituzione.png?raw=true" alt=""></mj-image>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_01Gen/datiCarteVendita.png?raw=true" alt=""></mj-image>
-
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_01Gen/datiKYC.png?raw=true" alt=""></mj-image>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_01Gen/datiPolizze.png?raw=true" alt=""></mj-image>
@@ -59,7 +54,9 @@
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_01Gen/datiWealth.png?raw=true" alt=""></mj-image>
 
-        <mj-text>Entriamo nel 2026 con entusiasmo e visione, pronti a trasformare le sfide in opportunità. Il digitale non è solo un canale, ma il motore che ci guiderà verso nuove conquiste e innovazione. Grazie per tutto ciò che costruiremo insieme: il meglio deve ancora venire.</mj-text>
+        <mj-text>Questi risultati rappresentano l’evoluzione naturale del nostro modo di lavorare: <b>processi più semplici</b>, <b>tempi ridotti</b> e maggior <b>autonomia</b> per i clienti, sempre accompagnati dalla qualità della <b>consulenza</b> che caratterizza il nostro modo di fare banca.</mj-text>
+        
+        <mj-text>Proseguiamo con slancio, consapevoli dell’importanza di partire con il passo giusto per raggiungere i nostri obiettivi. </mj-text>
 
         <mj-image alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato." src="https://raw.githubusercontent.com/frappaaa/archive/main/Traguardi/24_05Mag/bannerPromo.png"></mj-image>
 
