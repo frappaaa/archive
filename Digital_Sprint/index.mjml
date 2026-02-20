@@ -12,72 +12,26 @@
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true" alt="BPER" padding="32px 0" width="140px"></mj-image>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/c572ee462edf41b91cf4b266ac2fd196e0057e3b/IMPRESE/26_01/Header.png?raw=true" alt="" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/3f44cc1ae69b97c8ee793b2624bfdb9ba744bda6/Digital_Sprint/Header.png?raw=true" alt="" padding="0"></mj-image>
 
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
 
-        <mj-text color="#009969" font-size="24px" font-weight="bold">Cari Direttori,</mj-text>
+        <mj-text color="#009969" font-size="24px" font-weight="bold">Gentili colleghe e gentili colleghi,</mj-text>
 
-        <mj-text>Nelle prossime settimane BPER compirà un passaggio <b>decisivo</b> nel percorso di evoluzione del Corporate Banking.</mj-text>
+        <mj-text>siamo lieti di informarvi che sono state individuate le filiali che parteciperanno al Workshop previsto nell’ambito dell’iniziativa <b>Digital Sprint</b>, svoltasi dal <b>1° novembre al 31 dicembre 2025</b>.</mj-text>
 
-        <mj-text>A febbraio lanceremo <b>B:Digital Corporate</b>, la nuova piattaforma che rappresenta la <b>soluzione target</b> per la gestione operativa e finanziaria delle imprese corporate del Gruppo.</mj-text>
+        <mj-text>Alle filiali all’interno delle rispettive Direzioni Regionali sarà riservato un Workshop di formazione, realizzato in collaborazione con Mastercard, cui farà seguito una cena. Per tre delle filiali è previsto un Workshop formativo, che si svolgerà nel corso di un weekend.</mj-text>
 
-        <mj-text>Non si tratta di un semplice cambio di strumento, ma delle <b>fondamenta su cui costruire la value proposition Corporate di BPER nei prossimi anni</b>.</mj-text>
+        <mj-text>Nelle prossime settimane verranno condivisi tutti i dettagli operativi relativi all’organizzazione degli eventi e alle convocazioni, che saranno definiti in coordinamento con le Segreterie di Direzione.</br>Vi ringraziamo fin d’ora per la collaborazione e per il supporto nella diffusione delle informazioni presso i vostri team. Desideriamo esprimere il nostro più sincero apprezzamento per il risultato raggiunto e per il contributo determinante al successo dell’iniziativa.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/3f44cc1ae69b97c8ee793b2624bfdb9ba744bda6/Digital_Sprint/mappa.png?raw=true"></mj-image>
 
-      </mj-column>
-    </mj-section>
-    <mj-section padding-top="0">
-      <mj-column padding="24px" background-color="#E1EDED" border-radius="30px">
-
-        <mj-text color="#009969" font-size="24px" font-weight="bold">Per governare correttamente questa transizione, abbiamo definito una roadmap chiara:</mj-text>
-
-        <mj-text color="#005157">
-          <ul>
-            <li><b>da lunedì verrà inibita la vendita di Smart CBI,</b> per concentrare le nuove attivazioni su B:Digital Corporate e creare una prima base di clienti early adopter
-            </li>
-            <li><b>dal 16 febbraio</b>, Smart CBI sarà definitivamente chiuso a catalogo
-            </li>
-            <li>
-              <b>da marzo</b>, partirà la migrazione progressiva dei clienti verso la nuova piattaforma</li>
-          </ul>
-        </mj-text>
-
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column>
-
-        <mj-text padding-top="0">
-          Questa scelta è indispensabile per:
-          <ul>
-            <li>evitare nuove attivazioni su una soluzione destinata al phase-out
-
-            </li>
-            <li>garantire continuità operativa durante la migrazione
-
-            </li>
-            <li>
-              accompagnare clienti e strutture verso il nuovo modello in modo ordinato e sostenibile
-            </li>
-          </ul>
-        </mj-text>
-
-        <mj-text>B:Digital Corporate nasce con un set funzionale essenziale, ma è <b>pensata per evolvere rapidamente</b>: già a metà febbraio è previsto un primo ampliamento significativo, mentre ad aprile verrà raggiunta la copertura completa rispetto a Smart CBI.</mj-text>
-
-        <mj-text>In questa fase è fondamentale che il messaggio sia <b>chiaro</b> e <b>coerente</b> su tutto il territorio: B:Digital Corporate è la piattaforma su cui stiamo costruendo il futuro del Corporate Banking BPER.</mj-text>
-
-        <mj-text>Vi ringrazio fin da ora per il supporto e l’allineamento su un passaggio che richiede visione, responsabilità e spirito di squadra.
-        </mj-text>
-
-        <mj-text>Un caro saluto</mj-text>
         <mj-image src="https://github.com/frappaaa/archive/blob/b46e2916566ea0ff0b429c3c083d137750218168/Banner_Futuro.png?raw=true"></mj-image>
-
       </mj-column>
     </mj-section>
+    
     <mj-section>
       <mj-column>
 
