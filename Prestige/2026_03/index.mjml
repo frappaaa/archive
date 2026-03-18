@@ -30,6 +30,7 @@
         </mj-text>
 
         <mj-text>Da aprile, inoltre, sarà disponibile una promo esclusiva che ne rafforza ulteriormente l’attrattività: <b>canone azzerato il primo anno (invece di 480€), dimezzato dal secondo e gratuità mantenuta negli anni successivi per i clienti con almeno 24.000€ di transato annuo.</b></mj-text>
+      <mj-text padding-top="0">Un'occasione che rende Prestige una proprosta ancora più competitiva e perfettamente allineata alle aspettative della clientela più evoluta.</mj-text>
 
       </mj-column></mj-section>
     <mj-section><mj-column background-color="#fff" border-radius="20px" border="1px solid #000000" padding="24px">
@@ -51,9 +52,7 @@
       </mj-column></mj-section>
     <mj-section><mj-column>
 
-        <mj-text>Prestige concentra un insieme di vantaggi, condizioni e opportunità che la rendono una proposta ancora più competitiva, unica e perfettamente allineata alle aspettative della clientela più evoluta.</mj-text>
-
-        <mj-text>Valorizziamo queste leve e proponiamola ai clienti che possono apprezzarne l’esperienza distintiva.</mj-text>
+        <mj-text>Prestige è l’occasione per offrire ai nostri migliori clienti un’esperienza davvero distintiva: proponiamola come scelta di valore per chi cerca standard di livello superiore.</mj-text>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Prestige/2026_03/bannerEnd.png?raw=true" alt="Supera le aspettative dei tuoi clienti, offri un’esperienza Prestige."></mj-image>
 
