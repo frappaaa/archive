@@ -26,11 +26,9 @@
 
         <mj-text font-weight="bold" font-size="24px">Un modello di pricing integrato e vantaggioso</mj-text>
 
-        <mj-text>L’inserimento di Prestige nel modello modulare del Conto On Demand rende l’offerta ancora più flessibile, grazie a una <b>gestione del canone mensilizzata</b> e integrata nel conto.
+        <mj-text>Prestige è ora inserita nel modello modulare del Conto On Demand rendendo la proposta della carta ancora più semplice e flessibile.<br></br>
+         <b>Il canone della carta viene infatti mensilizzato a 40€</b> offrendo ai nostri clienti la possibilità di accedere a un prodotto di elevato standing in modo flessibile e perfettamente integrato.
         </mj-text>
-
-        <mj-text>Da aprile, inoltre, sarà disponibile una promo esclusiva che ne rafforza ulteriormente l’attrattività: <b>canone azzerato il primo anno (invece di 480€), dimezzato dal secondo e gratuità mantenuta negli anni successivi per i clienti con almeno 24.000€ di transato annuo.</b></mj-text>
-      <mj-text padding-top="0">Un'occasione che rende Prestige una proprosta ancora più competitiva e perfettamente allineata alle aspettative della clientela più evoluta.</mj-text>
 
       </mj-column></mj-section>
     <mj-section><mj-column background-color="#fff" border-radius="20px" border="1px solid #000000" padding="24px">
