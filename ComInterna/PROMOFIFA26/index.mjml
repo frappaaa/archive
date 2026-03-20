@@ -62,9 +62,7 @@ Un set integrato pensato per aumentare la visibilità, facilitare la conversione
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/bannerPromo.png?raw=true" alt="Supera le aspettative dei tuoi clienti, offri un’esperienza Prestige."></mj-image>
 
-        <mj-text font-style="italic" font-weight="800" padding-bottom="0">Maurice Lisi</mj-text>
-
-        <mj-text font-size="16px" padding-top="0">Direzione Digital Business</mj-text>
+      
 
       </mj-column>
     </mj-section>
