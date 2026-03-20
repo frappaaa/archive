@@ -12,9 +12,9 @@
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true" width="120px"></mj-image>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Header.png?raw=true" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Header.png?raw=true" padding="20px 0"></mj-image>
 
-        <mj-text font-weight="bold" font-size="26px">Gentile Collega,</mj-text>
+        <mj-text font-weight="bold" font-size="26px" color="#009969">Gentile Collega,</mj-text>
 
         <mj-text>Carta di Credito Prestige è dedicata ai clienti che cercano un’<b>esperienza di livello superiore</b> grazie ad un ecosistema di servizi d’élite.</mj-text>
 
