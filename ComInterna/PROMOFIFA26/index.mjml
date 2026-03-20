@@ -16,41 +16,49 @@
 
         <mj-text font-weight="bold" font-size="26px" color="#009969">Gentile Collega,</mj-text>
 
-        <mj-text>Carta di Credito Prestige è dedicata ai clienti che cercano un’<b>esperienza di livello superiore</b> grazie ad un ecosistema di servizi d’élite.</mj-text>
-
-        <mj-text>
-          Dal <b>concierge 24/7</b> all’accesso alle lounge internazionali con <b>Priority Pass™</b>, dalle corsie <b>Fast Track</b> negli aeroporti alle coperture viaggio e all’assistenza sanitaria dedicate: un insieme armonico di vantaggi che rende ogni spostamento e ogni momento di utilizzo più semplice, fluido ed esclusivo.</mj-text>
-
-      </mj-column></mj-section>
-    <mj-section><mj-column background-color="#F0F4F5" border-radius="20px" border="1px solid #000000" padding="24px">
-
-        <mj-text font-weight="bold" font-size="24px">Un modello di pricing integrato e vantaggioso</mj-text>
-
-        <mj-text>Prestige è ora inserita nel modello modulare del Conto On Demand rendendo la proposta della carta ancora più semplice e flessibile.<br></br>
-         <b>Il canone della carta viene infatti mensilizzato a 40€</b> offrendo ai nostri clienti la possibilità di accedere a un prodotto di elevato standing in modo flessibile e perfettamente integrato.
+        <mj-text>abbiamo l’opportunità di valorizzare <b>un asset unico, globale e di assoluto prestigio</b>: la Finale della FIFA World Cup 2026™. Un evento irripetibile che diventa ora il fulcro della nuova iniziativa “<b>Vinci la finale dei Mondiali, grazie a Visa</b>” dedicata ai nuovi clienti che aprono online un conto BPER On Demand.
         </mj-text>
 
-      </mj-column></mj-section>
-    <mj-section><mj-column background-color="#fff" border-radius="20px" border="1px solid #000000" padding="24px">
+        <mj-text>
+          Questa leva esclusiva eleva in modo significativo il valore percepito della nostra proposta digitale e rafforza la capacità competitiva dell’offerta On Demand, posizionando BPER come banca capace di integrare <b>innovazione, esperienze premium</b> e un approccio omnicanale.</mj-text>
 
-        <mj-text font-weight="bold" font-size="24px">Una chiave di accesso a esperienze esclusive</mj-text>
+      </mj-column></mj-section>
+    <mj-section><mj-column background-color="#009969" border-radius="20px" border="1px solid #ffffff" padding="24px">
+
+        <mj-text font-weight="bold" font-size="24px" color="#ffffff">L’iniziativa in breve</mj-text>
 
         <mj-table>
           <tr>
-            <td style="font-size:20px; line-height:26px;">Per dare valore a chi sceglie Prestige, è in arrivo ad aprile un’iniziativa speciale:
-              <b>in palio 4 soggiorni a Venezia in occasione della Mostra Internazionale d’Arte Cinematografica.</b>.
+            <td>
+              <p style="color:#ffffff; font-size:20px;"><b>Periodo</b>: 20 marzo – 30 aprile 2026</p>
             </td>
-            <td><img src="https://github.com/frappaaa/archive/blob/main/Prestige/2026_03/mostraVenezia.png?raw=true" width="160px" /></td>
+            <td><img src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Header.png?raw=true" style="width:193px;"/></td>
+          </tr>
+          <tr>
+            <td>
+              <p style="color:#ffffff; font-size:20px;"><b>Meccanismo</b>: partecipazione automatica aprendo un conto BPER On Demand con carta Visa</p>
+            </td>
+          </tr>
+        </mj-table>
+      <mj-table>
+          <tr>
+            <td><img src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Header.png?raw=true" style="width:193px;"/></td>
+            <td>
+              <p style="color:#ffffff; font-size:20px;"><b>Premio</b>Premio: 3 pacchetti hospitality per due persone alla Finale del 19 luglio a New York, con volo, hotel, VIP ticket, eventi Visa e servizi hospitality  dedicati</p>
+            </td>
+            
           </tr>
         </mj-table>
 
-        <mj-text>Un'esperienza immersiva nel glamour della Mostra, dove l’accoglienza più raffinata incontra l’emozione del red carpet e l’atmosfera esclusiva delle anteprime.
-          Un’esperienza in perfetta sintonia con il mondo Prestige: unica, riservata, irripetibile.</mj-text>
-
       </mj-column></mj-section>
     <mj-section><mj-column>
+      <mj-text><b>Spinta acquisition e comunicazione integrata</b></mj-text>
+      <mj-text>L’iniziativa sarà accompagnata da un <b>piano di comunicazione</b> dedicato, che sfrutterà i canali proprietari di BPER e i canali a pagamento digitali per supportare la <b>promozione</b> e la <b>sottoscrizione online</b>.
+Un set integrato pensato per aumentare la visibilità, facilitare la conversione e rafforzare la complementarità tra Rete, Digitale e Filiale Online.</mj-text>
+      <mj-text padding-top="32px"><b>Un’opportunità da valorizzare</b></mj-text>
+      <mj-text>Siamo davanti a un’opportunità rara: un asset globale di grande prestigio, un posizionamento forte e un piano di comunicazione che massimizza la spinta. Ora serve il contributo di tutti noi per trasformare questa iniziativa in un risultato concreto e tangibile.</mj-text>
 
-        <mj-text>Prestige è l’occasione per offrire ai nostri migliori clienti un’esperienza davvero distintiva: proponiamola come scelta di valore per chi cerca standard di livello superiore.</mj-text>
+        
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/Prestige/2026_03/bannerEnd.png?raw=true" alt="Supera le aspettative dei tuoi clienti, offri un’esperienza Prestige."></mj-image>
 
