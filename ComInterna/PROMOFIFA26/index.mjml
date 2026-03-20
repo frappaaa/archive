@@ -1,0 +1,64 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="26px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true" width="120px"></mj-image>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Header.png?raw=true" padding="0"></mj-image>
+
+        <mj-text font-weight="bold" font-size="26px">Gentile Collega,</mj-text>
+
+        <mj-text>Carta di Credito Prestige è dedicata ai clienti che cercano un’<b>esperienza di livello superiore</b> grazie ad un ecosistema di servizi d’élite.</mj-text>
+
+        <mj-text>
+          Dal <b>concierge 24/7</b> all’accesso alle lounge internazionali con <b>Priority Pass™</b>, dalle corsie <b>Fast Track</b> negli aeroporti alle coperture viaggio e all’assistenza sanitaria dedicate: un insieme armonico di vantaggi che rende ogni spostamento e ogni momento di utilizzo più semplice, fluido ed esclusivo.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column background-color="#F0F4F5" border-radius="20px" border="1px solid #000000" padding="24px">
+
+        <mj-text font-weight="bold" font-size="24px">Un modello di pricing integrato e vantaggioso</mj-text>
+
+        <mj-text>Prestige è ora inserita nel modello modulare del Conto On Demand rendendo la proposta della carta ancora più semplice e flessibile.<br></br>
+         <b>Il canone della carta viene infatti mensilizzato a 40€</b> offrendo ai nostri clienti la possibilità di accedere a un prodotto di elevato standing in modo flessibile e perfettamente integrato.
+        </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column background-color="#fff" border-radius="20px" border="1px solid #000000" padding="24px">
+
+        <mj-text font-weight="bold" font-size="24px">Una chiave di accesso a esperienze esclusive</mj-text>
+
+        <mj-table>
+          <tr>
+            <td style="font-size:20px; line-height:26px;">Per dare valore a chi sceglie Prestige, è in arrivo ad aprile un’iniziativa speciale:
+              <b>in palio 4 soggiorni a Venezia in occasione della Mostra Internazionale d’Arte Cinematografica.</b>.
+            </td>
+            <td><img src="https://github.com/frappaaa/archive/blob/main/Prestige/2026_03/mostraVenezia.png?raw=true" width="160px" /></td>
+          </tr>
+        </mj-table>
+
+        <mj-text>Un'esperienza immersiva nel glamour della Mostra, dove l’accoglienza più raffinata incontra l’emozione del red carpet e l’atmosfera esclusiva delle anteprime.
+          Un’esperienza in perfetta sintonia con il mondo Prestige: unica, riservata, irripetibile.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-text>Prestige è l’occasione per offrire ai nostri migliori clienti un’esperienza davvero distintiva: proponiamola come scelta di valore per chi cerca standard di livello superiore.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Prestige/2026_03/bannerEnd.png?raw=true" alt="Supera le aspettative dei tuoi clienti, offri un’esperienza Prestige."></mj-image>
+
+        <mj-text font-style="italic" font-weight="800" padding-bottom="0">Maurice Lisi</mj-text>
+
+        <mj-text font-size="16px" padding-top="0">Direzione Digital Business</mj-text>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
