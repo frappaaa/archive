@@ -30,21 +30,21 @@
         <mj-table>
           <tr>
             <td>
-              <p style="color:#ffffff; font-size:20px;"><b>Periodo</b>: 20 marzo – 30 aprile 2026</p>
+              <p style="color:#ffffff; font-size:20px;"><b>Periodo</b>: 20 marzo – 30 aprile 2026</p><p style="color:#ffffff; font-size:20px;"><b>Meccanismo</b>: partecipazione automatica aprendo un conto BPER On Demand con carta Visa</p>
             </td>
-            <td><img src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Header.png?raw=true" style="width:193px;"/></td>
+            <td><img src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/newYork.png?raw=true" style="width:193px;"/></td>
           </tr>
           <tr>
             <td>
-              <p style="color:#ffffff; font-size:20px;"><b>Meccanismo</b>: partecipazione automatica aprendo un conto BPER On Demand con carta Visa</p>
+              
             </td>
           </tr>
         </mj-table>
       <mj-table>
           <tr>
-            <td><img src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Header.png?raw=true" style="width:193px;"/></td>
+            <td><img src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Icon.png?raw=true" style="width:52px; padding-right:20px"/></td>
             <td>
-              <p style="color:#ffffff; font-size:20px;"><b>Premio</b>Premio: 3 pacchetti hospitality per due persone alla Finale del 19 luglio a New York, con volo, hotel, VIP ticket, eventi Visa e servizi hospitality  dedicati</p>
+              <p style="color:#ffffff; font-size:20px;"><b>Premio</b>: 3 pacchetti hospitality per due persone alla Finale del 19 luglio a New York, con volo, hotel, VIP ticket, eventi Visa e servizi hospitality  dedicati</p>
             </td>
             
           </tr>
@@ -52,15 +52,15 @@
 
       </mj-column></mj-section>
     <mj-section><mj-column>
-      <mj-text><b>Spinta acquisition e comunicazione integrata</b></mj-text>
+      <mj-text font-size="24px"><b>Spinta acquisition e comunicazione integrata</b></mj-text>
       <mj-text>L’iniziativa sarà accompagnata da un <b>piano di comunicazione</b> dedicato, che sfrutterà i canali proprietari di BPER e i canali a pagamento digitali per supportare la <b>promozione</b> e la <b>sottoscrizione online</b>.
 Un set integrato pensato per aumentare la visibilità, facilitare la conversione e rafforzare la complementarità tra Rete, Digitale e Filiale Online.</mj-text>
-      <mj-text padding-top="32px"><b>Un’opportunità da valorizzare</b></mj-text>
+      <mj-text padding-top="32px" font-size="24px"><b>Un’opportunità da valorizzare</b></mj-text>
       <mj-text>Siamo davanti a un’opportunità rara: un asset globale di grande prestigio, un posizionamento forte e un piano di comunicazione che massimizza la spinta. Ora serve il contributo di tutti noi per trasformare questa iniziativa in un risultato concreto e tangibile.</mj-text>
 
         
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/Prestige/2026_03/bannerEnd.png?raw=true" alt="Supera le aspettative dei tuoi clienti, offri un’esperienza Prestige."></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/bannerPromo.png?raw=true" alt="Supera le aspettative dei tuoi clienti, offri un’esperienza Prestige."></mj-image>
 
         <mj-text font-style="italic" font-weight="800" padding-bottom="0">Maurice Lisi</mj-text>
 
