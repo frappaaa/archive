@@ -16,9 +16,11 @@
 
         <mj-text font-weight="bold" font-size="26px" color="#009969">Gentile Collega,</mj-text>
 
-        <mj-text>abbiamo l’opportunità di valorizzare <b>un asset unico, globale e di assoluto prestigio</b>: la Finale della FIFA World Cup 2026™. Un evento irripetibile che diventa ora il fulcro della nuova iniziativa “<b>Vinci la finale dei Mondiali, grazie a Visa</b>” dedicata ai nuovi clienti che aprono online un conto BPER On Demand.
+        <mj-text>Oggi abbiamo l’opportunità di attivare una leva distintiva sul mercato: <b>un asset globale, unico per rilevanza e capacità di attrazione</b>, come la Finale FIFA World Cup 2026™.
         </mj-text>
-
+        <mj-text>Un’iniziativa, che si affianca a quella di Member Get Member già in corso, per rafforzare sinergicamente la nostra <b>capacità di acquisizione</b> e posizionare BPER su un territorio di <b>innovazione, esperienza e valore</b> per il cliente.</mj-text>
+<mj-text>“Vinci la Finale dei Mondiali, grazie a Visa” è l’iniziativa dedicata ai nuovi clienti che scelgono di entrare in BPER attraverso il conto On Demand.</mj-text>
+        <mj-text>Un progetto che integra <b>partnership strategiche, canali digitali e valore esperienziale</b>, rafforzando il nostro modello di acquisizione e il posizionamento competitivo della nostra offerta. Un’opportiunità per intercettare nuovi bisogni, utilizzando il digitale come leva di accesso e di attrazione.</mj-text>
         <mj-text>
           Questa leva esclusiva eleva in modo significativo il valore percepito della nostra proposta digitale e rafforza la capacità competitiva dell’offerta On Demand, posizionando BPER come banca capace di integrare <b>innovazione, esperienze premium</b> e un approccio omnicanale.</mj-text>
 
@@ -52,15 +54,16 @@
 
       </mj-column></mj-section>
     <mj-section><mj-column>
-      <mj-text font-size="24px"><b>Spinta acquisition e comunicazione integrata</b></mj-text>
-      <mj-text>L’iniziativa sarà accompagnata da un <b>piano di comunicazione</b> dedicato, che sfrutterà i canali proprietari di BPER e i canali a pagamento digitali per supportare la <b>promozione</b> e la <b>sottoscrizione online</b>.
-Un set integrato pensato per aumentare la visibilità, facilitare la conversione e rafforzare la complementarità tra Rete, Digitale e Filiale Online.</mj-text>
+      <mj-text font-size="24px"><b>Un piano integrato a supporto della crescita</b></mj-text>
+      <mj-text>L’iniziativa sarà supportata da un <b>piano di comunicazione</b> articolato sui canali digitali e proprietari, con l’obiettivo di massimizzare visibilità e conversione.</mj-text>
+      <mj-text>Un’azione che si inserisce in una logica di piena <b>integrazione tra Rete, Filiale Online e canali digitali</b>, per intercettare nuovi clienti e accompagnarli nel loro ingresso in banca.</mj-text>
       <mj-text padding-top="32px" font-size="24px"><b>Un’opportunità da valorizzare</b></mj-text>
-      <mj-text>Siamo davanti a un’opportunità rara: un asset globale di grande prestigio, un posizionamento forte e un piano di comunicazione che massimizza la spinta. Ora serve il contributo di tutti noi per trasformare questa iniziativa in un risultato concreto e tangibile.</mj-text>
+      <mj-text>Siamo davanti a un’opportunità concreta: un’iniziativa ad alto valore che può generare risultati tangibili in termini di acquisizione e posizionamento.</mj-text>
+      <mj-text><b>Il contributo di tutti sarà fondamentale per valorizzarne appieno il potenziale e trasformarla in un risultato concreto per la banca.</b></mj-text>
 
         
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/bannerPromo.png?raw=true" alt="Supera le aspettative dei tuoi clienti, offri un’esperienza Prestige."></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/bannerPromo.png?raw=true"></mj-image>
 
       
 
