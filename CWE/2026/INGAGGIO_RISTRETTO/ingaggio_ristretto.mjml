@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" max-width="640px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body max-width="640px">
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png" width="104px" alt="BPER"></mj-image>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_RISTRETTO/Header.png?raw=true" padding="0"></mj-image>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="4px 0">
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+
+        <mj-text padding="0">Ci siamo quasi: da domenica 19 sarai protagonista del passaggio a BPER!
+
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="20px" padding-left="34px" background-color="#E1F4ED" border-radius="30px" border="1px solid #B2C8CA">
+
+        <mj-text color="#009969" font-weight="bold">Cosa puoi fare ora:</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_RISTRETTO/Chat.png?raw=true" width="36px" align="left" padding="10px 0px 0px 14px"></mj-image>
+
+        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px"><b>Installare l'app Microsoft Teams sullo stesso smartphone dove utilizzerai l'app BPER.</b> Ti servirà per accedere alla stanza virtuale di test.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_RISTRETTO/Mail.png?raw=true" width="36px" align="left" padding="10px 20px 0 14px"></mj-image>
+
+        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px">Attendere l'arrivo della <b>mail con indicazioni per accedere alla tua stanza virtuale di test.</b> Una volta ricevuta ti basterà cliccare sul link e <b>compilare i campi Nome e Cognome</b> e cliccare su <b>Partecipa ora</b>.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_RISTRETTO/PC.png?raw=true" width="36px" align="left" padding="10px 20px 0 14px"></mj-image>
+
+        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px"><b>Accedere in anteprima al percorso di migrazione</b> delle tue credenziali verso i canali digitali BPER (se non l’hai già fatto).</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_RISTRETTO/Smartphone.png?raw=true" width="36px" align="left" padding="10px 20px 0 14px"></mj-image>
+
+        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px">Fare il <b>primo accesso all’app</b> e cominciare a <b>navigare con focus sugli ambiti su cui hai fornito la tua disponibilità.</b></mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0"><mj-column>
+
+        <mj-text>A questo <a href="https://www.bper.it/documents/d/bper/da_scrignointernetbanking" target="_blank" style="color:inherit; font-weight:bold;">link</a> puoi consultare le istruzioni utili su come migrare le tue attuali credenziali per accedere ai canali digitali.</mj-text>
+
+        <mj-text>Ancora grazie per la tua disponibilità.
+          <b><br>Il tuo contributo è fondamentale per l’evoluzione della nostra esperienza digitale! Ti aspettiamo.</br></b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section>
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

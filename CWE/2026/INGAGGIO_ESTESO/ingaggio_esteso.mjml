@@ -17,89 +17,48 @@
     <mj-section>
       <mj-column>
 
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/3aad6d6ac38bd15e6c57605b36ccc153e835fdec/CWE/2026/THANKYOU/HEADER.png" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_ESTESO/Header.png?raw=true" padding="0"></mj-image>
 
       </mj-column>
     </mj-section>
     <mj-section padding="4px 0">
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
 
-        <mj-text padding="0">Grazie per aver aderito al programma Family&Friends che ti consentirà di <b>accedere in anteprima ai servizi digitali BPER e alle soluzioni di pagamento.</b>
-          Potrai così <b>contribuire attivamente</b> alla fase di migrazione, facendo il <b>primo passo nel mondo digitale di BPER da protagonista</b>.</mj-text>
+        <mj-text padding="0">Ci siamo: da questo momento diventi protagonista del passaggio a BPER! 
+</mj-text>
 
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column padding="20px" padding-left="34px" background-color="#ffffff" border-radius="30px" border="1px solid #E1EDED">
-
-        <mj-table>
-          <tr>
-            <td><img src="https://raw.githubusercontent.com/frappaaa/archive/3aad6d6ac38bd15e6c57605b36ccc153e835fdec/CWE/2026/THANKYOU/mani_cuore.png" width="36px" /></td>
-            <td>
-              <p style="font-size:20px;color:#005157;"><b>Partecipare al Friends & Family significa:</b></p>
-            </td>
-          </tr>
-        </mj-table>
-
-        <mj-text padding="0" padding-bottom="14px" color="#005157"> </mj-text>
-
-        <mj-text padding="0 18px" color="#005157">
-          <ul style="padding:0;">
-            <li>vivere in anteprima il percorso di migrazione sui canali digitali: ottenere le credenziali, fare il primo accesso e iniziare a usare l’app;</li>
-            <li>utilizzare le carte per acquisti in negozio o online, prelievi e pos e condividerci l’esperienza;</li>
-            <li>contribuire con feedback utili all’evoluzione digitale dei nostri servizi.</li>
-          </ul>
-        </mj-text>
-
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0"><mj-column>
-
-        <mj-table>
-          <tr>
-            <td style="padding-right:20px"><img src="https://raw.githubusercontent.com/frappaaa/archive/3aad6d6ac38bd15e6c57605b36ccc153e835fdec/CWE/2026/THANKYOU/calendario.png" width="131px" /></td>
-            <td>
-              <p style="font-size:18px; color:#005157; font-family:Open Sans;"><b>L’attività si svolgerà <span style="color:#009969">nel pomeriggio di domenica 19 aprile</span>: ti comunicheremo via email quando potrai iniziare i test e ti daremo le istruzioni operative.</b></p>
-            </td>
-          </tr>
-        </mj-table>
-
-      </mj-column></mj-section>
+    
+    
     <mj-section>
       <mj-column padding="20px" padding-left="34px" background-color="#E1F4ED" border-radius="30px" border="1px solid #B2C8CA">
 
-        <mj-text><b><span style="color:#009969">Nel frattempo ti chiediamo di</span> compilare il form al seguente <a href="https://forms.cloud.microsoft/e/WRf0DbhEw1?origin=lprLink" target="_blank" style="color: inherit;">link</a> <span style="color:#009969">per</span>: </b></mj-text>
+        <mj-text color="#009969" font-weight="bold">Cosa puoi fare ora:</mj-text>
 
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/3aad6d6ac38bd15e6c57605b36ccc153e835fdec/CWE/2026/THANKYOU/Edit.png" width="36px" align="left" padding="10px 0px 0px 14px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_ESTESO/PC.png?raw=true" width="36px" align="left" padding="10px 0px 0px 14px"></mj-image>
 
-        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px"><b>Indicarci un indirizzo email personale a cui sarai raggiungibile domenica 19/4.</b></mj-text>
+        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px"><b>Accedere in anteprima al percorso di migrazione</b> delle tue credenziali verso i canali digitali BPER disponibile a questo <a href="https://migrazioneib.bpergroup.net/onboarding/" style="color:inherit; font-weight:bold;" target="_blank" >link</a></mj-text>
 
-        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/3aad6d6ac38bd15e6c57605b36ccc153e835fdec/CWE/2026/THANKYOU/mailCheck.png" width="36px" align="left" padding="10px 20px 0 14px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_ESTESO/Smartphone.png?raw=true" width="36px" align="left" padding="10px 20px 0 14px"></mj-image>
 
-        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px"><b>Indircarci gli ambiti in cui sei disponibile a fornirci il tuo contributo:</b></mj-text>
+        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px">Fare il <b>primo accesso all’app</b> e cominciare a <b>navigare con focus sugli ambiti su cui hai fornito la tua disponibilità</b> (i dettagli in allegato)</mj-text>
+         <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_ESTESO/Card.png?raw=true" width="36px" align="left" padding="10px 20px 0 14px"></mj-image>
 
-        <mj-text padding="0" padding-bottom="14px" color="#005157"> </mj-text>
+        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px"><b>Utilizzare le tue carte</b> per acquisti in negozio o online, prelievi e POS e <b>condividerci l’esperienza</b></mj-text>
+         <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_ESTESO/Phone.png?raw=true" width="36px" align="left" padding="10px 20px 0 14px"></mj-image>
 
-        <mj-text padding="0 0 0 40px" color="#005157" font-size="15px">
-          <ul style="padding:0;">
-            <li>Processo di migrazione e funzionamento dell’app</li>
-            <li>Operazioni dispositive: bonifici, bollettini, ricariche...
-            </li>
-            <li>Finanziamenti</li>
-            <li>Investimenti</li>
-            <li>Richiesta carte</li>
-            <li>Funzionamento carte: pagamenti, prelievi, e-commerce
-            </li>
-          </ul>
-        </mj-text>
+        <mj-text font-size="15px" padding="10px 20px 0 20px" line-height="20px">Farci avere i tuoi <b>feedback chiamando il numero dedicato 059 4242 e selezionando il tasto 6</b></mj-text>
+        <mj-text font-size="15px" padding="0px 0 0 20px" line-height="20px">NOTA BENE: il tasto  6 sarà dedicato solo a chi partecipa al programma  F&F: la selezione non sarà udibile dalla voce registrata, ma sarà operativa premendo il tasto 6.</mj-text>
+
+        
 
       </mj-column>
     </mj-section>
     <mj-section padding="0"><mj-column>
 
-        <mj-text>Farci avere i tuoi feedback sarà molto semplice: metteremo a disposizione un <b>numero telefonico dedicato</b> dove ci potrai comunicare l’esito dei tuoi test e segnalare eventuali anomalie.</mj-text>
 
-        <mj-text>A questo <a href="https://www.bper.it/documents/d/bper/da_scrignointernetbanking" target="_blank" style="color:inherit">link</a> puoi già trovare le istruzioni utili su come migrare le tue attuali credenziali per accedere ai canali digitali.</mj-text>
+        <mj-text>A questo <a href="https://www.bper.it/documents/d/bper/da_scrignointernetbanking" target="_blank" style="color:inherit; font-weight:bold;">link</a> puoi consultare le istruzioni utili su come migrare le tue attuali credenziali per accedere ai canali digitali.</mj-text>
 
         <mj-text>Ancora grazie per la tua disponibilità.
           <b><br>Il tuo contributo è fondamentale per l’evoluzione della nostra esperienza digitale! Ti aspettiamo.</br></b></mj-text>
