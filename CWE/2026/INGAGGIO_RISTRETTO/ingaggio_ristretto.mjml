@@ -34,7 +34,7 @@
     <mj-section>
       <mj-column padding="20px" padding-left="34px" background-color="#E1F4ED" border-radius="30px" border="1px solid #B2C8CA">
 
-        <mj-text color="#009969" font-weight="bold">Cosa puoi fare ora:</mj-text>
+        <mj-text color="#009969" font-weight="bold">Cosa dovrai fare:</mj-text>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/CWE/2026/INGAGGIO_RISTRETTO/Chat.png?raw=true" width="36px" align="left" padding="10px 0px 0px 14px"></mj-image>
 
