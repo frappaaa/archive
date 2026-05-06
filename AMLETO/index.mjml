@@ -9,7 +9,7 @@
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0">
 
-      <mj-image src="https://github.com/frappaaa/archive/blob/94f2dd3d001df8138b838d372007ac05a69a0fd4/AMLETO/HEader.png?raw=true" padding="0" alt=""></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/d782cff55ff6cb042c9e21328aa30b0bd8f03ec9/AMLETO/Header.png?raw=true" padding="0" alt=""></mj-image>
     </mj-section>
 
     <mj-section background-color="#fff" border-radius="24px">
@@ -21,7 +21,7 @@
         <mj-text>
           L’obiettivo è condividere in modo rapido le casistiche più frequenti riscontrate dai clienti e le azioni da attivare per la loro soluzione.</mj-text>
 
-        <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Pillola del giorno:
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
           <br><b>Primo Accesso per i clienti che usano la Token</b></br></mj-text>
 
         <mj-text>La prima pillola è dedicata al <b>primo accesso per i clienti che usano la Token app come metodo di autenticazione.</b></mj-text>
