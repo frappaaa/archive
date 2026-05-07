@@ -6,89 +6,140 @@
       <mj-section background-color="#ffffff" />
     </mj-attributes>
   </mj-head>
-  <mj-body background-color="#fff" border-radius="24px">
+  <mj-body background-color="#fff">
     <mj-section padding="24px 0 0 0">
 
-      <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
+      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image></mj-column>
     </mj-section>
 
     <mj-section background-color="#fff" border-radius="24px">
       <mj-column>
 
         <mj-text>Gentile Collega,<br>
-          da oggi ti invieremo brevi pillole operative quotidiane per supportarti nella gestione dei clienti ex Banca Popolare di Sondrio durante il primo accesso e utilizzo di <b>B:Digital Corporate</b>.</br></mj-text>
-
-        <mj-text>
-          L’obiettivo è condividere in modo rapido le casistiche più frequenti riscontrate dai clienti e le azioni da attivare per la loro soluzione.</mj-text>
+          è stato rilasciato un intervento che riduce sensibilmente i casi in cui il processo di post-vendita su B:Digital Corporate viene sospeso per censimento del codice CUC.</br></mj-text>
 
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
-          <br><b>Primo Accesso per i clienti che usano la Token</b></br></mj-text>
-
-        <mj-text>La prima pillola è dedicata al <b>primo accesso per i clienti che usano la Token app come metodo di autenticazione.</b></mj-text>
+          <br><b>Aggiornamento post-vendita: introdotto codice CUC fittizio per clienti ex PopSo</b></br></mj-text>
 
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-text>Dopo avere ottenuto o convertito le proprie credenziali di Scrigno, questi clienti devono <b>effettuare il primo accesso esclusivamente da app. </b></mj-text>
+        <mj-text>Per tutti i clienti ex PopSo che operavano in modalità <b>monobanca</b> e che erano <b>privi di CUC reale</b>, in fase di post-vendita su B:Digital Corporate il processo veniva sospeso e non si poteva procedere fino al completamento del censimento CUC, che richiedeva fino a 3 giorni lavorativi. <br>Questo il messaggio di errore che veniva restituito:</br></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/20260507/image1.png?raw=true"></mj-image>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/checkFull.png?raw=true" width="24px" align="left" padding-bottom="0px"></mj-image>
+
+        <mj-text font-weight="bold" text-transform="uppercase" font-size="18px" padding-top="0px">Cosa è cambiato?</mj-text>
+
+        <mj-text>Per tutti i clienti ex PopSo in modalità <b>monobanca</b> privi di CUC reale, è stato associato automaticamente un CUC fittizio. </mj-text>
+
+        <mj-text><i>Il CUC fittizio è riconoscibile dalla sintassi:</i></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/20260507/CUC.png?raw=true"></mj-image>
+
+        <mj-text>La presenza del Codice CUC fittizio è visibile in post-vendita consultando la sezione "Configurazione monobanca o multibanca:</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/20260507/image2.png?raw=true"></mj-image>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0"><mj-column padding-bottom="0">
+
+        <mj-text padding-bottom="0"><b>L'intervento produce i seguenti benefici immediati:</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#E1F4ED" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/refresh.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text padding-bottom="0"><b>Ripresa pratiche sospese</b></mj-text>
+
+        <mj-text>
+          È possibile riprendere da subito le pratiche di post-vendita lasciate in sospeso per censimento CUC e completarle.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#E1F4ED" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/bookmark.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text padding-bottom="0"><b>Post-vendita senza interruzioni</b></mj-text>
+
+        <mj-text>
+          Per i clienti con CUC fittizio, il messaggio di attesa non sarà più visualizzato: sarà possibile completare l'attività senza richiedere un nuovo CUC.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section>
+      <mj-column>
+
+        <mj-text><b>NON è stato possibile assegnare un CUC fittizio nei seguenti casi</b> (per i quali resta valido il processo standard di richiesta CUC reale):</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/minus.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text>Soggetti (holding e/o subholding) con spunta su <b>operatività multibanca</b></mj-text>
+
+        <mj-text>Subholding <b>privi di codice SIA</b> nel modulo "Configurazione operatività monobanca o multibanca"</mj-text>
+
+        <mj-text>In fase di <b>aggiunta di nuove subholding</b> all'interno di un contratto esistente</mj-text>
+
+        <mj-text>Durante la creazione di <b>nuovi contratti B:Digital Corporate</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section>
+
+      <mj-column>
+
+        <mj-text font-size="20px" align="center" line-height="24px">Punto di attenzione<br><b>
+            Cambio operatività da Monobanca a Multibanca</b></br></mj-text>
+
+        <mj-text>Se è necessario eseguire un post-vendita di <b>cambio operatività su un cliente con CUC fittizio</b> (da Monobanca a Multibanca), è indispensabile seguire la procedura seguente:</mj-text>
 
       </mj-column></mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/lock.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/info.png?raw=true" width="24px" align="left"></mj-image>
 
-        <mj-text><b>Importante:</b> se il cliente riscontra problemi nel primo accesso da app, non deve provare ad accedere al portale via web, altrimenti potrebbe incorrere in blocchi dell’utenza.</mj-text>
+        <mj-text>
+          <ol>
+            <li><b>NON procedere con il post-vendita.</b>
+            </li>
+            <li><b>Aprire un ticket Bhelp</b> richiedendo l'eliminazione del CUC fittizio al percorso:
+              Catalogo > Operatività e Procedure > CBI - Corporate Banking Interbancario > BDigital Corporate > Operativitá filiali BDigital Corporate > Banca telematica > Verifica rapporti</li>
+            <li>Solo dopo l'evasione del ticket, <b>eseguire il cambio operatività</b>.</li>
+          </ol>
+        </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-text><i>Il cambio di operatività innescherà automaticamente il processo di censimento del CUC reale, necessario per il corretto funzionamento dell'operatività multibanca.</i></mj-text>
 
       </mj-column></mj-section>
     <mj-section>
 
-      <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Controlli da effettuare in caso di problemi al primo accesso da app.</b></mj-text></mj-section>
-    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+      <mj-column>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/check.png?raw=true" width="24px" align="left"></mj-image>
-
-        <mj-text><b>Messaggio di errore per Credenziali Errate</b></mj-text>
-
-        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
-
-        <mj-text>Il cliente deve disinstallare e reinstallare l'app e procedere poi alla richiesta di reinvio password tramite i consulenti della Filiale Online (tel 026262) oppure presso la Filiale Fisica.</mj-text>
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text>
 
       </mj-column></mj-section>
-    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+    <mj-section><mj-column border-radius="20px" border="1px solid #E1EDED" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/check.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/rete.png?raw=true"></mj-image>
 
-        <mj-text><b>Altri messaggi di errore</b></mj-text>
+        <mj-text>Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></mj-text>
 
-        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+        <mj-divider border-width="2px" border-color="#EFF5F5"></mj-divider>
 
-        <mj-text>Per le altre casistiche di errore (per es. Servizio non disponibile) potrebbe trattarsi di un problema tecnico e quindi sarà necessario aprire un ticket BHelp.</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/clienti.png?raw=true"></mj-image>
 
-      </mj-column></mj-section>
-    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+        <mj-text>Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it" style="color:#005157;" target="_blank">bper.it</a></b></mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/check.png?raw=true" width="24px" align="left"></mj-image>
-
-        <mj-text><b>Problemi noti di configurazione con iPhone IOS già in risoluzione</b></mj-text>
-
-        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
-
-        <mj-text>Su iPhone IOS è stata isolata una problematica già indirizzata: è in fase di rilascio progressivo la nuova versione dell'app che risolve l’anomalia. Occorre invitare il cliente a verificare se ha già disponibile su Apple Store la versione aggiornata dell’app, altrimenti occorrerà attendere qualche giorno per effettuare l’aggiornamento. Contestualmente si suggerisce di aggiornare anche il sistema operativo all'ultima versione disponibile.</mj-text>
-
-      </mj-column></mj-section>
-    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
-
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/check.png?raw=true" width="24px" align="left"></mj-image>
-
-        <mj-text><b>Problemi accessi da browser web</b></mj-text>
-
-        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
-
-        <mj-text>In caso il cliente abbia effettuato con successo il primo accesso con app e stia riscontrando problemi di utilizzo da web, si può suggerire di utilizzare un browser alternativo.</mj-text>
-
-      </mj-column></mj-section>
-    <mj-section>
-
-      <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text></mj-section>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
