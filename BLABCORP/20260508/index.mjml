@@ -1,0 +1,94 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="16px" line-height="22px" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section padding="24px 0 0 0">
+
+      <mj-image src="https://github.com/frappaaa/archive/blob/d782cff55ff6cb042c9e21328aa30b0bd8f03ec9/AMLETO/Header.png?raw=true" padding="0" alt=""></mj-image>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-radius="24px">
+      <mj-column>
+
+        <mj-text>Gentile Collega,<br>
+          da oggi ti invieremo brevi pillole operative quotidiane per supportarti nella gestione dei clienti ex Banca Popolare di Sondrio durante il primo accesso e utilizzo di <b>B:Digital Corporate</b>.</br></mj-text>
+
+        <mj-text>
+          L’obiettivo è condividere in modo rapido le casistiche più frequenti riscontrate dai clienti e le azioni da attivare per la loro soluzione.</mj-text>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
+          <br><b>Primo Accesso per i clienti che usano la Token</b></br></mj-text>
+
+        <mj-text>La prima pillola è dedicata al <b>primo accesso per i clienti che usano la Token app come metodo di autenticazione.</b></mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-text>Dopo avere ottenuto o convertito le proprie credenziali di Scrigno, questi clienti devono <b>effettuare il primo accesso esclusivamente da app. </b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/lock.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Importante:</b> se il cliente riscontra problemi nel primo accesso da app, non deve provare ad accedere al portale via web, altrimenti potrebbe incorrere in blocchi dell’utenza.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section>
+
+      <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Controlli da effettuare in caso di problemi al primo accesso da app.</b></mj-text></mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/check.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Messaggio di errore per Credenziali Errate</b></mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+
+        <mj-text>Il cliente deve disinstallare e reinstallare l'app e procedere poi alla richiesta di reinvio password tramite i consulenti della Filiale Online (tel 026262) oppure presso la Filiale Fisica.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/check.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Altri messaggi di errore</b></mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+
+        <mj-text>Per le altre casistiche di errore (per es. Servizio non disponibile) potrebbe trattarsi di un problema tecnico e quindi sarà necessario aprire un ticket BHelp.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/check.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Problemi noti di configurazione con iPhone IOS già in risoluzione</b></mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+
+        <mj-text>Su iPhone IOS è stata isolata una problematica già indirizzata: è in fase di rilascio progressivo la nuova versione dell'app che risolve l’anomalia. Occorre invitare il cliente a verificare se ha già disponibile su Apple Store la versione aggiornata dell’app, altrimenti occorrerà attendere qualche giorno per effettuare l’aggiornamento. Contestualmente si suggerisce di aggiornare anche il sistema operativo all'ultima versione disponibile.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/check.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Problemi accessi da browser web</b></mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+
+        <mj-text>In caso il cliente abbia effettuato con successo il primo accesso con app e stia riscontrando problemi di utilizzo da web, si può suggerire di utilizzare un browser alternativo.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section>
+
+      <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text></mj-section>
+  </mj-body>
+</mjml>
