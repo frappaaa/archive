@@ -9,7 +9,11 @@
   <mj-body background-color="#fff">
     <mj-section padding="24px 0 0 0">
 
-      <mj-column><mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image></mj-column>
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
+
+      </mj-column>
     </mj-section>
 
     <mj-section background-color="#fff" border-radius="24px">
@@ -27,9 +31,9 @@
 
         <mj-text>Per tutti i clienti ex PopSo che operavano in modalità <b>monobanca</b> e che erano <b>privi di CUC reale</b>, in fase di post-vendita su B:Digital Corporate il processo veniva sospeso e non si poteva procedere fino al completamento del censimento CUC, che richiedeva fino a 3 giorni lavorativi. <br>Questo il messaggio di errore che veniva restituito:</br></mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/20260507/image1.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/20260507/image1.png?raw=true"></mj-image>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/checkFull.png?raw=true" width="24px" align="left" padding-bottom="0px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
 
         <mj-text font-weight="bold" text-transform="uppercase" font-size="18px" padding-top="0px">Cosa è cambiato?</mj-text>
 
@@ -37,11 +41,11 @@
 
         <mj-text><i>Il CUC fittizio è riconoscibile dalla sintassi:</i></mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/20260507/CUC.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/20260507/CUC.png?raw=true" width="450px"></mj-image>
 
         <mj-text>La presenza del Codice CUC fittizio è visibile in post-vendita consultando la sezione "Configurazione monobanca o multibanca:</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/20260507/image2.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/20260507/image2.png?raw=true"></mj-image>
 
       </mj-column>
     </mj-section>
@@ -52,7 +56,7 @@
       </mj-column></mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#E1F4ED" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/refresh.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/refresh.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text padding-bottom="0"><b>Ripresa pratiche sospese</b></mj-text>
 
@@ -62,7 +66,7 @@
       </mj-column></mj-section>
     <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#E1F4ED" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/bookmark.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/bookmark.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text padding-bottom="0"><b>Post-vendita senza interruzioni</b></mj-text>
 
@@ -79,7 +83,7 @@
     </mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/minus.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/minus.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text>Soggetti (holding e/o subholding) con spunta su <b>operatività multibanca</b></mj-text>
 
@@ -102,9 +106,9 @@
       </mj-column></mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/info.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/info.png?raw=true" width="24px" align="left"></mj-image>
 
-        <mj-text>
+        <mj-text padding-left="10px">
           <ol>
             <li><b>NON procedere con il post-vendita.</b>
             </li>
@@ -129,15 +133,20 @@
       </mj-column></mj-section>
     <mj-section><mj-column border-radius="20px" border="1px solid #E1EDED" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/rete.png?raw=true"></mj-image>
-
-        <mj-text>Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></mj-text>
-
-        <mj-divider border-width="2px" border-color="#EFF5F5"></mj-divider>
-
-        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/clienti.png?raw=true"></mj-image>
-
-        <mj-text>Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it" style="color:#005157;" target="_blank">bper.it</a></b></mj-text>
+        <mj-table>
+          <tr >
+            <td style="padding-bottom:20px;"><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/rete.png?raw=true" width="100px" align="left" /></td>
+            <td style="padding-bottom:20px;">
+              <p style="font-size:16px; color:#005157; padding-left:20px">Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/clienti.png?raw=true" width="100px" align="left" /></td>
+            <td>
+              <p style="font-size:16px; color:#005157; padding-left:20px">Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it" style="color:#005157;" target="_blank">bper.it</a></b></p>
+            </td>
+          </tr>
+        </mj-table>
 
       </mj-column>
     </mj-section>
