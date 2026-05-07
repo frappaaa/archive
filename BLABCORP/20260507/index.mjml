@@ -9,7 +9,7 @@
   <mj-body background-color="#fff" border-radius="24px">
     <mj-section padding="24px 0 0 0">
 
-      <mj-image src="https://github.com/frappaaa/archive/blob/d782cff55ff6cb042c9e21328aa30b0bd8f03ec9/AMLETO/Header.png?raw=true" padding="0" alt=""></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
     </mj-section>
 
     <mj-section background-color="#fff" border-radius="24px">
@@ -35,7 +35,7 @@
       </mj-column></mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/lock.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/lock.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text><b>Importante:</b> se il cliente riscontra problemi nel primo accesso da app, non deve provare ad accedere al portale via web, altrimenti potrebbe incorrere in blocchi dell’utenza.</mj-text>
 
@@ -45,7 +45,7 @@
       <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Controlli da effettuare in caso di problemi al primo accesso da app.</b></mj-text></mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/check.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/check.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text><b>Messaggio di errore per Credenziali Errate</b></mj-text>
 
@@ -56,7 +56,7 @@
       </mj-column></mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/check.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/check.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text><b>Altri messaggi di errore</b></mj-text>
 
@@ -67,7 +67,7 @@
       </mj-column></mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/check.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/check.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text><b>Problemi noti di configurazione con iPhone IOS già in risoluzione</b></mj-text>
 
@@ -78,7 +78,7 @@
       </mj-column></mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/b6aaa376357b9882397262d5a17068198fe2703e/AMLETO/check.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/check.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text><b>Problemi accessi da browser web</b></mj-text>
 
