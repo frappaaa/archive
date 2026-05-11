@@ -20,62 +20,119 @@
       <mj-column>
 
         <mj-text>Gentile Collega,<br>
-          in caso di clienti che segnalano di <b>non visualizzare correttamente alcuni o tutti i rapporti su B:Digital Corporate</b>, ti indichiamo di seguito le verifiche da effettuare, che si differenziano a seconda che il rapporto non visualizzato sia un rapporto BPER o un rapporto di altra banca.</br></mj-text>
+          ecco la soluzione pensata per quei clienti provenienti da Banca Popolare di Sondrio che segnalavano di non ricevere più i flussi dei rapporti BPER sul servizio della banca terza attiva. </br></mj-text>
 
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
-          <br><b>Come gestire la profilazione utenti</b></br></mj-text>
+          <br><b>Gestione cliente con doppio canale</b></br></mj-text>
+
+        <mj-text>Per le aziende che in Banca Popolare di Sondrio avevano attivo un doppio canale CBI – ovvero un <b>canale CBI passivo</b> verso una banca terza e un <b>canale CBI attivo</b> dispositivo – in fase di migrazione è stato mantenuto esclusivamente il canale CBI attivo, mentre il canale CBI passivo è stato chiuso. </mj-text>
+
+        <mj-text>Il cliente è quindi passato da una situazione con <b>due servizi</b>: </mj-text>
 
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
+        <mj-text><b>CBI attivo</b>: Scrigno Azienda, utilizzato per disporre flussi sui rapporti PopSo </mj-text>
 
-        <mj-text font-weight="bold" text-transform="uppercase" font-size="18px" padding-top="0px">Caso 1.
-          <br>Cliente non visualizza rapporti BPER</br></mj-text>
-<mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/number1.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
-        <mj-text>Su BStore, nella sezione Configurazione Rapporti si verifica che il <b>contratto B:Digital Corporate</b> sia correttamente <b>associato ai rapporti segnalati dal cliente</b> e se uno o più rapporti <b>non risultano collegati</b>, si procede all’associazione. I clienti comuni BPER e Banca Popolare di Sondrio sono quelli che hanno la più alta probabilità di avere rapporti da collegare.</mj-text>
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image1.png?raw=true"></mj-image>
+        <mj-text><b>CBI passivo</b>: utilizzato per l’invio di flussi verso il servizio CBI di un’altra banca </mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image2.png?raw=true"></mj-image>
+      </mj-column></mj-section>
+    <mj-section><mj-column>
 
-        <mj-text>A questo punto <b>il master</b> accede a B:Digital Corporate e controlla al seguente percorso <b>Gestione utenti – Utenti e regole – Utenti</b> su ogni utente la corretta profilazione per azienda, conto, funzionalità. </mj-text>
+        <mj-text>a una configurazione con <b>un unico servizio</b>: </mj-text>
 
-        <mj-text>Il master deve aprire il <b>Tab “Aziende e prodotti attivi”</b> e alla voce “Aziende abilitate” controllare e in caso abilitare l’utente sulle aziende. Dopo di che su “Prodotti e rapporti attivi” per ogni funzione “Informativi”, “Pagamenti”, “Incassi”, “Altri prodotti” verificare ed eventualmente modificare i rapporti disponibili per ogni funzione per quell’utente.</mj-text>
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image3.png?raw=true"></mj-image>
+        <mj-text><b>B:Digital Corporate</b> Enterprise monobanca</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image4.png?raw=true"></mj-image>
+      </mj-column></mj-section>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image5.png?raw=true"></mj-image>
+    <mj-section><mj-column>
 
-      </mj-column>
-    </mj-section>
+        <mj-text>Nella nuova configurazione, il cliente risultava titolare esclusivamente di un servizio <b>B:Digital Corporate dispositivo sui conti BPER</b> mentre <b>non sono più inviati flussi verso l’altra banca</b>. </mj-text>
+
+      </mj-column></mj-section>
+
+    <mj-section padding-top="0"><mj-column background-color="#005157" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/info-white.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text color="#ffffff">Venerdì <b>8 maggio</b> è stato <b>riattivato il doppio canale</b> sulle posizioni dei clienti migrati censiti centralmente. </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section>
+
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Gestione dei clienti con la stessa casistica da oggi in poi</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-text>I clienti esclusi dall’intervento centralizzato di cui sopra, o i nuovi clienti che presentano la stessa esigenza, possono essere gestiti come segue: </mj-text>
+
+      </mj-column></mj-section>
+
     <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/check-circle.png?raw=true" width="24px" align="left"></mj-image>
 
-        <mj-text font-weight="bold" text-transform="uppercase" font-size="18px" padding-top="0px">Caso 2. Cliente non visualizza rapporti di banche terze (profilo multibanca)</mj-text>
+        <mj-text><b>Verificare su BStore che il codice SIA associato al contratto Enterprise Monobanca sia lo stesso SIA del servizio attivo presso la banca terza </b></mj-text>
 
-      <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/number2.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
-        <mj-text>I rapporti di banche terze non sono visibili o configurabili su Bstore.
-          Su BStore si può controllare che il profilo sia Enterprise multibanca nella sezione Multi o Monobanca. <b>Per visualizzare rapporti di altre banche il profilo deve essere multibanca.</b> Se il profilo è settato su monobanca va effettuata la modifica.</mj-text>
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image6.png?raw=true"></mj-image>
+        <mj-text>In caso positivo, è possibile fare richiesta di apertura del doppio canale, segnalando il cliente tramite apposito excel che vi verrà condiviso. La richiesta verrà veicolata a Nexi che si occuperà dello sdoppiamento dei codici SIA e del ripristino della situazione precedente alla migrazione.</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image7.png?raw=true"></mj-image>
+      </mj-column></mj-section>
+    <mj-section><mj-column>
 
-        <mj-text><b>È in carico al master la creazione delle regole approvative su questi rapporti direttamente da B:Digital Corporate al seguente percorso Gestione > Utenti e regole > Regole approvative.</b></mj-text>
+        <mj-text>Se il cliente non richiede il mantenimento del doppio canale, può scegliere tra le <b>seguenti alternative</b>: </mj-text>
 
-        <mj-text>Selezionando “Aggiungi regola”, si sceglie il tipo di operazione su cui applicarla, gli importi limite e il peso percentuale della firma. Impostata la regola, controllare l’abilitazione dei rapporti aperti presso banche terze come fatto per il caso 1.</mj-text>
+      </mj-column></mj-section>
 
-      </mj-column>
-    </mj-section>
-    
-    
-    
-    
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/check-circle.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Mantenere il servizio B:Digital Corporate dispositivo</b></mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+
+        <mj-text>operando sui conti BPER, senza disporre di rendicontazione su portali di altre banche <i>(nessun intervento operativo richiesto)</i></mj-text>
+
+      </mj-column></mj-section>
+
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/d05b43e1edccd2895f87de4718364c9f5fe9a037/BLABCORP/refresh.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Riconfigurare B:Digital Corporate come servizio informativo</b></mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+
+        <mj-text>mantenendo la rendicontazione presso la banca attiva <i>(necessario il cambio profilo da Enterprise monobanca a Info + modulo passivo.)</i></mj-text>
+
+        <mj-text>In questo caso, il cliente tornerà a gestire anche i rapporti BPER tramite il servizio CBI della banca attiva, mentre B:Digital Corporate assumerà un ruolo esclusivamente informativo.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/lock.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Importante</b>: Si raccomanda di <b>verificare sempre il perimetro dei rapporti</b> da: <b>BStore → Visualizza Configurazione → Configurazione Rapporti</b> </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-image href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDpPAK_w-q7pCmN9gj9Dd_qNUNzU3UlBaQVRLU1c2QlEyWlJFTlBCRTREMS4u&route=shorturl" target="_blank" src="https://github.com/frappaaa/archive/blob/377cac3a54acd6e22e1671d605e06162f620f74a/BLABCORP/20260511/bannerWebinar1.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+
     <mj-section>
 
       <mj-column>
