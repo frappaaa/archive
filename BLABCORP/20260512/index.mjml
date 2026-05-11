@@ -1,0 +1,106 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="16px" line-height="22px" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="24px 0 0 0">
+
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-radius="24px">
+      <mj-column>
+
+        <mj-text>Gentile Collega,<br>
+          in caso di clienti che segnalano di <b>non visualizzare correttamente alcuni o tutti i rapporti su B:Digital Corporate</b>, ti indichiamo di seguito le verifiche da effettuare, che si differenziano a seconda che il rapporto non visualizzato sia un rapporto BPER o un rapporto di altra banca.</br></mj-text>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
+          <br><b>Come gestire la profilazione utenti</b></br></mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
+
+        <mj-text font-weight="bold" text-transform="uppercase" font-size="18px" padding-top="0px">Caso 1.
+          <br>Cliente non visualizza rapporti BPER</br></mj-text>
+<mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/number1.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
+        <mj-text>Su BStore, nella sezione Configurazione Rapporti si verifica che il <b>contratto B:Digital Corporate</b> sia correttamente <b>associato ai rapporti segnalati dal cliente</b> e se uno o più rapporti <b>non risultano collegati</b>, si procede all’associazione. I clienti comuni BPER e Banca Popolare di Sondrio sono quelli che hanno la più alta probabilità di avere rapporti da collegare.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image1.png?raw=true"></mj-image>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image2.png?raw=true"></mj-image>
+
+        <mj-text>A questo punto <b>il master</b> accede a B:Digital Corporate e controlla al seguente percorso <b>Gestione utenti – Utenti e regole – Utenti</b> su ogni utente la corretta profilazione per azienda, conto, funzionalità. </mj-text>
+
+        <mj-text>Il master deve aprire il <b>Tab “Aziende e prodotti attivi”</b> e alla voce “Aziende abilitate” controllare e in caso abilitare l’utente sulle aziende. Dopo di che su “Prodotti e rapporti attivi” per ogni funzione “Informativi”, “Pagamenti”, “Incassi”, “Altri prodotti” verificare ed eventualmente modificare i rapporti disponibili per ogni funzione per quell’utente.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image3.png?raw=true"></mj-image>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image4.png?raw=true"></mj-image>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image5.png?raw=true"></mj-image>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
+
+        <mj-text font-weight="bold" text-transform="uppercase" font-size="18px" padding-top="0px">Caso 2. Cliente non visualizza rapporti di banche terze (profilo multibanca)</mj-text>
+
+      <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/number2.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
+        <mj-text>I rapporti di banche terze non sono visibili o configurabili su Bstore.
+          Su BStore si può controllare che il profilo sia Enterprise multibanca nella sezione Multi o Monobanca. <b>Per visualizzare rapporti di altre banche il profilo deve essere multibanca.</b> Se il profilo è settato su monobanca va effettuata la modifica.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image6.png?raw=true"></mj-image>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image7.png?raw=true"></mj-image>
+
+        <mj-text><b>È in carico al master la creazione delle regole approvative su questi rapporti direttamente da B:Digital Corporate al seguente percorso Gestione > Utenti e regole > Regole approvative.</b></mj-text>
+
+        <mj-text>Selezionando “Aggiungi regola”, si sceglie il tipo di operazione su cui applicarla, gli importi limite e il peso percentuale della firma. Impostata la regola, controllare l’abilitazione dei rapporti aperti presso banche terze come fatto per il caso 1.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    
+    <mj-section>
+
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column border-radius="20px" border="1px solid #E1EDED" padding="14px">
+
+        <mj-table>
+          <tr>
+            <td style="padding-bottom:20px;"><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/rete.png?raw=true" width="100px" align="left" /></td>
+            <td style="padding-bottom:20px;">
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/clienti.png?raw=true" width="100px" align="left" /></td>
+            <td>
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it/imprese-professionisti/servizi-digitali/servizi-digitali-corporate/tutorial-bdigital-corporate-sondrio" style="color:#005157;" target="_blank">bper.it</a></b></p>
+            </td>
+          </tr>
+        </mj-table>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
