@@ -19,9 +19,6 @@
     <mj-section background-color="#fff" border-radius="24px">
       <mj-column>
 
-        <mj-text>Gentile Collega,<br>
-          </br></mj-text>
-
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
           <br><b>come configurare un utente non firmatario</b></br></mj-text>
 
@@ -39,7 +36,7 @@
 
         <mj-text padding-top="0">Avere i contatti certificati</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/351c3676335c11e3657185261081831627d112d2/BLABCORP/number3.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/bc91004cd6f3dc6c51bf5303e8de10a95b28a737/BLABCORP/number3.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
 
         <mj-text padding-top="0">Essere collegati al contratto</mj-text>
 
@@ -65,7 +62,7 @@
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti firmatari</b></mj-text>
 
         <mj-text>Gli utenti firmatari <b>possono essere censiti solo in filiale</b>, e devono essere collegati al contratto del B:Digital Corporate. Puoi controllare gli utenti collegati nella sezione Configurazione Ruoli Firmatari ed eventualmente aggiungerli.
-          Devono essere poi declinati per questi soggetti i poteri di firma sui rapporti collegati al contratto del B:Digital Corporate. Puoi controllare i poteri nella sezione Configurazione Poteri Dispositivi ed eventualmente modificarli.</mj-text>
+          <br>Devono essere poi declinati per questi soggetti i poteri di firma sui rapporti collegati al contratto del B:Digital Corporate. Puoi controllare i poteri nella sezione Configurazione Poteri Dispositivi ed eventualmente modificarli.</br></mj-text>
 
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti non firmatari</b></mj-text>
 
@@ -88,7 +85,7 @@
       </mj-column></mj-section>
     <mj-section><mj-column>
 
-        <mj-image href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDpPAK_w-q7pCmN9gj9Dd_qNUNzU3UlBaQVRLU1c2QlEyWlJFTlBCRTREMS4u&route=shorturl" target="_blank" src="https://github.com/frappaaa/archive/blob/377cac3a54acd6e22e1671d605e06162f620f74a/BLABCORP/20260511/bannerWebinar1.png?raw=true"></mj-image>
+        <mj-image href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDpPAK_w-q7pCmN9gj9Dd_qNUNzU3UlBaQVRLU1c2QlEyWlJFTlBCRTREMS4u&route=shorturl" target="_blank" src="https://github.com/frappaaa/archive/blob/e5edd8dba460cc33749c8440f6d314480c0685cb/BLABCORP/20260512/bannerWebinar.png?raw=true"></mj-image>
 
       </mj-column></mj-section>
 
