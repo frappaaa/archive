@@ -31,17 +31,17 @@
     </mj-section>
     <mj-section background-color="#fff"><mj-column background-color="#E1F4ED" border-radius="20px" padding="14px">
 
-        <mj-image src="" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/351c3676335c11e3657185261081831627d112d2/BLABCORP/number1.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text>Essere censiti in anagrafe banca</mj-text>
+        <mj-text padding-top="0">Essere censiti in anagrafe banca</mj-text>
 
-        <mj-image src="" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/351c3676335c11e3657185261081831627d112d2/BLABCORP/number2.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text>Avere i contatti certificati</mj-text>
+        <mj-text padding-top="0">Avere i contatti certificati</mj-text>
 
-        <mj-image src="" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/351c3676335c11e3657185261081831627d112d2/BLABCORP/number3.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text>Essere collegati al contratto</mj-text>
+        <mj-text padding-top="0">Essere collegati al contratto</mj-text>
 
       </mj-column></mj-section>
     <mj-section padding-top="0"><mj-column>
@@ -51,27 +51,39 @@
       </mj-column></mj-section>
     <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-text><b>CBI passivo</b>: utilizzato per l’invio di flussi verso il servizio CBI di un’altra banca </mj-text>
+        <mj-text><b>Master</b> <i>(uno per contratto)</i></mj-text>
+
+        <mj-text font-weight="bold">Configuratore base</mj-text>
+
+        <mj-text font-weight="bold">Configuratore completo</mj-text>
+
+        <mj-text font-weight="bold">Configuratore base</mj-text>
 
       </mj-column></mj-section>
     <mj-section><mj-column>
 
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti firmatari</b></mj-text>
-      <mj-text>Gli utenti firmatari <b>possono essere censiti solo in filiale</b>, e devono essere collegati al contratto del B:Digital Corporate. Puoi controllare gli utenti collegati nella sezione Configurazione Ruoli Firmatari ed eventualmente aggiungerli.
-Devono essere poi declinati per questi soggetti i poteri di firma sui rapporti collegati al contratto del B:Digital Corporate. Puoi controllare i poteri nella sezione Configurazione Poteri Dispositivi ed eventualmente modificarli.</mj-text>
-      <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti non firmatari</b></mj-text>
-<mj-text>Gli utenti non firmatari <b>possono essere censiti in filiale o in self dal cliente</b>.
-In caso di censimento in filiale, completato il censimento in anagrafe, bisogna collegare in BStore con un post-vendita l’ndg al contratto B:Digital Corporate. Essendo soggetti non firmatari, non dovranno essere configurati i poteri dispositivi.</mj-text>
-      <mj-text>In caso di censimento in self, il processo si compone dei seguenti step:</mj-text>
+
+        <mj-text>Gli utenti firmatari <b>possono essere censiti solo in filiale</b>, e devono essere collegati al contratto del B:Digital Corporate. Puoi controllare gli utenti collegati nella sezione Configurazione Ruoli Firmatari ed eventualmente aggiungerli.
+          Devono essere poi declinati per questi soggetti i poteri di firma sui rapporti collegati al contratto del B:Digital Corporate. Puoi controllare i poteri nella sezione Configurazione Poteri Dispositivi ed eventualmente modificarli.</mj-text>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti non firmatari</b></mj-text>
+
+        <mj-text>Gli utenti non firmatari <b>possono essere censiti in filiale o in self dal cliente</b>.
+          In caso di censimento in filiale, completato il censimento in anagrafe, bisogna collegare in BStore con un post-vendita l’ndg al contratto B:Digital Corporate. Essendo soggetti non firmatari, non dovranno essere configurati i poteri dispositivi.</mj-text>
+
+        <mj-text>In caso di censimento in self, il processo si compone dei seguenti step:</mj-text>
+
       </mj-column></mj-section>
-    
+
     <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
 
         <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/lock.png?raw=true" width="24px" align="left"></mj-image>
 
-        <mj-text><b>Richiesta di creazione dell’utenza in self</b> 
-</mj-text>
-      <mj-text padding-top="0">Il Master o il Configuratore avvia la richiesta di creazione di un nuovo utente dalla sezione:<br><i>Gestione → Utenti e regole → Utenti → Aggiungi utente</i></br></mj-text>
+        <mj-text><b>Richiesta di creazione dell’utenza in self</b>
+        </mj-text>
+
+        <mj-text padding-top="0">Il Master o il Configuratore avvia la richiesta di creazione di un nuovo utente dalla sezione:<br><i>Gestione → Utenti e regole → Utenti → Aggiungi utente</i></br></mj-text>
 
       </mj-column></mj-section>
     <mj-section><mj-column>
