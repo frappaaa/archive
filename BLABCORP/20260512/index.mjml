@@ -20,62 +20,66 @@
       <mj-column>
 
         <mj-text>Gentile Collega,<br>
-          in caso di clienti che segnalano di <b>non visualizzare correttamente alcuni o tutti i rapporti su B:Digital Corporate</b>, ti indichiamo di seguito le verifiche da effettuare, che si differenziano a seconda che il rapporto non visualizzato sia un rapporto BPER o un rapporto di altra banca.</br></mj-text>
+          </br></mj-text>
 
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
-          <br><b>Come gestire la profilazione utenti</b></br></mj-text>
+          <br><b>come configurare un utente non firmatario</b></br></mj-text>
+
+        <mj-text><b>Sul B:Digital Corporate tutti gli utenti</b>, firmatari e non firmatari <b>devono</b>:</mj-text>
 
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+    <mj-section background-color="#fff"><mj-column background-color="#E1F4ED" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
+        <mj-image src="" width="24px" align="left"></mj-image>
 
-        <mj-text font-weight="bold" text-transform="uppercase" font-size="18px" padding-top="0px">Caso 1.
-          <br>Cliente non visualizza rapporti BPER</br></mj-text>
-<mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/number1.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
-        <mj-text>Su BStore, nella sezione Configurazione Rapporti si verifica che il <b>contratto B:Digital Corporate</b> sia correttamente <b>associato ai rapporti segnalati dal cliente</b> e se uno o più rapporti <b>non risultano collegati</b>, si procede all’associazione. I clienti comuni BPER e Banca Popolare di Sondrio sono quelli che hanno la più alta probabilità di avere rapporti da collegare.</mj-text>
+        <mj-text>Essere censiti in anagrafe banca</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image1.png?raw=true"></mj-image>
+        <mj-image src="" width="24px" align="left"></mj-image>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image2.png?raw=true"></mj-image>
+        <mj-text>Avere i contatti certificati</mj-text>
 
-        <mj-text>A questo punto <b>il master</b> accede a B:Digital Corporate e controlla al seguente percorso <b>Gestione utenti – Utenti e regole – Utenti</b> su ogni utente la corretta profilazione per azienda, conto, funzionalità. </mj-text>
+        <mj-image src="" width="24px" align="left"></mj-image>
 
-        <mj-text>Il master deve aprire il <b>Tab “Aziende e prodotti attivi”</b> e alla voce “Aziende abilitate” controllare e in caso abilitare l’utente sulle aziende. Dopo di che su “Prodotti e rapporti attivi” per ogni funzione “Informativi”, “Pagamenti”, “Incassi”, “Altri prodotti” verificare ed eventualmente modificare i rapporti disponibili per ogni funzione per quell’utente.</mj-text>
+        <mj-text>Essere collegati al contratto</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image3.png?raw=true"></mj-image>
+      </mj-column></mj-section>
+    <mj-section padding-top="0"><mj-column>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image4.png?raw=true"></mj-image>
+        <mj-text><b>A ogni utente deve essere assegnato un ruolo:</b></mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image5.png?raw=true"></mj-image>
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+        <mj-text><b>CBI passivo</b>: utilizzato per l’invio di flussi verso il servizio CBI di un’altra banca </mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
+      </mj-column></mj-section>
+    <mj-section><mj-column>
 
-        <mj-text font-weight="bold" text-transform="uppercase" font-size="18px" padding-top="0px">Caso 2. Cliente non visualizza rapporti di banche terze (profilo multibanca)</mj-text>
-
-      <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/number2.png?raw=true" width="32px" align="left" padding-bottom="0px"></mj-image>
-        <mj-text>I rapporti di banche terze non sono visibili o configurabili su Bstore.
-          Su BStore si può controllare che il profilo sia Enterprise multibanca nella sezione Multi o Monobanca. <b>Per visualizzare rapporti di altre banche il profilo deve essere multibanca.</b> Se il profilo è settato su monobanca va effettuata la modifica.</mj-text>
-
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image6.png?raw=true"></mj-image>
-
-        <mj-image src="https://github.com/frappaaa/archive/blob/5dd58753aece4535d1939b419541367f90584092/BLABCORP/20260508/image7.png?raw=true"></mj-image>
-
-        <mj-text><b>È in carico al master la creazione delle regole approvative su questi rapporti direttamente da B:Digital Corporate al seguente percorso Gestione > Utenti e regole > Regole approvative.</b></mj-text>
-
-        <mj-text>Selezionando “Aggiungi regola”, si sceglie il tipo di operazione su cui applicarla, gli importi limite e il peso percentuale della firma. Impostata la regola, controllare l’abilitazione dei rapporti aperti presso banche terze come fatto per il caso 1.</mj-text>
-
-      </mj-column>
-    </mj-section>
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti firmatari</b></mj-text>
+      <mj-text>Gli utenti firmatari <b>possono essere censiti solo in filiale</b>, e devono essere collegati al contratto del B:Digital Corporate. Puoi controllare gli utenti collegati nella sezione Configurazione Ruoli Firmatari ed eventualmente aggiungerli.
+Devono essere poi declinati per questi soggetti i poteri di firma sui rapporti collegati al contratto del B:Digital Corporate. Puoi controllare i poteri nella sezione Configurazione Poteri Dispositivi ed eventualmente modificarli.</mj-text>
+      <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti non firmatari</b></mj-text>
+<mj-text>Gli utenti non firmatari <b>possono essere censiti in filiale o in self dal cliente</b>.
+In caso di censimento in filiale, completato il censimento in anagrafe, bisogna collegare in BStore con un post-vendita l’ndg al contratto B:Digital Corporate. Essendo soggetti non firmatari, non dovranno essere configurati i poteri dispositivi.</mj-text>
+      <mj-text>In caso di censimento in self, il processo si compone dei seguenti step:</mj-text>
+      </mj-column></mj-section>
     
-    
-    
-    
+    <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/lock.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Richiesta di creazione dell’utenza in self</b> 
+</mj-text>
+      <mj-text padding-top="0">Il Master o il Configuratore avvia la richiesta di creazione di un nuovo utente dalla sezione:<br><i>Gestione → Utenti e regole → Utenti → Aggiungi utente</i></br></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-image href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDpPAK_w-q7pCmN9gj9Dd_qNUNzU3UlBaQVRLU1c2QlEyWlJFTlBCRTREMS4u&route=shorturl" target="_blank" src="https://github.com/frappaaa/archive/blob/377cac3a54acd6e22e1671d605e06162f620f74a/BLABCORP/20260511/bannerWebinar1.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+
     <mj-section>
 
       <mj-column>
