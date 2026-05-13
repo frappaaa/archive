@@ -1,0 +1,119 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="16px" line-height="22px" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="24px 0 0 0">
+
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-radius="24px">
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
+          <br><b>come configurare un utente non firmatario</b></br></mj-text>
+
+        <mj-text><b>Sul B:Digital Corporate tutti gli utenti</b>, firmatari e non firmatari <b>devono</b>:</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#E1F4ED" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/351c3676335c11e3657185261081831627d112d2/BLABCORP/number1.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text padding-top="0">Essere censiti in anagrafe banca</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/351c3676335c11e3657185261081831627d112d2/BLABCORP/number2.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text padding-top="0">Avere i contatti certificati</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/bc91004cd6f3dc6c51bf5303e8de10a95b28a737/BLABCORP/number3.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text padding-top="0">Essere collegati al contratto</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section padding-top="0"><mj-column>
+
+        <mj-text><b>A ogni utente deve essere assegnato un ruolo:</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-text><b>Master</b> <i>(uno per contratto)</i></mj-text>
+
+        <mj-text font-weight="bold">Configuratore base</mj-text>
+
+        <mj-text font-weight="bold">Configuratore completo</mj-text>
+
+        <mj-text font-weight="bold">Configuratore base</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti firmatari</b></mj-text>
+
+        <mj-text>Gli utenti firmatari <b>possono essere censiti solo in filiale</b>, e devono essere collegati al contratto del B:Digital Corporate. Puoi controllare gli utenti collegati nella sezione Configurazione Ruoli Firmatari ed eventualmente aggiungerli.
+          <br>Devono essere poi declinati per questi soggetti i poteri di firma sui rapporti collegati al contratto del B:Digital Corporate. Puoi controllare i poteri nella sezione Configurazione Poteri Dispositivi ed eventualmente modificarli.</br></mj-text>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti non firmatari</b></mj-text>
+
+        <mj-text>Gli utenti non firmatari <b>possono essere censiti in filiale o in self dal cliente</b>.
+          In caso di censimento in filiale, completato il censimento in anagrafe, bisogna collegare in BStore con un post-vendita l’ndg al contratto B:Digital Corporate. Essendo soggetti non firmatari, non dovranno essere configurati i poteri dispositivi.</mj-text>
+
+        <mj-text>In caso di censimento in self, il processo si compone dei seguenti step:</mj-text>
+
+      </mj-column></mj-section>
+
+    <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/lock.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text><b>Richiesta di creazione dell’utenza in self</b>
+        </mj-text>
+
+        <mj-text padding-top="0">Il Master o il Configuratore avvia la richiesta di creazione di un nuovo utente dalla sezione:<br><i>Gestione → Utenti e regole → Utenti → Aggiungi utente</i></br></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-image href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDpPAK_w-q7pCmN9gj9Dd_qNUNzU3UlBaQVRLU1c2QlEyWlJFTlBCRTREMS4u&route=shorturl" target="_blank" src="https://github.com/frappaaa/archive/blob/e5edd8dba460cc33749c8440f6d314480c0685cb/BLABCORP/20260512/bannerWebinar.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+
+    <mj-section>
+
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column border-radius="20px" border="1px solid #E1EDED" padding="14px">
+
+        <mj-table>
+          <tr>
+            <td style="padding-bottom:20px;"><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/rete.png?raw=true" width="100px" align="left" /></td>
+            <td style="padding-bottom:20px;">
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/clienti.png?raw=true" width="100px" align="left" /></td>
+            <td>
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it/imprese-professionisti/servizi-digitali/servizi-digitali-corporate/tutorial-bdigital-corporate-sondrio" style="color:#005157;" target="_blank">bper.it</a></b></p>
+            </td>
+          </tr>
+        </mj-table>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
