@@ -20,69 +20,119 @@
       <mj-column>
 
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
-          <br><b>come configurare un utente non firmatario</b></br></mj-text>
+          <br><b>come si importano i flussi </b></br></mj-text>
 
-        <mj-text><b>Sul B:Digital Corporate tutti gli utenti</b>, firmatari e non firmatari <b>devono</b>:</mj-text>
+        <mj-text>Con B:Digital Corporate è possibile inserire disposizioni di pagamento e di incasso con inserimento manuale di una o più disposizioni oppure importando un file generato dal software gestionale del cliente (es. Zucchetti, Doc Finance, Piteco, Team System...) nei formati standard CBI. </mj-text>
 
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fff"><mj-column background-color="#E1F4ED" border-radius="20px" padding="14px">
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/351c3676335c11e3657185261081831627d112d2/BLABCORP/number1.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text padding-top="0">Essere censiti in anagrafe banca</mj-text>
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Chi può importare un flusso su B:Digital Corporate </mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/351c3676335c11e3657185261081831627d112d2/BLABCORP/number2.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
+        <mj-text>L’utente per poter inserire flussi deve:</mj-text>
 
-        <mj-text padding-top="0">Avere i contatti certificati</mj-text>
+        <mj-text padding-top="0">- essere abilitato sul conto di regolamento scelto per la tipologia di operazione del flusso che si vuole importare</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/bc91004cd6f3dc6c51bf5303e8de10a95b28a737/BLABCORP/number3.png?raw=true" width="24px" align="left" padding-bottom="0"></mj-image>
+        <mj-text padding-top="0">- avere la mansione "Inseritore"</mj-text>
 
-        <mj-text padding-top="0">Essere collegati al contratto</mj-text>
-
-      </mj-column></mj-section>
-    <mj-section padding-top="0"><mj-column>
-
-        <mj-text><b>A ogni utente deve essere assegnato un ruolo:</b></mj-text>
+        <mj-text padding-top="0">- avere le mansioni "Autorizza" e/o "Spedisci" per completare l’invio</mj-text>
 
       </mj-column></mj-section>
     <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
-        <mj-text><b>Master</b> <i>(uno per contratto)</i></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text font-weight="bold">Configuratore base</mj-text>
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Come si importa il file</mj-text>
 
-        <mj-text font-weight="bold">Configuratore completo</mj-text>
+        <mj-text> L’utente deve entrare in <b>File e comunicazioni > Archivio Flussi > Carico Flussi.</b></mj-text>
 
-        <mj-text font-weight="bold">Configuratore base</mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/a0267fc0c6551342c556c79f8b462d649488786a/BLABCORP/20260513/image1.png?raw=true"></mj-image>
 
-      </mj-column></mj-section>
-    <mj-section><mj-column>
+        <mj-text><b>Il cliente deve poi selezionare “Carica flusso” e il file da importare.</b></mj-text>
 
-        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti firmatari</b></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/a0267fc0c6551342c556c79f8b462d649488786a/BLABCORP/20260513/image2.png?raw=true"></mj-image>
 
-        <mj-text>Gli utenti firmatari <b>possono essere censiti solo in filiale</b>, e devono essere collegati al contratto del B:Digital Corporate. Puoi controllare gli utenti collegati nella sezione Configurazione Ruoli Firmatari ed eventualmente aggiungerli.
-          <br>Devono essere poi declinati per questi soggetti i poteri di firma sui rapporti collegati al contratto del B:Digital Corporate. Puoi controllare i poteri nella sezione Configurazione Poteri Dispositivi ed eventualmente modificarli.</br></mj-text>
-
-        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>Utenti non firmatari</b></mj-text>
-
-        <mj-text>Gli utenti non firmatari <b>possono essere censiti in filiale o in self dal cliente</b>.
-          In caso di censimento in filiale, completato il censimento in anagrafe, bisogna collegare in BStore con un post-vendita l’ndg al contratto B:Digital Corporate. Essendo soggetti non firmatari, non dovranno essere configurati i poteri dispositivi.</mj-text>
-
-        <mj-text>In caso di censimento in self, il processo si compone dei seguenti step:</mj-text>
-
-      </mj-column></mj-section>
-
-    <mj-section background-color="#fff"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
-
-        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/lock.png?raw=true" width="24px" align="left"></mj-image>
-
-        <mj-text><b>Richiesta di creazione dell’utenza in self</b>
+        <mj-text>L’utente deve poi scegliere tra: 
+          <ul>
+            <li><b>“Carica flusso modificabile”</b> per importare il flusso dando permesso al servizio di modificare alcuni errori 
+            </li>
+            <li><b>“Carica flusso non modificabile”</b> per importare il flusso senza permesso di modifica automatica 
+            </li>
+            <li><b>“Controllare il file senza caricare”</b> per fare una diagnosi preventiva </li>
+          </ul> 
         </mj-text>
 
-        <mj-text padding-top="0">Il Master o il Configuratore avvia la richiesta di creazione di un nuovo utente dalla sezione:<br><i>Gestione → Utenti e regole → Utenti → Aggiungi utente</i></br></mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/a0267fc0c6551342c556c79f8b462d649488786a/BLABCORP/20260513/image3.png?raw=true"></mj-image>
+
+        <mj-text>Dopo il caricamento, il servizio controlla la congruità dei dati e la correttezza formale del flusso. Se l’esito è positivo, lo stato caricamento del flusso diventa “Completato” e si possono autorizzare e spedire le disposizioni.</mj-text>
+
+        <mj-text>In caso di errori, lo stato del flusso sarà “Non eseguito”.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/a0267fc0c6551342c556c79f8b462d649488786a/BLABCORP/20260513/image4.png?raw=true"></mj-image>
 
       </mj-column></mj-section>
+
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Gestione degli errori</mj-text>
+
+        <mj-text>Cliccando sulla freccia è possibile approfondire gli errori. </mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/a0267fc0c6551342c556c79f8b462d649488786a/BLABCORP/20260513/image5.png?raw=true"></mj-image>
+
+        <mj-text>Il cliente deve quindi modificare il file generato dal suo gestionale secondo le indicazioni fornite dal diagnostico. In caso di errore si può procedere con l’importazione del file, selezionando Carica flusso modificabile > Sostituisci valori > Applica correzioni automatiche.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/a0267fc0c6551342c556c79f8b462d649488786a/BLABCORP/20260513/image6.png?raw=true"></mj-image>
+
+        <mj-text>L’utente deve verificare e confermare alcuni dati dell’ordinante presenti su B:Digital Corporate (come azienda e conto di regolamento) e inserirli nella distinta. Questi dati sostituiranno quelli presenti nel file, applicando le relative correzioni. Se il flusso resta “Non eseguito”, è necessario modificare il file prodotto dal gestionale del cliente per renderlo conforme agli standard CBI, seguendo le indicazioni degli errori segnalati.
+        </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#005157" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/info-white.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-weight="bold" color="#ffffff">Punti di attenzione</mj-text>
+
+        <mj-text color="#ffffff">Per i clienti ex Banca Popolare di Sondrio, l’importazione dei flussi su B:Digital Corporate può fallire principalmente per: </mj-text>
+
+        <mj-text color="#ffffff">
+          <ul>
+            <li>utilizzo di tracciati CBI non aggiornati agli standard attuali;</li>
+            <li>dati non aggiornati o errati nel gestionale (es. IBAN, anagrafica ordinante).</li>
+          </ul>
+        </mj-text>
+
+        <mj-text padding-top="0" color="#ffffff">È quindi necessario verificare che il file sia conforme agli standard CBI vigenti e che i dati del gestionale siano corretti e aggiornati. </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/lock.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-weight="bold">Nel caso in cui non si riesca ad importare è necessario aprire il ticket al percorso:</mj-text>
+
+        <mj-text>Operatività e Procedure > CBI - Corporate Banking Interbancario.> B:Digital Corporate > Operativitá filiali B:DigitaL Corporate.> B:Digital Corporate Banking Segnalazioni Piattaforma Clienti > Anomalia Piattaforma Clienti</mj-text>
+
+        <mj-text>Scrivere in oggetto “<b>Import flussi – Nome Prodotto</b> (es. SDD, Ri.Ba.)”specificando:</mj-text>
+
+        <mj-text>
+          <ul>
+            <li>NDG Cliente</li>
+            <li>Codice contratto</li>
+            <li>Descrizione di quanto fatto con il cliente</li>
+            <li>Se possibile screen delle pagine con le anomalie</li>
+            <li>Flusso importato</li>
+          </ul>
+        </mj-text>
+
+      </mj-column></mj-section>
+
     <mj-section><mj-column>
 
         <mj-image href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDpPAK_w-q7pCmN9gj9Dd_qNUNzU3UlBaQVRLU1c2QlEyWlJFTlBCRTREMS4u&route=shorturl" target="_blank" src="https://github.com/frappaaa/archive/blob/e5edd8dba460cc33749c8440f6d314480c0685cb/BLABCORP/20260512/bannerWebinar.png?raw=true"></mj-image>
