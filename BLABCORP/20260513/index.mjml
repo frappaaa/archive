@@ -22,7 +22,7 @@
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
           <br><b>come si importano i flussi </b></br></mj-text>
 
-        <mj-text>Con B:Digital Corporate è possibile inserire disposizioni di pagamento e di incasso con inserimento manuale di una o più disposizioni oppure importando un file generato dal software gestionale del cliente (es. Zucchetti, Doc Finance, Piteco, Team System...) nei formati standard CBI. </mj-text>
+        <mj-text>Con B:Digital Corporate è possibile inserire disposizioni di pagamento e di incasso con inserimento manuale di una o più disposizioni oppure importando un file generato dal software gestionale del cliente (es. Zucchetti, Doc Finance, Piteco, Team System...) nei formati standard CBI.</mj-text>
 
       </mj-column>
     </mj-section>
@@ -103,7 +103,7 @@
 
         <mj-text color="#ffffff">
           <ul>
-            <li>utilizzo di tracciati CBI non aggiornati agli standard attuali;</li>
+            <li><b>utilizzo di tracciati CBI non aggiornati agli standard attuali;</b></li>
             <li>dati non aggiornati o errati nel gestionale (es. IBAN, anagrafica ordinante).</li>
           </ul>
         </mj-text>
@@ -133,11 +133,7 @@
 
       </mj-column></mj-section>
 
-    <mj-section><mj-column>
-
-        <mj-image href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDpPAK_w-q7pCmN9gj9Dd_qNUNzU3UlBaQVRLU1c2QlEyWlJFTlBCRTREMS4u&route=shorturl" target="_blank" src="https://github.com/frappaaa/archive/blob/e5edd8dba460cc33749c8440f6d314480c0685cb/BLABCORP/20260512/bannerWebinar.png?raw=true"></mj-image>
-
-      </mj-column></mj-section>
+    
 
     <mj-section>
 
