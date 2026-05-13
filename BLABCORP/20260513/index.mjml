@@ -22,7 +22,7 @@
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
           <br><b>come si importano i flussi </b></br></mj-text>
 
-        <mj-text>Con B:Digital Corporate è possibile inserire disposizioni di pagamento e di incasso con inserimento manuale di una o più disposizioni oppure importando un file generato dal software gestionale del cliente (es. Zucchetti, Doc Finance, Piteco, Team System...) nei formati standard CBI.</mj-text>
+        <mj-text>Con B:Digital Corporate è possibile inserire disposizioni di pagamento e di incasso con inserimento manuale di una o più disposizioni oppure <br>importando un file generato dal software gestionale del cliente (es. Zucchetti, Doc Finance, Piteco, Team System...) nei formati standard CBI.</br></mj-text>
 
       </mj-column>
     </mj-section>
