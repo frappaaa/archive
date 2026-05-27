@@ -1,0 +1,102 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="16px" line-height="22px" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="24px 0 0 0">
+
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-radius="24px">
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px">Tip of the day:
+          <br><b>come gestire un conto multicurrency</b></br></mj-text>
+
+        <mj-text>Con B:Digital Corporate è possibile gestire conti multicurrency.</mj-text>
+
+        <mj-text>In BPER quando si apre un conto multicurrency (Servizio 010, Tipo conto 010 Non residenti, Tipo Conto 015 Residenti) il cliente sceglie la valuta del conto principale e in simultanea avviene l’apertura di altri 22 conti nelle altre valute gestite dalla Banca (UD, CAD, CHF, CNY, CZK, DKK, GBP, HKD, HUF, INR, ISK, JPY, MXN, NOK, NZD, PLN, RON, RUB, SEK, SGD, TRY, USD, ZAR). Il conto multicurrency viene aperto su IBAN certificato Banca (CED 12916) ed è lo stesso per tutte le valute.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section><mj-column background-color="#E1F4ED" border-radius="20px" padding="20px">
+
+        <mj-text><b>Differenze con Banca Popolare di Sondrio:</b></mj-text>
+
+        <mj-text>in Banca Popolare di Sondrio i conti correnti esteri venivano aperti su una sola valuta scelta dal cliente. Con la migrazione a B:Digital Corporate, i clienti con conto in valuta sono diventati titolari di conto multicurrency BPER nella struttura sopra indicata.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Abilitazione su B:Digital Corporate</mj-text>
+
+        <mj-text>L’utente master accede a B:Digital Corporate al seguente percorso <b>Gestione – Aziende</b>. Seleziona la singola azienda e poi al <b>Tab Rapporti</b> visualizza la lista di conti correnti associati all’azienda. <br>Se il cliente in Banca Popolare di Sondrio era titolare di un conto estero, visualizzerà i 23 conti dell’offerta conto multicurrency BPER.</br></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/8e01616051347ab1d62dacfc1a00431cf2d0c25a/BLABCORP/20260514/image1.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Gestione su B:Digital Corporate</mj-text>
+
+        <mj-text>Le funzioni disponibili sui conti multicurrency su B:Digital Corporate sono: </mj-text>
+
+        <mj-text>
+          <ul>
+            <li><b>Bonifico Estero CBI</b></li>
+            <li><b>Saldi e Movimenti Conto Corrente CBI</b>: si visualizza la rendicontazione dei conti multicurrency nella sezione di Informativa CBI </li>
+          </ul>
+        </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/lock.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text>Per i conti multicurrency è prevista solo la rendicontazione cartacea (come estratto conto) e non quella digitale. </mj-text>
+
+      </mj-column></mj-section>
+
+    <mj-section>
+
+      <mj-section>
+
+        <mj-column>
+
+          <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text>
+
+        </mj-column></mj-section>
+      <mj-section><mj-column border-radius="20px" border="1px solid #E1EDED" padding="14px">
+
+          <mj-table>
+            <tr>
+              <td style="padding-bottom:20px;"><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/rete.png?raw=true" width="100px" align="left" /></td>
+              <td style="padding-bottom:20px;">
+                <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></p>
+              </td>
+            </tr>
+            <tr>
+              <td><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/clienti.png?raw=true" width="100px" align="left" /></td>
+              <td>
+                <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it/imprese-professionisti/servizi-digitali/servizi-digitali-corporate/tutorial-bdigital-corporate-sondrio" style="color:#005157;" target="_blank">bper.it</a></b></p>
+              </td>
+            </tr>
+          </mj-table>
+
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

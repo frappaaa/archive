@@ -1,0 +1,93 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="16px" line-height="22px" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="24px 0 0 0">
+
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-radius="24px">
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-bottom="0">Tip of the day:
+          </mj-text>
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-top="0"><b><br>B:Digital Corporate</br>
+            Quietanze F24</b>
+          </mj-text>
+        
+
+        <mj-text>Gentile collega,</mj-text>
+
+        <mj-text>di seguito le indicazioni per rispondere al cliente che cerca su B:Digital Corporate le quietanze di un pagamento F24. </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">FILE E COMUNICAZIONI</mj-text>
+
+        <mj-text>Su B:Digital Corporate i documenti si trovano al percorso <b>File e comunicazioni - Documenti.</b></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/8e01616051347ab1d62dacfc1a00431cf2d0c25a/BLABCORP/20260514/image1.png?raw=true"></mj-image>
+
+        <mj-text>La disponibilità per l’utente della voce “Documenti” dipende dalle profilazioni e autorizzazioni assegnate relativamente ai Prodotti Informativi. </mj-text>
+
+        <mj-text>Le quietanze di pagamenti F24 si trovano nella sezione Altri Documenti. </mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/8e01616051347ab1d62dacfc1a00431cf2d0c25a/BLABCORP/20260514/image1.png?raw=true"></mj-image>
+
+        <mj-text>In Altri Documenti, scrivere F24 nella tendina “<b>Tipo documento</b>”. Comparirà la possibilità di selezionare il tipo di quietanza F24 ricercato. </mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/8e01616051347ab1d62dacfc1a00431cf2d0c25a/BLABCORP/20260514/image1.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Download dei documenti</mj-text>
+
+        <mj-text>Ogni documento può essere scaricato singolarmente tramite il pulsante “Scarica” oppure, selezionandone più di uno, in modalità multipla come archivio compresso (.zip). Un indicatore rosso evidenzia i documenti non ancora letti. </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section>
+
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column border-radius="20px" border="1px solid #E1EDED" padding="14px">
+
+        <mj-table>
+          <tr>
+            <td style="padding-bottom:20px;"><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/rete.png?raw=true" width="100px" align="left" /></td>
+            <td style="padding-bottom:20px;">
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/clienti.png?raw=true" width="100px" align="left" /></td>
+            <td>
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it/imprese-professionisti/servizi-digitali/servizi-digitali-corporate/tutorial-bdigital-corporate-sondrio" style="color:#005157;" target="_blank">bper.it</a></b></p>
+            </td>
+          </tr>
+        </mj-table>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
