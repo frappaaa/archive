@@ -20,15 +20,12 @@
       <mj-column>
 
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-bottom="0">Tip of the day:
-          </mj-text>
-        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-top="0"><b><br>B:Digital Corporate</br>
-            Quietanze F24</b>
-          </mj-text>
-        
+        </mj-text>
 
-        <mj-text>Gentile collega,</mj-text>
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-top="0"><b>Gestione conti sotto monitoraggio finanziario</b>
+        </mj-text>
 
-        <mj-text>di seguito le indicazioni per rispondere al cliente che cerca su B:Digital Corporate le quietanze di un pagamento F24. </mj-text>
+        <mj-text>I clienti con rapporti soggetti a monitoraggio finanziario a cura del Dipartimento per la programmazione e il coordinamento della politica economica nell’ambito di un Progetto Strategico a livello nazionale hanno necessità che giornalmente i saldi e movimenti del rapporto monitorato vengano rendicontati al monitorante.</mj-text>
 
       </mj-column>
     </mj-section>
@@ -37,32 +34,28 @@
 
         <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">FILE E COMUNICAZIONI</mj-text>
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Come si attiva la rendicontazione al monitorante?</mj-text>
 
-        <mj-text>Su B:Digital Corporate i documenti si trovano al percorso <b>File e comunicazioni - Documenti.</b></mj-text>
+        <mj-text>Per impostare questo tipo di rendicontazione, si deve accedere alla procedura ZeroCarta.<br>Alla voce Pratiche, si inserisce NDG del cliente.</br></mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/36d70964fd03e336298ead3c9e1ee7047bf36560/BLABCORP/20260527/image1.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image01.png?raw=true"></mj-image>
 
-        <mj-text>La disponibilità per l’utente della voce “Documenti” dipende dalle profilazioni e autorizzazioni assegnate relativamente ai Prodotti Informativi. </mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image02.png?raw=true"></mj-image>
 
-        <mj-text>Le quietanze di pagamenti F24 si trovano nella sezione Altri Documenti. </mj-text>
+        <mj-text>Si seleziona poi il tab Rapporti e si inserisce flag su Configura rapporti.</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/36d70964fd03e336298ead3c9e1ee7047bf36560/BLABCORP/20260527/image2.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image03.png?raw=true"></mj-image>
 
-        <mj-text>In Altri Documenti, scrivere F24 nella tendina “<b>Tipo documento</b>”. Comparirà la possibilità di selezionare il tipo di quietanza F24 ricercato. </mj-text>
+        <mj-text>Si visualizza la lista dei rapporti e si seleziona quello da abilitare.</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/36d70964fd03e336298ead3c9e1ee7047bf36560/BLABCORP/20260527/image3.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image04.png?raw=true"></mj-image>
 
-      </mj-column></mj-section>
-    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+        <mj-text>Con “Stampa documentazione” si stampa la documentazione da consegnare al cliente e con Crea pratica si conferma l’attivazione.</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
-
-        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Download dei documenti</mj-text>
-
-        <mj-text>Ogni documento può essere scaricato singolarmente tramite il pulsante “Scarica” oppure, selezionandone più di uno, in modalità multipla come archivio compresso (.zip). Un indicatore rosso evidenzia i documenti non ancora letti. </mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image05.png?raw=true"></mj-image>
 
       </mj-column></mj-section>
+
     <mj-section>
 
       <mj-column>
