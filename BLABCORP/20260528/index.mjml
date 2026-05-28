@@ -19,16 +19,18 @@
     <mj-section background-color="#fff" border-radius="24px">
       <mj-column>
 
-        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-bottom="0">Tip of the day:
-          </mj-text>
-        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-top="0"><b><br>B:Digital Corporate</br>
-            Quietanze F24</b>
-          </mj-text>
-        
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-bottom="0">Tip of the day:<br>Come si utilizza la rubrica in B:Digital Corporate</br>
+        </mj-text>
 
         <mj-text>Gentile collega,</mj-text>
 
-        <mj-text>di seguito le indicazioni per rispondere al cliente che cerca su B:Digital Corporate le quietanze di un pagamento F24. </mj-text>
+        <mj-text>di seguito le indicazioni per rispondere al cliente che chiede come utilizzare la Rubrica su B:Digital Corporate.</mj-text>
+
+        <mj-text>La funzione “Rubrica” consente di creare, gestire e ricercare le anagrafiche di contatti (ad es. fornitori, contribuenti, dipendenti, ecc.), facilitando l’inserimento e l’utilizzo di coordinate bancarie nei vari prodotti disponibili (bonifici, incassi, F24, ecc.).
+        </mj-text>
+
+        <mj-text>Per un utilizzo corretto il cliente deve prima configurare la rubrica con i contatti desiderati.
+        </mj-text>
 
       </mj-column>
     </mj-section>
@@ -37,30 +39,45 @@
 
         <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">FILE E COMUNICAZIONI</mj-text>
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">CONFIGURAZIONE DELLA RUBRICA</mj-text>
 
-        <mj-text>Su B:Digital Corporate i documenti si trovano al percorso <b>File e comunicazioni - Documenti.</b></mj-text>
+        <mj-text>Su B:Digital Corporate selezionare il percorso <b>Gestione - Rubrica.</b></mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/36d70964fd03e336298ead3c9e1ee7047bf36560/BLABCORP/20260527/image1.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/a9d5d20429967b7a6c71a409e46deeab04df940d/BLABCORP/20260528/image1.png?raw=true"></mj-image>
 
-        <mj-text>La disponibilità per l’utente della voce “Documenti” dipende dalle profilazioni e autorizzazioni assegnate relativamente ai Prodotti Informativi. </mj-text>
+        <mj-text>Da questa pagina, si crea un nuovo contatto attraverso il pulsante <b>“Aggiungi contatto”.</b></mj-text>
 
-        <mj-text>Le quietanze di pagamenti F24 si trovano nella sezione Altri Documenti. </mj-text>
+        <mj-image src="https://github.com/frappaaa/archive/blob/a9d5d20429967b7a6c71a409e46deeab04df940d/BLABCORP/20260528/image2.png?raw=true"></mj-image>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/36d70964fd03e336298ead3c9e1ee7047bf36560/BLABCORP/20260527/image2.png?raw=true"></mj-image>
+        <mj-text>Per creare il contatto, il cliente deve compilare tre sezioni:</mj-text>
 
-        <mj-text>In Altri Documenti, scrivere F24 nella tendina “<b>Tipo documento</b>”. Comparirà la possibilità di selezionare il tipo di quietanza F24 ricercato. </mj-text>
+        <mj-text>
+          <ol>
+            <li><b>Anagrafica</b> in cui inserire i dati del contatto e associare una “Tipologia” (Contribuente, Cliente, Dipendente, Fornitore)</li>
+            <li><b>Aziende e funzionalità</b> in cui è necessario associare il contatto alle aziende e funzionalità della piattaforma per le quali potrà essere utilizzato. Nota bene: le funzionalità disponibili sono filtrate automaticamente in base alla tipologia di contatto selezionata nello step precedente.</li>
+            <li><b>Coordinate bancarie</b> in cui per ogni famiglia di funzionalità selezionata (pagamenti, incassi, F24, ecc.) si inseriscono le coordinate. Per ciascuna sottosezione è possibile inserire più riferimenti bancari tramite “Aggiungi altro riferimento”.</li>
+          </ol>
+        </mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/36d70964fd03e336298ead3c9e1ee7047bf36560/BLABCORP/20260527/image3.png?raw=true"></mj-image>
-
-      </mj-column></mj-section>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
         <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Download dei documenti</mj-text>
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">COME SI RICHIAMA IL CONTATTO DALLA RUBRICA DURANTE UN’OPERAZIONE</mj-text>
 
-        <mj-text>Ogni documento può essere scaricato singolarmente tramite il pulsante “Scarica” oppure, selezionandone più di uno, in modalità multipla come archivio compresso (.zip). Un indicatore rosso evidenzia i documenti non ancora letti. </mj-text>
+        <mj-text>Durante un pagamento o un incasso, il cliente può richiamare i dati del contatto, selezionando la voce “Cerca in rubrica”.</mj-text>
+
+        <mj-text>Qui sotto alcuni esempi:</mj-text>
+
+        <mj-text><b>Bonifico</b></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/a9d5d20429967b7a6c71a409e46deeab04df940d/BLABCORP/20260528/image3.png?raw=true"></mj-image>
+
+        <mj-text><b>Incasso</b></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/a9d5d20429967b7a6c71a409e46deeab04df940d/BLABCORP/20260528/image4.png?raw=true"></mj-image>
 
       </mj-column></mj-section>
     <mj-section>
