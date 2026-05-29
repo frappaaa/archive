@@ -1,0 +1,86 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="16px" line-height="22px" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="24px 0 0 0">
+
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-radius="24px">
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-bottom="0">Tip of the day:
+        </mj-text>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-top="0"><b>Gestione conti sotto monitoraggio finanziario</b>
+        </mj-text>
+
+        <mj-text>I clienti con rapporti soggetti a monitoraggio finanziario a cura del Dipartimento per la programmazione e il coordinamento della politica economica nell’ambito di un Progetto Strategico a livello nazionale hanno necessità che giornalmente i saldi e movimenti del rapporto monitorato vengano rendicontati al monitorante.</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Come si attiva la rendicontazione al monitorante?</mj-text>
+
+        <mj-text>Per impostare questo tipo di rendicontazione, si deve accedere alla procedura ZeroCarta.<br>Alla voce Pratiche, si inserisce NDG del cliente.</br></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image01.png?raw=true"></mj-image>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image02.png?raw=true"></mj-image>
+
+        <mj-text>Si seleziona poi il tab Rapporti e si inserisce flag su Configura rapporti.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image03.png?raw=true"></mj-image>
+
+        <mj-text>Si visualizza la lista dei rapporti e si seleziona quello da abilitare.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image04.png?raw=true"></mj-image>
+
+        <mj-text>Con “Stampa documentazione” si stampa la documentazione da consegnare al cliente e con Crea pratica si conferma l’attivazione.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image05.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+
+    <mj-section>
+
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column border-radius="20px" border="1px solid #E1EDED" padding="14px">
+
+        <mj-table>
+          <tr>
+            <td style="padding-bottom:20px;"><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/rete.png?raw=true" width="100px" align="left" /></td>
+            <td style="padding-bottom:20px;">
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/clienti.png?raw=true" width="100px" align="left" /></td>
+            <td>
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it/imprese-professionisti/servizi-digitali/servizi-digitali-corporate/tutorial-bdigital-corporate-sondrio" style="color:#005157;" target="_blank">bper.it</a></b></p>
+            </td>
+          </tr>
+        </mj-table>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
