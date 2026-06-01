@@ -22,37 +22,142 @@
         <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-bottom="0">Tip of the day:
         </mj-text>
 
-        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-top="0"><b>Gestione conti sotto monitoraggio finanziario</b>
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-top="0"><b>consultazione lista movimenti conto</b>
         </mj-text>
 
-        <mj-text>I clienti con rapporti soggetti a monitoraggio finanziario a cura del Dipartimento per la programmazione e il coordinamento della politica economica nell’ambito di un Progetto Strategico a livello nazionale hanno necessità che giornalmente i saldi e movimenti del rapporto monitorato vengano rendicontati al monitorante.</mj-text>
+        <mj-text>di seguito le indicazioni per <b>consultare e scaricare la lista dei movimenti del conto corrente</b> da B:Digital Corporate.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image01.png?raw=true"></mj-image>
+
+        <mj-text color="#005157" font-size="20px" align="center" line-height="24px"><b>Che differenza c’è tra <span style="color:#009969;">CBI</span> e <span style="color:#009969;">Realtime</span>?</b>
+        </mj-text>
 
       </mj-column>
     </mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-text><b>CBI</b></mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/check-circle.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text>Si visualizzano <b>saldi e movimenti</b> di tutti i <b>conti BPER</b> e dei <b>conti presso altre banche</b> (se il cliente ha il profilo Enterprise Multibanca)</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/check-circle.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text>L'<b>aggiornamento</b> è alla <b>giornata contabile precedente</b>
+        </mj-text>
+
+      </mj-column></mj-section>
+
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-text><b>RealTime</b></mj-text>
+
+        <mj-divider border-color="#ffffff" border-width="1px"></mj-divider>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/check-circle.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text> Si visualizzano <b>saldi e movimenti solo dei conti BPER</b></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/check-circle.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text>L'<b>aggiornamento</b> è in <b>tempo reale</b>
+        </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section padding-top="0"><mj-column background-color="#005157" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/info-white.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text color="#ffffff">Per i clienti migrati da Scrigno Azienda, nella sezione CBI sono visualizzabili i movimenti del conto a partire dal 20/04/2026, mentre nella sezione Realtime si visualizzano anche i movimenti precedenti al 20/04.
+          <br>Per i clienti migrati da Scrigno Multibanca, sia nella sezione CBI, sia in Realtime sono disponibili anche i movimenti precedenti.</br> </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-text color="#005157" font-size="20px" align="center" line-height="24px"><b>Come si <span style="color:#009969;">consultano saldi e movimenti</span></b></mj-text>
+      <mj-text>Dopo aver selezionato Informativa>Conti>Conti Correnti, <b>la pagina si apre direttamente sulla sezione CBI.</b></mj-text>
+
+      </mj-column></mj-section>
 
     <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
 
         <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
 
-        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Come si attiva la rendicontazione al monitorante?</mj-text>
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">saldi e movimenti CBI</mj-text>
 
-        <mj-text>Per impostare questo tipo di rendicontazione, si deve accedere alla procedura ZeroCarta.<br>Alla voce Pratiche, si inserisce NDG del cliente.</br></mj-text>
+        <mj-text>Sotto il titolo “<b>Tutti i saldi</b>” si visualizza il saldo complessivo di tutti i conti BPER e altre banche.</mj-text>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image01.png?raw=true"></mj-image>
+      <mj-text>Selezionando “<b>Vedi tutti i movimenti</b>” si visualizza la lista aggregata dei movimenti di tutti i conti.</mj-text>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image02.png?raw=true"></mj-image>
 
-        <mj-text>Si seleziona poi il tab Rapporti e si inserisce flag su Configura rapporti.</mj-text>
+        <mj-text>Selezionando “<b>Scarica lista</b>” è possibile esportare i movimenti in formato <b>Excel</b>.</mj-text>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image03.png?raw=true"></mj-image>
 
-        <mj-text>Si visualizza la lista dei rapporti e si seleziona quello da abilitare.</mj-text>
+        <mj-text>Se il cliente desidera i movimenti di <b>un solo conto</b>, invece di selezionare “Tutti i movimenti”, può selezionare il singolo conto. </mj-text>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image04.png?raw=true"></mj-image>
 
-        <mj-text>Con “Stampa documentazione” si stampa la documentazione da consegnare al cliente e con Crea pratica si conferma l’attivazione.</mj-text>
+        <mj-text>Da qui è possibile scaricare i movimenti da “<b>Scarica lista</b>”.</mj-text>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image05.png?raw=true"></mj-image>
+      <mj-text>I formati disponibili sono <b>PDF</b>, <b>Excel</b>, <b>QIF</b> e <b>CSV</b>.</mj-text>
+      <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image05.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">saldi e movimenti RealTime</mj-text>
+
+        <mj-text>Dopo aver selezionato <b>Informativa>Conti Correnti>Conti</b>, per visualizzare i dati in tempo reale selezionare dal sotto menu verticale a sinistra la sezione <b>Realtime</b>.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image01.png?raw=true"></mj-image>
+      <mj-text>I <b>movimenti</b> conto in questa sezione sono <b>visualizzabili solo per singolo rapporto</b> selezionato in base ai filtri applicati.</mj-text>
+      <mj-text>Da “<b>Scarica lista</b>” è possibile esportare la lista in formato <b>Excel</b>, <b>QIF</b> e <b>CSV</b>.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image02.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+    
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">Personalizzazione del file scaricabile</mj-text>
+
+        <mj-text>È possibile anche personalizzare i file Excel, QIF o CSV, cliccando in alto a destra sul proprio nome > Preferenze > Esportazione e impostando le preferenze su formattazione data, separatore decimali, separatore campi, data operazione. Queste preferenze saranno quindi valide sia per CBI, sia per Realtime.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image01.png?raw=true"></mj-image>
+      <mj-text>I <b>movimenti</b> conto in questa sezione sono <b>visualizzabili solo per singolo rapporto</b> selezionato in base ai filtri applicati.</mj-text>
+      <mj-text>Da “<b>Scarica lista</b>” è possibile esportare la lista in formato <b>Excel</b>, <b>QIF</b> e <b>CSV</b>.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image02.png?raw=true"></mj-image>
+      <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image02.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+    
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">RH: formato standard interbancario</mj-text>
+
+        <mj-text>I clienti che devono riconciliare i movimenti con il proprio software gestionale possono <b>scaricare i movimenti in formato standard interbancario</b> (sono i c.d. movimenti RH).</mj-text>
+      <mj-text>Sono disponibili da <b>File e comunicazioni > Archivio flussi > Estrai dati</b></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image01.png?raw=true"></mj-image>
+      <mj-text>Per scaricarli, si seleziona <b>Richiesta scarico flusso</b>.</mj-text>
+<mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image01.png?raw=true"></mj-image>
+        
+      <mj-text>Si sceglie poi la “Tipologia” <b>Informativa Conti Correnti RH</b> dal menu a tendina e si seleziona “Applica” per avviare il download.</mj-text>
+      <mj-image src="https://github.com/frappaaa/archive/blob/86731f00414a4e1681babb157ccc25fae5125941/BLABCORP/20260529/image02.png?raw=true"></mj-image>
 
       </mj-column></mj-section>
 
