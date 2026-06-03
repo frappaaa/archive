@@ -1,0 +1,158 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="16px" line-height="22px" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section padding="24px 0 0 0">
+
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/01ecc05d6d527d4d7eea40711d255553a908c69e/BLABCORP/Header.png?raw=true" padding="0" alt=""></mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" border-radius="24px">
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-bottom="0">Tip of the day:
+        </mj-text>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px" padding-top="0"><b>consultazione lista movimenti conto</b>
+        </mj-text>
+
+        <mj-text>di seguito le indicazioni per <b>consultare e scaricare la lista dei movimenti del conto corrente</b> da B:Digital Corporate.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/c3c4fe4a7bcd6633de35a4820d3ab81c0d712a38/BLABCORP/20260601/image1.png?raw=true"></mj-image>
+
+        <mj-text color="#005157" font-size="20px" align="center" line-height="24px"><b>Che differenza c’è tra <span style="color:#009969;">CBI</span> e <span style="color:#009969;">Realtime</span>?</b>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-text><b>CBI</b></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/833be340e7cf704967422d9c53911db3a8d3bb1d/BLABCORP/bankPlus.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text padding-top="0">Si visualizzano <b>saldi e movimenti</b> di tutti i <b>conti BPER</b> e dei <b>conti presso altre banche</b> (se il cliente ha il profilo Enterprise Multibanca)</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/833be340e7cf704967422d9c53911db3a8d3bb1d/BLABCORP/hourGlass.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text padding-top="0">L'<b>aggiornamento</b> è alla <b>giornata contabile precedente</b>
+        </mj-text>
+
+      </mj-column></mj-section>
+
+    <mj-section background-color="#fff"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-text><b>RealTime</b></mj-text>
+
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/833be340e7cf704967422d9c53911db3a8d3bb1d/BLABCORP/bank.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text padding-top="0"> Si visualizzano <b>saldi e movimenti solo dei conti BPER</b></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/833be340e7cf704967422d9c53911db3a8d3bb1d/BLABCORP/clock.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text padding-top="0">L'<b>aggiornamento</b> è in <b>tempo reale</b>
+        </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section padding-top="0"><mj-column background-color="#005157" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/info-white.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text color="#ffffff">Per i clienti migrati da Scrigno Azienda, nella sezione CBI sono visualizzabili i movimenti del conto a partire dal 20/04/2026, mentre nella sezione Realtime si visualizzano anche i movimenti precedenti al 20/04.
+          <br>Per i clienti migrati da Scrigno Multibanca, sia nella sezione CBI, sia in Realtime sono disponibili anche i movimenti precedenti.</br> </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-text color="#005157" font-size="20px" align="center" line-height="24px"><b>Come si <span style="color:#009969;">consultano saldi e movimenti</span></b></mj-text>
+      <mj-text>Dopo aver selezionato Informativa>Conti>Conti Correnti, <b>la pagina si apre direttamente sulla sezione CBI.</b></mj-text>
+
+      </mj-column></mj-section>
+
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">saldi e movimenti CBI</mj-text>
+
+        <mj-text>Sotto il titolo “<b>Tutti i saldi</b>” si visualizza il saldo complessivo di tutti i conti BPER e altre banche.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/c3c4fe4a7bcd6633de35a4820d3ab81c0d712a38/BLABCORP/20260601/image2.png?raw=true"></mj-image>
+      <mj-text>Selezionando “<b>Vedi tutti i movimenti</b>” si visualizza la lista aggregata dei movimenti di tutti i conti.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/c3c4fe4a7bcd6633de35a4820d3ab81c0d712a38/BLABCORP/20260601/image3.png?raw=true"></mj-image>
+
+        <mj-text>Selezionando “<b>Scarica lista</b>” è possibile esportare i movimenti in formato <b>Excel</b>.</mj-text>
+
+        <mj-text>Se il cliente desidera i movimenti di <b>un solo conto</b>, invece di selezionare “Tutti i movimenti”, può selezionare il singolo conto. </mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/c3c4fe4a7bcd6633de35a4820d3ab81c0d712a38/BLABCORP/20260601/image5.png?raw=true"></mj-image>
+
+        <mj-text>Da qui è possibile scaricare i movimenti da “<b>Scarica lista</b>”.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/c3c4fe4a7bcd6633de35a4820d3ab81c0d712a38/BLABCORP/20260601/image6.png?raw=true"></mj-image>
+      <mj-text>I formati disponibili sono <b>PDF</b>, <b>Excel</b>, <b>QIF</b> e <b>CSV</b>.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#fff" padding-top="0"><mj-column background-color="#EFF5F5" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/6752699a82da539cfc9d4c6dcf1d4f39bcd6cf8f/BLABCORP/checkFull.png?raw=true" width="32px" align="left" padding-bottom="0"></mj-image>
+
+        <mj-text font-size="18px" text-transform="uppercase" font-weight="bold">saldi e movimenti RealTime</mj-text>
+
+        <mj-text>Dopo aver selezionato <b>Informativa>Conti Correnti>Conti</b>, per visualizzare i dati in tempo reale selezionare dal sotto menu verticale a sinistra la sezione <b>Realtime</b>.</mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/c3c4fe4a7bcd6633de35a4820d3ab81c0d712a38/BLABCORP/20260601/image8.png?raw=true"></mj-image>
+      <mj-text>I <b>movimenti</b> conto in questa sezione sono <b>visualizzabili solo per singolo rapporto</b> selezionato in base ai filtri applicati.</mj-text>
+      <mj-text>Da “<b>Scarica lista</b>” è possibile esportare la lista in formato <b>Excel</b>, <b>QIF</b> e <b>CSV</b>.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section padding-top="0"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/calendar.png?raw=true" width="24px" align="left"></mj-image>
+
+        <mj-text color="#005157"><b>Movimenti in formato RH</b>
+          <br>I movimenti in formato RH (standard interbancario) sono disponibili da File e comunicazioni > Archivio flussi > Estrai dati. <b>Dettagli nella prossima pillola</b>.</br></mj-text>
+
+      </mj-column></mj-section>
+    
+    
+
+    <mj-section>
+
+      <mj-column>
+
+        <mj-text color="#009969" font-size="20px" align="center" line-height="24px"><b>A domani con la prossima pillola informativa.</b></mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column border-radius="20px" border="1px solid #E1EDED" padding="14px">
+
+        <mj-table>
+          <tr>
+            <td style="padding-bottom:20px;"><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/rete.png?raw=true" width="100px" align="left" /></td>
+            <td style="padding-bottom:20px;">
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per tutte le <b>informazioni</b> e <b>supporti operativi dedicati alla rete</b>, vai su <a href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/bsmart-servizi-digitali-e-monetica" style="color:#005157;" target="_blank"><b>Bsmart</b></a></p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="https://github.com/frappaaa/archive/blob/5f9b2e5ef18a8921c95e33e2431bcbd6890f5bfb/BLABCORP/clienti.png?raw=true" width="100px" align="left" /></td>
+            <td>
+              <p style="font-size:16px; color:#005157; padding-left:20px; font-family:Open Sans;">Per <b>tutti i materiali</b> (guide, infografiche, video...) <b>per i clienti</b>, vai su <b><a href="https://www.bper.it/imprese-professionisti/servizi-digitali/servizi-digitali-corporate/tutorial-bdigital-corporate-sondrio" style="color:#005157;" target="_blank">bper.it</a></b></p>
+            </td>
+          </tr>
+        </mj-table>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
