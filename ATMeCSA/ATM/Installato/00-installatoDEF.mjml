@@ -22,28 +22,30 @@
           <mj-text>Gentile collega, <br>nella tua filiale è arrivato un <b>nuovo ATM evoluto</b>. Questa novità contribuirà a rendere più <b>efficace l’operatività transazionale in filiale</b>, consentendoti di ridurre l'attività allo sportello e offrendo ai tuoi clienti maggiori opportunità di autonomia e crescita digitale.</br></mj-text></mj-text>
 
       </mj-column></mj-section>
-    
-      <mj-section background-color="#ffffff"  padding="20px">
-        <mj-column background-color="#F0F4F5" border-radius="24px" padding="20px">
 
-          <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
-            Le operazioni migrabili <span style="color:#009969">su ATM EVO sono:</span>
-          </mj-text>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column background-color="#F0F4F5" border-radius="24px" padding="20px">
 
-          <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/listaOperazioni.png?raw=true" padding="0"></mj-image>
+        <mj-text align="center" font-weight="bold" font-size="20px" padding="20px">
+          Le operazioni migrabili <span style="color:#009969">su ATM EVO sono:</span>
+        </mj-text>
 
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#ffffff" padding="20px 0 20px 0"><mj-column>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/listaOperazioni.png?raw=true" padding="0"></mj-image>
 
-          <mj-text>A seguito dell’installazione di questa nuova dotazione, crescono le opportunità di migrazione delle transazioni nella tua filiale. Il calcolo del DTR (Digital Transaction Ratio) sarà aggiornato sulla base del nuovo perimetro di operazioni migrabili.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px 0 20px 0"><mj-column>
 
-          <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Unisciti a noi in questo percorso verso il futuro. 
+        <mj-text>Per realizzare appieno questa trasformazione, <b>contiamo sul tuo contributo</b>. Ecco perché ci siamo posti <b>obiettivi concreti e realizzabili</b>, calcolati sul <b>potenziale della tua filiale</b>.</mj-text>
+
+        <mj-text>A seguito dell’installazione di questa nuova dotazione, crescono le opportunità di migrazione delle transazioni nella tua filiale. Per questo aggiorneremo a breve il calcolo del DTR (Digital Transaction Ratio) della tua filiale sulla base delle nuove operazioni migrabili.</mj-text>
+
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/ATMeCSA/BannerEND.png" alt="Unisciti a noi in questo percorso verso il futuro. 
  Il tuo impegno e la tua competenza sono cruciali per garantire il raggiungimento dei nostri obiettivi di digitalizzazione."></mj-image>
 
-          <mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
+        <mj-text font-size="20px"><b><i>Grazie per la tua collaborazione</i></b></mj-text>
 
-        </mj-column></mj-section>
+      </mj-column></mj-section>
 
     <mj-section padding="0">
       <mj-column width="100%">
