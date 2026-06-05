@@ -2,7 +2,7 @@
   <mj-head>
     <mj-attributes>
 
-      <mj-text align="left" color="#005157" font-family="Arial" font-size="20px" line-height="26px" />
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="26px" />
       <mj-section />
     </mj-attributes>
   </mj-head>
