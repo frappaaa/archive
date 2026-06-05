@@ -24,11 +24,11 @@
     <mj-section padding="20px">
       <mj-column background-color="#F0F4F5" border-radius="24px" padding="20px">
 
-        <mj-text align="center" font-weight="bold" font-size="24px" line-height="30px" padding-bottom="0">
+        <mj-text align="center" font-weight="bold" font-size="24px" line-height="30px">
           Le operazioni migrabili <br><span style="color:#009969">su Cassa Smart CSA sono:</span></br>
         </mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/listaOperazioni.png?raw=true" padding="0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/CSA/listaOperazioni.png?raw=true" padding="0" padding-top="10px"></mj-image>
 
       </mj-column>
 
