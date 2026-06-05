@@ -7,7 +7,7 @@
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#f5f9f9">
-    <mj-section padding="24px 0 0 0" background-color="#fff">
+    <mj-section padding="24px 0 0 0" background-color="#f5f9f9">
       <mj-column>
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/ATMeCSA/ATM/Header-ATM.png?raw=true" padding="0" alt="è in arrivo un nuovo ATM Evoluto. Le dotazioni self aprono la tua filiale a nuove prospettive."></mj-image>
