@@ -100,7 +100,7 @@
 
         <mj-text>Da qui è possibile scaricare i movimenti da “<b>Scarica lista</b>”.</mj-text>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/c3c4fe4a7bcd6633de35a4820d3ab81c0d712a38/BLABCORP/20260601/image6.png?raw=true"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/3e404984c0815de70105dca25607afe447d54084/BLABCORP/20260601/image6.png?raw=true"></mj-image>
       <mj-text>I formati disponibili sono <b>PDF</b>, <b>Excel</b>, <b>QIF</b> e <b>CSV</b>.</mj-text>
 
       </mj-column></mj-section>
@@ -119,7 +119,7 @@
       </mj-column></mj-section>
     <mj-section padding-top="0"><mj-column background-color="#FFF2C2" border-radius="20px" padding="14px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/60c0ff57fe159846a709c3606004fe1ba63ea244/BLABCORP/calendar.png?raw=true" width="24px" align="left"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/0eb1fe33f56ea81b15eecb03868917563687846a/BLABCORP/calendar.png?raw=true" width="24px" align="left"></mj-image>
 
         <mj-text color="#005157"><b>Movimenti in formato RH</b>
           <br>I movimenti in formato RH (standard interbancario) sono disponibili da File e comunicazioni > Archivio flussi > Estrai dati. <b>Dettagli nella prossima pillola</b>.</br></mj-text>
