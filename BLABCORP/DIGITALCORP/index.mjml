@@ -1,0 +1,97 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="660px">
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="30px 0 20px 0">
+
+        <mj-image src="https://raw.githubusercontent.com/frappaaa/archive/main/00-LOGHI/BPER.png" width="104px" alt="BPER"></mj-image>
+
+      </mj-column>
+    </mj-section>
+    <mj-wrapper border="1px solid #005157" border-radius="24px" padding="20px">
+
+      <mj-section>
+        <mj-column>
+
+          <mj-text color="#005157" font-weight="bold" font-size="40px" line-height="120%">Spett.le <span style="color:#009969;">[Ragione sociale SIA]</span>,</mj-text>
+
+          <mj-text>abbiamo rilevato degli <b>errori sui flussi dispositivi</b> con codice SIA [Codice SIA][Ragione Sociale Codice SIA Mittente], inviati tramite B:Digital Corporate.
+          </mj-text>
+
+          <mj-text>Di seguito i dettagli:</mj-text>
+
+          <mj-text align="center" font-size="24px" font-weight="bold" color="#009969">Dati del flusso</mj-text>
+
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#EFF5F5" border-radius="24px" padding="20px"><mj-column>
+
+          <mj-text><b>Riferimenti Contratto:</b>
+            <ul style="padding:0 0 0 30px">
+              <li>ID contratto: [ID]</li>
+              <li>Ragione sociale Holding: [RAGIONE SOCIALE HOLDING]</li>
+            </ul>
+          </mj-text>
+
+          <mj-text><b>Riferimenti Azienda ordinante:</b>
+            <ul style="padding:0 0 0 30px">
+              <li>Ragione Sociale: [RAGIONE SOCIALE ABI] </li>
+              <li>Codice SIA:[Codice SIA] </li>
+              <li>Codice CUC: [Codice CUC] </li>
+            </ul>
+          </mj-text>
+
+          <mj-text><b>ABI Banca ordinante: </b><br>[CODICE ABI – Descrizione ABI]</br>
+          </mj-text>
+
+          <mj-text><b>Tipo flusso:</b><br>[Pagamenti SEPA]</br>
+          </mj-text>
+
+          <mj-text><b>Identificativo flusso E2E:</b><br>[ID E2E]</br>
+          </mj-text>
+
+          <mj-text><b>Numero disposizioni:</b><br>[–]</br>
+          </mj-text>
+
+          <mj-text><b>Data invio:</b><br>[DD/MM/YYYY]</br>
+          </mj-text>
+
+          <mj-text><b>Data creazione:</b><br>[DD/MM/YYYY]</br>
+          </mj-text>
+
+        </mj-column></mj-section>
+      <mj-section>
+        <mj-column>
+
+          <mj-text align="center" font-size="24px" font-weight="bold" color="#009969">Errore rilevato:</mj-text>
+
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#FCE89C" border-radius="24px" padding="20px"><mj-column>
+
+          <mj-text><b>[Dettaglio Errore1]</b></mj-text>
+
+          <mj-text><b>[Dettaglio Errore2]</b></mj-text>
+
+        </mj-column></mj-section>
+      <mj-section><mj-column>
+
+          <mj-text>Il dettaglio dei flussi scartati è disponibile anche su B:Digital Corporate, nella sezione <b>Distinte – Archivio</b>.</mj-text>
+
+          <mj-image src="https://homebanking.bpergroup.net/cms-npm-static/documents/public/42434/20262497/phone-call_05387.png" width="32px" align="left" padding-bottom="0"></mj-image>
+
+          <mj-text>Per <b>supporto e assistenza</b> è possibile contattare il <b>numero dedicato <a href="tel:+39026262" style="color:#009969;">026262</a></b>.</mj-text>
+        <mj-text>Cordiali saluti,<br>Servizio <b>B:Digital Corporate Gruppo BPER</b></br></mj-text>
+
+        </mj-column></mj-section>
+
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
