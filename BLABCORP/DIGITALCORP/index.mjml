@@ -92,6 +92,7 @@
         </mj-column></mj-section>
 
     </mj-wrapper>
+    <mj-section><mj-column><mj-text font-size="10px">Questa è un’email inviata da un indirizzo non abilitato a ricevere risposte. Ti preghiamo di non rispondere a questo messaggio.</mj-text></mj-column></mj-section>
 
   </mj-body>
 </mjml>
