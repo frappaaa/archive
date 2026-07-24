@@ -1,0 +1,220 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text
+        align="left"
+        color="#000000"
+        font-family="Open Sans, Arial, sans-serif"
+        font-size="16px"
+        line-height="22px"
+      />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#F5F5F5">
+    <mj-section padding="0" background-color="#ffffff"
+      ><mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/loghi.png"
+          width="560px"
+          padding="0"
+          align="center"
+        ></mj-image>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Header.png"
+          width="560px"
+          align="center"
+          alt="Save the date. Dal 10 al 12 settembre 2026. Festival del Cinema di Venezia."
+          padding="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>Caro Alessandro,</mj-text>
+
+        <mj-text
+          >Siamo lieti di invitarLa a vivere un’esperienza straordinaria ed
+          esclusiva, frutto della prestigiosa collaborazione tra il Gruppo BPER
+          e Mastercard.</mj-text
+        >
+
+        <mj-text
+          >In occasione del Festival Internazionale del Cinema di Venezia,
+          avremo il piacere di accoglierLa per
+          <b
+            >tre giornate uniche, all’insegna dell’eleganza, del cinema e
+            dell’eccellenza</b
+          >, in una cornice di assoluto prestigio.</mj-text
+        >
+
+        <mj-text
+          >La invitiamo a scoprire il programma e a <b
+            >confermare la Sua partecipazione entro e non oltre il 3 agosto</b
+          >.</mj-text
+        >
+
+        <mj-text
+          >Sarà un privilegio condividere con Lei la magia di questo evento
+          irripetibile.</mj-text
+        >
+
+        <mj-text>Cordiali saluti,</mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Firma.png"
+          width="166px"
+          align="left"
+        ></mj-image>
+
+        <mj-button
+          background-color="#161D1D"
+          font-size="18px"
+          border-radius="100px"
+          href="https://comunicazione.bper.it/nl/link?c=ctid&d=12j&h=2ulmofnibamskc79h8ta9biq82&hpl=CCG6883941KNE83G41PI0SRE41T20Q3GDG&i=488&iw=4&p=H1437261871&s=lp&sn=1fp&z=d27"
+          target="_blank"
+          >REGISTRAZIONE</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 30px" background-color="#ffffff"
+      ><mj-section border-radius="40px" border="1px solid #000">
+        <mj-column width="100%">
+          <mj-text font-size="24px">PROGRAMMA</mj-text>
+
+          <mj-text font-size="24px"
+            ><b>Day 1</b> - Giovedì, 10 settembre</mj-text
+          >
+        </mj-column>
+        <mj-column width="30%">
+          <mj-image
+            src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Day1.png"
+            width="106px"
+            padding="30px"
+            align="left"
+          ></mj-image>
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text padding="0" font-size="16px" line-height="24px">
+            <ul>
+              <li>Arrivo a Venezia con mezzi propri</li>
+              <li>Transfer privato all'Hotel Danieli</li>
+              <li>Dalle ore 15.00 check-in presso l'Hotel Danieli</li>
+              <li>Ore 19.00 trasferimento in gondola alla Misericordia</li>
+              <li>Galà Dinner presso La Misericordia</li>
+              <li>Rientro in Hotel</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+
+        <mj-divider border-width="1px" width="85%"></mj-divider>
+        <mj-column width="100%">
+          <mj-text font-size="24px" padding-top="40px"
+            ><b>Day 2</b> - Venerdì, 11 settembre</mj-text
+          >
+        </mj-column>
+
+        <mj-column width="70%">
+          <mj-text padding="0" font-size="16px" line-height="24px">
+            <ul>
+              <li>Mattino: Priceless Experience</li>
+              <li>Pranzo presso Hotel Gabrielli</li>
+              <li>Beauty session / tempo libero</li>
+              <li>Trasferimento presso l'Hotel Excelsior </li>
+              <li>Red Carpet Experience e Cocktail </li>
+              <li>Proiezione del film</li>
+              <li>
+                Cena esclusiva presso il ristorante "Il lusso della semplicità"
+              </li>
+            </ul>
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%">
+          <mj-image
+            src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Day2-3.png"
+            width="106px"
+            padding="30px"
+            align="left"
+          ></mj-image>
+        </mj-column>
+
+        <mj-divider border-width="1px" width="85%"></mj-divider>
+        <mj-column width="100%">
+          <mj-text font-size="24px" padding-top="40px"
+            ><b>Day 3</b> - Sabato, 12 settembre</mj-text
+          >
+        </mj-column>
+        <mj-column width="30%">
+          <mj-image
+            src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Day2-3.png"
+            width="106px"
+            padding="30px"
+            align="left"
+          ></mj-image>
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text padding="0" font-size="16px" line-height="24px">
+            <ul>
+              <li>Colazione</li>
+              <li>Check-out</li>
+              <li>Transfer per stazione/aereoporto/parcheggio</li>
+              <li>Partenze con mezzi propri</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section></mj-wrapper
+    >
+
+    <mj-section padding="30px"
+      ><mj-column
+        background-color="#000000"
+        border-radius="40px"
+        padding="24px"
+      >
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/mail.png"
+          width="61px"
+        ></mj-image>
+
+        <mj-text padding-bottom="0" color="#ffffff"
+          ><b
+            >Confermi la sua partecipazione entro il 3 agosto registrandosi dal
+            link sotto.</b
+          >
+        </mj-text>
+
+        <mj-text padding-top="0" color="#ffffff"
+          >I suoi dati e quelli della persona che La accompagnerà saranno
+          utilizzati esclusivamente per organizzare al meglio la sua esperienza
+          a Venezia.</mj-text
+        >
+
+        <mj-button
+          background-color="#ffffff"
+          font-size="18px"
+          border-radius="100px"
+          color="#000"
+          href="https://comunicazione.bper.it/nl/link?c=ctid&d=12j&h=2ulmofnibamskc79h8ta9biq82&hpl=CCG6883941KNE83G41PI0SRE41T20Q3GDG&i=488&iw=4&p=H1437261871&s=lp&sn=1fp&z=d27"
+          target="_blank"
+          >REGISTRAZIONE</mj-button
+        >
+      </mj-column></mj-section
+    >
+
+    <mj-section
+      ><mj-column>
+        <mj-text><b>Segreteria Organizzativa</b></mj-text>
+        <mj-text
+          >In caso di necessità può contattare la segreteria organizzativa
+          scrivendo a
+          <a href="mailto:segreteria@mastercardevents.it" style="color: inherit"
+            >Segreteria</a
+          ></mj-text
+        >
+      </mj-column></mj-section
+    >
+  </mj-body>
+</mjml>
