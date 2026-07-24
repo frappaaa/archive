@@ -70,7 +70,7 @@
         <mj-button
           background-color="#161D1D"
           font-size="18px"
-          border-radius="100px"
+          border-radius="40px"
           href="https://comunicazione.bper.it/nl/link?c=ctid&d=12j&h=2ulmofnibamskc79h8ta9biq82&hpl=CCG6883941KNE83G41PI0SRE41T20Q3GDG&i=488&iw=4&p=H1437261871&s=lp&sn=1fp&z=d27"
           target="_blank"
           >REGISTRAZIONE</mj-button
@@ -114,7 +114,14 @@
             ><b>Day 2</b> - Venerdì, 11 settembre</mj-text
           >
         </mj-column>
-
+        <mj-column width="30%">
+          <mj-image
+            src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Day2-3.png"
+            width="106px"
+            padding="30px"
+            align="left"
+          ></mj-image>
+        </mj-column>
         <mj-column width="70%">
           <mj-text padding="0" font-size="16px" line-height="24px">
             <ul>
@@ -129,14 +136,6 @@
               </li>
             </ul>
           </mj-text>
-        </mj-column>
-        <mj-column width="30%">
-          <mj-image
-            src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Day2-3.png"
-            width="106px"
-            padding="30px"
-            align="left"
-          ></mj-image>
         </mj-column>
 
         <mj-divider border-width="1px" width="85%"></mj-divider>
@@ -193,7 +192,7 @@
         <mj-button
           background-color="#ffffff"
           font-size="18px"
-          border-radius="100px"
+          border-radius="40px"
           color="#000"
           href="https://comunicazione.bper.it/nl/link?c=ctid&d=12j&h=2ulmofnibamskc79h8ta9biq82&hpl=CCG6883941KNE83G41PI0SRE41T20Q3GDG&i=488&iw=4&p=H1437261871&s=lp&sn=1fp&z=d27"
           target="_blank"
@@ -205,6 +204,7 @@
     <mj-section
       ><mj-column>
         <mj-text><b>Segreteria Organizzativa</b></mj-text>
+
         <mj-text
           >In caso di necessità puoi contattare la segreteria organizzativa
           scrivendo a

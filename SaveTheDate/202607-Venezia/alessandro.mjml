@@ -33,32 +33,30 @@
 
     <mj-section>
       <mj-column>
-        <mj-text>Caro Alessandro,</mj-text>
+        <mj-text>Caro Alessandro,  </mj-text>
 
         <mj-text
-          >Siamo lieti di invitarLa a vivere un’esperienza straordinaria ed
-          esclusiva, frutto della prestigiosa collaborazione tra il Gruppo BPER
-          e Mastercard.</mj-text
+          >siamo lieti di invitarti a vivere un’esperienza unica ed esclusiva,
+          nata dalla collaborazione strategica tra BPER e Mastercard.</mj-text
         >
 
         <mj-text
-          >In occasione del Festival Internazionale del Cinema di Venezia,
-          avremo il piacere di accoglierLa per
+          >In occasione del Festival Internazionale del Cinema di Venezia, sarai
+          protagonista di
           <b
-            >tre giornate uniche, all’insegna dell’eleganza, del cinema e
-            dell’eccellenza</b
-          >, in una cornice di assoluto prestigio.</mj-text
+            >tre giornate uniche, dedicate al grande cinema, all’eleganza e
+            all’eccellenza</b
+          >, in una delle cornici più iconiche e affascinanti al mondo.</mj-text
         >
 
         <mj-text
-          >La invitiamo a scoprire il programma e a <b
-            >confermare la Sua partecipazione entro e non oltre il 3 agosto</b
-          >.</mj-text
+          >Ti invitiamo a scoprire sotto i dettagli del programma e a
+          <b>confermarci la tua partecipazione entro il 3 agosto</b>.</mj-text
         >
 
         <mj-text
-          >Sarà un privilegio condividere con Lei la magia di questo evento
-          irripetibile.</mj-text
+          >Sarà un piacere condividere con te la magia di un’esperienza
+          irripetibile, pensata per essere vissuta insieme.</mj-text
         >
 
         <mj-text>Cordiali saluti,</mj-text>
@@ -72,7 +70,7 @@
         <mj-button
           background-color="#161D1D"
           font-size="18px"
-          border-radius="100px"
+          border-radius="40px"
           href="https://comunicazione.bper.it/nl/link?c=ctid&d=12j&h=2ulmofnibamskc79h8ta9biq82&hpl=CCG6883941KNE83G41PI0SRE41T20Q3GDG&i=488&iw=4&p=H1437261871&s=lp&sn=1fp&z=d27"
           target="_blank"
           >REGISTRAZIONE</mj-button
@@ -116,7 +114,14 @@
             ><b>Day 2</b> - Venerdì, 11 settembre</mj-text
           >
         </mj-column>
-
+        <mj-column width="30%">
+          <mj-image
+            src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Day2-3.png"
+            width="106px"
+            padding="30px"
+            align="left"
+          ></mj-image>
+        </mj-column>
         <mj-column width="70%">
           <mj-text padding="0" font-size="16px" line-height="24px">
             <ul>
@@ -131,14 +136,6 @@
               </li>
             </ul>
           </mj-text>
-        </mj-column>
-        <mj-column width="30%">
-          <mj-image
-            src="https://raw.githubusercontent.com/frappaaa/archive/main/SaveTheDate/202607-Venezia/Day2-3.png"
-            width="106px"
-            padding="30px"
-            align="left"
-          ></mj-image>
         </mj-column>
 
         <mj-divider border-width="1px" width="85%"></mj-divider>
@@ -181,21 +178,21 @@
 
         <mj-text padding-bottom="0" color="#ffffff"
           ><b
-            >Confermi la sua partecipazione entro il 3 agosto registrandosi dal
+            >Conferma la tua partecipazione entro il 3 agosto registrandoti dal
             link sotto.</b
           >
         </mj-text>
 
         <mj-text padding-top="0" color="#ffffff"
-          >I suoi dati e quelli della persona che La accompagnerà saranno
-          utilizzati esclusivamente per organizzare al meglio la sua esperienza
+          >I tuoi dati e quelli della persona che ti accompagnerà saranno
+          utilizzati esclusivamente per organizzare al meglio la tua esperienza
           a Venezia.</mj-text
         >
 
         <mj-button
           background-color="#ffffff"
           font-size="18px"
-          border-radius="100px"
+          border-radius="40px"
           color="#000"
           href="https://comunicazione.bper.it/nl/link?c=ctid&d=12j&h=2ulmofnibamskc79h8ta9biq82&hpl=CCG6883941KNE83G41PI0SRE41T20Q3GDG&i=488&iw=4&p=H1437261871&s=lp&sn=1fp&z=d27"
           target="_blank"
@@ -207,8 +204,9 @@
     <mj-section
       ><mj-column>
         <mj-text><b>Segreteria Organizzativa</b></mj-text>
+
         <mj-text
-          >In caso di necessità può contattare la segreteria organizzativa
+          >In caso di necessità puoi contattare la segreteria organizzativa
           scrivendo a
           <a href="mailto:segreteria@mastercardevents.it" style="color: inherit"
             >Segreteria</a
