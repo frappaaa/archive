@@ -21,7 +21,7 @@
         ></mj-image>
 
         <mj-text font-size="28px" font-weight="bold" line-height="34px"
-          >Livio, un’esperienza esclusiva ti attende!</mj-text
+          >Giuseppe, un’esperienza esclusiva ti attende!</mj-text
         >
 
         <mj-text
@@ -49,8 +49,7 @@
 
         <mj-text align="center" color="#ffffff"
           ><i
-            >Trovi tutti i dettagli del tuo premio nel documento disponibile al
-            link qui sotto.</i
+            >Trovi tutti i dettagli del tuo premio nel documento allegato.</i
           ></mj-text
         >
       </mj-column></mj-section
