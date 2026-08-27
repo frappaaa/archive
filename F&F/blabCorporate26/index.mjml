@@ -4,10 +4,12 @@
       <mj-text
         align="left"
         color="#005157"
-        font-family="Arial"
+        font-family="Open Sans, sans-serif"
         font-size="20px"
         line-height="28px"
+        padding="10px 0"
       />
+      <mj-image padding="0" />
       <mj-section background-color="#fff" max-width="640px" />
     </mj-attributes>
   </mj-head>
@@ -24,7 +26,7 @@
     <mj-section>
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/25_11/Header.png"
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/Header.png?raw=true"
           alt=""
           padding="0"
         ></mj-image>
@@ -32,15 +34,33 @@
     </mj-section>
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
-        <mj-text padding="10px 0" color="#009969" font-size="26px"
+        <mj-text color="#009969" font-size="26px"
           ><b>Gentile Collega,</b></mj-text
         >
-        <mj-text padding="10px 0"
-          >ti invitiamo a partecipare al prossimo Family&Friends e
-          <b>accedere in anteprima alla nuova versione dell’app BPER</b>, che
-          sarà aperta alla clientela da fine novembre. Diventa protagonista
-          dell’evoluzione digitale: <b>esplora in anteprima</b> le nuove
-          funzionalità e condividi il tuo <b>feedback</b>.</mj-text
+
+        <mj-text
+          >l'evoluzione di B:Digital Corporate prosegue con un nuovo ciclo di
+          aggiornamenti pensati per rendere l'esperienza dei clienti sempre più
+          completa, semplice ed efficace. Non si tratta soltanto di nuove
+          funzionalità, ma di<b
+            >un percorso costante di miglioramento che nasce dall'ascolto delle
+            esigenze delle imprese e dall'osservazione dell'utilizzo quotidiano
+            della piattaforma.</b
+          ></mj-text
+        >
+
+        <mj-text
+          >Ogni aggiornamento contribuisce a semplificare l'operatività,
+          ottimizzare i processi e offrire strumenti sempre più evoluti a
+          supporto dell'attività aziendale.</mj-text
+        >
+
+        <mj-text
+          font-size="24px"
+          text-transform="uppercase"
+          font-weight="bold"
+          align="center"
+          >Novità dal <span style="color: #009969">26 agosto</span></mj-text
         >
       </mj-column>
     </mj-section>
@@ -48,99 +68,262 @@
       <mj-column
         padding="38px"
         padding-left="56px"
-        background-color="#009969"
+        background-color="#EFF5F5"
         border-radius="30px"
       >
-        <mj-text padding="0" padding-bottom="14px" color="#fff"
-          ><b
-            >Ecco alcune delle principali novità che troverai in questa
-            versione:</b
-          >
-        </mj-text>
-        <mj-text padding="0 18px" color="#fff">
-          <ul style="padding: 0">
-            <li>
-              <b>Nuova polizza Arca My Travel Protection</b>: acquistabile solo
-              online in modalità self, offre coperture flessibili e modulari per
-              viaggi in Italia e all’estero.
-            </li>
-          </ul>
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/flussi.png?raw=true"
+          width="32px"
+          align="left"
+        ></mj-image>
+
+        <mj-text color="#009969" font-weight="bold">
+          Importazione flussi: convertitore formati obsoleti
         </mj-text>
 
-        <mj-text padding="0 18px" color="#fff">
-          <ul style="padding: 0">
-            <li>
-              <b>Digital Wealth</b>: si amplia l’offerta digitale di Arca SGR,
-              con la possibilità di sottoscrivere da app e web i Fondi Comuni
-              anche in modalità PIC, inoltre il catalogo online si amplia a 28
-              comparti, offrendo l’intera gamma Arca in self.
-            </li>
-          </ul>
+        <mj-text
+          >Per semplificare l'operatività dei clienti che utilizzano ancora
+          versioni meno recenti dei tracciati standard CBI, è stato introdotto
+          un
+          <b
+            >convertitore automatico che adegua i file importati ai formati più
+            aggiornati</b
+          >. Un miglioramento che riduce i KO in fase di caricamento e rende più
+          fluida la gestione dei flussi dispositivi.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#EFF5F5"
+        border-radius="30px"
+      >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/table.png?raw=true"
+          width="32px"
+          align="left"
+        ></mj-image>
+
+        <mj-text color="#009969" font-weight="bold">
+          Più dati disponibili negli export Excel dei movimenti CBI
         </mj-text>
-        <mj-text padding="0 18px" color="#fff">
-          <ul style="padding: 0">
-            <li>
-              <b>Presa appuntamento in filiale</b>: i clienti con modello di
-              servizio Personal possono fissare un incontro con il proprio
-              gestore direttamente dall’app, consultando la sua agenda in tempo
-              reale.
-            </li>
-          </ul>
+
+        <mj-text
+          >Per agevolare le attività di controllo e riconciliazione a cura del
+          cliente, il numero massimo di movimenti CBI scaricabili in formato
+          Excel passerà da <b>1.000 a 10.000</b>.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#EFF5F5"
+        border-radius="30px"
+      >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/simple.png?raw=true"
+          width="32px"
+          align="left"
+        ></mj-image>
+
+        <mj-text color="#009969" font-weight="bold">
+          Movimenti online: consultazione semplificata
         </mj-text>
-        <mj-text padding="0 18px" color="#fff">
-          <ul style="padding: 0">
-            <li>
-              <b>Unipolmove</b>: è ora possibile gestire il cambio targa dei
-              veicoli associati direttamente da app.
-            </li>
-          </ul>
+
+        <mj-text
+          >L'esperienza di consultazione viene inoltre semplificata grazie a un
+          aggiornamento dell'interfaccia grafica: alcune informazioni
+          precedentemente visualizzate all'interno di sezioni espandibili
+          saranno ora <b>immediatamente visibili nella pagina</b>, consentendo
+          una lettura più rapida e intuitiva dei dettagli di movimento.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#EFF5F5"
+        border-radius="30px"
+      >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/info.png?raw=true"
+          width="32px"
+          align="left"
+        ></mj-image>
+
+        <mj-text color="#009969" font-weight="bold">
+          Messaggi più chiari durante l'importazione delle distinte
         </mj-text>
+
+        <mj-text
+          >Per ridurre errori in fase di caricamento dei flussi, è stata
+          ottimizzata la messaggistica informativa. In particolare, quando un
+          cliente importa un flusso in modalità modificabile, viene avvisato che
+          le eventuali modifiche impatteranno su tutte le disposizioni contenute
+          nel flusso.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#EFF5F5"
+        border-radius="30px"
+      >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/mail.png?raw=true"
+          width="32px"
+          align="left"
+        ></mj-image>
+
+        <mj-text color="#009969" font-weight="bold">
+          E-mail automatiche riviste per una comunicazione più efficace
+        </mj-text>
+
+        <mj-text
+          >I messaggi automatici inviati ai clienti a seguito di specifici
+          avanzamenti operativi sono stati semplificati e resi più parlanti e
+          completi.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#EFF5F5"
+        border-radius="30px"
+      >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/estero.png?raw=true"
+          width="32px"
+          align="left"
+        ></mj-image>
+
+        <mj-text color="#009969" font-weight="bold">
+          Bonifici esteri: compilazione più intuitiva e correzioni operative
+        </mj-text>
+
+        <mj-text
+          >Per migliorare l'esperienza di compilazione dei bonifici esteri,
+          vengono introdotti campi con ricerca rapida per il paese di residenza
+          del beneficiario e per la nazionalità della banca. Viene inoltre
+          aggiunta la possibilità di selezionare conto o IBAN del beneficiario,
+          restringendo le informazioni da inserire a quelle strettamente
+          necessarie alla disposizione. È stato anche integrato il campo per
+          l’inserimento del codice ABA, BSB o CBA, necessario in alcuni casi per
+          i bonifici verso paesi come Stati Uniti, Australia e Canada.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+      ><mj-column>
+        <mj-text
+          font-size="24px"
+          text-transform="uppercase"
+          font-weight="bold"
+          align="center"
+          >In arrivo a
+          <span style="color: #009969">inizio settembre</span></mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#EFF5F5"
+        border-radius="30px"
+      >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/share.png?raw=true"
+          width="32px"
+          align="left"
+        ></mj-image>
+
+        <mj-text color="#009969" font-weight="bold">
+          Potenziato l'export dei movimenti online
+        </mj-text>
+
+        <mj-text
+          >Per agevolare le attività di controllo e riconciliazione a cura del
+          cliente anche sui movimenti online, viene estesa la possibilità di
+          <b>esportare fino a 10.000 righe in formato Excel</b>, superando gli
+          attuali limiti di download, come fatto per i movimenti CBI.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#EFF5F5"
+        border-radius="30px"
+      >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/4f5ac4b03c7d7986c7eb9adfc631873583081694/F&F/blabCorporate26/f24.png?raw=true"
+          width="32px"
+          align="left"
+        ></mj-image>
+
+        <mj-text color="#009969" font-weight="bold">
+          Disponibili le quietanze F24 online
+        </mj-text>
+
+        <mj-text
+          >Per completare le attività di archiviazione documenti, sono ora
+          disponibili le <b>quietanze degli F24 online</b>, consultabili e
+          scaricabili direttamente dalla piattaforma, sotto il menù "Archivio"
+          all’interno del dettaglio della singola disposizione. Per tutti i
+          dettagli su come si scaricano, consulta la tip dedicata.</mj-text
+        >
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
-        <mj-text padding="0" color="#005157"
-          >Per partecipare compila il form di adesione cliccando su
-          <b
-            ><a
-              href="https://forms.office.com/e/TN7TM6WMrK"
-              target="_blank"
-              style="color: #009969"
-              >questo link</a
-            ></b
-          >
-          e inserisci i dati richiesti: nome, cognome ed email personale o
-          aziendale con cui accedi allo store (Appstore e/o Google Play).
-        </mj-text>
-        <mj-text padding="30px 0 0 0" color="#005157"
-          >Quando l’aggiornamento sarà disponibile, potrai accedere alla nuova
-          versione dell’app. Per aiutarci a migliorarla prima del rilascio
-          ufficiale, ti chiediamo di inviarci
-          <b>suggerimenti o segnalazioni di eventuali anomalie</b>
-          esclusivamente tramite
-          <a
-            href="https://bper.atlassian.net/servicedesk/customer/portal/2"
-            style="color: #009969"
-            ><b>questo link</b></a
-          ></mj-text
-        ><mj-text padding="10px 0 0 0"
-          >Per inviare il tuo feedback, inserisci il tuo indirizzo email e
-          clicca su “<b>Reset your password</b>”. Riceverai un’email con le
-          istruzioni per impostare una nuova password. Dopo averla creata,
-          potrai accedere al sito e inviare le tue segnalazioni.</mj-text
+        <mj-text font-size="24px" text-transform="uppercase" font-weight="bold"
+          >UN’EVOLUZIONE CONTINUA CHE GUARDA AVANTI</mj-text
         >
 
-        <mj-text padding="30px 0 0 0"
-          ><b
-            >Il tuo contributo è fondamentale per l’evoluzione della nostra
-            esperienza digitale!</b
-          ></mj-text
+        <mj-text
+          >Questi interventi rappresentano un ulteriore passo in un percorso di
+          crescita costante di B:Digital Corporate.</mj-text
         >
-        <mj-text padding="0"><b>Ti aspettiamo. </b></mj-text>
+
+        <mj-text
+          >In questa direzione si rafforza anche il ruolo del
+          <b
+            >B:Lab Corp, il laboratorio di ascolto e co-design che coinvolge
+            direttamente i clienti nel percorso di sviluppo della
+            piattaforma.</b
+          >
+          Attraverso un confronto continuo e una collaborazione sempre più
+          strutturata, raccogliamo esigenze, suggerimenti ed esperienze d'uso
+          che contribuiscono a orientare le evoluzioni future e a costruire
+          soluzioni sempre più vicine ai bisogni reali delle imprese.</mj-text
+        >
+
+        <mj-text
+          >Continueremo a <b>tenervi aggiornati sui prossimi sviluppi</b>,
+          affinché possiate accompagnare al meglio i clienti nella scoperta
+          delle nuove opportunità offerte dalla piattaforma.</mj-text
+        >
+
+        <mj-text font-weight="bold"
+          >B:Digital Corporate cresce con le esigenze delle imprese, insieme
+          passo dopo passo.</mj-text
+        >
       </mj-column>
     </mj-section>
+
     <mj-section>
-      <mj-column></mj-column>
+      <mj-column> </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
