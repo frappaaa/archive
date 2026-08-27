@@ -1,0 +1,155 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text
+        align="left"
+        color="#005157"
+        font-family="Open Sans, sans-serif"
+        font-size="16px"
+        line-height="22px"
+      />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section>
+      <mj-column padding="20px 0 0 0">
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/83334f035c2eddd51d4fb8a4622aa58f44cb869e/2026ConcorsoVenezia/Header_BPER.png?raw=true"
+          padding="0 0 30px 0"
+          alt="Complimenti, Venezia ti aspetta!"
+        ></mj-image>
+
+        <mj-text font-size="28px" font-weight="bold" line-height="34px"
+          >Lorenzo, un’esperienza esclusiva ti attende!</mj-text
+        >
+
+        <mj-text
+          >Siamo felici di annunciarti che il tuo nome è stato estratto tra i
+          vincitori del concorso
+          <b>“Vinci con le carte BPER Prime, Premium e Prestige”</b>.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+      ><mj-column
+        background-color="#005157"
+        border-radius="24px"
+        padding="30px"
+      >
+        <mj-text font-size="20px" align="center" color="#ffffff"
+          ><b>Il tuo premio</b></mj-text
+        >
+
+        <mj-text align="center" color="#ffffff"
+          ><b>Un soggiorno esclusivo di 2 notti per 2 persone a Venezia</b>, in
+          occasione della 83ª Mostra Internazionale d'Arte
+          Cinematografica.</mj-text
+        >
+
+        <mj-text align="center" color="#ffffff"
+          ><i
+            >Trovi tutti i dettagli del tuo premio nel documento allegato.</i
+          ></mj-text
+        >
+      </mj-column></mj-section
+    >
+    <mj-section
+      ><mj-column>
+        <mj-text font-size="20px"
+          ><b
+            >Solo pochi passi ti separano da questa esperienza unica!</b
+          ></mj-text
+        >
+
+        <mj-text
+          ><b style="font-size: 18px"
+            >Per trasformare questo sogno in realtà ti basta:</b
+          >
+          <ul>
+            <li>
+              scaricare <b style="color: #009969">il modulo in allegato</b> con
+              tutti i dettagli del tuo premio;
+            </li>
+            <li>
+              compilarlo, firmarlo e inviarlo assieme al tuo documento
+              d’identità all’indirizzo
+              <b
+                ><a href="mailto:iniziative@bper.it" style="color: inherit"
+                  >iniziative@bper.it</a
+                >, entro 5 giorni di calendario</b
+              >
+              a partire dal giorno successivo alla ricezione di questa mail.
+            </li>
+          </ul>
+        </mj-text>
+
+        <mj-text font-size="20px"
+          ><b>Cosa faccio se non posso partecipare?</b></mj-text
+        >
+
+        <mj-text>
+          Se non puoi partecipare, ti chiediamo comunque di scaricare il modulo,
+          compilarlo con la tua rinuncia e inviarcelo.</mj-text
+        >
+      </mj-column></mj-section
+    >
+    <mj-section
+      background-color="#005157"
+      padding="20px"
+      border-radius="20px 20px 0 0"
+      ><mj-column width="100%">
+        <mj-text font-size="10px" color="#ffffff" align="center"
+          >Questa è un’email inviata da un indirizzo non abilitato a ricevere
+          risposte. Ti preghiamo di non rispondere a questo messaggio.</mj-text
+        > </mj-column
+      ><mj-column width="50%">
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/83334f035c2eddd51d4fb8a4622aa58f44cb869e/2026ConcorsoVenezia/Social.png?raw=true"
+          alt="Seguici su:"
+          padding="0"
+          href="https://www.bper.it/"
+          target="_blank"
+          width="180px"
+          align="center"
+        ></mj-image> </mj-column
+      ><mj-column width="50%">
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/83334f035c2eddd51d4fb8a4622aa58f44cb869e/2026ConcorsoVenezia/Assistenza.png?raw=true"
+          padding="0"
+          alt="Per assistenza e consulenza chiama lo 059 42 42"
+          href="tel:0594242"
+          width="270px"
+          align="center"
+        ></mj-image> </mj-column
+    ></mj-section>
+    <mj-section
+      ><mj-column>
+        <mj-text font-size="12px" line-height="16px"
+          >Ricevi questa mail perchè con l’attivazione della tua carta di
+          credito hai aderito al concorso “Vinci con le carte BPER Prime,
+          Premium e Prestige”, informativa privacy e regolamento su <a
+            href="https://www.bper.it"
+            target="_blank"
+            style="color: inherit"
+            >bper.it</a
+          >. Per ricevere informazioni su come trattiamo i tuoi dati personali,
+          ti preghiamo di prendere visione dell’informativa privacy
+          disponibile <a
+            href="https://www.bper.it/documents/d/bper/informativa-privacy-persone-fisiche"
+            target="_blank"
+            style="color: inherit"
+            >QUI</a
+          > . Ti ricordiamo che per esercitare i tuoi diritti in materia di
+          protezione dei dati personali puoi scrivere in qualunque momento al
+          seguente indirizzo email <a
+            href="mailto:presidio.privacy@bper.it"
+            target="_blank"
+            style="color: inherit"
+            >presidio.privacy@bper.it.</a
+          ></mj-text
+        >
+      </mj-column></mj-section
+    >
+  </mj-body>
+</mjml>
