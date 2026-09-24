@@ -94,6 +94,9 @@
         border="1px solid #ffffff"
         padding="24px"
       >
+        <mj-text font-weight="bold" font-size="24px" color="#ffffff"
+          >Come segnalare un brand</mj-text
+        >
         <mj-image
           src="https://github.com/frappaaa/archive/blob/9ea40e0852dd05d52b0e8c47d69a577dfb9d6253/DR/clienti.png?raw=true"
           width="24px"
