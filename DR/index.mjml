@@ -94,16 +94,57 @@
         border="1px solid #ffffff"
         padding="24px"
       >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/9ea40e0852dd05d52b0e8c47d69a577dfb9d6253/DR/clienti.png?raw=true"
+          width="24px"
+          align="left"
+          padding="12px 24px 0"
+        ></mj-image>
         <mj-text color="#ffffff"
-          >Il nuovo programma di cashback permanente integrato all’interno
-          dell’app BPER è un modello innovativo, in cui i
-          <b>cashback sono finanziati direttamente dai merchant aderenti</b>,
-          creando valore per tutte le parti coinvolte: clienti, aziende partner
-          e banca.</mj-text
+          >individuazione dei brand candidabili all'interno del portafoglio
+          clienti;
+        </mj-text>
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/9ea40e0852dd05d52b0e8c47d69a577dfb9d6253/DR/form.png?raw=true"
+          width="24px"
+          align="left"
+          padding="12px 24px 0"
+        ></mj-image>
+        <mj-text color="#ffffff"
+          >compilazione del form di segnalazione da parte del gestore;</mj-text
+        >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/9ea40e0852dd05d52b0e8c47d69a577dfb9d6253/DR/verifica.png?raw=true"
+          width="24px"
+          align="left"
+          padding="12px 24px 0"
+        ></mj-image>
+        <mj-text color="#ffffff"
+          >verifica di eleggibilità da parte di Mastercard e della Direzione
+          Digital Business;
+        </mj-text>
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/9ea40e0852dd05d52b0e8c47d69a577dfb9d6253/DR/opportunita.png?raw=true"
+          width="24px"
+          align="left"
+          padding="12px 24px 0"
+        ></mj-image>
+        <mj-text color="#ffffff"
+          >presentazione dell'opportunità al cliente in caso di esito positivo;
+        </mj-text>
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/9ea40e0852dd05d52b0e8c47d69a577dfb9d6253/DR/confronto.png?raw=true"
+          width="24px"
+          align="left"
+          padding="12px 24px 0"
+        ></mj-image>
+        <mj-text color="#ffffff"
+          >avvio del confronto con Mastercard e il team Digital Business BPER
+          per la definizione della partnership.</mj-text
         >
       </mj-column></mj-section
     >
-    <mj-section
+    <mj-section padding="0"
       ><mj-column>
         <mj-text
           >Ogni segnalazione rappresenta un'opportunità per rafforzare la
