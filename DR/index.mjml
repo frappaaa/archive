@@ -1,0 +1,156 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text
+        align="left"
+        color="#005157"
+        font-family="Open Sans"
+        font-size="20px"
+        line-height="26px"
+      />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true"
+          width="120px"
+        ></mj-image>
+
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Header.png?raw=true"
+          padding="20px 0"
+        ></mj-image>
+
+        <mj-text font-weight="bold" font-size="26px" color="#009969"
+          >Gentile Collega,</mj-text
+        >
+
+        <mj-text
+          >Oggi abbiamo l’opportunità di attivare una leva distintiva sul
+          mercato:
+          <b>un asset globale, unico per rilevanza e capacità di attrazione</b>,
+          come la Finale FIFA World Cup 2026™.
+        </mj-text>
+        <mj-text
+          >Un’iniziativa, che si affianca a quella di Member Get Member già in
+          corso, per rafforzare sinergicamente la nostra
+          <b>capacità di acquisizione</b> e posizionare BPER su un territorio
+          di <b>innovazione, esperienza e valore</b> per il cliente.</mj-text
+        >
+        <mj-text
+          >“Vinci la Finale dei Mondiali, grazie a Visa” è l’iniziativa dedicata
+          ai nuovi clienti che scelgono di entrare in BPER attraverso il conto
+          On Demand.</mj-text
+        >
+        <mj-text
+          >Un progetto che integra
+          <b>partnership strategiche, canali digitali e valore esperienziale</b
+          >, rafforzando il nostro modello di acquisizione e il posizionamento
+          competitivo della nostra offerta. Un’opportiunità per intercettare
+          nuovi bisogni, utilizzando il digitale come leva di accesso e di
+          attrazione.</mj-text
+        >
+        <mj-text>
+          Questa leva esclusiva eleva in modo significativo il valore percepito
+          della nostra proposta digitale e rafforza la capacità competitiva
+          dell’offerta On Demand, posizionando BPER come banca capace di
+          integrare <b>innovazione, esperienze premium</b> e un approccio
+          omnicanale.</mj-text
+        >
+      </mj-column></mj-section
+    >
+    <mj-section
+      ><mj-column
+        background-color="#009969"
+        border-radius="20px"
+        border="1px solid #ffffff"
+        padding="24px"
+      >
+        <mj-text font-weight="bold" font-size="24px" color="#ffffff"
+          >L’iniziativa in breve</mj-text
+        >
+
+        <mj-table>
+          <tr>
+            <td>
+              <p style="color: #ffffff; font-size: 20px">
+                <b>Periodo</b>: 20 marzo – 30 aprile 2026
+              </p>
+              <p style="color: #ffffff; font-size: 20px">
+                <b>Meccanismo</b>: partecipazione automatica aprendo un conto
+                BPER On Demand con carta Visa
+              </p>
+            </td>
+            <td>
+              <img
+                src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/newYork.png?raw=true"
+                style="width: 193px"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </mj-table>
+        <mj-table>
+          <tr>
+            <td>
+              <img
+                src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/Icon.png?raw=true"
+                style="width: 52px; padding-right: 20px"
+              />
+            </td>
+            <td>
+              <p style="color: #ffffff; font-size: 20px">
+                <b>Premio</b>: 3 pacchetti hospitality per due persone alla
+                Finale del 19 luglio a New York, con volo, hotel, VIP ticket,
+                eventi Visa e servizi hospitality dedicati
+              </p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column></mj-section
+    >
+    <mj-section
+      ><mj-column>
+        <mj-text font-size="24px"
+          ><b>Un piano integrato a supporto della crescita</b></mj-text
+        >
+        <mj-text
+          >L’iniziativa sarà supportata da un
+          <b>piano di comunicazione</b> articolato sui canali digitali e
+          proprietari, con l’obiettivo di massimizzare visibilità e
+          conversione.</mj-text
+        >
+        <mj-text
+          >Un’azione che si inserisce in una logica di piena
+          <b>integrazione tra Rete, Filiale Online e canali digitali</b>, per
+          intercettare nuovi clienti e accompagnarli nel loro ingresso in
+          banca.</mj-text
+        >
+        <mj-text padding-top="32px" font-size="24px"
+          ><b>Un’opportunità da valorizzare</b></mj-text
+        >
+        <mj-text
+          >Siamo davanti a un’opportunità concreta: un’iniziativa ad alto valore
+          che può generare risultati tangibili in termini di acquisizione e
+          posizionamento.</mj-text
+        >
+        <mj-text
+          ><b
+            >Il contributo di tutti sarà fondamentale per valorizzarne appieno
+            il potenziale e trasformarla in un risultato concreto per la
+            banca.</b
+          ></mj-text
+        >
+
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/bannerPromo.png?raw=true"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
