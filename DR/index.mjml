@@ -145,7 +145,7 @@
           >Avvio del confronto con Mastercard e il team Digital Business BPER
           per la definizione della partnership.</mj-text
         >
-      <mj-button padding-top="30px" background-color="#009969" font-size="24px" border-radius="10px" href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDhjnhTymK8JFqhSlXyG_T1xUQ01STVU3RExPNlY1NjJGV1NWODFFV0tGTC4u&origin=lprLink&route=shorturl">Compila il form</mj-button>
+      <mj-button background-color="#009969" font-size="24px" border-radius="10px" href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDhjnhTymK8JFqhSlXyG_T1xUQ01STVU3RExPNlY1NjJGV1NWODFFV0tGTC4u&origin=lprLink&route=shorturl">Compila il form</mj-button>
       </mj-column></mj-section
     >
     <mj-section padding="0"
