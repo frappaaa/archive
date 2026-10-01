@@ -1,0 +1,69 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="26px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" border-radius="24px">
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true" width="120px"></mj-image>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/DR/Header.png?raw=true" padding="20px 0"></mj-image>
+
+        <mj-text font-weight="bold" font-size="26px" color="#009969">Gentile Collega,</mj-text>
+
+        <mj-text>dal 1° ottobre al 30 novembre 2026 è attivo il via <b>Cashback On Demand</b>, una leva commerciale distintiva per acquisire online nuovi clienti e sviluppare relazioni esistenti, favorendo l'<b>apertura di Conti On Demand in versione Pro e Ultra</b> e l'utilizzo della Carta di Debito Plus Mastercard.</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column border-radius="20px" border="4px solid #009969" padding="24px">
+
+        <mj-text font-weight="bold" font-size="24px">Un'opportunità concreta di acquisizione e sviluppo</mj-text>
+
+        <mj-text>La promozione si rivolge non solo ai <b>nuovi clienti</b>, ma anche a segmenti già presenti nel nostro ecosistema che rappresentano importanti opportunità di sviluppo: clienti con sola Carta Corrente, <b>clienti con profilo BMe senza conto e clienti liberi professionisti o ditte individuali titolari di un conto business</b> che non dispongono ancora di un conto privati.</mj-text>
+
+        <mj-text padding-top="0">
+          <ul style="padding-left:24px">
+            <li style="padding-bottom:20px"><b>I nuovi clienti possono ottenere fino a 100€ di cashback;</b></li>
+            <li><b>I clienti già conosciuti dalla banca possono ricevere fino a 200€.</b></li>
+          </ul>
+        </mj-text>
+
+      </mj-column></mj-section>
+
+    <mj-section><mj-column background-color="#005157" border-radius="20px" border="1px solid #ffffff" padding="24px">
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/9ea40e0852dd05d52b0e8c47d69a577dfb9d6253/DR/form.png?raw=true" width="24px" align="left" padding="12px 24px 0"></mj-image>
+
+        <mj-text font-weight="bold" font-size="24px" color="#ffffff">Come funziona</mj-text>
+
+        <mj-text color="#ffffff">Per accedere al cashback, il cliente deve:</mj-text>
+
+        <mj-text padding-top="0px" color="#ffffff">
+          <ol style="padding-left:24px;">
+            <li style="padding-bottom:20px"><b>aprire online un Conto On Demand Pro o Ultra</b> tra il <b>1° ottobre e il 30 novembre 2026</b>;
+            </li>
+            <li style="padding-bottom:20px">attivare e fare una prima transazione con la <b>Carta di debito Plus Mastercard entro il 15/12</b>;
+            </li>
+            <li>effettuare almeno <b>500€ di spese ogni mese</b> con la carta di debito associata al conto. L'importo maturato viene poi riconosciuto nel mese successivo.</li>
+          </ol>
+        </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section><mj-column>
+
+        <mj-text><b>La campagna di comunicazione per i nuovi clienti</b></mj-text>
+
+        <mj-text>La campagna è accompagnata da un forte piano di lancio.
+          Accenderemo i riflettori sull’offerta con una presenza massiva su radio nazionali come Radio 105 e Radio Deejay, Spotify (ma non solo), Connected TV (Netflix e HBO MAX,...)  affissioni, canali digitali e presenza anche sulle chat di AI.</mj-text>
+
+        <mj-text>In un mercato in cui le scelte dei clienti sono sempre più guidate dal valore percepito e dall'esperienza quotidiana, questa iniziativa può diventare un importante acceleratore di relazione.<br><b>Conto sul tuo supporto per valorizzare al meglio questa opportunità per attrarre nuovi clienti verso BPER e per accompagnare quelli che già ci hanno scelto</b> in un percorso a maggior valore.</br></mj-text>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/bannerPromo.png?raw=true"></mj-image>
+
+      </mj-column></mj-section>
+  </mj-body>
+</mjml>
