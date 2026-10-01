@@ -12,7 +12,7 @@
 
         <mj-image src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true" width="120px"></mj-image>
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/main/DR/Header.png?raw=true" padding="20px 0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/PromoDigitali/cashback2610/Header.png?raw=true" padding="20px 0"></mj-image>
 
         <mj-text font-weight="bold" font-size="26px" color="#009969">Gentile Collega,</mj-text>
 
@@ -36,7 +36,7 @@
 
     <mj-section><mj-column background-color="#005157" border-radius="20px" border="1px solid #ffffff" padding="24px">
 
-        <mj-image src="https://github.com/frappaaa/archive/blob/9ea40e0852dd05d52b0e8c47d69a577dfb9d6253/DR/form.png?raw=true" width="24px" align="left" padding="12px 24px 0"></mj-image>
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/PromoDigitali/cashback2610/card-refresh.png?raw=true" width="32px" align="left" padding="12px 24px 0"></mj-image>
 
         <mj-text font-weight="bold" font-size="24px" color="#ffffff">Come funziona</mj-text>
 
