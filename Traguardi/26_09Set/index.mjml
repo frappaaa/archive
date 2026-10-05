@@ -37,23 +37,29 @@
         >
 
         <mj-text
-          >la nostra crescita digitale mantiene il passo anche nel periodo
-          estivo, e anche i risultati del mese di luglio contribuiscono a
-          sostenere il raggiungimento degli obiettivi 2026.
+          >i risultati di settembre confermano la solidità di un percorso in cui
+          canali, competenze e strumenti si integrano in modo naturale per
+          generare valore.
         </mj-text>
         <mj-text
-          >Da inizio anno sono stati acquisiti in self
-          <b>41.642 nuovi clienti</b> (38.061 conti e oltre 3.581 carte
-          correnti), pari al <b>28,3% del totale Banca</b>.</mj-text
-        >
-        <mj-text
-          >Importanti anche i risultati sul fronte digital lending, con
+          >Abbiamo registrato
           <b
-            >236 milioni di euro di erogato tramite i canali digitali, tra
-            Prestiti e PagaPoi</b
-          >, con un contributo del <b>16,8% sul totale Banca</b>, sostenuto
-          anche dal repricing del Prestito Smart e dalla nuova offerta digitale
-          dedicata ai clienti Under 35.</mj-text
+            >307 milioni di euro di erogato digitale tra Prestiti e PagaPoi e
+            54.781 ingressi in self</b
+          >
+          tra oltre 48.500 conti e oltre 6.100 carte. Il canale digitale arriva
+          così a rappresentare il
+          <b>29,7% del comparto acquisition e il 18,2% del comparto lending</b>
+          della Banca.
+        </mj-text>
+        <mj-text
+          >In questo scenario di crescita sono state attivate nuove leve
+          commerciali a supporto dell’acquisition e della nostra offerta carte:
+          il <b>cashback</b> dedicato a chi apre Conto On Demand, il nuovo
+          percorso digitale per
+          <b>sostituire le carte di credito Nexi ex POPSO con carte BPER</b>
+          ricche di servizi e vantaggi e il lancio della
+          <b>Carta SSC Napoli Centenario</b>, dedicata a nuovi clienti.</mj-text
         >
 
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"
@@ -106,19 +112,12 @@
         ></mj-image>
 
         <mj-text
-          >I risultati raggiunti confermano la
-          <b>solidità del percorso di crescita digitale intrapreso</b>.
-        </mj-text>
-        <mj-text
-          >Le novità rilasciate nelle ultime settimane rafforzano ulteriormente
-          un’esperienza sempre più semplice, completa e integrata per i nostri
-          clienti.</mj-text
+          >L’integrazione tra innovazione, leve commerciali e canali digitali
+          apre nuove opportunità di acquisizione e relazione con i clienti,
+          valorizzando il contributo della rete e della Filiale Online
+          nell’accompagnarli lungo tutto il percorso.</mj-text
         >
-        <mj-text
-          >Continuiamo a guardare avanti con la consapevolezza che questi
-          traguardi sono il frutto del contributo di tutti.
-          <b>Grazie e buona estate!</b></mj-text
-        >
+        <mj-text> <b>Grazie e buona estate!</b></mj-text>
 
         <mj-image
           alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato."
