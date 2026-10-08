@@ -37,29 +37,31 @@
         >
 
         <mj-text
-          >i risultati di settembre confermano la solidità di un percorso in cui
-          canali, competenze e strumenti si integrano in modo naturale per
-          generare valore.
+          >settembre conferma l'efficacia di un modello in cui rete, digitale e
+          FOL lavorano in modo integrato, valorizzando competenze e strumenti
+          complementari per accompagnare i clienti lungo tutto il loro percorso
+          di relazione con la Banca.
         </mj-text>
         <mj-text
-          >Abbiamo registrato
+          >Da inizio anno, abbiamo registrato
           <b
             >307 milioni di euro di erogato digitale tra Prestiti e PagaPoi e
-            54.781 ingressi in self</b
+            54.781 nuovi clienti entrati in self</b
           >
-          tra oltre 48.500 conti e oltre 6.100 carte. Il canale digitale arriva
-          così a rappresentare il
+          (oltre 48.500 conti e 6.100 carte). Il canale digitale arriva così a
+          rappresentare il
           <b>29,7% del comparto acquisition e il 18,2% del comparto lending</b>
           della Banca.
         </mj-text>
         <mj-text
-          >In questo scenario di crescita sono state attivate nuove leve
-          commerciali a supporto dell’acquisition e della nostra offerta carte:
-          il <b>cashback</b> dedicato a chi apre Conto On Demand, il nuovo
-          percorso digitale per
-          <b>sostituire le carte di credito Nexi ex POPSO con carte BPER</b>
+          >A supporto di questa crescita, si sono aggiunte nel mese di ottobre
+          nuove iniziative commerciali pensate per ampliare le opportunità di
+          acquisizione e sviluppo della clientela: il
+          <b>cashback dedicato a chi apre Conto On Demand</b>, il nuovo percorso
+          self per sostituire le carte di credito Nexi ex POPSO con carte BPER
           ricche di servizi e vantaggi e il lancio della
-          <b>Carta SSC Napoli Centenario</b>, dedicata a nuovi clienti.</mj-text
+          <b>Carta SSC Napoli Centenario</b>, dedicata ai nuovi
+          clienti.</mj-text
         >
 
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"
@@ -108,11 +110,10 @@
 
         <mj-text
           >L’integrazione tra innovazione, leve commerciali e canali digitali
-          apre nuove opportunità di acquisizione e relazione con i clienti,
-          valorizzando il contributo della rete e della Filiale Online
-          nell’accompagnarli lungo tutto il percorso.</mj-text
+          apre nuove opportunità per traguardare gli obiettivi di fine anno.
+          Sfruttiamole al meglio!</mj-text
         >
-        <mj-text> <b>Grazie e buona estate!</b></mj-text>
+        <mj-text font-weight="bold">Grazie a tutti per il contributo.</mj-text>
 
         <mj-image
           alt="Perchè la crescita digitale non è una destinazione, ma un viaggio da fare insieme. Il futuro è appena cominciato."
