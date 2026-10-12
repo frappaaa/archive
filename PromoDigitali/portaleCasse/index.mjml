@@ -1,0 +1,164 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text
+        align="left"
+        color="#005157"
+        font-family="Open Sans"
+        font-size="20px"
+        line-height="26px"
+      />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/00-LOGHI/BPER.png?raw=true"
+          width="120px"
+        ></mj-image>
+
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/PromoDigitali/portaleCasse/Header.png?raw=true"
+          padding="20px 0"
+        ></mj-image>
+
+        <mj-text font-weight="bold" font-size="26px" color="#009969"
+          >Gentile Collega,</mj-text
+        >
+
+        <mj-text
+          >nelle ultime settimane numerosi professionisti hanno richiesto,
+          tramite la
+          <b
+            >Filiale Online Specialistica Enti & Partnership, le Carte di
+            Credito Co-Branded Nexi</b
+          >
+          previste dalle convenzioni dedicate alle Casse Professionali. Si
+          tratta di un'iniziativa che sta generando importanti opportunità di
+          acquisizione e sviluppo della clientela professionale e che richiede,
+          in questa fase, un forte presidio operativo delle strutture
+          territoriali.
+        </mj-text>
+      </mj-column></mj-section
+    >
+    <mj-section
+      ><mj-column
+        border-radius="20px"
+        border="4px solid #009969"
+        padding="24px"
+      >
+        <mj-text font-weight="bold" font-size="24px"
+          >Prossime scadenze contributive e attività da presidiare</mj-text
+        >
+
+        <mj-text
+          >Ad oggi risultano ancora oltre 400 richieste da finalizzare.
+          Considerata la concentrazione di scadenze contributive prevista tra
+          ottobre e dicembre, è fondamentale assicurare il massimo presidio sia
+          sulle nuove emissioni sia sulle richieste di aumento plafond dei
+          clienti già titolari di carta.</mj-text
+        >
+
+        <mj-text padding-top="0">
+          <ul style="padding-left: 24px">
+            <li><b>31 ottobre:</b>ENPAM ed ENPAV</li>
+            <li><b>15 novembre</b>: EPAP</li>
+            <li><b>30 novembre</b>: ENPACL</li>
+            <li><b>16 dicembre</b>: Cassa Ragionieri</li>
+            <li><b>20 dicembre</b>: Commercialisti</li>
+            <li><b>30 dicembre</b>: ENPAB</li>
+            <li><b>31 dicembre</b>: Forense e Inarcassa </li>
+          </ul>
+        </mj-text>
+      </mj-column></mj-section
+    >
+    <mj-section
+      ><mj-column
+        ><mj-text>Aumenti plafond per clienti già titolari della carta</mj-text>
+        <mj-text
+          >Le prossime scadenze contributive porteranno a un prevedibile
+          <b>incremento delle richieste di aumento plafond</b> da parte dei
+          professionisti, necessario per sostenere i versamenti contributivi.
+          Diventa quindi prioritario garantirne il tempestivo presidio, con
+          particolare attenzione ai clienti non digitalizzati, per i quali il
+          completamento dell'iter richiederà il supporto della Filiale sia
+          per l’<b>accompagnamento alla digitalizzazione del cliente</b> sia per
+          la sottoscrizione della documentazione necessaria all’aumento del
+          plafond.</mj-text
+        ></mj-column
+      ></mj-section
+    >
+    <mj-section
+      ><mj-column
+        background-color="#005157"
+        border-radius="20px"
+        border="1px solid #ffffff"
+        padding="24px"
+      >
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/PromoDigitali/cashback2610/card-refresh.png?raw=true"
+          width="32px"
+          align="left"
+          padding="12px 24px 0"
+        ></mj-image>
+
+        <mj-text font-weight="bold" font-size="24px" color="#ffffff"
+          >Cosa fare ora</mj-text
+        >
+
+        <mj-text padding-top="0px" color="#ffffff">
+          <ol style="padding-left: 24px">
+            <li style="padding-bottom: 20px">
+              <b
+                >accelerare la finalizzazione delle richieste di nuova Carta
+                Co-Branded</b
+              >
+              già assegnate alle Filiali, con priorità alle pratiche collegate
+              alle scadenze più ravvicinate;
+            </li>
+            <li style="padding-bottom: 20px">
+              <b>presidiare le richieste di aumento plafond</b>, verificando
+              tempestivamente documentazione, lavorazione PEF e aggiornamento in
+              Exact;
+            </li>
+            <li>
+              <b>assicurare il supporto ai clienti non digitalizzati</b> per
+              evitare rallentamenti nell'iter autorizzativo.
+            </li>
+          </ol>
+          Per maggiori dettagli vai su
+          <a
+            href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/privati/conti/conto-on-demand-digitale"
+            target="_blank"
+            style="color: inherit"
+            >BSmart</a
+          >.
+        </mj-text>
+      </mj-column></mj-section
+    >
+
+    <mj-section
+      ><mj-column>
+        <mj-text
+          >Per agevolare l'individuazione delle pratiche da gestire con maggiore
+          urgenza, le strutture territoriali possono fare riferimento agli
+          <b
+            >Specialisti Digital, in raccordo con la Filiale Online
+            Specialistica Enti & Partnership.</b
+          >
+        </mj-text>
+        <mj-text
+          >Confido nella tua collaborazione affinché le fiiliali accompagnino
+          efficacemente i professionisti in vista delle prossime scadenze
+          contributive, valorizzando così le opportunità di relazione generate
+          dalle convenzioni.</mj-text
+        >
+
+        <mj-image
+          src="https://github.com/frappaaa/archive/blob/main/ComInterna/PROMOFIFA26/bannerPromo.png?raw=true"
+        ></mj-image> </mj-column
+    ></mj-section>
+  </mj-body>
+</mjml>
