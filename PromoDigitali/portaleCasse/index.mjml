@@ -54,7 +54,7 @@
         >
 
         <mj-text
-          >Ad oggi risultano ancora oltre 400 richieste da finalizzare.
+          >Ad oggi risultano ancora <b>oltre 400 richieste da finalizzare</b>.
           Considerata la concentrazione di scadenze contributive prevista tra
           ottobre e dicembre, è fondamentale assicurare il massimo presidio sia
           sulle nuove emissioni sia sulle richieste di aumento plafond dei
@@ -112,7 +112,7 @@
         >
 
         <mj-text padding-top="0px" color="#ffffff">
-          <ol style="padding-left: 24px">
+          <ul style="padding-left: 24px">
             <li style="padding-bottom: 20px">
               <b
                 >accelerare la finalizzazione delle richieste di nuova Carta
@@ -130,14 +130,7 @@
               <b>assicurare il supporto ai clienti non digitalizzati</b> per
               evitare rallentamenti nell'iter autorizzativo.
             </li>
-          </ol>
-          Per maggiori dettagli vai su
-          <a
-            href="https://intrawseal.gbbper.priv/blinkdue/host/minisito/55657/privati/conti/conto-on-demand-digitale"
-            target="_blank"
-            style="color: inherit"
-            >BSmart</a
-          >.
+          </ul>
         </mj-text>
       </mj-column></mj-section
     >
