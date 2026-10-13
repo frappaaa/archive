@@ -76,7 +76,9 @@
     >
     <mj-section
       ><mj-column>
-        <mj-text>Aumenti plafond per clienti già titolari della carta</mj-text>
+        <mj-text font-weight="bold" font-size="24px"
+          >Aumenti plafond per clienti già titolari della carta</mj-text
+        >
 
         <mj-text
           >Le prossime scadenze contributive porteranno a un prevedibile
@@ -99,7 +101,7 @@
         padding="24px"
       >
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/PromoDigitali/cashback2610/card-refresh.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/PromoDigitali/portaleCasse/info.png?raw=true"
           width="32px"
           align="left"
           padding="12px 24px 0"
