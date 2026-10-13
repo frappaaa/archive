@@ -63,7 +63,7 @@
 
         <mj-text padding-top="0">
           <ul style="padding-left: 24px">
-            <li><b>31 ottobre:</b>ENPAM ed ENPAV</li>
+            <li><b>31 ottobre</b>: ENPAM ed ENPAV</li>
             <li><b>15 novembre</b>: EPAP</li>
             <li><b>30 novembre</b>: ENPACL</li>
             <li><b>16 dicembre</b>: Cassa Ragionieri</li>
@@ -75,8 +75,9 @@
       </mj-column></mj-section
     >
     <mj-section
-      ><mj-column
-        ><mj-text>Aumenti plafond per clienti già titolari della carta</mj-text>
+      ><mj-column>
+        <mj-text>Aumenti plafond per clienti già titolari della carta</mj-text>
+
         <mj-text
           >Le prossime scadenze contributive porteranno a un prevedibile
           <b>incremento delle richieste di aumento plafond</b> da parte dei
@@ -87,8 +88,8 @@
           per l’<b>accompagnamento alla digitalizzazione del cliente</b> sia per
           la sottoscrizione della documentazione necessaria all’aumento del
           plafond.</mj-text
-        ></mj-column
-      ></mj-section
+        >
+      </mj-column></mj-section
     >
     <mj-section
       ><mj-column
@@ -149,6 +150,7 @@
             Specialistica Enti & Partnership.</b
           >
         </mj-text>
+
         <mj-text
           >Confido nella tua collaborazione affinché le fiiliali accompagnino
           efficacemente i professionisti in vista delle prossime scadenze
