@@ -24,7 +24,7 @@
     <mj-section>
       <mj-column>
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/Header.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/Header.png"
           alt="I numeri della nostra evoluzione digitale."
           padding="0"
         ></mj-image>
@@ -66,42 +66,42 @@
         >
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiOFM.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/datiOFM.png"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiLending.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/datiLending.png"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiUnipolMove.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/datiUnipolMove.png"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiKPI.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/datiKPI.png"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiCarteVendita.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/datiCarteVendita.png"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiPolizze.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/datiPolizze.png"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiMifid.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/datiMifid.png"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiWealth.png?raw=true"
+          src="https://raw.githubusercontent.com/frappaaa/archive/refs/heads/main/Traguardi/26_10Ott/datiWealth.png"
           alt=""
         ></mj-image>
 
