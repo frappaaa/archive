@@ -24,7 +24,7 @@
     <mj-section>
       <mj-column>
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/Header.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/Header.png?raw=true"
           alt="I numeri della nostra evoluzione digitale."
           padding="0"
         ></mj-image>
@@ -37,31 +37,28 @@
         >
 
         <mj-text
-          >settembre conferma l'efficacia di un modello in cui rete, digitale e
-          FOL lavorano in modo integrato, valorizzando competenze e strumenti
-          complementari per accompagnare i clienti lungo tutto il loro percorso
-          di relazione con la Banca.
+          >entriamo nell’ultimo trimestre dell’anno con un obiettivo chiaro:
+          fare leva su tutte le potenzialità del digitale per imprimere
+          un’accelerazione decisiva al raggiungimento dei target 2026.
         </mj-text>
         <mj-text
-          >Da inizio anno, abbiamo registrato
+          >I risultati ottenuti finora confermano il valore di questo percorso:
+          <b>346 milioni di euro di erogato digitale</b> tra Prestiti e PagaPoi
+          e circa <b>62.200 clienti acquisiti in self</b>, tra conti e carte.
+          Oggi
           <b
-            >307 milioni di euro di erogato digitale tra Prestiti e PagaPoi e
-            54.781 nuovi clienti entrati in self</b
+            >il digitale contribuisce per il 30,2% all’acquisition e per il
+            18,4% al lending</b
           >
-          (oltre 48.500 conti e 6.100 carte). Il canale digitale arriva così a
-          rappresentare il
-          <b>29,7% del comparto acquisition e il 18,2% del comparto lending</b>
-          della Banca.
+          della Banca, confermandosi una componente essenziale della nostra
+          strategia di crescita.
         </mj-text>
         <mj-text
-          >A supporto di questa crescita, si sono aggiunte nel mese di ottobre
-          nuove iniziative commerciali pensate per ampliare le opportunità di
-          acquisizione e sviluppo della clientela: il
-          <b>cashback dedicato a chi apre Conto On Demand</b>, il nuovo percorso
-          self per sostituire le carte di credito Nexi ex POPSO con carte BPER
-          ricche di servizi e vantaggi e il lancio della
-          <b>Carta SSC Napoli Centenario</b>, dedicata ai nuovi
-          clienti.</mj-text
+          >In questo contesto, novembre porta con sé nuove opportunità
+          commerciali, a partire dal Bank Friday, che rappresenta un'occasione
+          concreta per ampliare il bacino di contatti, acquisire nuovi clienti e
+          sviluppare relazioni di valore attraverso la collaborazione integrata
+          tra canali, persone e competenze.</mj-text
         >
 
         <mj-text align="center" font-size="28px" padding="30px 0 20px 0"
@@ -69,49 +66,51 @@
         >
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/datiOFM.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiOFM.png?raw=true"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/datiLending.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiLending.png?raw=true"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/datiUnipolMove.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiUnipolMove.png?raw=true"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/datiKPI.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiKPI.png?raw=true"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/datiCarteVendita.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiCarteVendita.png?raw=true"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/datiPolizze.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiPolizze.png?raw=true"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/datiMifid.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiMifid.png?raw=true"
           alt=""
         ></mj-image>
 
         <mj-image
-          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_09Set/datiWealth.png?raw=true"
+          src="https://github.com/frappaaa/archive/blob/main/Traguardi/26_10Ott/datiWealth.png?raw=true"
           alt=""
         ></mj-image>
 
         <mj-text
-          >L’integrazione tra innovazione, leve commerciali e canali digitali
-          apre nuove opportunità per traguardare gli obiettivi di fine anno.
-          Sfruttiamole al meglio!</mj-text
+          >I traguardi raggiunti finora dimostrano quanto il lavoro di squadra
+          possa fare la differenza. Guardiamo agli ultimi mesi del 2026 con
+          energia e fiducia: insieme possiamo trasformare ogni opportunità in
+          nuovo valore per i nostri clienti e risultati rilevanti per la
+          Banca.</mj-text
         >
         <mj-text font-weight="bold">Grazie a tutti per il contributo.</mj-text>
 
