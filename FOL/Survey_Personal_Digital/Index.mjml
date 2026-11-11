@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="https://github.com/frappaaa/archive/blob/main/Survey_Personal_Digital/Header.png?raw=true" alt="Il valore di un consulente dedicato: la tua opinione conta" padding="0"></mj-image>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+
+        <mj-text padding-top="0" align="center">
+          Ciao [Nome],<br>la <b>qualità della relazione con il tuo Consulente</b>
+          è per noi fondamentale.</br><br>Per questo ti chiediamo <b>pochi minuti</b> per raccogliere il tuo punto di vista e capire come continuare a <b>migliorare l'esperienza di consulenza</b> che ti offriamo.</br></mj-text>
+
+        <mj-button background-color="#009969" border-radius="8px" font-size="20px" href="">Compila il questionario</mj-button>
+
+        <mj-text>Grazie fin da ora per il tempo che vorrai dedicarci
+          e per la tua fiducia.</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#005157" border-radius="20px 20px 0 0">
+      <mj-column>
+
+        <mj-text font-size="8px" align="center" color="#ffffff" line-height="10px">Questa è un’email inviata da un indirizzo non abilitato a ricevere risposte. Ti preghiamo di non rispondere a questo messaggio.</mj-text>
+
+        <mj-text></mj-text>
+
+        <mj-text color="#ffffff" font-size="15px" align="center">Per assistenza e consulenza: <a href="tel:+390594242" style="color:inherit; font-weight:bold; text-decoration:none;">059 42 42</a></mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section><mj-column>
+
+        <mj-text font-size="8px" line-height="10px">Hai ricevuto questa email perché, in qualità di cliente, sei iscritto alle nostre mailing list. Puoi sempre modificare le tue preferenze, gli argomenti per cui desideri essere informato o annullare questa iscrizione cliccando QUI.</mj-text>
+
+      </mj-column></mj-section>
+  </mj-body>
+</mjml>
