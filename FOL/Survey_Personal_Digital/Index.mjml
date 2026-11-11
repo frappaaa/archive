@@ -43,10 +43,6 @@
       </mj-column>
     </mj-section>
     
-    <mj-section><mj-column>
-
-        <mj-text font-size="8px" line-height="10px">Hai ricevuto questa email perché, in qualità di cliente, sei iscritto alle nostre mailing list. Puoi sempre modificare le tue preferenze, gli argomenti per cui desideri essere informato o annullare questa iscrizione cliccando QUI.</mj-text>
-
-      </mj-column></mj-section>
+    
   </mj-body>
 </mjml>
