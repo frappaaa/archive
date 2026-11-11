@@ -3,15 +3,10 @@
     <mj-attributes>
 
       <mj-text align="left" color="#005157" font-family="Open Sans" font-size="20px" line-height="28px" />
-      <mj-section background-color="#fff" />
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section>
-      <mj-column>
-
-      </mj-column>
-    </mj-section>
+    
     <mj-section>
       <mj-column>
 
@@ -24,11 +19,13 @@
 
         <mj-text padding-top="0" align="center">
           Ciao [Nome],<br>la <b>qualità della relazione con il tuo Consulente</b>
-          è per noi fondamentale.</br><br>Per questo ti chiediamo <b>pochi minuti</b> per raccogliere il tuo punto di vista e capire come continuare a <b>migliorare l'esperienza di consulenza</b> che ti offriamo.</br></mj-text>
+          è per noi fondamentale.</br></mj-text>
+        <mj-text padding-top="0" align="center">
+          Per questo ti chiediamo <b>pochi minuti</b> per raccogliere il tuo punto di vista e capire come continuare a <b>migliorare l'esperienza di consulenza</b> che ti offriamo.</mj-text>
 
         <mj-button background-color="#009969" border-radius="8px" font-size="20px" href="">Compila il questionario</mj-button>
 
-        <mj-text>Grazie fin da ora per il tempo che vorrai dedicarci
+        <mj-text align="center">Grazie fin da ora per il tempo che vorrai dedicarci
           e per la tua fiducia.</mj-text>
 
       </mj-column>
@@ -37,13 +34,15 @@
       <mj-column>
 
         <mj-text font-size="8px" align="center" color="#ffffff" line-height="10px">Questa è un’email inviata da un indirizzo non abilitato a ricevere risposte. Ti preghiamo di non rispondere a questo messaggio.</mj-text>
+         <mj-text color="#ffffff" font-size="15px" align="center">Seguici su:</mj-text>
 
-        <mj-text></mj-text>
+        <mj-image padding-top="0" src="https://github.com/frappaaa/archive/blob/c507d00093cfaff66cb51d755bf349e99141eb14/FOL/Survey_Personal_Digital/Social_Icons.png?raw=true" width="100px" href="https://www.bper.it/#footer" target="_blank"></mj-image>
+                <mj-text color="#ffffff" font-size="15px" align="center">Per assistenza e consulenza: <a href="tel:+390594242" style="color:inherit; font-weight:bold; text-decoration:none;">059 42 42</a></mj-text>
 
-        <mj-text color="#ffffff" font-size="15px" align="center">Per assistenza e consulenza: <a href="tel:+390594242" style="color:inherit; font-weight:bold; text-decoration:none;">059 42 42</a></mj-text>
 
       </mj-column>
     </mj-section>
+    
     <mj-section><mj-column>
 
         <mj-text font-size="8px" line-height="10px">Hai ricevuto questa email perché, in qualità di cliente, sei iscritto alle nostre mailing list. Puoi sempre modificare le tue preferenze, gli argomenti per cui desideri essere informato o annullare questa iscrizione cliccando QUI.</mj-text>
