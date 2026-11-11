@@ -23,7 +23,7 @@
         <mj-text padding-top="0" align="center">
           Per questo ti chiediamo <b>pochi minuti</b> per raccogliere il tuo punto di vista e capire come continuare a <b>migliorare l'esperienza di consulenza</b> che ti offriamo.</mj-text>
 
-        <mj-button background-color="#009969" border-radius="8px" font-size="20px" href="" font-weight="bold">Compila il questionario</mj-button>
+        <mj-button background-color="#009969" border-radius="8px" font-size="20px" href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=bJ3jVNcoFEukbt4Dn6FgDpPAK_w-q7pCmN9gj9Dd_qNURTVQQlRVSDVNT1BJQjlaUzdVRDMyOFc4NS4u&route=shorturl" target="_blank" font-weight="bold">Compila il questionario</mj-button>
 
         <mj-text align="center">Grazie fin da ora per il tempo che vorrai dedicarci
           e per la tua fiducia.</mj-text>
