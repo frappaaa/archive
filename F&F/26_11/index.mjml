@@ -1,0 +1,132 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text
+        align="left"
+        color="#005157"
+        font-family="Open Sans"
+        font-size="20px"
+        line-height="28px"
+      />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/bper-logo.png"
+          width="104px"
+          alt="BPER"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/frappaaa/archive/main/F&F/26_11/Header.png"
+          alt=""
+          padding="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="10px 0" color="#009969" font-size="26px"
+          ><b>Gentile Collega,</b></mj-text
+        >
+        <mj-text padding="10px 0"
+          >ti invitiamo a partecipare al prossimo Family&Friends e
+          <b>accedere in anteprima alla nuova versione dell’app BPER</b>, che
+          sarà aperta alla clientela a <b>inizio dicembre</b>. Potrai così
+          <b>contribuire attivamente</b> al percorso di evoluzione digitale,
+          scoprire in anticipo le funzionalità in arrivo e condividere il tuo
+          <b>feedback</b>.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column
+        padding="38px"
+        padding-left="56px"
+        background-color="#009969"
+        border-radius="30px"
+      >
+        <mj-text padding="0" padding-bottom="14px" color="#fff"
+          ><b
+            >Ecco alcune delle principali novità che troverai in questa
+            versione:
+          </b>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding: 0">
+            <li>
+              Arriva <b>BANCOMAT Pay®</b> per pagare nei negozi e online e
+              scambiare denaro con i tuoi contatti. Un nuovo servizio, sempre a
+              portata di smartphone, che amplia le possibilità offerte dall’app
+              e rende più semplici e veloci le operazioni di ogni giorno.
+            </li>
+          </ul>
+        </mj-text>
+
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding: 0">
+            <li>
+              <b
+                >Le pagine dedicate alla posizione cliente su investimenti e
+                polizze si rinnovano</b
+              >: oltre a una visione più chiara e immediata dei propri prodotti,
+              sono disponibili nuovi contenuti educativi per comprendere e
+              approfondire meglio questi temi.
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0 34px" background-color="#fff" border-radius="30px">
+        <mj-text padding="0" color="#005157"
+          >Per partecipare compila il form di adesione cliccando su
+          <b
+            ><a
+              href="https://forms.cloud.microsoft/e/YqTdvUm4id"
+              target="_blank"
+              style="color: #009969"
+              >questo link</a
+            ></b
+          >
+          e inserisci i dati richiesti: nome, cognome ed email personale o
+          aziendale con cui accedi allo store (Appstore e/o Google Play).
+        </mj-text>
+        <mj-text padding="30px 0 0 0" color="#005157"
+          >Quando l’aggiornamento sarà disponibile, potrai accedere alla nuova
+          versione dell’app. Per aiutarci a migliorarla prima del rilascio
+          ufficiale, ti chiediamo di inviarci
+          <b>suggerimenti o segnalazioni di eventuali anomalie</b>
+          esclusivamente tramite
+          <a
+            href="https://bper.atlassian.net/servicedesk/customer/portal/2"
+            style="color: #009969"
+            ><b>questo link</b></a
+          ></mj-text
+        ><mj-text padding="10px 0 0 0"
+          >Per inviare il tuo feedback, inserisci il tuo indirizzo email e
+          clicca su “<b>Reset your password</b>”. Riceverai un’email con le
+          istruzioni per impostare una nuova password. Dopo averla creata,
+          potrai accedere al sito e inviare le tue segnalazioni.</mj-text
+        >
+
+        <mj-text padding="30px 0 0 0"
+          ><b
+            >Il tuo contributo è fondamentale per l’evoluzione della nostra
+            esperienza digitale!</b
+          ></mj-text
+        >
+        <mj-text padding="0"><b>Ti aspettiamo. </b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
