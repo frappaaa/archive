@@ -61,10 +61,7 @@
         <mj-text padding="0 18px" color="#fff">
           <ul style="padding: 0">
             <li>
-              Arriva <b>BANCOMAT Pay®</b> per pagare nei negozi e online e
-              scambiare denaro con i tuoi contatti. Un nuovo servizio, sempre a
-              portata di smartphone, che amplia le possibilità offerte dall’app
-              e rende più semplici e veloci le operazioni di ogni giorno.
+              Arriva <b>BANCOMAT Pay®</b> per pagare nei negozi e online e scambiare denaro con i tuoi contatti, semplicemente usando il numero in rubrica. Un nuovo servizio, sempre a portata di smartphone, che amplia le possibilità offerte dall’app e rende più semplici e veloci le operazioni di ogni giorno.
             </li>
           </ul>
         </mj-text>
@@ -75,9 +72,14 @@
               <b
                 >Le pagine dedicate alla posizione cliente su investimenti e
                 polizze si rinnovano</b
-              >: oltre a una visione più chiara e immediata dei propri prodotti,
-              sono disponibili nuovi contenuti educativi per comprendere e
-              approfondire meglio questi temi.
+              >: oltre a una visione più chiara e immediata dei propri prodotti, sono disponibili nuovi contenuti educativi per comprendere e approfondire meglio questi temi.
+            </li>
+          </ul>
+        </mj-text>
+        <mj-text padding="0 18px" color="#fff">
+          <ul style="padding: 0">
+            <li>
+              Evolve anche l’app <b>BPER Trading</b>, accessibile direttamente dalla pagina Investimenti: funzionalità evolute, tutorial dedicati e una navigazione rinnovata rendono l’esperienza di investimento più completa e immediata.
             </li>
           </ul>
         </mj-text>
